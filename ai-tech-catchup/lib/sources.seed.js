@@ -51,7 +51,7 @@ export const DEFAULT_SOURCES = [
   },
   {
     name: "Qiita 人気記事 (生成AI)",
-    url: "https://qiita.com/tags/生成AI/feed",
+    url: "https://qiita.com/tags/%E7%94%9F%E6%88%90AI/feed",
     track_type: "practice",
     fetch_method: "rss",
   },

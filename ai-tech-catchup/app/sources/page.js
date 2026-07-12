@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 
 const emptyForm = { name: "", url: "", trackType: "trend", fetchMethod: "rss" };
 
@@ -10,17 +10,39 @@ export default function SourcesPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 
-  async function load() {
-    setLoading(true);
-    const res = await fetch("/api/sources");
+  const fetchSources = useCallback(async ({ signal } = {}) => {
+    const res = await fetch("/api/sources", { signal });
+    if (!res.ok) {
+      throw new Error("情報源一覧の取得に失敗しました");
+    }
     const data = await res.json();
-    setSources(data.sources || []);
-    setLoading(false);
-  }
+    if (signal?.aborted) return;
+    return data.sources || [];
+  }, []);
 
   useEffect(() => {
-    load();
-  }, []);
+    const controller = new AbortController();
+    fetchSources({ signal: controller.signal })
+      .then((nextSources) => {
+        if (controller.signal.aborted) return;
+        setSources(nextSources);
+        setLoading(false);
+      })
+      .catch((err) => {
+        if (err.name === "AbortError") return;
+        setError(err.message);
+        setLoading(false);
+      });
+    return () => {
+      controller.abort();
+    };
+  }, [fetchSources]);
+
+  async function reloadSources() {
+    const nextSources = await fetchSources();
+    setSources(nextSources);
+    setLoading(false);
+  }
 
   async function handleAdd(e) {
     e.preventDefault();
@@ -36,22 +58,25 @@ export default function SourcesPage() {
       return;
     }
     setForm(emptyForm);
-    await load();
+    setLoading(true);
+    await reloadSources();
   }
 
   async function toggleActive(source) {
+    setLoading(true);
     await fetch(`/api/sources/${source.id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ isActive: !source.isActive }),
     });
-    await load();
+    await reloadSources();
   }
 
   async function remove(source) {
     if (!confirm(`「${source.name}」を削除しますか？`)) return;
+    setLoading(true);
     await fetch(`/api/sources/${source.id}`, { method: "DELETE" });
-    await load();
+    await reloadSources();
   }
 
   return (

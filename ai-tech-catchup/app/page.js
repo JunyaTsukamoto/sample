@@ -19,8 +19,7 @@ export default function HomePage() {
   const [collecting, setCollecting] = useState(false);
   const [message, setMessage] = useState("");
 
-  const load = useCallback(async () => {
-    setLoading(true);
+  const fetchArticles = useCallback(async ({ signal } = {}) => {
     const params = new URLSearchParams();
     if (track) params.set("track", track);
     if (crossDomainOnly) params.set("crossDomain", "1");
@@ -31,23 +30,41 @@ export default function HomePage() {
     }
     params.set("limit", "200");
 
-    const res = await fetch(`/api/articles?${params.toString()}`);
+    const res = await fetch(`/api/articles?${params.toString()}`, { signal });
+    if (!res.ok) {
+      throw new Error("記事一覧の取得に失敗しました");
+    }
     const data = await res.json();
+    if (signal?.aborted) return;
     let list = data.articles || [];
     if (selectedCategories.length > 1) {
       list = list.filter((a) =>
         selectedCategories.every((c) => a.categories.includes(c))
       );
     }
-    setArticles(list);
-    setLoading(false);
+    return list;
   }, [track, selectedCategories, crossDomainOnly]);
 
   useEffect(() => {
-    load();
-  }, [load]);
+    const controller = new AbortController();
+    fetchArticles({ signal: controller.signal })
+      .then((list) => {
+        if (controller.signal.aborted) return;
+        setArticles(list);
+        setLoading(false);
+      })
+      .catch((err) => {
+        if (err.name === "AbortError") return;
+        setMessage(`エラー: ${err.message}`);
+        setLoading(false);
+      });
+    return () => {
+      controller.abort();
+    };
+  }, [fetchArticles]);
 
   function toggleCategory(id) {
+    setLoading(true);
     setSelectedCategories((prev) =>
       prev.includes(id) ? prev.filter((c) => c !== id) : [...prev, id]
     );
@@ -66,12 +83,16 @@ export default function HomePage() {
               ? "（ANTHROPIC_API_KEY未設定のため簡易要約）"
               : "")
         );
-        await load();
+        setLoading(true);
+        const list = await fetchArticles();
+        setArticles(list);
+        setLoading(false);
       } else {
         setMessage(`エラー: ${data.error}`);
       }
     } catch (err) {
       setMessage(`エラー: ${err.message}`);
+      setLoading(false);
     } finally {
       setCollecting(false);
     }
@@ -86,7 +107,10 @@ export default function HomePage() {
             {TRACK_TABS.map((t) => (
               <button
                 key={t.value}
-                onClick={() => setTrack(t.value)}
+                onClick={() => {
+                  setLoading(true);
+                  setTrack(t.value);
+                }}
                 className={`text-left px-3 py-1.5 rounded-md text-sm ${
                   track === t.value
                     ? "bg-slate-900 text-white"
@@ -124,7 +148,10 @@ export default function HomePage() {
             <input
               type="checkbox"
               checked={crossDomainOnly}
-              onChange={(e) => setCrossDomainOnly(e.target.checked)}
+              onChange={(e) => {
+                setLoading(true);
+                setCrossDomainOnly(e.target.checked);
+              }}
             />
             {CROSS_DOMAIN_TAG.label}のみ
           </label>

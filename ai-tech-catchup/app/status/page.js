@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 
 function formatDateTime(iso) {
   if (!iso) return "-";
@@ -20,18 +20,37 @@ const STATUS_LABEL = {
 export default function StatusPage() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState("");
 
-  async function load() {
-    setLoading(true);
-    const res = await fetch("/api/status");
-    setData(await res.json());
-    setLoading(false);
-  }
-
-  useEffect(() => {
-    load();
+  const fetchStatus = useCallback(async ({ signal } = {}) => {
+    const res = await fetch("/api/status", { signal });
+    if (!res.ok) {
+      throw new Error("バッチ状況の取得に失敗しました");
+    }
+    const nextData = await res.json();
+    if (signal?.aborted) return;
+    return nextData;
   }, []);
 
+  useEffect(() => {
+    const controller = new AbortController();
+    fetchStatus({ signal: controller.signal })
+      .then((nextData) => {
+        if (controller.signal.aborted) return;
+        setData(nextData);
+        setLoading(false);
+      })
+      .catch((err) => {
+        if (err.name === "AbortError") return;
+        setError(err.message);
+        setLoading(false);
+      });
+    return () => {
+      controller.abort();
+    };
+  }, [fetchStatus]);
+
+  if (error) return <p className="text-sm text-rose-500">{error}</p>;
   if (loading || !data) return <p className="text-sm text-slate-400">読み込み中...</p>;
 
   const counts = Object.fromEntries(

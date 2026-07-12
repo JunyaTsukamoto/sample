@@ -1,7 +1,6 @@
 import { DatabaseSync } from "node:sqlite";
 import fs from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 import { DEFAULT_SOURCES } from "./sources.seed.js";
 
 // Node.jsに標準搭載の node:sqlite を使用（Node v22.5以降）。
@@ -14,21 +13,22 @@ import { DEFAULT_SOURCES } from "./sources.seed.js";
 // マウント先 /var/data。ディスクはデプロイ実行時にしかマウントされない）へのアクセスが発生し、
 // ビルドが失敗していた。遅延初期化にすることで、importされるだけでは何も起きないようにする。
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
-function resolveDataDir() {
+function resolveDbPath() {
   // SQLITE_DATA_DIR が設定されていればそちらを使う（Renderの永続ディスクのマウント先など、
   // リポジトリの場所と実際のデータ保存先を分離したいデプロイ環境向け）。未設定時は従来通り
   // プロジェクト直下の data/ ディレクトリを使用する。
-  return process.env.SQLITE_DATA_DIR || path.join(__dirname, "..", "data");
+  if (process.env.SQLITE_DATA_DIR) {
+    return path.join(/*turbopackIgnore: true*/ process.env.SQLITE_DATA_DIR, "app.db");
+  }
+  return path.join(process.cwd(), "data", "app.db");
 }
 
 function createConnection() {
-  const dataDir = resolveDataDir();
+  const dbPath = resolveDbPath();
+  const dataDir = path.dirname(dbPath);
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
-  const dbPath = path.join(dataDir, "app.db");
   const conn = new DatabaseSync(dbPath);
   conn.exec("PRAGMA busy_timeout = 5000");
   conn.exec("PRAGMA journal_mode = WAL");
