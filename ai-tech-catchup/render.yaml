@@ -2,6 +2,13 @@
 # 使い方: このリポジトリをGitHub等にpushし、Renderダッシュボードで
 # 「New +」→「Blueprint」からこのリポジトリを選択するとこのファイルが自動検出されます。
 #
+# 【重要】このrender.yamlがリポジトリ直下ではなく、サブフォルダ（例: リポジトリ"sample"の中の
+# "ai-tech-catchup/"フォルダ）に入っている場合は、Blueprint作成時に表示される
+# 「Blueprint Path」欄に "ai-tech-catchup/render.yaml" のようにパスを指定してください。
+# また、各サービスに rootDir を指定しているのは、そのサブフォルダを実行時のルートとして
+# 扱わせるためです（buildCommand/startCommand はこのrootDir基準で実行されます）。
+# リポジトリ直下にこのプロジェクトを置いている場合は rootDir の行を削除して構いません。
+#
 # 構成:
 #   - ai-tech-catchup (web): Next.jsアプリ本体。永続ディスクをマウントし、SQLite DBを保持する。
 #     無料プラン(free)は永続ディスクを使えないため、starter以上のプランが必要。
@@ -18,6 +25,7 @@ services:
     runtime: node
     plan: starter
     region: singapore
+    rootDir: ai-tech-catchup
     buildCommand: npm install && npm run build
     startCommand: npm run start
     envVars:
@@ -40,6 +48,7 @@ services:
     name: ai-tech-catchup-daily-batch
     runtime: node
     plan: starter
+    rootDir: ai-tech-catchup
     # UTC 21:30 = JST 翌 6:30 頃に毎日実行
     schedule: "30 21 * * *"
     buildCommand: npm install

@@ -96,12 +96,21 @@ git push -u origin main
 デプロイ手順:
 
 1. [Render](https://render.com) にサインアップし、GitHubアカウントを連携する
-2. ダッシュボードで「New +」→「Blueprint」を選択し、上記リポジトリを選ぶ
-3. リポジトリ直下の `render.yaml` が自動検出され、以下の2つのサービスが作成される
+2. ダッシュボードで「New +」→ 必ず**「Blueprint」**を選択する（「Web Service」を選ぶと`render.yaml`が使われず、ビルド/起動コマンドや永続ディスクの設定が反映されない）
+3. リポジトリを選ぶ。**このプロジェクトをリポジトリの一部（例: `sample`リポジトリの中の`ai-tech-catchup/`フォルダ）として置いている場合は、「Blueprint Path」欄に `ai-tech-catchup/render.yaml` のようにパスを明示的に指定する**（リポジトリ直下に置いている場合は指定不要）
+4. `render.yaml` が検出され、以下の2つのサービスが作成される
    - `ai-tech-catchup`（Webサービス本体、永続ディスク付き）
    - `ai-tech-catchup-daily-batch`（毎日UTC 21:30 = 日本時間6:30頃に自動収集・要約を実行するCronジョブ）
-4. デプロイ後、Webサービスの Environment タブで `ANTHROPIC_API_KEY` を設定する（未設定でも簡易要約で動作します）
-5. デプロイ完了後に発行される `https://ai-tech-catchup-xxxx.onrender.com` のようなURLにアクセスして確認する
+5. デプロイ後、Webサービスの Environment タブで `ANTHROPIC_API_KEY` を設定する（未設定でも簡易要約で動作します）
+6. デプロイ完了後に発行される `https://ai-tech-catchup-xxxx.onrender.com` のようなURLにアクセスして確認する
+
+### トラブルシューティング: `Couldn't find a package.json file` / ビルドで`yarn`が実行される
+
+これが起きる場合、ほぼ確実に「Blueprintではなく手動でWeb Serviceを作成した」か、
+「render.yamlがリポジトリのサブフォルダにあるのにBlueprint Pathを指定しなかった」のどちらかです。
+一度そのサービスを削除し、上記手順2〜3の通りBlueprintから作り直してください
+（手動でRoot Directory/Build Command/Start Commandを設定し直す方法もありますが、
+CronジョブやDiskの設定も含めて全部作り直した方が早く確実です）。
 
 **料金について**: 永続ディスクはRenderの無料プランでは使えないため、`render.yaml` はWeb/Cronともに
 最安の有料プラン `starter`（2026年時点で目安 月7ドル程度）を指定しています。無料で試したい場合は、
