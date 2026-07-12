@@ -1,0 +1,52 @@
+# Render Blueprint
+# 使い方: このリポジトリをGitHub等にpushし、Renderダッシュボードで
+# 「New +」→「Blueprint」からこのリポジトリを選択するとこのファイルが自動検出されます。
+#
+# 構成:
+#   - ai-tech-catchup (web): Next.jsアプリ本体。永続ディスクをマウントし、SQLite DBを保持する。
+#     無料プラン(free)は永続ディスクを使えないため、starter以上のプランが必要。
+#   - ai-tech-catchup-daily-batch (cron): 毎朝、上記Webサービスの /api/collect を呼び出して
+#     収集・要約バッチを実行する。Cronジョブ自体はディスクにアクセスできないため、
+#     常時起動しているWebサービス側でDB更新を行わせる構成にしている。
+#
+# デプロイ後にダッシュボードの Environment タブで ANTHROPIC_API_KEY を設定してください
+# （未設定でも動作するが、要約はキーワードベースの簡易処理になる）。
+
+services:
+  - type: web
+    name: ai-tech-catchup
+    runtime: node
+    plan: starter
+    region: singapore
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: ANTHROPIC_MODEL
+        value: claude-3-5-haiku-latest
+      - key: SUMMARIZE_BATCH_SIZE
+        value: "30"
+      - key: SQLITE_DATA_DIR
+        value: /var/data
+    disk:
+      name: ai-tech-catchup-data
+      mountPath: /var/data
+      sizeGB: 1
+
+  - type: cron
+    name: ai-tech-catchup-daily-batch
+    runtime: node
+    plan: starter
+    # UTC 21:30 = JST 翌 6:30 頃に毎日実行
+    schedule: "30 21 * * *"
+    buildCommand: npm install
+    startCommand: node scripts/trigger-collect.js
+    envVars:
+      - key: RENDER_WEB_URL
+        fromService:
+          type: web
+          name: ai-tech-catchup
+          property: host
