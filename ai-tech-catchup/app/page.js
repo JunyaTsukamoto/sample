@@ -10,6 +10,69 @@ const TRACK_TABS = [
   { value: "practice", label: "実践系" },
 ];
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function readJson(res, fallbackMessage) {
+  const text = await res.text();
+  let data = null;
+  try {
+    data = JSON.parse(text);
+  } catch {
+    // Keep the raw response text for the error below.
+  }
+
+  if (!res.ok) {
+    throw new Error(data?.error || `${fallbackMessage} (HTTP ${res.status})`);
+  }
+  return data;
+}
+
+async function fetchLatestRun() {
+  const res = await fetch("/api/status", { cache: "no-store" });
+  if (!res.ok) {
+    throw new Error("バッチ状況の取得に失敗しました");
+  }
+  const data = await res.json();
+  return data.runs?.[0] ?? null;
+}
+
+async function waitForBatchCompletion({ previousRunId, targetRunId }) {
+  let currentTargetRunId = targetRunId;
+
+  for (let attempt = 0; attempt < 36; attempt += 1) {
+    await sleep(5000);
+
+    try {
+      const latest = await fetchLatestRun();
+      if (!latest) continue;
+
+      if (currentTargetRunId && latest.id === currentTargetRunId) {
+        if (latest.status !== "running") return latest;
+        continue;
+      }
+
+      if (!currentTargetRunId && latest.id === previousRunId && latest.status === "running") {
+        currentTargetRunId = latest.id;
+        continue;
+      }
+
+      if (!currentTargetRunId && latest.id > previousRunId) {
+        if (latest.status === "running") {
+          currentTargetRunId = latest.id;
+          continue;
+        }
+        return latest;
+      }
+    } catch {
+      // Transient polling failures should not cancel the background batch.
+    }
+  }
+
+  return null;
+}
+
 export default function HomePage() {
   const [track, setTrack] = useState("");
   const [selectedCategories, setSelectedCategories] = useState([]);
@@ -72,23 +135,42 @@ export default function HomePage() {
 
   async function handleCollect() {
     setCollecting(true);
-    setMessage("収集・要約を実行中...");
+    setMessage("収集・要約を開始しています...");
+
     try {
-      const res = await fetch("/api/collect", { method: "POST" });
-      const data = await res.json();
-      if (data.ok) {
+      const latestBefore = await fetchLatestRun().catch(() => null);
+      const previousRunId = latestBefore?.id ?? 0;
+      const targetRunId = latestBefore?.status === "running" ? latestBefore.id : null;
+      const res = await fetch("/api/refresh?background=1", { method: "POST" });
+      const data = await readJson(res, "収集APIの開始に失敗しました");
+      if (!data?.ok) {
+        throw new Error(data?.error || "収集APIの開始に失敗しました");
+      }
+
+      setMessage(
+        data.running
+          ? "収集・要約はすでに実行中です。完了を確認しています..."
+          : "収集・要約を開始しました。完了を確認しています..."
+      );
+
+      const run = await waitForBatchCompletion({
+        previousRunId,
+        targetRunId: data.running ? targetRunId : null,
+      });
+      setLoading(true);
+      const list = await fetchArticles();
+      setArticles(list);
+      setLoading(false);
+
+      if (run) {
         setMessage(
-          `完了: 新着 ${data.collectResult.inserted}件 / 要約 ${data.summarizeResult.done}件` +
-            (data.summarizeResult.usingFallback
-              ? "（ANTHROPIC_API_KEY未設定のため簡易要約）"
-              : "")
+          `完了: 新着 ${run.new_count}件 / 要約 ${run.summarized_count}件` +
+            (run.failed_count ? ` / 失敗 ${run.failed_count}件` : "")
         );
-        setLoading(true);
-        const list = await fetchArticles();
-        setArticles(list);
-        setLoading(false);
       } else {
-        setMessage(`エラー: ${data.error}`);
+        setMessage(
+          "収集・要約を開始しました。まだ実行中の可能性があります。少し待ってから再読み込みしてください。"
+        );
       }
     } catch (err) {
       setMessage(`エラー: ${err.message}`);
