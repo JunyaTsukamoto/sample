@@ -6,45 +6,37 @@ import { DEFAULT_SOURCES } from "./sources.seed.js";
 
 // Node.jsに標準搭載の node:sqlite を使用（Node v22.5以降）。
 // better-sqlite3等のネイティブビルドが不要なため、追加のビルドツールなしで動作する。
+//
+// 重要: DB接続の作成・ディレクトリ作成は「実際に使われる最初のタイミング」まで遅延させている。
+// Next.jsの `next build` は「Collecting page data」の段階でAPI Routeのモジュールを
+// import するだけで（実行はしない）が、以前はこのファイルのトップレベルでDB接続や
+// mkdirを行っていたため、ビルド時点でまだ存在しないパス（例: Renderの永続ディスクの
+// マウント先 /var/data。ディスクはデプロイ実行時にしかマウントされない）へのアクセスが発生し、
+// ビルドが失敗していた。遅延初期化にすることで、importされるだけでは何も起きないようにする。
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-// SQLITE_DATA_DIR が設定されていればそちらを使う（Renderの永続ディスクのマウント先など、
-// リポジトリの場所と実際のデータ保存先を分離したいデプロイ環境向け）。未設定時は従来通り
-// プロジェクト直下の data/ ディレクトリを使用する。
-const DATA_DIR = process.env.SQLITE_DATA_DIR
-  ? process.env.SQLITE_DATA_DIR
-  : path.join(__dirname, "..", "data");
-const DB_PATH = path.join(DATA_DIR, "app.db");
 
-if (!fs.existsSync(DATA_DIR)) {
-  fs.mkdirSync(DATA_DIR, { recursive: true });
+function resolveDataDir() {
+  // SQLITE_DATA_DIR が設定されていればそちらを使う（Renderの永続ディスクのマウント先など、
+  // リポジトリの場所と実際のデータ保存先を分離したいデプロイ環境向け）。未設定時は従来通り
+  // プロジェクト直下の data/ ディレクトリを使用する。
+  return process.env.SQLITE_DATA_DIR || path.join(__dirname, "..", "data");
 }
 
-// Reuse a single connection across hot-reloads in dev.
-const globalForDb = globalThis;
-export const db = globalForDb.__aiTechCatchupDb ?? new DatabaseSync(DB_PATH);
-if (process.env.NODE_ENV !== "production") {
-  globalForDb.__aiTechCatchupDb = db;
-}
-
-db.exec("PRAGMA busy_timeout = 5000");
-db.exec("PRAGMA journal_mode = WAL");
-
-// better-sqlite3 の db.transaction(fn) 相当の簡易ヘルパー
-export function runInTransaction(fn) {
-  db.exec("BEGIN");
-  try {
-    const result = fn();
-    db.exec("COMMIT");
-    return result;
-  } catch (err) {
-    db.exec("ROLLBACK");
-    throw err;
+function createConnection() {
+  const dataDir = resolveDataDir();
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
   }
+  const dbPath = path.join(dataDir, "app.db");
+  const conn = new DatabaseSync(dbPath);
+  conn.exec("PRAGMA busy_timeout = 5000");
+  conn.exec("PRAGMA journal_mode = WAL");
+  return conn;
 }
 
-function init() {
-  db.exec(`
+function initSchema(conn) {
+  conn.exec(`
     CREATE TABLE IF NOT EXISTS sources (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       name TEXT NOT NULL,
@@ -95,19 +87,60 @@ function init() {
     );
   `);
 
-  const sourceCount = db.prepare("SELECT COUNT(*) AS c FROM sources").get().c;
+  const sourceCount = conn.prepare("SELECT COUNT(*) AS c FROM sources").get().c;
   if (sourceCount === 0) {
-    const insert = db.prepare(`
+    const insert = conn.prepare(`
       INSERT INTO sources (name, url, track_type, fetch_method, is_active)
       VALUES (@name, @url, @track_type, @fetch_method, 1)
     `);
-    runInTransaction(() => {
+    conn.exec("BEGIN");
+    try {
       for (const row of DEFAULT_SOURCES) insert.run(row);
-    });
+      conn.exec("COMMIT");
+    } catch (err) {
+      conn.exec("ROLLBACK");
+      throw err;
+    }
   }
 }
 
-init();
+const globalForDb = globalThis;
+
+function getRawDb() {
+  if (!globalForDb.__aiTechCatchupDb) {
+    const conn = createConnection();
+    initSchema(conn);
+    globalForDb.__aiTechCatchupDb = conn;
+  }
+  return globalForDb.__aiTechCatchupDb;
+}
+
+// 既存の `db.prepare(...)` / `db.exec(...)` 等の呼び出し方はそのまま使えるように、
+// 実体へのアクセスをProxy経由にして遅延初期化する。
+export const db = new Proxy(
+  {},
+  {
+    get(_target, prop) {
+      const real = getRawDb();
+      const value = real[prop];
+      return typeof value === "function" ? value.bind(real) : value;
+    },
+  }
+);
+
+// better-sqlite3 の db.transaction(fn) 相当の簡易ヘルパー
+export function runInTransaction(fn) {
+  const conn = getRawDb();
+  conn.exec("BEGIN");
+  try {
+    const result = fn();
+    conn.exec("COMMIT");
+    return result;
+  } catch (err) {
+    conn.exec("ROLLBACK");
+    throw err;
+  }
+}
 
 export function nowIso() {
   return new Date().toISOString();
