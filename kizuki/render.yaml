@@ -1,0 +1,64 @@
+# Render Blueprint
+# 使い方: このリポジトリをGitHub等にpushし、Renderダッシュボードで
+# 「New +」→「Blueprint」からこのリポジトリを選択するとこのファイルが自動検出されます。
+# このrender.yamlはリポジトリ直下ではなく "kizuki/" フォルダに入っているため、
+# Blueprint作成時に表示される「Blueprint Path」欄に "kizuki/render.yaml" を指定してください。
+#
+# 構成:
+#   - kizuki (web): Next.jsアプリ本体。永続ディスクをマウントし、SQLite DBを保持する。
+#     無料プラン(free)は永続ディスクを使えないため、starter以上のプランが必要。
+#   - kizuki-daily-batch (cron): 毎朝、上記Webサービスの /api/collect を呼び出して
+#     収集・要約・トレンドスコア再計算バッチを実行する。
+#
+# デプロイ後にダッシュボードの Environment タブで ANTHROPIC_API_KEY を設定してください
+# （未設定でも動作するが、要約はキーワードベースの簡易処理になる）。
+# 突然変異率(MUTATION_RATE)・好みスコア学習率(PREFERENCE_ALPHA)等も同タブで調整できる。
+
+services:
+  - type: web
+    name: kizuki
+    runtime: node
+    plan: starter
+    region: singapore
+    rootDir: kizuki
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: ANTHROPIC_MODEL
+        value: claude-3-5-haiku-latest
+      - key: SUMMARIZE_BATCH_SIZE
+        value: "30"
+      - key: SQLITE_DATA_DIR
+        value: /var/data
+      - key: MAX_ARTICLE_AGE_DAYS
+        value: "7"
+      - key: MUTATION_RATE
+        value: "0.07"
+      - key: PREFERENCE_ALPHA
+        value: "0.2"
+      - key: PREFERENCE_BETA
+        value: "0.5"
+    disk:
+      name: kizuki-data
+      mountPath: /var/data
+      sizeGB: 1
+
+  - type: cron
+    name: kizuki-daily-batch
+    runtime: node
+    plan: starter
+    rootDir: kizuki
+    # UTC 21:30 = JST 翌 6:30 頃に毎日実行
+    schedule: "30 21 * * *"
+    buildCommand: npm install
+    startCommand: node scripts/trigger-collect.js
+    envVars:
+      - key: RENDER_WEB_URL
+        fromService:
+          type: web
+          name: kizuki
+          property: host
