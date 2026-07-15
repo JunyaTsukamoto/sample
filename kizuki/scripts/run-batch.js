@@ -33,6 +33,10 @@ try {
     console.warn("[run-batch] ソース収集エラー:");
     for (const e of result.collectResult.errors) console.warn(`  - ${e}`);
   }
+  if (result.summarizeResult.errors?.length > 0) {
+    console.warn("[run-batch] 要約エラー:");
+    for (const e of result.summarizeResult.errors) console.warn(`  - ${e}`);
+  }
   process.exit(0);
 } catch (err) {
   console.error("[run-batch] 失敗:", err);

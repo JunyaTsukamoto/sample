@@ -3,27 +3,36 @@
 /* .html に .dark クラスが付いている間だけ dark: バリアントを有効にする（クラスベースのダークモード） */
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* 参考にした「きづき」プロトタイプのカラーテーマ・フォントを再現 */
+/* 指定パステルカラーパレット: #F2D6C9 / #E8B5B5 / #D4C6E2 / #F7E8D6 / #F2E6E6 */
 :root {
-  --background: #f8f3fe;
-  --foreground: #2d1b3d;
-  --accent: #f27a9c;
-  --accent-foreground: #ffffff;
+  --background: #f7e8d6;
+  --foreground: #4a3536;
+  --surface: #f2e6e6;
+  --accent: #e8b5b5;
+  --accent-2: #d4c6e2;
+  --accent-3: #f2d6c9;
+  --accent-foreground: #4a3536;
   --font-heading: "Zen Maru Gothic", "M PLUS Rounded 1c", sans-serif;
   --font-body: "M PLUS Rounded 1c", "Zen Maru Gothic", sans-serif;
 }
 
 .dark {
-  --background: #241a30;
-  --foreground: #f3e8fb;
-  --accent: #f27a9c;
-  --accent-foreground: #241a30;
+  --background: #2e2527;
+  --foreground: #f7e8d6;
+  --surface: #3a2f31;
+  --accent: #e8b5b5;
+  --accent-2: #d4c6e2;
+  --accent-3: #f2d6c9;
+  --accent-foreground: #2e2527;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
   --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
+  --color-accent-3: var(--accent-3);
   --color-accent-foreground: var(--accent-foreground);
 }
 

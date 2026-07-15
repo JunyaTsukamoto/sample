@@ -69,7 +69,7 @@ export default function ArticleDetailPage() {
     );
 
   return (
-    <article className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-6 max-w-3xl">
+    <article className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl p-6 max-w-3xl">
       <div className="flex items-center justify-between">
         <Link href="/" className="text-sm text-slate-500 hover:underline">
           ← 一覧へ戻る
@@ -83,7 +83,7 @@ export default function ArticleDetailPage() {
         {article.categories.map((c) => (
           <span
             key={c}
-            className="text-xs px-2 py-0.5 rounded-full bg-sky-100 dark:bg-sky-900 text-sky-700 dark:text-sky-300"
+            className="text-xs px-2 py-0.5 rounded-full bg-accent-2/50 text-foreground"
           >
             {categoryLabel(c)}
           </span>
@@ -147,7 +147,7 @@ export default function ArticleDetailPage() {
           href={article.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-block text-sm px-4 py-2 rounded-md bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900"
+          className="inline-block text-sm px-4 py-2 rounded-full bg-accent text-accent-foreground"
         >
           元記事を開く ↗
         </a>

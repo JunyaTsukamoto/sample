@@ -55,25 +55,25 @@ export default function StatusPage() {
       </div>
 
       <div className="grid grid-cols-4 gap-3">
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-3 text-center">
+        <div className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl p-3 text-center">
           <p className="text-xs text-slate-400">総記事数</p>
           <p className="text-xl font-semibold">{data.totalArticles}</p>
         </div>
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-3 text-center">
+        <div className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl p-3 text-center">
           <p className="text-xs text-slate-400">要約済み</p>
           <p className="text-xl font-semibold text-emerald-600">{counts.done || 0}</p>
         </div>
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-3 text-center">
+        <div className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl p-3 text-center">
           <p className="text-xs text-slate-400">未処理</p>
           <p className="text-xl font-semibold text-slate-500">{counts.pending || 0}</p>
         </div>
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-3 text-center">
+        <div className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl p-3 text-center">
           <p className="text-xs text-slate-400">要約失敗</p>
           <p className="text-xl font-semibold text-rose-500">{counts.failed || 0}</p>
         </div>
       </div>
 
-      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg divide-y divide-slate-100 dark:divide-slate-800">
+      <div className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl divide-y divide-slate-100 dark:divide-slate-800">
         <h2 className="p-3 text-sm font-semibold text-slate-700 dark:text-slate-300">実行履歴</h2>
         {data.runs.length === 0 ? (
           <p className="p-4 text-sm text-slate-400">まだ実行履歴がありません</p>

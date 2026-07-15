@@ -17,7 +17,7 @@ export const metadata = {
 };
 
 export const viewport = {
-  themeColor: "#F27A9C",
+  themeColor: "#E8B5B5",
 };
 
 // デフォルトはライトモード。localStorageに保存済みの選択があればそれを優先する。

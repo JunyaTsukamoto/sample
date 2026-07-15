@@ -172,7 +172,7 @@ export default function HomePage() {
             className={`shrink-0 px-3 py-1.5 rounded-full text-sm ${
               category === t.value
                 ? "bg-accent text-accent-foreground"
-                : "bg-white/60 dark:bg-white/5 border border-black/10 dark:border-white/10 opacity-70 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/10"
+                : "bg-surface/60 dark:bg-surface/20 border border-black/10 dark:border-white/10 opacity-70 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/10"
             }`}
           >
             {t.label}
@@ -190,7 +190,7 @@ export default function HomePage() {
       {loading ? (
         <p className="text-sm text-slate-400">読み込み中...</p>
       ) : articles.length === 0 ? (
-        <div className="text-sm text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-6 text-center">
+        <div className="text-sm opacity-70 bg-surface/60 border border-black/5 dark:border-white/10 rounded-2xl p-6 text-center">
           記事がありません。「今すぐ収集・要約」を実行するか、情報源管理画面でソースを確認してください。
         </div>
       ) : (

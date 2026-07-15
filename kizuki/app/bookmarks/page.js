@@ -29,7 +29,7 @@ export default function BookmarksPage() {
       {loading ? (
         <p className="text-sm text-slate-400">読み込み中...</p>
       ) : articles.length === 0 ? (
-        <div className="text-sm text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-6 text-center">
+        <div className="text-sm text-slate-500 dark:text-slate-400 bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl p-6 text-center">
           ブックマークした記事はまだありません。
         </div>
       ) : (

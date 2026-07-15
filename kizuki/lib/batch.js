@@ -31,6 +31,7 @@ export async function runBatch() {
         ? "failed"
         : "success";
 
+    const combinedErrors = [...collectResult.errors, ...(summarizeResult.errors || [])];
     finish.run({
       id: runId,
       ts: nowIso(),
@@ -39,9 +40,7 @@ export async function runBatch() {
       new_count: collectResult.inserted,
       summarized_count: summarizeResult.done,
       failed_count: summarizeResult.failed,
-      error_message: collectResult.errors.length
-        ? collectResult.errors.join(" | ").slice(0, 2000)
-        : null,
+      error_message: combinedErrors.length ? combinedErrors.join(" | ").slice(0, 2000) : null,
     });
 
     return { runId, collectResult, summarizeResult, trendResult };

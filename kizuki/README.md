@@ -21,8 +21,14 @@ ANTHROPIC_API_KEY=sk-ant-...
 ANTHROPIC_MODEL=claude-3-5-haiku-latest
 
 # 無料枠あり: Google Gemini API（https://aistudio.google.com/apikey でクレジットカード不要で発行可能）
+# 固定バージョン(gemini-2.0-flash等)は無料枠の割り当てが0のプロジェクトがあるため、
+# ローリングエイリアス(gemini-flash-lite-latest)をデフォルトにしている。
 GEMINI_API_KEY=...
-GEMINI_MODEL=gemini-2.0-flash
+GEMINI_MODEL=gemini-flash-lite-latest
+# Gemini無料枠は1分あたりのリクエスト数に厳しい上限があるため、記事間にこの間隔(ms)を空けて呼び出す
+GEMINI_MIN_INTERVAL_MS=4200
+# 429/503等の一時的なエラー時のリトライ回数
+LLM_MAX_RETRIES=3
 
 SUMMARIZE_BATCH_SIZE=30
 MAX_ARTICLE_AGE_DAYS=7
@@ -46,6 +52,7 @@ npm run trigger-collect # 常時稼働サーバーの /api/collect をHTTPで叩
 ## 主な機能
 
 - カテゴリ（AI／制度／社会×データ／学術／新事業）ごとのタブ切り替え
+- 記事カードをタップすると、詳細画面を経由せず1回で元記事に直接アクセスできる
 - トレンドスコアリング（言及頻度・複数媒体掲載・鮮度の加重和）による優先表示
 - 👍👎フィードバックによるEMA（指数移動平均）ベースの段階的パーソナライズ
 - 一定確率（`MUTATION_RATE`）で好みスコアの低い記事を混入させる多様性確保

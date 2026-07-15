@@ -87,7 +87,7 @@ export default function SourcesPage() {
 
       <form
         onSubmit={handleAdd}
-        className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-4 space-y-3"
+        className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl p-4 space-y-3"
       >
         <h2 className="text-sm font-semibold text-slate-700 dark:text-slate-300">新規追加</h2>
         <div className="grid grid-cols-2 gap-3">
@@ -118,12 +118,12 @@ export default function SourcesPage() {
           </select>
         </div>
         {error && <p className="text-xs text-rose-500">{error}</p>}
-        <button className="text-sm px-4 py-1.5 rounded-md bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900">
+        <button className="text-sm px-4 py-1.5 rounded-full bg-accent text-accent-foreground">
           追加
         </button>
       </form>
 
-      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg divide-y divide-slate-100 dark:divide-slate-800">
+      <div className="bg-surface/70 dark:bg-surface/30 border border-black/5 dark:border-white/10 rounded-2xl divide-y divide-slate-100 dark:divide-slate-800">
         {loading ? (
           <p className="p-4 text-sm text-slate-400">読み込み中...</p>
         ) : sources.length === 0 ? (
@@ -133,7 +133,7 @@ export default function SourcesPage() {
             <div key={s.id} className="p-3 flex items-center justify-between gap-3">
               <div className="min-w-0">
                 <div className="flex items-center gap-2 text-sm">
-                  <span className="text-xs px-2 py-0.5 rounded-full font-medium bg-sky-100 dark:bg-sky-900 text-sky-700 dark:text-sky-300">
+                  <span className="text-xs px-2 py-0.5 rounded-full font-medium bg-accent-2/50 text-foreground">
                     {CATEGORIES.find((c) => c.id === s.defaultCategory)?.label || s.defaultCategory}
                   </span>
                   <span className="font-medium text-slate-800 dark:text-slate-200 truncate">

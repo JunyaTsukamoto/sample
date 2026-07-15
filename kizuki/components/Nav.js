@@ -8,10 +8,10 @@ export default function Nav() {
   const pathname = usePathname();
 
   return (
-    <header className="border-b border-black/5 dark:border-white/10 bg-white/70 dark:bg-black/20 backdrop-blur">
+    <header className="border-b border-black/5 dark:border-white/10 bg-surface/60 dark:bg-surface/30 backdrop-blur">
       <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
-        <Link href="/" className="font-heading font-bold text-lg text-accent">
-          きづき
+        <Link href="/" className="font-heading font-bold text-lg text-foreground">
+          🌸 きづき
         </Link>
         <div className="flex items-center gap-2">
           <Link

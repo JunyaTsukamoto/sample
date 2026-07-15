@@ -27,3 +27,16 @@ export function fallbackCategorize(text) {
   ).map((c) => c.id);
   return hits.length > 0 ? hits : ["ai"];
 }
+
+// LLM未使用時でもタグが完全に空にならないよう、ヒットしたキーワードをそのままタグ化する簡易フォールバック。
+export function fallbackTags(text) {
+  const lower = text.toLowerCase();
+  const matched = [];
+  for (const keywords of Object.values(CATEGORY_KEYWORDS)) {
+    for (const kw of keywords) {
+      if (lower.includes(kw.toLowerCase()) && !matched.includes(kw)) matched.push(kw);
+      if (matched.length >= 3) return matched;
+    }
+  }
+  return matched;
+}
