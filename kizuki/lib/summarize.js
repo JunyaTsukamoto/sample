@@ -3,13 +3,20 @@ import { db, nowIso } from "./db.js";
 import { CATEGORIES, fallbackCategorize } from "./categories.js";
 import { computeTopicKey } from "./trend.js";
 
-const MODEL = process.env.ANTHROPIC_MODEL || "claude-3-5-haiku-latest";
+// 要件 8章 未確定事項#2「使用LLM」の回答: Claude APIを優先しつつ、
+// 無料で使えるGoogle Gemini API(無料枠あり)をデフォルトのフォールバック手段として追加した。
+// 優先順位: ANTHROPIC_API_KEY > GEMINI_API_KEY > キーワードベースの簡易処理。
+// LLM_PROVIDER=anthropic|gemini|none で明示的に固定することもできる。
+const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-3-5-haiku-latest";
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.0-flash";
 const MAX_ARTICLES_PER_RUN = Number(process.env.SUMMARIZE_BATCH_SIZE || 30);
 
-function getClient() {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) return null;
-  return new Anthropic({ apiKey });
+function resolveProvider() {
+  const forced = process.env.LLM_PROVIDER;
+  if (forced === "anthropic" || forced === "gemini" || forced === "none") return forced;
+  if (process.env.ANTHROPIC_API_KEY) return "anthropic";
+  if (process.env.GEMINI_API_KEY) return "gemini";
+  return "none";
 }
 
 // 要件 4.2: タイトル(1〜2行)、要約(3〜4文、平易な日本語)、ハッシュタグ(2〜3個)を生成する。
@@ -20,7 +27,7 @@ function buildPrompt(article) {
 重要な制約:
 - 与えられた本文に書かれている内容のみに基づいて要約・分類してください。
 - 本文に書かれていない情報を推測して補完しないでください。
-- 出力は必ず有効なJSON一つだけを返してください。前置きや説明文は不要です。
+- 出力は必ず有効なJSON一つだけを返してください。前置きや説明文は不要です。マークダウンのコードフェンスも付けないでください。
 
 利用可能なカテゴリID一覧（該当するものを1つ以上、複数可）:
 ${categoryList}
@@ -51,6 +58,51 @@ function safeParseJson(text) {
   return JSON.parse(match[0]);
 }
 
+let anthropicClient = null;
+function getAnthropicClient() {
+  if (!anthropicClient) anthropicClient = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+  return anthropicClient;
+}
+
+async function callAnthropic(prompt) {
+  const client = getAnthropicClient();
+  const response = await client.messages.create({
+    model: ANTHROPIC_MODEL,
+    max_tokens: 600,
+    messages: [{ role: "user", content: prompt }],
+  });
+  return response.content
+    .filter((b) => b.type === "text")
+    .map((b) => b.text)
+    .join("\n");
+}
+
+// Google AI Studio の無料枠(gemini-2.0-flash等)を使った要約。
+// 料金・登録: https://aistudio.google.com/apikey でAPIキーを無料発行できる（クレジットカード不要）。
+async function callGemini(prompt) {
+  const apiKey = process.env.GEMINI_API_KEY;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
+
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      contents: [{ role: "user", parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.2, maxOutputTokens: 700 },
+    }),
+  });
+
+  if (!res.ok) {
+    const errText = await res.text().catch(() => "");
+    throw new Error(`Gemini API error ${res.status}: ${errText.slice(0, 300)}`);
+  }
+
+  const data = await res.json();
+  const text = data?.candidates?.[0]?.content?.parts?.map((p) => p.text).join("\n");
+  if (!text) throw new Error("Gemini response contained no text");
+  return text;
+}
+
 // LLM未設定時のフォールバック（キーワードベースの簡易処理）。
 function fallbackProcess(article) {
   const text = `${article.title} ${article.raw_content || ""}`;
@@ -69,11 +121,10 @@ function fallbackProcess(article) {
 
 /**
  * pending状態の記事を最大 MAX_ARTICLES_PER_RUN 件処理し、要約・分類結果をDBへ反映する。
- * ANTHROPIC_API_KEY が未設定の場合はフォールバック処理を行う。
+ * 使用するLLMは resolveProvider() の優先順位に従って自動選択される。
  */
 export async function summarizePending() {
-  const client = getClient();
-  const usingFallback = !client;
+  const provider = resolveProvider();
 
   const pending = db
     .prepare(
@@ -99,19 +150,12 @@ export async function summarizePending() {
   for (const article of pending) {
     try {
       let result;
-      if (usingFallback) {
+      if (provider === "none") {
         result = fallbackProcess(article);
       } else {
         const prompt = buildPrompt(article);
-        const response = await client.messages.create({
-          model: MODEL,
-          max_tokens: 600,
-          messages: [{ role: "user", content: prompt }],
-        });
-        const text = response.content
-          .filter((b) => b.type === "text")
-          .map((b) => b.text)
-          .join("\n");
+        const text =
+          provider === "anthropic" ? await callAnthropic(prompt) : await callGemini(prompt);
         result = safeParseJson(text);
       }
 
@@ -139,5 +183,5 @@ export async function summarizePending() {
     }
   }
 
-  return { processed: pending.length, done, failed, usingFallback };
+  return { processed: pending.length, done, failed, provider };
 }

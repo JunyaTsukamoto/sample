@@ -27,10 +27,7 @@ try {
   console.log(
     `[run-batch] 完了: 取得=${result.collectResult.fetched} 新着=${result.collectResult.inserted} ` +
       `要約完了=${result.summarizeResult.done} 要約失敗=${result.summarizeResult.failed} ` +
-      `トレンド再計算=${result.trendResult.updated}件` +
-      (result.summarizeResult.usingFallback
-        ? " (ANTHROPIC_API_KEY未設定のため簡易要約を使用)"
-        : "")
+      `トレンド再計算=${result.trendResult.updated}件 (LLM: ${result.summarizeResult.provider})`
   );
   if (result.collectResult.errors.length > 0) {
     console.warn("[run-batch] ソース収集エラー:");

@@ -10,11 +10,20 @@ npm install
 npm run dev
 ```
 
-`.env.local` に以下を設定（任意、未設定でもキーワードベースの簡易要約で動作する）:
+`.env.local` に以下を設定（任意、いずれも未設定ならキーワードベースの簡易要約で動作する）:
 
 ```
+# LLM要約は次の優先順位で自動選択される: ANTHROPIC_API_KEY > GEMINI_API_KEY > 簡易要約
+# LLM_PROVIDER=anthropic|gemini|none で明示的に固定することもできる。
+
+# 有料・高品質: Claude API
 ANTHROPIC_API_KEY=sk-ant-...
 ANTHROPIC_MODEL=claude-3-5-haiku-latest
+
+# 無料枠あり: Google Gemini API（https://aistudio.google.com/apikey でクレジットカード不要で発行可能）
+GEMINI_API_KEY=...
+GEMINI_MODEL=gemini-2.0-flash
+
 SUMMARIZE_BATCH_SIZE=30
 MAX_ARTICLE_AGE_DAYS=7
 MUTATION_RATE=0.07
@@ -24,6 +33,8 @@ TREND_WEIGHT_MENTION=0.4
 TREND_WEIGHT_SOURCE=0.3
 TREND_WEIGHT_FRESHNESS=0.3
 ```
+
+Claude/Geminiどちらも未設定の場合、要約はキーワード抽出ベースの簡易処理にフォールバックする（要約文の質は落ちるが、収集・分類・トレンドスコアリングのパイプライン自体は動作する）。
 
 ## バッチ実行
 
