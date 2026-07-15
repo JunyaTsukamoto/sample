@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* .html に .dark クラスが付いている間だけ dark: バリアントを有効にする（クラスベースのダークモード） */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* 参考にした「きづき」プロトタイプのカラーテーマ・フォントを再現 */
+:root {
+  --background: #f8f3fe;
+  --foreground: #2d1b3d;
+  --accent: #f27a9c;
+  --accent-foreground: #ffffff;
+  --font-heading: "Zen Maru Gothic", "M PLUS Rounded 1c", sans-serif;
+  --font-body: "M PLUS Rounded 1c", "Zen Maru Gothic", sans-serif;
+}
+
+.dark {
+  --background: #241a30;
+  --foreground: #f3e8fb;
+  --accent: #f27a9c;
+  --accent-foreground: #241a30;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, .font-heading {
+  font-family: var(--font-heading);
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
