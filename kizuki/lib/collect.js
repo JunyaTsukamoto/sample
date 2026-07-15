@@ -7,6 +7,8 @@ const parser = new Parser({
 });
 
 const MAX_AGE_DAYS = Number(process.env.MAX_ARTICLE_AGE_DAYS || 7);
+// 1回の収集で新規に取り込む記事数の上限（LLM要約の無料枠を使い切らないための制限）。
+const MAX_NEW_ARTICLES_PER_RUN = Number(process.env.MAX_NEW_ARTICLES_PER_RUN || 15);
 
 function stripHtml(html) {
   if (!html) return "";
@@ -51,6 +53,8 @@ export async function collectAll() {
   const errors = [];
 
   for (const source of sources) {
+    if (inserted >= MAX_NEW_ARTICLES_PER_RUN) break;
+
     try {
       const feed = await parser.parseURL(source.url);
       const items = feed.items ?? [];
@@ -58,6 +62,8 @@ export async function collectAll() {
 
       runInTransaction(() => {
         for (const item of items) {
+          if (inserted >= MAX_NEW_ARTICLES_PER_RUN) break;
+
           const url = item.link || item.guid;
           if (!url) continue;
 

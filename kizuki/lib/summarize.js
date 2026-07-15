@@ -12,7 +12,7 @@ const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-3-5-haiku-latest"
 // 固定バージョン(gemini-2.0-flash等)は無料枠の割り当てが0のプロジェクトがあるため、
 // ローリングエイリアス(latest系)の方が無料枠での動作実績が高い。
 const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
-const MAX_ARTICLES_PER_RUN = Number(process.env.SUMMARIZE_BATCH_SIZE || 30);
+const MAX_ARTICLES_PER_RUN = Number(process.env.SUMMARIZE_BATCH_SIZE || 15);
 // Gemini無料枠は1分あたりのリクエスト数に厳しい上限があるため、記事間に間隔を空けて
 // バーストで叩かないようにする（大量のpending記事が一斉に429で失敗する問題への対策）。
 const GEMINI_MIN_INTERVAL_MS = Number(process.env.GEMINI_MIN_INTERVAL_MS || 4200);

@@ -65,12 +65,12 @@ export default function ArticleCard({ article }) {
           ))}
           {article.isSerendipity && (
             <span className="text-xs px-2 py-0.5 rounded-full bg-accent-3/60 text-foreground">
-              🌱 掘り出し物
+              掘り出し物
             </span>
           )}
           {article.trendScore > 0.6 && (
             <span className="text-xs px-2 py-0.5 rounded-full bg-accent/50 text-foreground">
-              🔥 兆し
+              兆し
             </span>
           )}
         </div>
@@ -94,7 +94,7 @@ export default function ArticleCard({ article }) {
         )}
 
         <div className="mt-2 flex items-center gap-3 text-xs text-foreground/50">
-          <span>{article.sourceName || "不明なソース"} ↗</span>
+          <span>{article.sourceName || "不明なソース"}</span>
           <span>{relativeDate(article.publishedAt || article.fetchedAt)}</span>
           {article.llmProcessStatus !== "done" && (
             <span className="text-rose-500">

@@ -24,7 +24,7 @@ export default function DarkModeToggle() {
       aria-label="ダークモード切り替え"
       className="text-sm px-2 py-1.5 rounded-full border border-black/10 dark:border-white/15 opacity-80 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/10"
     >
-      {dark ? "☀️ ライト" : "🌙 ダーク"}
+      {dark ? "ライトモード" : "ダークモード"}
     </button>
   );
 }

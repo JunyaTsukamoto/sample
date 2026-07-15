@@ -149,7 +149,7 @@ export default function ArticleDetailPage() {
           rel="noopener noreferrer"
           className="inline-block text-sm px-4 py-2 rounded-full bg-accent text-accent-foreground"
         >
-          元記事を開く ↗
+          元記事を開く
         </a>
       </div>
     </article>

@@ -33,13 +33,15 @@ services:
       - key: GEMINI_API_KEY
         sync: false
       - key: GEMINI_MODEL
-        value: gemini-2.0-flash
+        value: gemini-flash-lite-latest
       - key: SUMMARIZE_BATCH_SIZE
-        value: "30"
+        value: "15"
       - key: SQLITE_DATA_DIR
         value: /var/data
       - key: MAX_ARTICLE_AGE_DAYS
         value: "7"
+      - key: MAX_NEW_ARTICLES_PER_RUN
+        value: "15"
       - key: MUTATION_RATE
         value: "0.07"
       - key: PREFERENCE_ALPHA

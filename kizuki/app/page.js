@@ -183,7 +183,7 @@ export default function HomePage() {
       {message && <p className="text-xs text-slate-500 dark:text-slate-400">{message}</p>}
       {mutationTriggered && (
         <p className="text-xs text-violet-500">
-          🌱 今回は多様性確保のため、普段は表示されにくい記事を1件混ぜています
+          今回は多様性確保のため、普段は表示されにくい記事を1件混ぜています
         </p>
       )}
 
