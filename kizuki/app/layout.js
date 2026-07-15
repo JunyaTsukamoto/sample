@@ -22,12 +22,19 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ja" className="h-full antialiased">
       <head>
+        <meta name="theme-color" content="#F27A9C" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Zen+Maru+Gothic:wght@500;700;900&display=swap"
+          rel="stylesheet"
+        />
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
       </head>
-      <body className="min-h-full flex flex-col bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100">
+      <body className="min-h-full flex flex-col bg-background text-foreground">
         <Nav />
         <main className="flex-1 w-full max-w-5xl mx-auto px-4 py-6">{children}</main>
-        <footer className="text-center text-xs text-slate-400 dark:text-slate-600 py-4">
+        <footer className="text-center text-xs opacity-50 py-4">
           個人用ツール / AI・社会兆しキュレーションアプリ「きづき」
         </footer>
       </body>

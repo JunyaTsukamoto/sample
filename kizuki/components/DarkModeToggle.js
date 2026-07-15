@@ -22,7 +22,7 @@ export default function DarkModeToggle() {
     <button
       onClick={toggle}
       aria-label="ダークモード切り替え"
-      className="text-sm px-2 py-1.5 rounded-md border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800"
+      className="text-sm px-2 py-1.5 rounded-full border border-black/10 dark:border-white/15 opacity-80 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/10"
     >
       {dark ? "☀️ ライト" : "🌙 ダーク"}
     </button>

@@ -39,7 +39,7 @@ export default function ArticleCard({ article }) {
   }
 
   return (
-    <div className="relative bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-4 hover:shadow-sm hover:border-slate-300 dark:hover:border-slate-700 transition">
+    <div className="relative bg-white/70 dark:bg-white/5 border border-black/5 dark:border-white/10 rounded-2xl p-4 hover:shadow-md transition backdrop-blur">
       <button
         onClick={toggleBookmark}
         aria-label="ブックマーク"
@@ -53,7 +53,7 @@ export default function ArticleCard({ article }) {
           {article.categories.map((c) => (
             <span
               key={c}
-              className="text-xs px-2 py-0.5 rounded-full bg-sky-100 dark:bg-sky-900 text-sky-700 dark:text-sky-300"
+              className="text-xs px-2 py-0.5 rounded-full bg-accent/15 text-accent font-medium"
             >
               {categoryLabel(c)}
             </span>
@@ -70,7 +70,7 @@ export default function ArticleCard({ article }) {
           )}
         </div>
 
-        <h3 className="font-medium text-slate-900 dark:text-slate-100 leading-snug">
+        <h3 className="font-heading font-medium text-foreground leading-snug">
           {article.title}
         </h3>
 
@@ -104,20 +104,20 @@ export default function ArticleCard({ article }) {
       <div className="mt-3 flex items-center gap-2">
         <button
           onClick={() => sendFeedback(1)}
-          className={`text-sm px-2.5 py-1 rounded-md border ${
+          className={`text-sm px-2.5 py-1 rounded-full border ${
             feedback === 1
-              ? "border-emerald-300 bg-emerald-50 dark:bg-emerald-900 dark:border-emerald-700"
-              : "border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-800"
+              ? "border-accent bg-accent/15 text-accent"
+              : "border-black/10 dark:border-white/15 opacity-70 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/10"
           }`}
         >
           👍 もっと見たい
         </button>
         <button
           onClick={() => sendFeedback(-1)}
-          className={`text-sm px-2.5 py-1 rounded-md border ${
+          className={`text-sm px-2.5 py-1 rounded-full border ${
             feedback === -1
-              ? "border-slate-400 bg-slate-100 dark:bg-slate-800 dark:border-slate-600"
-              : "border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-800"
+              ? "border-black/30 dark:border-white/40 bg-black/5 dark:bg-white/10"
+              : "border-black/10 dark:border-white/15 opacity-70 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/10"
           }`}
         >
           👎 あまり興味ない

@@ -155,7 +155,7 @@ export default function HomePage() {
         <button
           onClick={handleCollect}
           disabled={collecting}
-          className="text-sm px-3 py-1.5 rounded-md bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 disabled:opacity-50"
+          className="text-sm px-3 py-1.5 rounded-full bg-accent text-accent-foreground disabled:opacity-50"
         >
           {collecting ? "実行中..." : "今すぐ収集・要約"}
         </button>
@@ -171,8 +171,8 @@ export default function HomePage() {
             }}
             className={`shrink-0 px-3 py-1.5 rounded-full text-sm ${
               category === t.value
-                ? "bg-slate-900 text-white dark:bg-slate-100 dark:text-slate-900"
-                : "bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800"
+                ? "bg-accent text-accent-foreground"
+                : "bg-white/60 dark:bg-white/5 border border-black/10 dark:border-white/10 opacity-70 hover:opacity-100 hover:bg-black/5 dark:hover:bg-white/10"
             }`}
           >
             {t.label}

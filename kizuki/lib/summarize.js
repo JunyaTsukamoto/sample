@@ -8,7 +8,10 @@ import { computeTopicKey } from "./trend.js";
 // 優先順位: ANTHROPIC_API_KEY > GEMINI_API_KEY > キーワードベースの簡易処理。
 // LLM_PROVIDER=anthropic|gemini|none で明示的に固定することもできる。
 const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-3-5-haiku-latest";
-const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.0-flash";
+// 無料枠での動作を確認済みの "gemini-flash-lite-latest" をデフォルトに採用。
+// 固定バージョン(gemini-2.0-flash等)は無料枠の割り当てが0のプロジェクトがあるため、
+// ローリングエイリアス(latest系)の方が無料枠での動作実績が高い。
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
 const MAX_ARTICLES_PER_RUN = Number(process.env.SUMMARIZE_BATCH_SIZE || 30);
 
 function resolveProvider() {
