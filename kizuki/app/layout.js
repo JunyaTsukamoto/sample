@@ -4,6 +4,20 @@ import Nav from "@/components/Nav.js";
 export const metadata = {
   title: "きづき",
   description: "個人用: AI・社会の「兆し」を毎日キャッチアップするキュレーションアプリ",
+  manifest: "/manifest.json",
+  icons: {
+    icon: "/favicon.png",
+    apple: "/apple-touch-icon.png",
+  },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "きづき",
+  },
+};
+
+export const viewport = {
+  themeColor: "#F27A9C",
 };
 
 // デフォルトはライトモード。localStorageに保存済みの選択があればそれを優先する。
@@ -18,11 +32,20 @@ const themeInitScript = `
 })();
 `;
 
+// 要件: スマホのホーム画面に追加して使うことを目標とするPWA構成。
+// サービスワーカー登録は失敗してもアプリ本体の動作に影響しないようにする。
+const swRegisterScript = `
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", function () {
+    navigator.serviceWorker.register("/sw.js").catch(function () {});
+  });
+}
+`;
+
 export default function RootLayout({ children }) {
   return (
     <html lang="ja" className="h-full antialiased">
       <head>
-        <meta name="theme-color" content="#F27A9C" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
@@ -37,6 +60,7 @@ export default function RootLayout({ children }) {
         <footer className="text-center text-xs opacity-50 py-4">
           個人用ツール / AI・社会兆しキュレーションアプリ「きづき」
         </footer>
+        <script dangerouslySetInnerHTML={{ __html: swRegisterScript }} />
       </body>
     </html>
   );
