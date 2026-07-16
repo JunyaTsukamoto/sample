@@ -1,0 +1,30 @@
+
+.overlay{-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px);z-index:1100;background-color:#00000080;justify-content:center;align-items:center;width:100vw;height:100vh;display:flex;position:fixed;top:0;left:0}
+.modal{background-color:var(--bg-card);border:1px solid var(--border-color);border-radius:var(--radius-lg);width:500px;max-width:92%;max-height:85vh;box-shadow:var(--shadow-lg);flex-direction:column;display:flex;overflow-y:auto}
+.header{border-bottom:1px solid var(--border-color);justify-content:space-between;align-items:center;padding:1.25rem;display:flex}
+.title{color:var(--text-primary);font-size:1.1rem;font-weight:700}
+.closeBtn{cursor:pointer;color:var(--text-secondary);background:0 0;border:none;padding:.2rem;font-size:1.5rem;line-height:1}
+.closeBtn:hover{color:var(--danger)}
+.body{flex-direction:column;gap:1.5rem;padding:1.25rem;display:flex;overflow-y:auto}
+.section{flex-direction:column;gap:.5rem;display:flex}
+.label{color:var(--text-secondary);font-size:.85rem;font-weight:700}
+.input{background-color:var(--bg-input);border:1px solid var(--border-color);border-radius:var(--radius-sm);color:var(--text-primary);transition:var(--transition);outline:none;width:100%;padding:.65rem .85rem;font-size:.88rem}
+.input:focus{border-color:var(--primary);box-shadow:0 0 0 2px var(--primary-light)}
+.helpText{color:var(--text-muted);font-size:.72rem;line-height:1.45}
+.sliderContainer{align-items:center;gap:1rem;display:flex}
+.slider{cursor:pointer;accent-color:var(--primary);background-color:var(--bg-badge);border-radius:3px;flex-grow:1;height:6px}
+.sliderValue{color:var(--primary);text-align:right;min-width:2.5rem;font-size:.9rem;font-weight:700}
+.prefList{background-color:var(--bg-badge);border-radius:var(--radius);border:1px solid var(--border-color);flex-direction:column;gap:.75rem;padding:1rem;display:flex}
+.prefItem{justify-content:space-between;align-items:center;display:flex}
+.prefName{width:5.5rem;color:var(--text-secondary);font-size:.82rem;font-weight:600}
+.prefBarContainer{background-color:var(--bg-card);border:1px solid var(--border-color);border-radius:4px;flex-grow:1;height:8px;margin:0 1rem;overflow:hidden}
+.prefBar{background-color:var(--primary);border-radius:4px;height:100%;transition:width .3s cubic-bezier(.4,0,.2,1)}
+.prefValue{color:var(--text-primary);text-align:right;width:2.2rem;font-size:.82rem;font-weight:700}
+.resetBtn{border:1px solid var(--border-color);color:var(--text-secondary);border-radius:var(--radius-sm);cursor:pointer;transition:var(--transition);background:0 0;align-self:flex-start;margin-top:.25rem;padding:.4rem .8rem;font-size:.75rem}
+.resetBtn:hover{background-color:var(--danger-light);color:var(--danger);border-color:var(--danger)}
+.footer{border-top:1px solid var(--border-color);background-color:var(--bg-badge);justify-content:flex-end;gap:.6rem;padding:1rem 1.25rem;display:flex}
+.btn{border-radius:var(--radius-sm);cursor:pointer;transition:var(--transition);border:none;padding:.6rem 1.2rem;font-size:.88rem;font-weight:600}
+.btnCancel{color:var(--text-secondary);border:1px solid var(--border-color);background-color:#0000}
+.btnCancel:hover{background-color:var(--bg-card)}
+.btnSave{background-color:var(--primary);color:#fff}
+.btnSave:hover{background-color:var(--primary-hover)}

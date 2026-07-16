@@ -1,0 +1,52 @@
+# 毎朝7時(JST)の記事収集をサーバー側で自動実行する (spec §2, §22-1,2)。
+# GitHub Actions はクラウド上で動くため、利用者がブラウザ/PWAを閉じていても実行される。
+name: collect-news
+
+on:
+  schedule:
+    # cron は UTC。07:00 JST = 前日 22:00 UTC。
+    # 失敗時の再実行として 7:15 / 7:30 / 8:00 JST も予約 (spec §2.2)。
+    - cron: '0 22 * * *'   # 07:00 JST
+    - cron: '15 22 * * *'  # 07:15 JST
+    - cron: '30 22 * * *'  # 07:30 JST
+    - cron: '0 23 * * *'   # 08:00 JST
+  workflow_dispatch: {}     # 手動実行 (spec §16.1 手動取得)
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write           # data/ の更新をコミットするため
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+      APP_TIMEZONE: Asia/Tokyo
+      USE_MOCK_DATA: 'false'
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: 情報源をシード（初回のみ追加）
+        run: npm run seed
+      - name: 記事収集を実行（同日成功済みならスキップ）
+        run: npm run collect
+      - name: 更新データをコミット
+        run: |
+          git config user.name "kizuki-bot"
+          git config user.email "actions@users.noreflect.github.com"
+          git add data/ public/data/ || true
+          if git diff --cached --quiet; then
+            echo "変更なし（収集スキップまたは新規記事なし）"
+          else
+            git commit -m "chore(collect): 自動収集 $(date +'%Y-%m-%d %H:%M JST')"
+            git push
+          fi

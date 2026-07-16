@@ -1,0 +1,17 @@
+:root{--bg-app:#f8fafc;--bg-card:#fff;--bg-input:#fff;--bg-badge:#f1f5f9;--bg-badge-active:#e2e8f0;--bg-header:#ffffffd9;--border-color:#e2e8f0;--text-primary:#0f172a;--text-secondary:#475569;--text-muted:#94a3b8;--primary:#4f46e5;--primary-hover:#4338ca;--primary-light:#4f46e51a;--accent:#0d9488;--accent-light:#ccfbf1;--sparkle-color:#d97706;--sparkle-bg:#fef3c7;--danger:#ef4444;--danger-light:#fee2e2;--shadow-sm:0 1px 2px 0 #0000000d;--shadow:0 4px 6px -1px #0000000d, 0 2px 4px -1px #00000005;--shadow-lg:0 10px 25px -5px #0000000d, 0 8px 10px -6px #00000005;--shadow-hover:0 20px 25px -5px #4f46e514, 0 10px 10px -5px #00000005;--radius:16px;--radius-sm:8px;--radius-lg:24px;--font-sans:"Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;--transition:all .3s cubic-bezier(.4, 0, .2, 1)}
+[data-theme=dark]{--bg-app:#080d1a;--bg-card:#111a2e;--bg-input:#17243e;--bg-badge:#1a2948;--bg-badge-active:#2b3d63;--bg-header:#080d1ad9;--border-color:#1e2f50;--text-primary:#f8fafc;--text-secondary:#94a3b8;--text-muted:#64748b;--primary:#6366f1;--primary-hover:#4f46e5;--primary-light:#6366f126;--accent:#14b8a6;--accent-light:#14b8a626;--sparkle-color:#fbbf24;--sparkle-bg:#fbbf2426;--danger:#f87171;--danger-light:#f8717126;--shadow-sm:0 1px 2px 0 #00000080;--shadow:0 4px 6px -1px #0000004d, 0 2px 4px -1px #0003;--shadow-lg:0 10px 25px -5px #00000073, 0 8px 10px -6px #00000059;--shadow-hover:0 20px 25px -5px #6366f126, 0 10px 10px -5px #0000004d}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background-color:var(--bg-app);color:var(--text-primary);font-family:var(--font-sans);height:100%;font-size:16px;line-height:1.5;transition:background-color .4s cubic-bezier(.4,0,.2,1),color .4s cubic-bezier(.4,0,.2,1);overflow-x:hidden}
+a{color:var(--primary);transition:var(--transition);text-decoration:none}
+a:hover{color:var(--primary-hover)}
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--bg-app)}
+::-webkit-scrollbar-thumb{background:var(--border-color);border-radius:9999px}
+::-webkit-scrollbar-thumb:hover{background:var(--text-muted)}
+@keyframes fadeInUp{0%{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+@keyframes bounceClick{0%,to{transform:scale(1)}50%{transform:scale(.92)}}
+@keyframes slideInRight{0%{transform:translate(100%)}to{transform:translate(0)}}
+.animate-fade-in{animation:.4s cubic-bezier(.16,1,.3,1) forwards fadeInUp}
+.click-bounce{transition:transform .1s}
+.click-bounce:active{transform:scale(.95)}
+.glass{background:var(--bg-header);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color)}

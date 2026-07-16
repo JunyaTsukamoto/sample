@@ -1,0 +1,13 @@
+{
+  "name": "きづき ― 社会とAIの兆しを見つける",
+  "short_name": "きづき",
+  "description": "実在するニュース・行政・研究機関の記事を毎朝収集して届ける兆しキュレーション。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "lang": "ja",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "256x256", "type": "image/x-icon" }
+  ]
+}

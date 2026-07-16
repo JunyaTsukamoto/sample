@@ -1,0 +1,26 @@
+
+
+.card{background-color:var(--bg-card);border:1px solid var(--border-color);border-radius:var(--radius);box-shadow:var(--shadow);transition:var(--transition);flex-direction:column;justify-content:space-between;height:100%;padding:1.25rem;display:flex;position:relative;overflow:hidden}
+.card:hover{box-shadow:var(--shadow-hover);border-color:var(--primary);transform:translateY(-4px)}
+.header{justify-content:space-between;align-items:flex-start;gap:.5rem;margin-bottom:.5rem;display:flex}
+.meta{flex-wrap:wrap;align-items:center;gap:.5rem;display:flex}
+.source{color:var(--accent);background-color:var(--accent-light);border-radius:var(--radius-sm);padding:.2rem .5rem;font-size:.75rem;font-weight:600}
+.time{color:var(--text-muted);font-size:.75rem}
+.bookmarkBtn{cursor:pointer;color:var(--text-muted);transition:var(--transition);background:0 0;border:none;justify-content:center;align-items:center;padding:.25rem;display:flex}
+.bookmarkBtn:hover{color:var(--sparkle-color);transform:scale(1.15)}
+.bookmarkActive{color:var(--sparkle-color)}
+.categories{flex-wrap:wrap;gap:.3rem;margin-bottom:.75rem;display:flex}
+.categoryBadge{background-color:var(--primary-light);color:var(--primary);border-radius:4px;padding:.15rem .4rem;font-size:.7rem;font-weight:600}
+.title{color:var(--text-primary);margin-bottom:.75rem;font-size:1.05rem;font-weight:700;line-height:1.4}
+.titleLink{color:inherit;transition:var(--transition)}
+.titleLink:hover{color:var(--primary)}
+.summary{color:var(--text-secondary);flex-grow:1;margin-bottom:1.25rem;font-size:.875rem;line-height:1.5}
+.footer{border-top:1px solid var(--border-color);justify-content:space-between;align-items:center;gap:.5rem;margin-top:auto;padding-top:.75rem;display:flex}
+.tags{flex-wrap:wrap;gap:.35rem;max-width:60%;display:flex}
+.tag{color:var(--text-secondary);background-color:var(--bg-badge);border-radius:var(--radius-sm);transition:var(--transition);padding:.15rem .45rem;font-size:.7rem}
+.tag:hover{background-color:var(--bg-badge-active);color:var(--primary)}
+.actions{gap:.4rem;display:flex}
+.actionBtn{background:var(--bg-badge);border:1px solid var(--border-color);border-radius:var(--radius-sm);color:var(--text-secondary);cursor:pointer;transition:var(--transition);align-items:center;gap:.25rem;padding:.3rem .55rem;font-size:.75rem;display:flex}
+.actionBtn:hover{background-color:var(--bg-badge-active)}
+.likeActive{background-color:var(--primary-light);border-color:var(--primary);color:var(--primary)}
+.dislikeActive{background-color:var(--danger-light);border-color:var(--danger);color:var(--danger)}

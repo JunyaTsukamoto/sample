@@ -1,0 +1,30 @@
+# 公開済み記事のリンク切れを定期確認する (spec §7)。
+name: recheck-links
+on:
+  schedule:
+    - cron: '30 23 * * *'   # 08:30 JST 毎日
+  workflow_dispatch: {}
+concurrency:
+  group: recheck-links
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+      APP_TIMEZONE: Asia/Tokyo
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - run: npm ci
+      - run: npm run recheck
+      - name: 更新データをコミット
+        run: |
+          git config user.name "kizuki-bot"
+          git config user.email "actions@users.noreflect.github.com"
+          git add data/ public/data/ || true
+          if git diff --cached --quiet; then echo "変更なし"; else
+            git commit -m "chore(recheck): リンク再確認 $(date +'%Y-%m-%d JST')" && git push; fi
