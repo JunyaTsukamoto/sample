@@ -18,13 +18,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: 20, cache: npm }
+        with: { node-version: 22, cache: npm }
       - run: npm ci
       - run: npm run recheck
       - name: 更新データをコミット
         run: |
           git config user.name "kizuki-bot"
-          git config user.email "actions@users.noreflect.github.com"
+          git config user.email "actions@users.noreply.github.com"
           git add data/ public/data/ || true
           if git diff --cached --quiet; then echo "変更なし"; else
             git commit -m "chore(recheck): リンク再確認 $(date +'%Y-%m-%d JST')" && git push; fi

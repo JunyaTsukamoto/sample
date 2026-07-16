@@ -1,23 +1,26 @@
-# 毎朝7時(JST)の記事収集をサーバー側で自動実行する (spec §2, §22-1,2)。
-# GitHub Actions はクラウド上で動くため、利用者がブラウザ/PWAを閉じていても実行される。
+# 毎朝7時(JST)の記事収集をサーバー側で自動実行する (spec §2)。
+# GitHub Actions はクラウド上で動くため、ブラウザ/PWAを閉じていても実行される。
 name: collect-news
 
 on:
   schedule:
-    # cron は UTC。07:00 JST = 前日 22:00 UTC。
-    # 失敗時の再実行として 7:15 / 7:30 / 8:00 JST も予約 (spec §2.2)。
     - cron: '0 22 * * *'   # 07:00 JST
-    - cron: '15 22 * * *'  # 07:15 JST
-    - cron: '30 22 * * *'  # 07:30 JST
-    - cron: '0 23 * * *'   # 08:00 JST
-  workflow_dispatch: {}     # 手動実行 (spec §16.1 手動取得)
+    - cron: '15 22 * * *'  # 07:15 JST（再実行）
+    - cron: '30 22 * * *'  # 07:30 JST（再実行）
+    - cron: '0 23 * * *'   # 08:00 JST（再実行）
+  workflow_dispatch:
+    inputs:
+      force:
+        description: '同日でも強制的に再収集する'
+        type: boolean
+        default: true
 
 concurrency:
   group: collect-news
   cancel-in-progress: false
 
 permissions:
-  contents: write           # data/ の更新をコミットするため
+  contents: write
 
 jobs:
   collect:
@@ -32,17 +35,23 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
       - run: npm ci
       - name: 情報源をシード（初回のみ追加）
         run: npm run seed
-      - name: 記事収集を実行（同日成功済みならスキップ）
-        run: npm run collect
+      - name: 記事収集を実行
+        # 手動実行(force=true)なら強制再収集。定期実行は同日重複を防止。
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            npm run collect -- --force
+          else
+            npm run collect
+          fi
       - name: 更新データをコミット
         run: |
           git config user.name "kizuki-bot"
-          git config user.email "actions@users.noreflect.github.com"
+          git config user.email "actions@users.noreply.github.com"
           git add data/ public/data/ || true
           if git diff --cached --quiet; then
             echo "変更なし（収集スキップまたは新規記事なし）"
