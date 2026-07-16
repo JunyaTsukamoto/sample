@@ -11,7 +11,7 @@ export async function POST(request: NextRequest) {
     }
 
     const settings = getSettings();
-    const apiKey = settings.geminiApiKey || process.env.GEMINI_API_KEY || '';
+    const apiKey = process.env.GEMINI_API_KEY || settings.geminiApiKey || '';
     
     // Sort articles chronologically to get the most recent ones for context
     const articles = getArticles()

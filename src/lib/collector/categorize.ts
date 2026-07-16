@@ -35,3 +35,16 @@ export function extractTags(title: string, body: string, categories: string[]): 
   for (const c of categories) { if (tags.length >= 2) break; if (!tags.includes(c)) tags.push(c); }
   return tags.slice(0, 3);
 }
+
+/** 記事のカテゴリを「1つだけ」決定する (spec §5-14 / 単一分類)。最もスコアの高いカテゴリを返す。 */
+export function classifyCategory(title: string, body: string, sourceCategory: string): string {
+  const hay = (title + ' ' + body).toLowerCase();
+  const scores: Record<string, number> = {};
+  for (const [cat, kws] of Object.entries(CATEGORY_KEYWORDS)) {
+    scores[cat] = kws.reduce((acc, k) => acc + (hay.includes(k.toLowerCase()) ? 1 : 0), 0);
+  }
+  // source既定カテゴリを僅かに優遇（同点時のタイブレーク）
+  if (scores[sourceCategory] !== undefined) scores[sourceCategory] += 0.5;
+  const ranked = Object.entries(scores).sort((a, b) => b[1] - a[1]);
+  return ranked.length && ranked[0][1] > 0 ? ranked[0][0] : sourceCategory;
+}

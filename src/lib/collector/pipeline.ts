@@ -1,8 +1,8 @@
 import { Article, Source, CollectionLog } from '../db';
 import { fetchFeed } from './fetchFeed';
 import { validateArticleUrl } from './validateUrl';
-import { summarize } from './summarize';
-import { classifyCategories, extractTags } from './categorize';
+import { summarize, llmEnrich } from './summarize';
+import { classifyCategory, extractTags } from './categorize';
 import { isDuplicate, registerSeen } from './dedup';
 import { normalizeUrl, contentHash, tokenize } from './normalize';
 import { toJstIso, nowJstIso, hoursSince } from './time';
@@ -122,24 +122,42 @@ export async function runPipeline(
       };
       if (isDuplicate(cand, seenUrls, seenHashes, seenTitleTokens)) { duplicatesRemoved++; continue; }
 
-      const summaryRes = await summarize(v.bodyText, it.feedDescription || v.description, opts.llmKey);
-      if (!summaryRes) { invalidUrlsRemoved++; continue; } // 要約不能なら公開しない (spec §9)
+      const displayTitle = (v.title && v.title.length >= 5) ? v.title : it.title;
 
-      const categories = classifyCategories(it.title, bodyForSummary, source.category);
-      const primaryCat = categories.find((c) => catLimits[c]) || source.category;
+      // 要約・カテゴリ(単一)・タグ: LLMキーがあれば高精度に一括生成、無ければ抽出要約＋キーワード分類
+      let summary = '';
+      let summarySource: 'llm' | 'extractive' | 'feed_description' = 'extractive';
+      let category = '';
+      let tags: string[] = [];
+      if (opts.llmKey) {
+        const enriched = await llmEnrich(displayTitle, v.bodyText || v.description || it.feedDescription, source.name, opts.llmKey);
+        if (enriched) {
+          summary = enriched.summary; summarySource = enriched.summarySource;
+          category = enriched.category; tags = enriched.tags;
+        }
+      }
+      if (!summary) {
+        const summaryRes = await summarize(v.bodyText, it.feedDescription || v.description, undefined);
+        if (!summaryRes) { invalidUrlsRemoved++; continue; } // 要約不能なら公開しない (spec §9)
+        summary = summaryRes.summary; summarySource = summaryRes.summarySource;
+        category = classifyCategory(it.title, bodyForSummary, source.category);
+        tags = extractTags(it.title, bodyForSummary, [category]);
+      }
+
+      // 各記事は単一カテゴリに属する
+      const categories = [category];
+      const primaryCat = catLimits[category] ? category : source.category;
       const cl = catLimits[primaryCat];
       if (cl && catCount[primaryCat] >= cl.max) { continue; }
 
-      const tags = extractTags(it.title, bodyForSummary, categories);
       const now = nowJstIso();
-      const displayTitle = (v.title && v.title.length >= 5) ? v.title : it.title;
 
       const article: Article = {
         id: v.finalUrl,
         title: displayTitle,
         originalTitle: it.title,
-        summary: summaryRes.summary,
-        summarySource: summaryRes.summarySource,
+        summary,
+        summarySource,
         source: source.name,
         sourceId: source.id,
         url: v.finalUrl,
@@ -153,6 +171,7 @@ export async function runPipeline(
         contentType: v.contentType,
         linkStatus: v.linkStatus,
         validationError: null,
+        category,
         categories,
         tags,
         thumbnailUrl: null,

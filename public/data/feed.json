@@ -26,8 +26,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "社会×データ",
-        "AI"
+        "社会×データ"
       ],
       "tags": [
         "量子",
@@ -39,7 +38,8 @@
       "contentHash": "4485745e0c0e1c239a1ac2f4bc73f4ea14e737899bafc3d99514efa5d74c5449",
       "trendScore": 11,
       "createdAt": "2026-07-16T11:28:22+09:00",
-      "updatedAt": "2026-07-16T11:28:22+09:00"
+      "updatedAt": "2026-07-16T11:28:22+09:00",
+      "category": "社会×データ"
     },
     {
       "id": "https://qiita.com/realbios/items/081dd7f0993fc54604fc",
@@ -61,8 +61,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "学術"
+        "AI"
       ],
       "tags": [
         "生成AI",
@@ -75,7 +74,8 @@
       "contentHash": "df6853c17c8059a1fec560945aff9ed8bd54f23091a6c4c61e40d2115dc0135e",
       "trendScore": 10.98,
       "createdAt": "2026-07-16T11:28:22+09:00",
-      "updatedAt": "2026-07-16T11:28:22+09:00"
+      "updatedAt": "2026-07-16T11:28:22+09:00",
+      "category": "AI"
     },
     {
       "id": "https://qiita.com/gracefullight/items/be2b41a9388a31f9db59",
@@ -97,8 +97,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "学術"
+        "AI"
       ],
       "tags": [
         "LLM",
@@ -110,7 +109,8 @@
       "contentHash": "bbbfa4b40570617a2a88c5e57a0a12859c9044ea676701ba5f260b151c34cb35",
       "trendScore": 10.97,
       "createdAt": "2026-07-16T11:28:22+09:00",
-      "updatedAt": "2026-07-16T11:28:22+09:00"
+      "updatedAt": "2026-07-16T11:28:22+09:00",
+      "category": "AI"
     },
     {
       "id": "https://qiita.com/ogawa_slj/items/2de22d508f9c497c874c",
@@ -132,8 +132,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "社会×データ"
+        "AI"
       ],
       "tags": [
         "AI",
@@ -145,7 +144,8 @@
       "contentHash": "f8661902fd15ddce30a3dd81a60e8e8f1c7fbf032088904cb69ec5b63ac6a214",
       "trendScore": 10.97,
       "createdAt": "2026-07-16T11:28:22+09:00",
-      "updatedAt": "2026-07-16T11:28:22+09:00"
+      "updatedAt": "2026-07-16T11:28:22+09:00",
+      "category": "AI"
     },
     {
       "id": "https://qiita.com/sugarfree/items/971a23202024c86ce68e",
@@ -167,8 +167,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "制度"
+        "AI"
       ],
       "tags": [
         "AI",
@@ -180,7 +179,8 @@
       "contentHash": "f72f3f7c08e9fa0b1671ed848a69b0d5ddaa9590617215c16b2472e9e685d022",
       "trendScore": 10.97,
       "createdAt": "2026-07-16T11:28:23+09:00",
-      "updatedAt": "2026-07-16T11:28:23+09:00"
+      "updatedAt": "2026-07-16T11:28:23+09:00",
+      "category": "AI"
     },
     {
       "id": "https://qiita.com/viuk/items/fe845770e62ad73c0ed7",
@@ -202,8 +202,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "社会×データ"
+        "AI"
       ],
       "tags": [
         "生成AI",
@@ -215,7 +214,8 @@
       "contentHash": "e9cb572fa017bd7a4996e76d3bced8f8e596dbcf89f5bab70103d50a9d7b7fa3",
       "trendScore": 10.24,
       "createdAt": "2026-07-16T11:28:23+09:00",
-      "updatedAt": "2026-07-16T11:28:23+09:00"
+      "updatedAt": "2026-07-16T11:28:23+09:00",
+      "category": "AI"
     },
     {
       "id": "https://qiita.com/nakatada-lab/items/6fd0244e0f3d99beb954",
@@ -237,8 +237,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "制度"
+        "AI"
       ],
       "tags": [
         "LLM",
@@ -250,7 +249,8 @@
       "contentHash": "ae5692903d5fa1921219af73a348d7e16f29278c259df1a0fafb13166fcf2007",
       "trendScore": 9.97,
       "createdAt": "2026-07-16T11:28:23+09:00",
-      "updatedAt": "2026-07-16T11:28:23+09:00"
+      "updatedAt": "2026-07-16T11:28:23+09:00",
+      "category": "AI"
     },
     {
       "id": "https://qiita.com/Morimiso_pyt/items/20f1fc75bfd677f453ee",
@@ -272,8 +272,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "社会×データ"
+        "AI"
       ],
       "tags": [
         "AI",
@@ -285,7 +284,8 @@
       "contentHash": "6091f01a28bba460e8a541c3cfc979ddbde4acf4b4b5dd084d8ecd9522d666e8",
       "trendScore": 9.9,
       "createdAt": "2026-07-16T11:28:23+09:00",
-      "updatedAt": "2026-07-16T11:28:23+09:00"
+      "updatedAt": "2026-07-16T11:28:23+09:00",
+      "category": "AI"
     },
     {
       "id": "https://www.publickey1.jp/blog/26/vite.html",
@@ -307,8 +307,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "新事業"
+        "AI"
       ],
       "tags": [
         "生成AI",
@@ -321,7 +320,8 @@
       "contentHash": "3f1281b29e7781fd30a2fce5e1a97113bdf853ae68070976a729fdb13f8faacf",
       "trendScore": 10.38,
       "createdAt": "2026-07-16T11:28:24+09:00",
-      "updatedAt": "2026-07-16T11:28:24+09:00"
+      "updatedAt": "2026-07-16T11:28:24+09:00",
+      "category": "AI"
     },
     {
       "id": "https://www.digital.go.jp/speech/minister-260714-01",
@@ -343,8 +343,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "制度",
-        "社会×データ"
+        "制度"
       ],
       "tags": [
         "ガイドライン",
@@ -356,7 +355,8 @@
       "contentHash": "f5f91448907f82bd7fe1db811816be2015761c41f301fc05fe29ef9726c7aa73",
       "trendScore": 9.97,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.digital.go.jp/procurement/invitation-answer",
@@ -378,8 +378,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "制度",
-        "社会×データ"
+        "制度"
       ],
       "tags": [
         "セキュリティ",
@@ -391,7 +390,8 @@
       "contentHash": "5113edb27260dc5d5336346ec0d543ee8d3c214591d3c3f7f7a31564355b9b45",
       "trendScore": 9.78,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.digital.go.jp/resources/standard_guidelines",
@@ -413,8 +413,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "生成AI",
@@ -427,7 +426,8 @@
       "contentHash": "5d52faf93b5671431be1c79d97e17fa507092c7994d26eb28c97b8cb294be8c1",
       "trendScore": 9.78,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.digital.go.jp/policies/health/public-medical-hub",
@@ -449,8 +449,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "制度",
-        "社会×データ"
+        "制度"
       ],
       "tags": [
         "プライバシー",
@@ -462,7 +461,8 @@
       "contentHash": "209bf931598e14c27da6333708991d8ce5c81cbcdb321aac29bd3e35b7375348",
       "trendScore": 9.78,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.digital.go.jp/councils/ai-advisory-board/770d4c48-7f40-49a6-a49d-56a763800a42",
@@ -484,8 +484,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "生成AI",
@@ -497,7 +496,8 @@
       "contentHash": "a3ad5187e8843e7b290f7a65d2b5945a61d959a0be81b4a125a926e0b211f123",
       "trendScore": 8.42,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.digital.go.jp/about/drone",
@@ -530,7 +530,8 @@
       "contentHash": "36750d6d04bb8875b2275eaf1f34c141c0dc6e35e118702b38e815b494c2dc6c",
       "trendScore": 8.35,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.digital.go.jp/resources/govdashboard/front-yard-reform",
@@ -552,8 +553,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "制度",
-        "社会×データ"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -565,7 +565,8 @@
       "contentHash": "bf2918f548acce5481fd35fb100eb52c8bd2e9d5efe8a557a3c7fbaf5c116fe2",
       "trendScore": 8.35,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list",
@@ -587,8 +588,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "制度",
-        "学術"
+        "制度"
       ],
       "tags": [
         "DX",
@@ -600,7 +600,8 @@
       "contentHash": "7cff8e85dda6ecd67699282a075b3f4ce54b19077691dea6f979bbbd7f0deb4e",
       "trendScore": 8.35,
       "createdAt": "2026-07-16T11:28:25+09:00",
-      "updatedAt": "2026-07-16T11:28:25+09:00"
+      "updatedAt": "2026-07-16T11:28:25+09:00",
+      "category": "制度"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000037.000114607.html",
@@ -622,8 +623,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "AI"
+        "新事業"
       ],
       "tags": [
         "新事業",
@@ -635,7 +635,8 @@
       "contentHash": "a93b91a577799f4b0ff579efbdbdf0511a6a5380f2dc79a85fbaab6761c49515",
       "trendScore": 10.96,
       "createdAt": "2026-07-16T11:28:28+09:00",
-      "updatedAt": "2026-07-16T11:28:28+09:00"
+      "updatedAt": "2026-07-16T11:28:28+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000147.000014652.html",
@@ -668,7 +669,8 @@
       "contentHash": "7b0c4834ac81e07d3fdc167cfd4313a99d9bfe268c7885de388ae1070ab1b852",
       "trendScore": 10.96,
       "createdAt": "2026-07-16T11:28:28+09:00",
-      "updatedAt": "2026-07-16T11:28:28+09:00"
+      "updatedAt": "2026-07-16T11:28:28+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000094.000077866.html",
@@ -690,8 +692,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "社会×データ",
-        "新事業"
+        "社会×データ"
       ],
       "tags": [
         "ヘルスケア",
@@ -703,7 +704,8 @@
       "contentHash": "ecfe62a7dde65c7a0f46279413091fb899b190f5d8f76afb255644be11773186",
       "trendScore": 10.96,
       "createdAt": "2026-07-16T11:28:28+09:00",
-      "updatedAt": "2026-07-16T11:28:28+09:00"
+      "updatedAt": "2026-07-16T11:28:28+09:00",
+      "category": "社会×データ"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000030.000148364.html",
@@ -725,8 +727,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "AI"
+        "新事業"
       ],
       "tags": [
         "新事業",
@@ -738,7 +739,8 @@
       "contentHash": "7244269e140b6c8edb4256ca9bdb8256eac58a09f59040487f111e0aacb9d186",
       "trendScore": 10.96,
       "createdAt": "2026-07-16T11:28:28+09:00",
-      "updatedAt": "2026-07-16T11:28:28+09:00"
+      "updatedAt": "2026-07-16T11:28:28+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000314.000038986.html",
@@ -771,7 +773,8 @@
       "contentHash": "f4867a3edf488de81390b63d28e4c488913a7640e12e3959e68d9cf787b60c90",
       "trendScore": 10.96,
       "createdAt": "2026-07-16T11:28:28+09:00",
-      "updatedAt": "2026-07-16T11:28:28+09:00"
+      "updatedAt": "2026-07-16T11:28:28+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000647.000036256.html",
@@ -793,8 +796,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "AI"
+        "新事業"
       ],
       "tags": [
         "新事業",
@@ -806,7 +808,8 @@
       "contentHash": "f9ca90b778bae6329954dbcbb0db7c86b07761d2ca1f7543853d5a78e1d1ccde",
       "trendScore": 10.96,
       "createdAt": "2026-07-16T11:28:28+09:00",
-      "updatedAt": "2026-07-16T11:28:28+09:00"
+      "updatedAt": "2026-07-16T11:28:28+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000026.000043778.html",
@@ -828,8 +831,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "AI"
+        "新事業"
       ],
       "tags": [
         "新事業",
@@ -841,7 +843,8 @@
       "contentHash": "50fb2f5db74d562b44f69d9d72eb8d9cf6b92999de888ced8d443ce282e55a8b",
       "trendScore": 10.96,
       "createdAt": "2026-07-16T11:28:28+09:00",
-      "updatedAt": "2026-07-16T11:28:28+09:00"
+      "updatedAt": "2026-07-16T11:28:28+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://qiita.com/ennagara128/items/dc5ecf2a810e0be9a7b6",
@@ -863,8 +866,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "制度"
+        "AI"
       ],
       "tags": [
         "AI",
@@ -876,7 +878,8 @@
       "contentHash": "ca08cbd99b742cbe317d94a008f4ff81696de1fdd8feee56e646da4906108684",
       "trendScore": 10.98,
       "createdAt": "2026-07-16T11:54:00+09:00",
-      "updatedAt": "2026-07-16T11:54:00+09:00"
+      "updatedAt": "2026-07-16T11:54:00+09:00",
+      "category": "AI"
     },
     {
       "id": "https://qiita.com/tom_m_m/items/6902d2ec101fe76a0504",
@@ -898,8 +901,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "制度"
+        "AI"
       ],
       "tags": [
         "LLM",
@@ -911,7 +913,8 @@
       "contentHash": "b31aef8e8a5c9ba8bec4557d0a1d9dfa472441ec295e1da9bafb3a2e4acb38be",
       "trendScore": 10.98,
       "createdAt": "2026-07-16T11:54:00+09:00",
-      "updatedAt": "2026-07-16T11:54:00+09:00"
+      "updatedAt": "2026-07-16T11:54:00+09:00",
+      "category": "AI"
     },
     {
       "id": "https://www.publickey1.jp/blog/26/javascriptspreadjs.html",
@@ -933,8 +936,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "制度"
+        "AI"
       ],
       "tags": [
         "生成AI",
@@ -947,7 +949,8 @@
       "contentHash": "40fdec09ac3a500119a04952d1391911b42636bc91e1036b55c3dd6876ad4fee",
       "trendScore": 10.35,
       "createdAt": "2026-07-16T11:54:02+09:00",
-      "updatedAt": "2026-07-16T11:54:02+09:00"
+      "updatedAt": "2026-07-16T11:54:02+09:00",
+      "category": "AI"
     },
     {
       "id": "https://www.publickey1.jp/blog/26/202960.html",
@@ -969,8 +972,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "社会×データ"
+        "AI"
       ],
       "tags": [
         "生成AI",
@@ -983,7 +985,8 @@
       "contentHash": "0e0646affeb9eeaf0c403f9431f257b3f1923eb1ba4e6b18597c9612c72a7260",
       "trendScore": 8.91,
       "createdAt": "2026-07-16T11:54:02+09:00",
-      "updatedAt": "2026-07-16T11:54:02+09:00"
+      "updatedAt": "2026-07-16T11:54:02+09:00",
+      "category": "AI"
     },
     {
       "id": "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
@@ -1005,8 +1008,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "制度"
+        "AI"
       ],
       "tags": [
         "生成AI",
@@ -1019,7 +1021,8 @@
       "contentHash": "f686fa0b3863afdb5b6400712786e7c7c0ddd53fb19efae2d8d76a648e2ccafc",
       "trendScore": 7.48,
       "createdAt": "2026-07-16T11:54:02+09:00",
-      "updatedAt": "2026-07-16T11:54:02+09:00"
+      "updatedAt": "2026-07-16T11:54:02+09:00",
+      "category": "AI"
     },
     {
       "id": "https://www.publickey1.jp/blog/26/3ai.html",
@@ -1041,8 +1044,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "AI",
-        "制度"
+        "AI"
       ],
       "tags": [
         "生成AI",
@@ -1055,7 +1057,8 @@
       "contentHash": "ba682e559ff83f9629ff796d98dd7736a6d0fda1d8318d0217f78822f348e734",
       "trendScore": 7.48,
       "createdAt": "2026-07-16T11:54:02+09:00",
-      "updatedAt": "2026-07-16T11:54:02+09:00"
+      "updatedAt": "2026-07-16T11:54:02+09:00",
+      "category": "AI"
     },
     {
       "id": "https://techblog.zozo.com/entry/rethinking-ai",
@@ -1077,8 +1080,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "社会×データ",
-        "AI"
+        "社会×データ"
       ],
       "tags": [
         "ガイドライン",
@@ -1090,7 +1092,8 @@
       "contentHash": "30c9bab2bb518ef6e3cd65cce74262507e50a26f0e83a2d8eeb5813e6417fe2d",
       "trendScore": 15.95,
       "createdAt": "2026-07-16T11:54:03+09:00",
-      "updatedAt": "2026-07-16T11:54:03+09:00"
+      "updatedAt": "2026-07-16T11:54:03+09:00",
+      "category": "社会×データ"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/sogo12_hh_000530.html",
@@ -1112,8 +1115,7 @@
       "linkStatus": "redirected",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -1125,7 +1127,8 @@
       "contentHash": "45718dd9f3f6369c4ff22d58978fb37e41abba409bcbde3a61ab42a16132f47a",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/sogo01_hh_000075.html",
@@ -1147,8 +1150,7 @@
       "linkStatus": "redirected",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -1160,7 +1162,8 @@
       "contentHash": "0e4b51dc4968996b73cd66e6bd045c40d8fc3b53ee60d6b46c0346d28568b7a5",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/sogo09_hh_000439.html",
@@ -1182,8 +1185,7 @@
       "linkStatus": "redirected",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -1195,7 +1197,8 @@
       "contentHash": "7f8ac322e2bb7257cb8cf9b20bd6bb3c6f125801facc49813c3ef16eda8f7726",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00354.html",
@@ -1217,8 +1220,7 @@
       "linkStatus": "redirected",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -1230,7 +1232,8 @@
       "contentHash": "e945fe71bd54d104e5a6448a00b85ac55173f7d94d66db7d0a9f40149adcc77e",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00353.html",
@@ -1252,8 +1255,7 @@
       "linkStatus": "redirected",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -1265,7 +1267,8 @@
       "contentHash": "888ac3f5916c3168c77730ed95362634303a2f5f5bd47f626250d8329866e595",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo16_hh_000001_00125.html",
@@ -1287,8 +1290,7 @@
       "linkStatus": "redirected",
       "validationError": null,
       "categories": [
-        "制度",
-        "新事業"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -1300,7 +1302,8 @@
       "contentHash": "24801343057a9e9c8be695fbe243c51203568262c52cd7ecde7943a3e5753ea5",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00370.html",
@@ -1333,7 +1336,8 @@
       "contentHash": "1fcda3d1945d8c85445644311d75c1486335eb796b2fd906ba4f23f28f850fdb",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/mizukokudo04_hh_000308.html",
@@ -1355,8 +1359,7 @@
       "linkStatus": "redirected",
       "validationError": null,
       "categories": [
-        "制度",
-        "AI"
+        "制度"
       ],
       "tags": [
         "制度",
@@ -1368,7 +1371,8 @@
       "contentHash": "ac7285e414c7ae3329345012eb3725557cf26b7f03a64da5adf06dbdfb80dbaf",
       "trendScore": 9.16,
       "createdAt": "2026-07-16T11:54:05+09:00",
-      "updatedAt": "2026-07-16T11:54:05+09:00"
+      "updatedAt": "2026-07-16T11:54:05+09:00",
+      "category": "制度"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000001.000187353.html",
@@ -1390,8 +1394,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "AI"
+        "新事業"
       ],
       "tags": [
         "新事業",
@@ -1403,7 +1406,8 @@
       "contentHash": "5b207693716a62685ecc8d7f04373e1a382000513e2a16ea43d1d90b760f4c12",
       "trendScore": 10.99,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000075.000104293.html",
@@ -1425,8 +1429,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "社会×データ",
-        "新事業"
+        "社会×データ"
       ],
       "tags": [
         "生成AI",
@@ -1438,7 +1441,8 @@
       "contentHash": "0acd662067ae940b9ac1e7766928f0d220d1081c0f781a16b84eff2ab03b941e",
       "trendScore": 10.99,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "社会×データ"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000134.000046420.html",
@@ -1460,8 +1464,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "社会×データ"
+        "新事業"
       ],
       "tags": [
         "DX",
@@ -1473,7 +1476,8 @@
       "contentHash": "74da94c296ed34aa94ad6652e4beb2be40d326f5d86eece13177104bf75dd012",
       "trendScore": 10.99,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000022.000093475.html",
@@ -1495,8 +1499,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "社会×データ"
+        "新事業"
       ],
       "tags": [
         "新事業",
@@ -1508,7 +1511,8 @@
       "contentHash": "6d48d4b10ae18f0e07e8fa16f3fe57c8bc238aaff661171c1f47b0b910a9d4f4",
       "trendScore": 10.99,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000120.000072662.html",
@@ -1530,8 +1534,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "社会×データ"
+        "新事業"
       ],
       "tags": [
         "セキュリティ",
@@ -1543,7 +1546,8 @@
       "contentHash": "91ca162bad5a4b7a7262f40b272fdb9072dd030691274cab9e89f0ddd3dd587b",
       "trendScore": 10.99,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000724.000058538.html",
@@ -1565,8 +1569,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "社会×データ",
-        "AI"
+        "社会×データ"
       ],
       "tags": [
         "社会×データ",
@@ -1578,7 +1581,8 @@
       "contentHash": "8146984fc31126ce0c55067e74ce141fb0cad4c0dfa0a5a81ef57e0e765e3ce2",
       "trendScore": 10.99,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "社会×データ"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000388.000031450.html",
@@ -1611,7 +1615,8 @@
       "contentHash": "f349c17ce3452e4811744efd9defe13216c3f5094fe41dcba3424ae25664a2df",
       "trendScore": 10.99,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "新事業"
     },
     {
       "id": "https://thebridge.jp/2026/07/nujp-raises-100-million-yen-for-japanese-brand-global-expansion",
@@ -1633,8 +1638,7 @@
       "linkStatus": "valid",
       "validationError": null,
       "categories": [
-        "新事業",
-        "AI"
+        "新事業"
       ],
       "tags": [
         "DX",
@@ -1647,7 +1651,8 @@
       "contentHash": "f78f658e9679a575c8e297a12c5a9a728c9eda2cfca348eae7c2a06dea91953a",
       "trendScore": 9.59,
       "createdAt": "2026-07-16T11:54:07+09:00",
-      "updatedAt": "2026-07-16T11:54:07+09:00"
+      "updatedAt": "2026-07-16T11:54:07+09:00",
+      "category": "新事業"
     }
   ]
 }

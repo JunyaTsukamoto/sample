@@ -32,8 +32,10 @@ export async function GET(request: NextRequest) {
       );
     }
 
+    // APIキーはクライアントに返さない（漏洩防止）
+    const safeSettings = { mutationRate: db.settings.mutationRate, geminiApiKey: '' };
     const respond = (arts: Article[]) =>
-      NextResponse.json({ articles: arts, preferences, bookmarks: db.bookmarks, settings: db.settings, meta: db.meta, lastLog: db.logs[0] || null });
+      NextResponse.json({ articles: arts, preferences, bookmarks: db.bookmarks, settings: safeSettings, meta: db.meta, lastLog: db.logs[0] || null });
 
     if (filtered.length === 0) return respond([]);
 
