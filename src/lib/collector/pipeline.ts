@@ -49,8 +49,8 @@ export async function runPipeline(
   opts: PipelineOptions = {}
 ): Promise<PipelineResult> {
   const freshnessHours = opts.freshnessHours ?? 72;
-  const maxValidate = opts.maxValidatePerSource ?? 6;
-  const deadline = Date.now() + (opts.maxRuntimeMs ?? 10 * 60 * 1000); // 既定10分
+  const maxValidate = opts.maxValidatePerSource ?? 5;
+  const deadline = Date.now() + (opts.maxRuntimeMs ?? 8 * 60 * 1000); // 既定8分
   const maxPerSource = opts.maxPerSource ?? 3;
   const catLimits = opts.categoryLimits ?? DEFAULT_CATEGORY_LIMITS;
   const totalMax = opts.totalMax ?? 15;
@@ -100,6 +100,7 @@ export async function runPipeline(
 
     let validatedForSource = 0;
     for (const it of sorted) {
+      if (Date.now() > deadline) break;
       if (validatedForSource >= maxValidate) break;
       if (publishedForSource >= maxPerSource) break; // 1ソースの独占を防ぐ
       // カテゴリ上限に達していれば、このソース既定カテゴリはスキップ
@@ -131,31 +132,32 @@ export async function runPipeline(
 
       const displayTitle = (v.title && v.title.length >= 5) ? v.title : it.title;
 
-      // 要約・カテゴリ(単一)・タグ: LLMキーがあれば高精度に一括生成、無ければ抽出要約＋キーワード分類
+      // 先にキーワードでカテゴリを仮判定し、枠が満杯ならGeminiを呼ばずにスキップ（呼び出し回数を削減）
+      let category = classifyCategory(it.title, bodyForSummary, source.category);
+      let primaryCat = catLimits[category] ? category : source.category;
+      const cl = catLimits[primaryCat];
+      if (cl && catCount[primaryCat] >= cl.max) { continue; }
+
+      // 保持が決まった記事だけ要約する（LLMキーがあれば高精度、無ければ抽出）
       let summary = '';
       let summarySource: 'llm' | 'extractive' | 'feed_description' = 'extractive';
-      let category = '';
-      let tags: string[] = [];
+      let tags = extractTags(it.title, bodyForSummary, [category]);
       if (opts.llmKey) {
         const enriched = await llmEnrich(displayTitle, v.bodyText || v.description || it.feedDescription, source.name, opts.llmKey);
         if (enriched) {
           summary = enriched.summary; summarySource = enriched.summarySource;
-          category = enriched.category; tags = enriched.tags;
+          if (catLimits[enriched.category]) { category = enriched.category; primaryCat = category; }
+          if (enriched.tags && enriched.tags.length) tags = enriched.tags;
         }
       }
       if (!summary) {
         const summaryRes = await summarize(v.bodyText, it.feedDescription || v.description, undefined);
         if (!summaryRes) { invalidUrlsRemoved++; continue; } // 要約不能なら公開しない (spec §9)
         summary = summaryRes.summary; summarySource = summaryRes.summarySource;
-        category = classifyCategory(it.title, bodyForSummary, source.category);
-        tags = extractTags(it.title, bodyForSummary, [category]);
       }
 
       // 各記事は単一カテゴリに属する
       const categories = [category];
-      const primaryCat = catLimits[category] ? category : source.category;
-      const cl = catLimits[primaryCat];
-      if (cl && catCount[primaryCat] >= cl.max) { continue; }
 
       const now = nowJstIso();
 
