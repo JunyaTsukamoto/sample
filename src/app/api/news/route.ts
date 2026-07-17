@@ -63,7 +63,7 @@ export async function GET(request: NextRequest) {
 
     // フィルターバブル対策の突然変異ミックス
     const finalArticles: Article[] = [];
-    const limit = 40;
+    const limit = 24;
     const pivot = Math.floor(scored.length * 0.6);
     const top = scored.slice(0, pivot);
     const mut = scored.slice(pivot);

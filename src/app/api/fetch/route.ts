@@ -2,10 +2,10 @@ import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
 import {
-  readDb, writeDb, saveArticles, appendLog, setMeta, getPublishedArticles, CollectionLog,
+  readDb, writeDb, saveArticles, appendLog, setMeta, getPublishedArticles, applyRetention, CollectionLog,
 } from '@/lib/db';
 import { runPipeline } from '@/lib/collector/pipeline';
-import { nowJstIso, nextSevenAmJst, toJstIso } from '@/lib/collector/time';
+import { nowJstIso, nextRunJst, toJstIso } from '@/lib/collector/time';
 
 export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
@@ -37,12 +37,13 @@ export async function POST(request: NextRequest) {
     const { articles, log, updatedSources } = await runPipeline(db.sources, db.articles, { llmKey });
     const after = readDb(); after.sources = updatedSources; writeDb(after);
     if (articles.length > 0) saveArticles(articles);
+    applyRetention(3);
 
     const status: CollectionLog['status'] =
       log.sourcesFailed === 0 ? 'success' : log.sourcesSucceeded === 0 ? 'failed' : 'partial_success';
     const finishedAt = nowJstIso();
     appendLog({ jobId, scheduledAt: startedAt, startedAt, finishedAt, status, ...log });
-    setMeta({ nextScheduledAt: nextSevenAmJst() });
+    setMeta({ nextScheduledAt: nextRunJst() });
     writePublicFeed();
 
     return NextResponse.json({

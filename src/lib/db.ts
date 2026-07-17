@@ -223,3 +223,19 @@ export function getSettings(): Settings { return readDb().settings; }
 export function saveSettings(settings: Partial<Settings>): Settings {
   const db = readDb(); db.settings = { ...db.settings, ...settings }; writeDb(db); return db.settings;
 }
+
+/** 保持期間(日)を超えた公開記事を非公開にする（ブックマーク済みは残す）。フィードの肥大化防止。 */
+export function applyRetention(days = 3): number {
+  const db = readDb();
+  const cutoff = Date.now() - days * 24 * 3600 * 1000;
+  const bookmarked = new Set(db.bookmarks);
+  let retired = 0;
+  for (const a of db.articles) {
+    if (a.published === false) continue;
+    if (bookmarked.has(a.id)) continue; // ブックマークは保持
+    const t = new Date(a.publishedAt).getTime();
+    if (!isNaN(t) && t < cutoff) { a.published = false; a.updatedAt = new Date().toISOString(); retired++; }
+  }
+  if (retired > 0) writeDb(db);
+  return retired;
+}

@@ -11,14 +11,17 @@ export function toJstIso(d: Date): string {
 
 export function nowJstIso(): string { return toJstIso(new Date()); }
 
-/** 次回7時JSTの予定時刻を返す */
-export function nextSevenAmJst(from = new Date()): string {
+/** 次回の定期実行(5時JST)の予定時刻を返す */
+export const SCHEDULED_HOUR_JST = 5;
+export function nextRunJst(from = new Date()): string {
   const jstNow = new Date(from.getTime() + 9 * 3600 * 1000);
   const y = jstNow.getUTCFullYear(), m = jstNow.getUTCMonth(), d = jstNow.getUTCDate();
-  let target = Date.UTC(y, m, d, 7 - 9, 0, 0); // 07:00 JST == 22:00 前日 UTC
+  let target = Date.UTC(y, m, d, SCHEDULED_HOUR_JST - 9, 0, 0); // 05:00 JST == 20:00 前日 UTC
   if (from.getTime() >= target) target += 24 * 3600 * 1000;
   return toJstIso(new Date(target));
 }
+/** @deprecated 後方互換 */
+export const nextSevenAmJst = nextRunJst;
 
 /** 経過時間（時間） */
 export function hoursSince(iso: string, now = Date.now()): number {

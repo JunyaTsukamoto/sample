@@ -4,10 +4,12 @@ name: collect-news
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 07:00 JST
-    - cron: '15 22 * * *'  # 07:15 JST（再実行）
-    - cron: '30 22 * * *'  # 07:30 JST（再実行）
-    - cron: '0 23 * * *'   # 08:00 JST（再実行）
+    # cron は UTC。5:00 JST = 前日 20:00 UTC。
+    # GitHubのcron遅延に備えて早朝5時台に実行し、失敗時は再試行。
+    - cron: '0 20 * * *'   # 05:00 JST
+    - cron: '15 20 * * *'  # 05:15 JST（再実行）
+    - cron: '30 20 * * *'  # 05:30 JST（再実行）
+    - cron: '0 21 * * *'   # 06:00 JST（再実行）
   workflow_dispatch:
     inputs:
       force:

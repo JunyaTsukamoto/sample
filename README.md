@@ -112,7 +112,7 @@ npm run collect -- --force     # コマンドラインから即時実行
 
 ---
 
-## 7. 毎朝7時の定期実行設定（サーバー側cron）
+## 7. 毎朝5時の定期実行設定（サーバー側cron）
 
 `.github/workflows/collect.yml` により **GitHub Actions** が自動実行します。
 GitHub Actions はクラウド上で動くため、**利用者がブラウザ／PWAを閉じていても実行**されます。
@@ -120,10 +120,10 @@ GitHub Actions はクラウド上で動くため、**利用者がブラウザ／
 ```yaml
 on:
   schedule:
-    - cron: '0 22 * * *'   # 07:00 JST（cronはUTC。JST−9時間）
-    - cron: '15 22 * * *'  # 07:15 JST（再実行）
-    - cron: '30 22 * * *'  # 07:30 JST（再実行）
-    - cron: '0 23 * * *'   # 08:00 JST（再実行）
+    - cron: '0 22 * * *'   # 05:00 JST（cronはUTC。JST−9時間）
+    - cron: '15 20 * * *'  # 05:15 JST（再実行）
+    - cron: '30 20 * * *'  # 05:30 JST（再実行）
+    - cron: '0 21 * * *'   # 06:00 JST（再実行）
 ```
 
 - 収集が成功するとその日はスキップ（同日重複実行の防止）。失敗時のみ次の時刻が再試行になります。
@@ -202,7 +202,7 @@ scripts/recheck.ts           リンク切れ再確認
 scripts/seed.ts              情報源シード
 scripts/guard-mock.js        本番モック混入ガード
 src/app/                     フロント（page.tsx / admin / api）
-.github/workflows/           collect.yml（毎朝7時JST）/ recheck.yml
+.github/workflows/           collect.yml（毎朝5時JST）/ recheck.yml
 tests/                       ユニット＋ローカル統合テスト
 ```
 

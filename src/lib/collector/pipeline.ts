@@ -11,16 +11,17 @@ export interface PipelineOptions {
   llmKey?: string;
   freshnessHours?: number;   // 既定72h (spec §10)
   maxValidatePerSource?: number;
+  maxPerSource?: number;   // 1情報源が1回の収集で公開できる最大件数（多様性確保）
   categoryLimits?: Record<string, { min: number; max: number }>;
   totalMax?: number;
 }
 
 const DEFAULT_CATEGORY_LIMITS: Record<string, { min: number; max: number }> = {
-  AI: { min: 3, max: 8 },
-  制度: { min: 3, max: 8 },
-  '社会×データ': { min: 2, max: 6 },
-  学術: { min: 3, max: 8 },
-  新事業: { min: 2, max: 6 },
+  AI: { min: 2, max: 4 },
+  制度: { min: 2, max: 4 },
+  '社会×データ': { min: 1, max: 3 },
+  学術: { min: 1, max: 3 },
+  新事業: { min: 2, max: 4 },
 };
 
 export interface PipelineResult {
@@ -48,8 +49,9 @@ export async function runPipeline(
 ): Promise<PipelineResult> {
   const freshnessHours = opts.freshnessHours ?? 72;
   const maxValidate = opts.maxValidatePerSource ?? 8;
+  const maxPerSource = opts.maxPerSource ?? 3;
   const catLimits = opts.categoryLimits ?? DEFAULT_CATEGORY_LIMITS;
-  const totalMax = opts.totalMax ?? 30;
+  const totalMax = opts.totalMax ?? 15;
 
   // 既存記事を「既知」として登録（重複排除 spec §11）
   const seenUrls = new Set<string>();
@@ -74,6 +76,7 @@ export async function runPipeline(
 
   for (const source of enabled) {
     source.lastFetchedAt = nowJstIso();
+    let publishedForSource = 0;
     let items;
     try {
       items = await fetchFeed(source);
@@ -95,6 +98,7 @@ export async function runPipeline(
     let validatedForSource = 0;
     for (const it of sorted) {
       if (validatedForSource >= maxValidate) break;
+      if (publishedForSource >= maxPerSource) break; // 1ソースの独占を防ぐ
       // カテゴリ上限に達していれば、このソース既定カテゴリはスキップ
       const lim = catLimits[source.category];
       if (lim && catCount[source.category] >= lim.max) break;
@@ -185,6 +189,7 @@ export async function runPipeline(
 
       registerSeen(cand, seenUrls, seenHashes, seenTitleTokens);
       catCount[primaryCat] = (catCount[primaryCat] || 0) + 1;
+      publishedForSource++;
       out.push(article);
       if (out.length >= totalMax) break;
     }

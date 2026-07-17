@@ -3,10 +3,10 @@ import fs from 'fs';
 import path from 'path';
 import {
   readDb, writeDb, saveArticles, appendLog, setMeta,
-  getPublishedArticles, CollectionLog,
+  getPublishedArticles, applyRetention, CollectionLog,
 } from '../src/lib/db';
 import { runPipeline } from '../src/lib/collector/pipeline';
-import { nowJstIso, nextSevenAmJst, toJstIso } from '../src/lib/collector/time';
+import { nowJstIso, nextRunJst, toJstIso } from '../src/lib/collector/time';
 import { seedSources } from './seed';
 
 function jstDateKey(iso: string | null): string | null {
@@ -56,6 +56,7 @@ async function main() {
     writeDb(dbAfter);
 
     if (articles.length > 0) saveArticles(articles);
+    applyRetention(3); // 3日を超えた記事を自動整理
 
     status = log.sourcesFailed === 0 ? 'success'
       : log.sourcesSucceeded === 0 ? 'failed'
@@ -66,7 +67,7 @@ async function main() {
       jobId, scheduledAt, startedAt, finishedAt, status, ...log,
     };
     appendLog(fullLog);
-    setMeta({ nextScheduledAt: nextSevenAmJst() });
+    setMeta({ nextScheduledAt: nextRunJst() });
     writePublicFeed();
 
     console.log(`[collect] done status=${status} published=${log.articlesPublished} ` +
@@ -82,7 +83,7 @@ async function main() {
       candidatesFound: 0, duplicatesRemoved: 0, invalidUrlsRemoved: 0,
       articlesPublished: 0, errors: [{ message: `致命的エラー: ${e?.message || e}` }],
     });
-    setMeta({ nextScheduledAt: nextSevenAmJst() });
+    setMeta({ nextScheduledAt: nextRunJst() });
     console.error('[collect] FAILED:', e);
     process.exit(1);
   }
