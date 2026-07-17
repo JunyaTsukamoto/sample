@@ -12,6 +12,7 @@ export interface PipelineOptions {
   freshnessHours?: number;   // 既定72h (spec §10)
   maxValidatePerSource?: number;
   maxPerSource?: number;   // 1情報源が1回の収集で公開できる最大件数（多様性確保）
+  maxRuntimeMs?: number;   // 全体の実行時間上限（ハング/超過防止）
   categoryLimits?: Record<string, { min: number; max: number }>;
   totalMax?: number;
 }
@@ -48,7 +49,8 @@ export async function runPipeline(
   opts: PipelineOptions = {}
 ): Promise<PipelineResult> {
   const freshnessHours = opts.freshnessHours ?? 72;
-  const maxValidate = opts.maxValidatePerSource ?? 8;
+  const maxValidate = opts.maxValidatePerSource ?? 6;
+  const deadline = Date.now() + (opts.maxRuntimeMs ?? 10 * 60 * 1000); // 既定10分
   const maxPerSource = opts.maxPerSource ?? 3;
   const catLimits = opts.categoryLimits ?? DEFAULT_CATEGORY_LIMITS;
   const totalMax = opts.totalMax ?? 15;
@@ -75,6 +77,7 @@ export async function runPipeline(
   const enabled = updatedSources.filter((s) => s.enabled && s.type !== 'manual');
 
   for (const source of enabled) {
+    if (Date.now() > deadline) { errors.push({ message: '実行時間上限に達したため残りの情報源をスキップ' }); break; }
     source.lastFetchedAt = nowJstIso();
     let publishedForSource = 0;
     let items;

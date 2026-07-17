@@ -14,6 +14,15 @@ export interface EnrichResult {
 
 const CATEGORIES = ['AI', '制度', '社会×データ', '学術', '新事業'] as const;
 
+/** Promiseにタイムアウトを付ける（外部呼び出しのハング防止） */
+function withTimeout<T>(p: Promise<T>, ms: number): Promise<T> {
+  return Promise.race([
+    p,
+    new Promise<T>((_, reject) => setTimeout(() => reject(new Error('timeout')), ms)),
+  ]);
+}
+
+
 /** テキストが日本語主体か判定 */
 function isJapanese(text: string): boolean {
   const t = (text || '').replace(/\s/g, '');
@@ -71,7 +80,7 @@ export async function llmEnrich(
       },
     });
     const prompt = `次は実在するニュース記事の本文です。本文に書かれた事実だけを使い、必ず日本語で処理してください（英語記事は日本語に翻訳）。\n1) 100〜200字の要約（本文に無い固有名詞・数値を足さない、推測や誇張をしない）\n2) 最も合致するカテゴリを次から1つだけ選ぶ: ${CATEGORIES.join(' / ')}\n3) 日本語の重要キーワードを2〜3個\nJSONのみ出力。\n\n【タイトル】${title}\n【出典】${source}\n【本文】\n${src.slice(0, 6000)}`;
-    const r = await model.generateContent(prompt);
+    const r = await withTimeout(model.generateContent(prompt), 25000);
     const parsed = JSON.parse(r.response.text());
     if (!parsed?.summary || !parsed?.category) return null;
     const category = (CATEGORIES as readonly string[]).includes(parsed.category) ? parsed.category : 'AI';

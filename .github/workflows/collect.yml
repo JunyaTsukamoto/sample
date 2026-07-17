@@ -27,6 +27,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     env:
       TZ: Asia/Tokyo
       APP_TIMEZONE: Asia/Tokyo
