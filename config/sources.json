@@ -414,5 +414,44 @@
     "lastFetchedAt": null,
     "lastSuccessAt": null,
     "consecutiveFailures": 0
+  },
+  {
+    "id": "src-toyokeizai",
+    "name": "東洋経済オンライン",
+    "baseUrl": "https://toyokeizai.net/",
+    "feedUrl": "https://toyokeizai.net/list/feed/rss",
+    "type": "rss",
+    "category": "新事業",
+    "enabled": true,
+    "reliabilityScore": 0.8,
+    "lastFetchedAt": null,
+    "lastSuccessAt": null,
+    "consecutiveFailures": 0
+  },
+  {
+    "id": "src-diamond",
+    "name": "ダイヤモンド・オンライン",
+    "baseUrl": "https://diamond.jp/",
+    "feedUrl": "https://diamond.jp/list/feed/rss/dol",
+    "type": "rss",
+    "category": "新事業",
+    "enabled": true,
+    "reliabilityScore": 0.8,
+    "lastFetchedAt": null,
+    "lastSuccessAt": null,
+    "consecutiveFailures": 0
+  },
+  {
+    "id": "src-nikkei-business",
+    "name": "日経ビジネス電子版",
+    "baseUrl": "https://business.nikkei.com/",
+    "feedUrl": "https://business.nikkei.com/rss/sns/nb.rdf",
+    "type": "rss",
+    "category": "新事業",
+    "enabled": true,
+    "reliabilityScore": 0.7,
+    "lastFetchedAt": null,
+    "lastSuccessAt": null,
+    "consecutiveFailures": 0
   }
 ]
