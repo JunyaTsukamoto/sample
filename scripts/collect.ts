@@ -7,6 +7,7 @@ import {
 } from '../src/lib/db';
 import { runPipeline } from '../src/lib/collector/pipeline';
 import { getLlmConfig } from '../src/lib/collector/summarize';
+import { manageSources } from '../src/lib/collector/manageSources';
 import { nowJstIso, nextRunJst, toJstIso } from '../src/lib/collector/time';
 import { seedSources } from './seed';
 
@@ -70,6 +71,10 @@ async function main() {
       jobId, scheduledAt, startedAt, finishedAt, status, ...log,
     };
     appendLog(fullLog);
+    // 自己修復: 連続失敗6回以上のソースを無効化し予備を補充
+    const mng = manageSources(6);
+    if (mng.retired.length) console.log('[collect] 無効化:', mng.retired.join(' / '));
+    if (mng.added.length) console.log('[collect] 補充:', mng.added.join(' / '));
     setMeta({ nextScheduledAt: nextRunJst() });
     writePublicFeed();
 
