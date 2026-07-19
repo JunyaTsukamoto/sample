@@ -5,6 +5,7 @@ import {
   readDb, writeDb, saveArticles, appendLog, setMeta, getPublishedArticles, applyRetention, CollectionLog,
 } from '@/lib/db';
 import { runPipeline } from '@/lib/collector/pipeline';
+import { getLlmConfig } from '@/lib/collector/summarize';
 import { nowJstIso, nextRunJst, toJstIso } from '@/lib/collector/time';
 
 export const dynamic = 'force-dynamic';
@@ -30,11 +31,11 @@ export async function POST(request: NextRequest) {
       const cfg = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'config', 'sources.json'), 'utf-8'));
       db.sources = cfg; writeDb(db);
     }
-    const llmKey = process.env.GEMINI_API_KEY || db.settings.geminiApiKey || undefined;
+    const llm = getLlmConfig(db.settings.geminiApiKey) || undefined;
     const startedAt = nowJstIso();
     const jobId = `manual-${toJstIso(new Date()).replace(/[-:]/g, '').slice(0, 13)}`;
 
-    const { articles, log, updatedSources } = await runPipeline(db.sources, db.articles, { llmKey });
+    const { articles, log, updatedSources } = await runPipeline(db.sources, db.articles, { llm });
     const after = readDb(); after.sources = updatedSources; writeDb(after);
     if (articles.length > 0) saveArticles(articles);
     applyRetention(3);

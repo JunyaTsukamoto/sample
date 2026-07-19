@@ -6,6 +6,7 @@ import {
   getPublishedArticles, applyRetention, CollectionLog,
 } from '../src/lib/db';
 import { runPipeline } from '../src/lib/collector/pipeline';
+import { getLlmConfig } from '../src/lib/collector/summarize';
 import { nowJstIso, nextRunJst, toJstIso } from '../src/lib/collector/time';
 import { seedSources } from './seed';
 
@@ -43,12 +44,14 @@ async function main() {
   const jobId = `collection-${toJstIso(now).slice(0, 10).replace(/-/g, '')}-${toJstIso(now).slice(11, 16).replace(':', '')}`;
   console.log(`[collect] job=${jobId} start=${startedAt}`);
 
-  const llmKey = process.env.GEMINI_API_KEY || db0.settings.geminiApiKey || undefined;
+  const llm = getLlmConfig(db0.settings.geminiApiKey) || undefined;
+  if (llm) console.log(`[collect] LLM provider = ${llm.provider}${llm.model ? ' ('+llm.model+')' : ''}`);
+  else console.log('[collect] LLM未設定: 抽出要約で実行');
   let status: CollectionLog['status'] = 'running';
 
   try {
     const db = readDb();
-    const { articles, log, updatedSources } = await runPipeline(db.sources, db.articles, { llmKey });
+    const { articles, log, updatedSources } = await runPipeline(db.sources, db.articles, { llm });
 
     // 情報源の状態を保存
     const dbAfter = readDb();

@@ -1,14 +1,14 @@
 import { Article, Source, CollectionLog } from '../db';
 import { fetchFeed } from './fetchFeed';
 import { validateArticleUrl } from './validateUrl';
-import { summarize, llmEnrich } from './summarize';
+import { summarize, enrich, LlmConfig } from './summarize';
 import { classifyCategory, extractTags } from './categorize';
 import { isDuplicate, registerSeen } from './dedup';
 import { normalizeUrl, contentHash, tokenize } from './normalize';
 import { toJstIso, nowJstIso, hoursSince } from './time';
 
 export interface PipelineOptions {
-  llmKey?: string;
+  llm?: LlmConfig;
   freshnessHours?: number;   // 既定72h (spec §10)
   maxValidatePerSource?: number;
   maxPerSource?: number;   // 1情報源が1回の収集で公開できる最大件数（多様性確保）
@@ -77,7 +77,7 @@ export async function runPipeline(
   const enabled = updatedSources.filter((s) => s.enabled && s.type !== 'manual');
 
   // Geminiのサーキットブレーカー: 連続失敗(レート制限等)で以降はAI要約を停止し抽出要約で完走
-  let llmEnabled = !!opts.llmKey;
+  let llmEnabled = !!opts.llm;
   let llmConsecutiveFailures = 0;
 
   for (const source of enabled) {
@@ -147,7 +147,7 @@ export async function runPipeline(
       let summarySource: 'llm' | 'extractive' | 'feed_description' = 'extractive';
       let tags = extractTags(it.title, bodyForSummary, [category]);
       if (llmEnabled) {
-        const enriched = await llmEnrich(displayTitle, v.bodyText || v.description || it.feedDescription, source.name, opts.llmKey as string);
+        const enriched = await enrich(opts.llm as LlmConfig, displayTitle, v.bodyText || v.description || it.feedDescription, source.name);
         if (enriched) {
           summary = enriched.summary; summarySource = enriched.summarySource;
           if (catLimits[enriched.category]) { category = enriched.category; primaryCat = category; }
@@ -163,7 +163,7 @@ export async function runPipeline(
         }
       }
       if (!summary) {
-        const summaryRes = await summarize(v.bodyText, it.feedDescription || v.description, undefined);
+        const summaryRes = await summarize(v.bodyText, it.feedDescription || v.description);
         if (!summaryRes) { invalidUrlsRemoved++; continue; } // 要約不能なら公開しない (spec §9)
         summary = summaryRes.summary; summarySource = summaryRes.summarySource;
       }

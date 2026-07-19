@@ -12,7 +12,32 @@ export interface EnrichResult {
   summarySource: 'llm';
 }
 
+/** 要約に使うLLMプロバイダ設定 */
+export interface LlmConfig {
+  provider: 'groq' | 'openai' | 'gemini';
+  apiKey: string;
+  baseUrl?: string;   // OpenAI互換のときのみ
+  model?: string;
+}
+
 const CATEGORIES = ['AI', '制度', '社会×データ', '学術', '新事業'] as const;
+
+/** 環境変数から使用プロバイダを決定（優先: Groq > OpenAI > Gemini） */
+export function getLlmConfig(dbGeminiKey?: string): LlmConfig | null {
+  if (process.env.GROQ_API_KEY) {
+    return { provider: 'groq', apiKey: process.env.GROQ_API_KEY,
+      baseUrl: 'https://api.groq.com/openai/v1',
+      model: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile' };
+  }
+  if (process.env.OPENAI_API_KEY) {
+    return { provider: 'openai', apiKey: process.env.OPENAI_API_KEY,
+      baseUrl: process.env.OPENAI_BASE_URL || 'https://api.openai.com/v1',
+      model: process.env.OPENAI_MODEL || 'gpt-4o-mini' };
+  }
+  const gk = process.env.GEMINI_API_KEY || dbGeminiKey;
+  if (gk) return { provider: 'gemini', apiKey: gk };
+  return null;
+}
 
 /** Promiseにタイムアウトを付ける（外部呼び出しのハング防止） */
 function withTimeout<T>(p: Promise<T>, ms: number): Promise<T> {
@@ -22,8 +47,6 @@ function withTimeout<T>(p: Promise<T>, ms: number): Promise<T> {
   ]);
 }
 
-
-/** テキストが日本語主体か判定 */
 function isJapanese(text: string): boolean {
   const t = (text || '').replace(/\s/g, '');
   if (!t) return false;
@@ -31,78 +54,102 @@ function isJapanese(text: string): boolean {
   return jp / t.length >= 0.2;
 }
 
-/** 文単位で切って指定文字数程度に収める抽出要約（短すぎる断片・ナビ様の行は除外） */
 function extractiveSummary(text: string, min = 100, max = 200): string {
   const clean = (text || '').replace(/\s+/g, ' ').trim();
   if (!clean) return '';
-  const sentences = clean
-    .split(/(?<=[。．.!?！？])/)
-    .map((s) => s.trim())
-    .filter((s) => s.length >= 12); // 短い断片(メニュー等)を除外
+  const sentences = clean.split(/(?<=[。．.!?！？])/).map((s) => s.trim()).filter((s) => s.length >= 12);
   let out = '';
-  for (const s of sentences) {
-    if (out.length >= min) break;
-    out += s;
-    if (out.length >= max) break;
-  }
+  for (const s of sentences) { if (out.length >= min) break; out += s; if (out.length >= max) break; }
   if (!out) out = clean.slice(0, max);
   if (out.length > max + 20) out = out.slice(0, max) + '…';
   return out;
 }
 
-/**
- * LLMで 要約(日本語) + 単一カテゴリ + タグ を一度に生成 (spec §9)。
- * 元記事本文の事実のみを使用。捏造しない。英語記事は日本語に翻訳して要約。
- */
-export async function llmEnrich(
-  title: string,
-  bodyText: string,
-  source: string,
-  llmKey: string
-): Promise<EnrichResult | null> {
-  const src = (bodyText && bodyText.length >= 40) ? bodyText : '';
-  if (!src) return null;
+function buildPrompt(title: string, source: string, body: string): string {
+  return `次は実在するニュース記事の本文です。本文に書かれた事実だけを使い、必ず日本語で処理してください（英語記事は日本語に翻訳）。
+以下のキーを持つJSONのみを出力してください（前後に説明文を付けない）:
+{"summary": "100〜200字の日本語要約。本文に無い固有名詞・数値を足さず、推測・誇張をしない", "category": "次から1つだけ: ${CATEGORIES.join(' / ')}", "tags": ["日本語の重要キーワード", "2〜3個", "#は付けない"]}
+
+【タイトル】${title}
+【出典】${source}
+【本文】
+${body.slice(0, 6000)}`;
+}
+
+function normalizeParsed(parsed: any): EnrichResult | null {
+  if (!parsed || !parsed.summary || !parsed.category) return null;
+  const category = (CATEGORIES as readonly string[]).includes(parsed.category) ? parsed.category : 'AI';
+  const tags = Array.isArray(parsed.tags)
+    ? parsed.tags.slice(0, 3).map((t: any) => String(t).replace(/^#/, '')) : [];
+  return { summary: String(parsed.summary).slice(0, 240), category, tags, summarySource: 'llm' };
+}
+
+/** OpenAI互換API（Groq / OpenAI / OpenRouter 等）で 要約+カテゴリ+タグ を生成 */
+async function openaiCompatEnrich(cfg: LlmConfig, title: string, body: string, source: string): Promise<EnrichResult | null> {
   try {
-    const genAI = new GoogleGenerativeAI(llmKey);
+    const res = await withTimeout(fetch(`${cfg.baseUrl}/chat/completions`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${cfg.apiKey}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: cfg.model,
+        messages: [
+          { role: 'system', content: 'あなたは日本語のニュース要約アシスタントです。指定されたJSON形式のみで出力します。' },
+          { role: 'user', content: buildPrompt(title, source, body) },
+        ],
+        response_format: { type: 'json_object' },
+        temperature: 0.2,
+      }),
+    }), 20000);
+    if (!res.ok) { console.error('LLM HTTP', res.status); return null; }
+    const data: any = await res.json();
+    const text = data?.choices?.[0]?.message?.content || '';
+    return normalizeParsed(JSON.parse(text));
+  } catch (e) {
+    console.error('openaiCompatEnrich failed:', (e as any)?.message);
+    return null;
+  }
+}
+
+/** Gemini で 要約+カテゴリ+タグ を生成 */
+async function geminiEnrich(apiKey: string, title: string, body: string, source: string): Promise<EnrichResult | null> {
+  try {
+    const genAI = new GoogleGenerativeAI(apiKey);
     const model = genAI.getGenerativeModel({
-      model: 'gemini-2.5-flash',
+      model: process.env.GEMINI_MODEL || 'gemini-2.5-flash',
       generationConfig: {
         responseMimeType: 'application/json',
         responseSchema: {
           type: 'object',
           properties: {
-            summary: { type: 'string', description: '本文の事実に基づく100〜200字の日本語要約。推測・誇張なし。' },
-            category: { type: 'string', enum: CATEGORIES as unknown as string[], description: '最も合致するカテゴリを1つだけ' },
-            tags: { type: 'array', items: { type: 'string' }, description: '日本語の重要キーワード2〜3個（#なし）' },
+            summary: { type: 'string' },
+            category: { type: 'string', enum: CATEGORIES as unknown as string[] },
+            tags: { type: 'array', items: { type: 'string' } },
           },
           required: ['summary', 'category', 'tags'],
         } as any,
       },
     });
-    const prompt = `次は実在するニュース記事の本文です。本文に書かれた事実だけを使い、必ず日本語で処理してください（英語記事は日本語に翻訳）。\n1) 100〜200字の要約（本文に無い固有名詞・数値を足さない、推測や誇張をしない）\n2) 最も合致するカテゴリを次から1つだけ選ぶ: ${CATEGORIES.join(' / ')}\n3) 日本語の重要キーワードを2〜3個\nJSONのみ出力。\n\n【タイトル】${title}\n【出典】${source}\n【本文】\n${src.slice(0, 6000)}`;
-    const r = await withTimeout(model.generateContent(prompt), 25000);
-    const parsed = JSON.parse(r.response.text());
-    if (!parsed?.summary || !parsed?.category) return null;
-    const category = (CATEGORIES as readonly string[]).includes(parsed.category) ? parsed.category : 'AI';
-    const tags = Array.isArray(parsed.tags) ? parsed.tags.slice(0, 3).map((t: string) => String(t).replace(/^#/, '')) : [];
-    return { summary: String(parsed.summary).slice(0, 240), category, tags, summarySource: 'llm' };
+    const r = await withTimeout(model.generateContent(buildPrompt(title, source, body)), 25000);
+    return normalizeParsed(JSON.parse(r.response.text()));
   } catch (e) {
-    console.error('llmEnrich failed:', (e as any)?.message);
+    console.error('geminiEnrich failed:', (e as any)?.message);
     return null;
   }
 }
 
-/**
- * 抽出要約（LLMキーが無い場合のフォールバック）。日本語以外は公開しない。
- */
-export async function summarize(
-  bodyText: string,
-  feedDescription: string,
-  _llmKey?: string
-): Promise<SummaryResult | null> {
+/** プロバイダに応じて 要約+単一カテゴリ+タグ を生成（本文の事実のみ・捏造なし） */
+export async function enrich(cfg: LlmConfig, title: string, bodyText: string, source: string): Promise<EnrichResult | null> {
+  const body = (bodyText && bodyText.length >= 40) ? bodyText : '';
+  if (!body) return null;
+  if (cfg.provider === 'gemini') return geminiEnrich(cfg.apiKey, title, body, source);
+  return openaiCompatEnrich(cfg, title, body, source);
+}
+
+/** 抽出要約（LLMを使わない/使えない場合のフォールバック）。日本語以外は公開しない。 */
+export async function summarize(bodyText: string, feedDescription: string): Promise<SummaryResult | null> {
   const source = (bodyText && bodyText.length >= 60) ? bodyText : (feedDescription || '');
   if (!source || source.length < 40) return null;
-  if (!isJapanese(source)) return null; // 英語要約の混入防止
+  if (!isJapanese(source)) return null;
   const usingBody = !!(bodyText && bodyText.length >= 60);
   const summary = extractiveSummary(source);
   if (!summary || summary.length < 30) return null;
