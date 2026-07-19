@@ -78,6 +78,7 @@ async function main() {
       `sources ${log.sourcesSucceeded}/${log.sourcesAttempted}`);
 
     if (status === 'failed') process.exit(1);
+    process.exit(0); // 完了後は確実にプロセス終了（残存接続で居座らせない）
   } catch (e: any) {
     const finishedAt = nowJstIso();
     appendLog({
@@ -92,4 +93,4 @@ async function main() {
   }
 }
 
-main();
+main().then(() => process.exit(0)).catch((e) => { console.error(e); process.exit(1); });

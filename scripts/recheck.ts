@@ -43,4 +43,4 @@ async function main() {
   writeDb(db);
   console.log(`[recheck] checked=${checked} broken=${broken} recovered=${recovered}`);
 }
-main();
+main().then(() => process.exit(0)).catch((e) => { console.error(e); process.exit(1); });

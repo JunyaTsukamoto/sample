@@ -41,10 +41,20 @@ export function getLlmConfig(dbGeminiKey?: string): LlmConfig | null {
 
 /** Promiseにタイムアウトを付ける（外部呼び出しのハング防止） */
 function withTimeout<T>(p: Promise<T>, ms: number): Promise<T> {
-  return Promise.race([
-    p,
-    new Promise<T>((_, reject) => setTimeout(() => reject(new Error('timeout')), ms)),
-  ]);
+  let t: ReturnType<typeof setTimeout>;
+  const timeout = new Promise<T>((_, reject) => { t = setTimeout(() => reject(new Error('timeout')), ms); });
+  return Promise.race([p, timeout]).finally(() => clearTimeout(t)) as Promise<T>;
+}
+
+
+/** 直近LLM呼び出し時刻（TPM制限を避けるための最小間隔スロットル） */
+let lastLlmAt = 0;
+const MIN_LLM_GAP_MS = Number(process.env.LLM_MIN_GAP_MS || 6000);
+function sleep(ms: number) { return new Promise((r) => setTimeout(r, ms)); }
+async function throttleLlm() {
+  const wait = lastLlmAt + MIN_LLM_GAP_MS - Date.now();
+  if (wait > 0) await sleep(wait);
+  lastLlmAt = Date.now();
 }
 
 function isJapanese(text: string): boolean {
@@ -73,7 +83,7 @@ function buildPrompt(title: string, source: string, body: string): string {
 【タイトル】${title}
 【出典】${source}
 【本文】
-${body.slice(0, 6000)}`;
+${body.slice(0, 1800)}`;
 }
 
 function normalizeParsed(parsed: any): EnrichResult | null {
@@ -86,20 +96,31 @@ function normalizeParsed(parsed: any): EnrichResult | null {
 
 /** OpenAI互換API（Groq / OpenAI / OpenRouter 等）で 要約+カテゴリ+タグ を生成 */
 async function openaiCompatEnrich(cfg: LlmConfig, title: string, body: string, source: string): Promise<EnrichResult | null> {
+  const doRequest = () => withTimeout(fetch(`${cfg.baseUrl}/chat/completions`, {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${cfg.apiKey}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      model: cfg.model,
+      messages: [
+        { role: 'system', content: 'あなたは日本語のニュース要約アシスタントです。指定されたJSON形式のみで出力します。' },
+        { role: 'user', content: buildPrompt(title, source, body) },
+      ],
+      response_format: { type: 'json_object' },
+      temperature: 0.2,
+    }),
+  }), 20000);
   try {
-    const res = await withTimeout(fetch(`${cfg.baseUrl}/chat/completions`, {
-      method: 'POST',
-      headers: { Authorization: `Bearer ${cfg.apiKey}`, 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: cfg.model,
-        messages: [
-          { role: 'system', content: 'あなたは日本語のニュース要約アシスタントです。指定されたJSON形式のみで出力します。' },
-          { role: 'user', content: buildPrompt(title, source, body) },
-        ],
-        response_format: { type: 'json_object' },
-        temperature: 0.2,
-      }),
-    }), 20000);
+    await throttleLlm();
+    let res = await doRequest();
+    if (res.status === 429) {
+      // TPM/RPM制限。Retry-Afterぶん待って一度だけ再試行
+      const ra = parseFloat(res.headers.get('retry-after') || '');
+      const waitMs = Math.min(isNaN(ra) ? 8 : ra, 20) * 1000;
+      console.error(`LLM HTTP 429 -> ${Math.round(waitMs / 1000)}s待って再試行`);
+      await sleep(waitMs);
+      lastLlmAt = Date.now();
+      res = await doRequest();
+    }
     if (!res.ok) { console.error('LLM HTTP', res.status); return null; }
     const data: any = await res.json();
     const text = data?.choices?.[0]?.message?.content || '';
@@ -129,6 +150,7 @@ async function geminiEnrich(apiKey: string, title: string, body: string, source:
         } as any,
       },
     });
+    await throttleLlm();
     const r = await withTimeout(model.generateContent(buildPrompt(title, source, body)), 25000);
     return normalizeParsed(JSON.parse(r.response.text()));
   } catch (e) {
