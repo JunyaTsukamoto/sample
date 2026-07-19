@@ -76,6 +76,10 @@ export async function runPipeline(
 
   const enabled = updatedSources.filter((s) => s.enabled && s.type !== 'manual');
 
+  // Geminiのサーキットブレーカー: 連続失敗(レート制限等)で以降はAI要約を停止し抽出要約で完走
+  let llmEnabled = !!opts.llmKey;
+  let llmConsecutiveFailures = 0;
+
   for (const source of enabled) {
     if (Date.now() > deadline) { errors.push({ message: '実行時間上限に達したため残りの情報源をスキップ' }); break; }
     source.lastFetchedAt = nowJstIso();
@@ -142,12 +146,20 @@ export async function runPipeline(
       let summary = '';
       let summarySource: 'llm' | 'extractive' | 'feed_description' = 'extractive';
       let tags = extractTags(it.title, bodyForSummary, [category]);
-      if (opts.llmKey) {
-        const enriched = await llmEnrich(displayTitle, v.bodyText || v.description || it.feedDescription, source.name, opts.llmKey);
+      if (llmEnabled) {
+        const enriched = await llmEnrich(displayTitle, v.bodyText || v.description || it.feedDescription, source.name, opts.llmKey as string);
         if (enriched) {
           summary = enriched.summary; summarySource = enriched.summarySource;
           if (catLimits[enriched.category]) { category = enriched.category; primaryCat = category; }
           if (enriched.tags && enriched.tags.length) tags = enriched.tags;
+          llmConsecutiveFailures = 0;
+        } else {
+          // 本文はあるのに要約が返らない＝APIエラー/レート制限とみなす
+          llmConsecutiveFailures++;
+          if (llmConsecutiveFailures >= 3) {
+            llmEnabled = false;
+            errors.push({ message: 'Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）' });
+          }
         }
       }
       if (!summary) {
