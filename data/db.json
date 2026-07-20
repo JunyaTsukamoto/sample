@@ -1821,12 +1821,12 @@
         "データ可視化"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "fc4ec14bb7586e0137ee933f57eef6e8a1666da02e7971b705c9528015302ae5",
       "trendScore": 7.27,
       "createdAt": "2026-07-20T05:35:24+09:00",
-      "updatedAt": "2026-07-20T05:35:24+09:00"
+      "updatedAt": "2026-07-20T20:58:14.189Z"
     },
     {
       "id": "https://www.digital.go.jp/procurement",
@@ -1857,12 +1857,12 @@
         "入札"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "81cf7a07a4a946637f4085a03b25ce6029eed8839464d98e522b5fb608827de6",
       "trendScore": 7.27,
       "createdAt": "2026-07-20T05:35:30+09:00",
-      "updatedAt": "2026-07-20T05:35:30+09:00"
+      "updatedAt": "2026-07-20T20:58:14.189Z"
     },
     {
       "id": "https://www.digital.go.jp/about/member",
@@ -1893,12 +1893,12 @@
         "松本尚"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "da5d9aea63b6793fae0cb1206071c54a68789a318bf80f71412506cd68993c67",
       "trendScore": 7.27,
       "createdAt": "2026-07-20T05:35:36+09:00",
-      "updatedAt": "2026-07-20T05:35:36+09:00"
+      "updatedAt": "2026-07-20T20:58:14.189Z"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000629.000021123.html",
@@ -2187,6 +2187,546 @@
       "trendScore": 10.96,
       "createdAt": "2026-07-20T05:36:32+09:00",
       "updatedAt": "2026-07-20T05:36:32+09:00"
+    },
+    {
+      "id": "https://qiita.com/north238/items/c53ce05e771f662e055b",
+      "title": "errgroupで「全部止める」をやめた話 - Qiita",
+      "originalTitle": "errgroupで「全部止める」をやめた話",
+      "summary": "errgroupの標準的な使い方が都合の悪い場面に出くわしたので、goroutineからerrgroupにどのエラーを返すかを設計し直した。ドメイン上の失敗と処理を中断すべき制御上のエラーを戻り値で分離することで解決した。セキュリティレビューだけ失敗した場合に、他のレビューの結果も返すようにした。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/north238/items/c53ce05e771f662e055b",
+      "originalUrl": "https://qiita.com/north238/items/c53ce05e771f662e055b",
+      "finalUrl": "https://qiita.com/north238/items/c53ce05e771f662e055b",
+      "publishedAt": "2026-07-21T05:41:44+09:00",
+      "collectedAt": "2026-07-21T05:56:38+09:00",
+      "scrapedAt": "2026-07-21T05:56:38+09:00",
+      "lastVerifiedAt": "2026-07-21T05:56:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "errgroup",
+        "Go",
+        "エラー処理"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "8334ec42b4dd678f14a6406f524f79c5c991506f91487d3bcb754c65cbaeaf8f",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-21T05:56:38+09:00",
+      "updatedAt": "2026-07-21T05:56:38+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/9b95bd4d0c80f3299f26",
+      "title": "Claude旧Workbench廃止＆実験的プロンプトAPI終了、8/17までの移行対応まとめ - Qiita",
+      "originalTitle": "Claude旧Workbench廃止＆実験的プロンプトAPI終了、8/17までの移行対応まとめ",
+      "summary": "AnthropicからClaude Developer Platformに関する重要な廃止告知がありました。旧Workbenchと実験的プロンプトツールAPIが2026年8月17日に廃止されます。影響を受ける人は早めの棚卸しが必要です。旧Workbenchのデータをエクスポートし、実験的APIの利用箇所を検索して代替実装への置き換えを行う必要があります。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/9b95bd4d0c80f3299f26",
+      "originalUrl": "https://qiita.com/picnic/items/9b95bd4d0c80f3299f26",
+      "finalUrl": "https://qiita.com/picnic/items/9b95bd4d0c80f3299f26",
+      "publishedAt": "2026-07-21T05:06:21+09:00",
+      "collectedAt": "2026-07-21T05:56:44+09:00",
+      "scrapedAt": "2026-07-21T05:56:44+09:00",
+      "lastVerifiedAt": "2026-07-21T05:56:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "210a53afe395385493a508db39e7e9bb4acb95bd5d0543bb8d04ea39c339c321",
+      "trendScore": 10.95,
+      "createdAt": "2026-07-21T05:56:44+09:00",
+      "updatedAt": "2026-07-21T05:56:44+09:00"
+    },
+    {
+      "id": "https://qiita.com/yurukusa/items/cfa9b8ef2b37ce063473",
+      "title": "Claude Codeにgitを任せると.envやAPIキーが公開リポに上がるのか——無料フックがどこまで止めるかを終了コードで検証した - Qiita",
+      "originalTitle": "Claude Codeにgitを任せると.envやAPIキーが公開リポに上がるのか——無料フックがどこまで止めるかを終了コードで検証した",
+      "summary": "Claude Codeにgitを任せると、.envやAPIキーが公開リポジトリに上がる可能性がある。無料の安全フックcc-safe-setupのsecret-guardは、よくある直接の形の事故を止めることができるが、止まらない形もある。本当の予防はフックの手前にある。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/yurukusa/items/cfa9b8ef2b37ce063473",
+      "originalUrl": "https://qiita.com/yurukusa/items/cfa9b8ef2b37ce063473",
+      "finalUrl": "https://qiita.com/yurukusa/items/cfa9b8ef2b37ce063473",
+      "publishedAt": "2026-07-21T04:25:47+09:00",
+      "collectedAt": "2026-07-21T05:56:50+09:00",
+      "scrapedAt": "2026-07-21T05:56:50+09:00",
+      "lastVerifiedAt": "2026-07-21T05:56:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Claude Code",
+        "git",
+        "APIキー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "016138f0bf10464528e507fc8dc18ac644d27d427514ca9922f9c15e9cb0460d",
+      "trendScore": 10.91,
+      "createdAt": "2026-07-21T05:56:50+09:00",
+      "updatedAt": "2026-07-21T05:56:50+09:00"
+    },
+    {
+      "id": "https://qiita.com/koukyo/items/e58fe0b3c4eb3df4039b",
+      "title": "機械学習を本気で極めるための欧米技術書5選——理論の壁を超えたい人へ - Qiita",
+      "originalTitle": "機械学習を本気で極めるための欧米技術書5選——理論の壁を超えたい人へ",
+      "summary": "機械学習を本気で極めるための欧米技術書5選を紹介する。機械学習の理論の壁を超えたい人向けの書籍で、Deep Learning、パターン認識と機械学習、統計的学習の基礎などが含まれる。各書籍は、機械学習の理論的背景を徹底的に解説しており、読者はアルゴリズムが動く理由を理解できるようになる。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/koukyo/items/e58fe0b3c4eb3df4039b",
+      "originalUrl": "https://qiita.com/koukyo/items/e58fe0b3c4eb3df4039b",
+      "finalUrl": "https://qiita.com/koukyo/items/e58fe0b3c4eb3df4039b",
+      "publishedAt": "2026-07-20T14:23:50+09:00",
+      "collectedAt": "2026-07-21T05:56:56+09:00",
+      "scrapedAt": "2026-07-21T05:56:56+09:00",
+      "lastVerifiedAt": "2026-07-21T05:56:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "機械学習",
+        "DeepLearning",
+        "ベイズ推論"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "177c93e68487650958c623a6fd9d957435f799599bacbc4677f55db19ce8d288",
+      "trendScore": 10.07,
+      "createdAt": "2026-07-21T05:56:56+09:00",
+      "updatedAt": "2026-07-21T05:56:56+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/kaiji01_hh_000595.html",
+      "title": "国土交通省｜報道資料｜第19回海洋立国推進功労者内閣総理大臣表彰について",
+      "originalTitle": "��19��C�m�������i���J�ғ��t������b�\\���ɂ���",
+      "summary": "国土交通省は、第19回海洋立国推進功労者内閣総理大臣表彰について発表した。4名と3団体が受賞し、東京国際クルーズターミナルで表彰式が行われた。受賞者は、海洋立国日本の推進に関する特別な功績や海洋に関する顕著な功績を挙げた人物や団体である。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/kaiji01_hh_000595.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/kaiji01_hh_000595.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/kaiji01_hh_000595.html",
+      "publishedAt": "2026-07-20T05:00:00+09:00",
+      "collectedAt": "2026-07-21T05:57:02+09:00",
+      "scrapedAt": "2026-07-21T05:57:02+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "海洋立国",
+        "表彰",
+        "国土交通省"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "f3d623d48368addf1c12633792484c48d0c38b84e82aff538e7f2b381036d449",
+      "trendScore": 9.51,
+      "createdAt": "2026-07-21T05:57:02+09:00",
+      "updatedAt": "2026-07-21T05:57:02+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000368.000158730.html",
+      "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第5弾、ギオルギ・ジョルダニア―不動産バブルの陰で「セメント・コンクリート」を握る、持分40%の少数株主が証明したインフラ投資の勝算",
+      "originalTitle": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第5弾、ギオルギ・ジョルダニア―不動産バブルの陰で「セメント・コンクリート」を握る、持分40%の少数株主が証明したインフラ投資の勝算",
+      "summary": "少数株ドットコムの山中裕が、ジョージアの富豪ギオルギ・ジョルダニアについて語る。ジョルダニアは、セメントやコンクリートを扱うジョージアン・ビルディング・グループの40%の株を保有している。山中は、ジョルダニアの投資戦略や垂直統合による参入障壁の構築について解説する。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000368.000158730.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000368.000158730.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000368.000158730.html",
+      "publishedAt": "2026-07-21T05:10:02+09:00",
+      "collectedAt": "2026-07-21T05:57:09+09:00",
+      "scrapedAt": "2026-07-21T05:57:09+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:09+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "少数株ドットコム",
+        "ジョージア",
+        "インフラ投資"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "388b71c5f9f1fa02acbdc21c952f7ceb8aa992b9824d3c86898516cebf47fc0f",
+      "trendScore": 10.95,
+      "createdAt": "2026-07-21T05:57:09+09:00",
+      "updatedAt": "2026-07-21T05:57:09+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000365.000158730.html",
+      "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第4弾、「イブライム・シャリカゼ氏に学ぶ中国発ブランドをジョージア全土に広げたグローバル・フランチャイズ戦略」ウェビナー開催",
+      "originalTitle": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第4弾、「イブライム・シャリカゼ氏に学ぶ中国発ブランドをジョージア全土に広げたグローバル・フランチャイズ戦略」ウェビナー開催",
+      "summary": "少数株ドットコムの山中裕が語る『Forbesジョージア富豪100人』第4弾のウェビナーを開催する。イブライム・シャリカゼ氏の「メイソウ・ジョージア」の成功事例を通じて、共同出資構造とフランチャイズ戦略の重要性を解説する。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000365.000158730.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000365.000158730.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000365.000158730.html",
+      "publishedAt": "2026-07-21T05:10:02+09:00",
+      "collectedAt": "2026-07-21T05:57:15+09:00",
+      "scrapedAt": "2026-07-21T05:57:15+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "フランチャイズ",
+        "共同出資",
+        "グローバルブランド"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "97d60679dcbc7f0ebb586fd5d44855f36a032e52d2b367250c59eb1043908f3c",
+      "trendScore": 10.95,
+      "createdAt": "2026-07-21T05:57:15+09:00",
+      "updatedAt": "2026-07-21T05:57:15+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000364.000158730.html",
+      "title": "「支配権」は不要、必要なのは「資本参加」という生存戦略。店舗網654拠点・ジョージア巨大食品チェーン「ニコラ」の強固なサプライチェーンと持分6%の富豪が体現する少数株主のリアル",
+      "originalTitle": "「支配権」は不要、必要なのは「資本参加」という生存戦略。店舗網654拠点・ジョージア巨大食品チェーン「ニコラ」の強固なサプライチェーンと持分6%の富豪が体現する少数株主のリアル",
+      "summary": "ジョージアの食品チェーン「ニコラ」の少数株主マカ・サルクヴァゼ氏が、6%の持分で約3,080万米ドルの資産価値を築いた。同氏は支配権を持たない少数株主としての関わり方を体現しており、少数株ドットコムの山中裕がその戦略を解説するウェビナーが開催される。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000364.000158730.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000364.000158730.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000364.000158730.html",
+      "publishedAt": "2026-07-21T05:10:02+09:00",
+      "collectedAt": "2026-07-21T05:57:21+09:00",
+      "scrapedAt": "2026-07-21T05:57:21+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "少数株主",
+        "ジョージア",
+        "ニコラ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "d030ef651a7583b9b5184e35a07a00f4d69d4f6bfabf84ced15c4a1ebb1ce90e",
+      "trendScore": 10.95,
+      "createdAt": "2026-07-21T05:57:21+09:00",
+      "updatedAt": "2026-07-21T05:57:21+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999581",
+      "title": "香川大学が授業料2割増の改定案策定 8月末に決定へ",
+      "originalTitle": "香川大学が授業料2割増の改定案策定　8月末に決定へ",
+      "summary": "香川大学は2027年度以降の入学生を対象に授業料を2割引き上げる案をまとめた。学士、修士、博士前期、専門職学位の各課程で引き上げる内容で、関係者との意見交換を経て8月末に最終決定する。引き上げにより、進学の機会が損なわれないために、支援制度を創設するほか、学生短期貸付金制度を充実させる。目標は質の高い学びの場を学生に提供することである。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999581",
+      "originalUrl": "https://univ-journal.jp/999581/",
+      "finalUrl": "https://univ-journal.jp/999581",
+      "publishedAt": "2026-07-20T11:00:08+09:00",
+      "collectedAt": "2026-07-21T05:57:38+09:00",
+      "scrapedAt": "2026-07-21T05:57:38+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "香川大学",
+        "授業料",
+        "値上げ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d2f2e70722aa2e38b0ca595c247cc537d7e05d6c92be28877778373546464d6f",
+      "trendScore": 9.87,
+      "createdAt": "2026-07-21T05:57:38+09:00",
+      "updatedAt": "2026-07-21T05:57:38+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999574",
+      "title": "群馬大学 全国で初めて中学校での健診にデジタル聴診器を活用 質向上とプライバシー配慮を実現",
+      "originalTitle": "群馬大学　全国で初めて中学校での健診にデジタル聴診器を活用　質向上とプライバシー配慮を実現",
+      "summary": "群馬大学は、中学校での健診にデジタル聴診器を活用することで、質の向上とプライバシーへの配慮を実現した。デジタル聴診器は8秒間で心音のデータを取得し、AI技術を用いて解析する。先天性心疾患などの早期発見や見逃し防止に貢献できると期待される。デジタル聴診器は手のひらサイズで、胸部に接着して使用することができ、衣服の上から装着することも可能である。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999574",
+      "originalUrl": "https://univ-journal.jp/999574/",
+      "finalUrl": "https://univ-journal.jp/999574",
+      "publishedAt": "2026-07-20T11:00:06+09:00",
+      "collectedAt": "2026-07-21T05:57:44+09:00",
+      "scrapedAt": "2026-07-21T05:57:44+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "デジタル聴診器",
+        "AI",
+        "学校健診"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "f125713b2fce1d7c664c6ff217ad8eabef9d94d11555d8fb79d0ba6f95fc39bb",
+      "trendScore": 9.87,
+      "createdAt": "2026-07-21T05:57:44+09:00",
+      "updatedAt": "2026-07-21T05:57:44+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999362",
+      "title": "「当たり前が変わり、視野が広がった」現役幼稚園教諭が感じた、東洋英和女学院大学大学院 幼児教育・発達臨床学領域の魅力 - 大学ジャーナルオンライン",
+      "originalTitle": "「当たり前が変わり、視野が広がった」現役幼稚園教諭が感じた、東洋英和女学院大学大学院 幼児教育・発達臨床学領域の魅力",
+      "summary": "東洋英和女学院大学大学院の幼児教育・発達臨床学領域で学んでいる現役幼稚園教諭の田村真穂さんは、大学院への入学を決意した理由や、普段の学びの様子について語った。田村さんは、働きながら保育をもう一度学びたいと思ったことで大学院への関心が強まり、東洋英和女学院大学大学院を選んだ。授業ではさまざまな意見が飛び交い、幼児教育の「当たり前」が変わったと感じたという。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999362",
+      "originalUrl": "https://univ-journal.jp/column/2026999362/",
+      "finalUrl": "https://univ-journal.jp/column/2026999362",
+      "publishedAt": "2026-07-20T07:00:04+09:00",
+      "collectedAt": "2026-07-21T05:57:50+09:00",
+      "scrapedAt": "2026-07-21T05:57:50+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "幼児教育",
+        "東洋英和女学院大学",
+        "大学院"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "727a4069dd38a656437fe73564be70dbf7d97e6ae1e8959be3fb508af6aa9e6c",
+      "trendScore": 9.63,
+      "createdAt": "2026-07-21T05:57:50+09:00",
+      "updatedAt": "2026-07-21T05:57:50+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/951723?display=b",
+      "title": "〈始まったカウントダウン〉小野薬品､｢オプジーボ後｣に挑む\"団体戦候補\"の顔ぶれ･･･一本足脱却で｢崖｣を回避なるか",
+      "originalTitle": "〈始まったカウントダウン〉小野薬品､｢オプジーボ後｣に挑む\"団体戦候補\"の顔ぶれ･･･一本足脱却で｢崖｣を回避なるか | ビジネス | 東洋経済オンライン",
+      "summary": "小野薬品工業の主力薬「オプジーボ」の特許切れが迫っている。オプジーボはがん治療薬で、世界で1.6兆円を売り上げる超大型薬である。小野薬品はオプジーボの特許切れに備え、経営課題に対する克服策を講じている。オプジーボは免疫チェックポイント阻害剤と呼ばれるタイプのがん治療薬で、患者自身の免疫でがんを攻撃する画期的なメカニズムを持つ。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/951723?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/951723?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/951723?display=b",
+      "publishedAt": "2026-07-21T05:50:00+09:00",
+      "collectedAt": "2026-07-21T05:57:56+09:00",
+      "scrapedAt": "2026-07-21T05:57:56+09:00",
+      "lastVerifiedAt": "2026-07-21T05:57:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "オプジーボ",
+        "小野薬品工業",
+        "特許切れ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "84b499883f5b7f8b7d3a1e06b6a42f6d7648917e939a5a256344403e4a7af0a5",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-21T05:57:56+09:00",
+      "updatedAt": "2026-07-21T05:57:56+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/951229",
+      "title": "26年内に新型SUVとして復活がアナウンスされて高まる期待…オフロード4WDの雄､三菱｢パジェロ｣の歴史を振り返る",
+      "originalTitle": "26年内に新型SUVとして復活がアナウンスされて高まる期待…オフロード4WDの雄､三菱｢パジェロ｣の歴史を振り返る | ライフ | 東洋経済オンライン",
+      "summary": "三菱のオフロード4WD「パジェロ」が7年ぶりに新型SUVとして2026年に復活することがアナウンスされ、期待が高まっている。パジェロはなぜ生まれ、人々の心をつかんだのか、その歴史を振り返る。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/951229",
+      "originalUrl": "https://toyokeizai.net/articles/-/951229?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/951229",
+      "publishedAt": "2026-07-21T05:30:00+09:00",
+      "collectedAt": "2026-07-21T05:58:02+09:00",
+      "scrapedAt": "2026-07-21T05:58:02+09:00",
+      "lastVerifiedAt": "2026-07-21T05:58:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "パジェロ",
+        "三菱",
+        "SUV"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "0434dd9168a0b7c3c478286a642c2a297769f31898ec3262379771808f9931c7",
+      "trendScore": 10.97,
+      "createdAt": "2026-07-21T05:58:02+09:00",
+      "updatedAt": "2026-07-21T05:58:02+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/951089?display=b",
+      "title": "滋賀･近江鉄道｢上下分離｣で再生の兆し､官民連携強め地域振興､苦闘する地方ローカル線の先達となれるか",
+      "originalTitle": "滋賀･近江鉄道｢上下分離｣で再生の兆し､官民連携強め地域振興､苦闘する地方ローカル線の先達となれるか | ビジネス | 東洋経済オンライン",
+      "summary": "近江鉄道は「上下分離方式」により、設備面の維持や管理コストを自治体に負担してもらうことで、鉄道事業者は運行業務に専念することができる。この方式により、近江鉄道は地域社会の鉄道への理解が深まり、乗客数は着実に増加している。近江鉄道は「公有民営化」の先進事例として注目されており、苦闘する地方ローカル線の先達となれる可能性がある。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/951089?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/951089?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/951089?display=b",
+      "publishedAt": "2026-07-21T05:30:00+09:00",
+      "collectedAt": "2026-07-21T05:58:08+09:00",
+      "scrapedAt": "2026-07-21T05:58:08+09:00",
+      "lastVerifiedAt": "2026-07-21T05:58:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "近江鉄道",
+        "上下分離方式",
+        "地方ローカル線"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "89a22d7540f49765eafe1a5cce0d60d8ca7afd3cee3c0106fecbe8fdf9265904",
+      "trendScore": 10.97,
+      "createdAt": "2026-07-21T05:58:08+09:00",
+      "updatedAt": "2026-07-21T05:58:08+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/395110",
+      "title": "日本IBMの50代後半・部長級の年収は？【5000件の口コミ情報データ】",
+      "originalTitle": "日本IBMの50代後半・部長級の年収は？【5000件の口コミ情報データ】 - ダイヤモンド・口コミ情報",
+      "summary": "日本IBMの50代後半・部長級の年収に関するデータが「ダイヤモンド・口コミ情報」で公開された。データは社員や元社員の口コミに基づくもので、企業と働く人のミスマッチ解消、労働環境の向上を目的としている。",
+      "summarySource": "llm",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/395110",
+      "originalUrl": "https://diamond.jp/articles/-/395110",
+      "finalUrl": "https://diamond.jp/articles/-/395110",
+      "publishedAt": "2026-07-21T05:25:00+09:00",
+      "collectedAt": "2026-07-21T05:58:14+09:00",
+      "scrapedAt": "2026-07-21T05:58:14+09:00",
+      "lastVerifiedAt": "2026-07-21T05:58:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "日本IBM",
+        "年収",
+        "口コミ情報"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "71cd324cbc58ce34748179b245ccbfc6485d9329e158997df869e675c8fc7d51",
+      "trendScore": 10.97,
+      "createdAt": "2026-07-21T05:58:14+09:00",
+      "updatedAt": "2026-07-21T05:58:14+09:00"
     }
   ],
   "sources": [
@@ -2199,8 +2739,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-20T05:34:59+09:00",
-      "lastSuccessAt": "2026-07-20T05:34:59+09:00",
+      "lastFetchedAt": "2026-07-21T05:56:37+09:00",
+      "lastSuccessAt": "2026-07-21T05:56:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2212,8 +2752,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-20T05:35:12+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:12+09:00",
+      "lastFetchedAt": "2026-07-21T05:56:50+09:00",
+      "lastSuccessAt": "2026-07-21T05:56:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2225,8 +2765,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-20T05:35:18+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:19+09:00",
+      "lastFetchedAt": "2026-07-21T05:56:56+09:00",
+      "lastSuccessAt": "2026-07-21T05:56:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2251,8 +2791,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-20T05:35:19+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:19+09:00",
+      "lastFetchedAt": "2026-07-21T05:56:57+09:00",
+      "lastSuccessAt": "2026-07-21T05:56:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2264,8 +2804,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-20T05:35:19+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:19+09:00",
+      "lastFetchedAt": "2026-07-21T05:56:57+09:00",
+      "lastSuccessAt": "2026-07-21T05:56:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2277,8 +2817,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-20T05:35:36+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:37+09:00",
+      "lastFetchedAt": "2026-07-21T05:56:58+09:00",
+      "lastSuccessAt": "2026-07-21T05:56:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2290,8 +2830,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-20T05:35:37+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:38+09:00",
+      "lastFetchedAt": "2026-07-21T05:56:59+09:00",
+      "lastSuccessAt": "2026-07-21T05:56:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2303,8 +2843,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-20T05:35:38+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:38+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:00+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2316,9 +2856,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-20T05:35:38+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:02+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-riken",
@@ -2329,9 +2869,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-20T05:35:39+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:04+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-nii",
@@ -2342,9 +2882,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-20T05:35:40+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:04+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-arxiv-cs-ai",
@@ -2381,9 +2921,9 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-20T05:35:41+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:06+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-jstage-latest",
@@ -2407,8 +2947,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-20T05:35:41+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:42+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:08+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2420,9 +2960,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-20T05:35:55+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:21+09:00",
       "lastSuccessAt": "2026-07-16T11:54:07+09:00",
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     {
       "id": "src-newspicks-none",
@@ -2446,8 +2986,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-20T05:35:55+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:55+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:21+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2459,8 +2999,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-20T05:35:55+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:55+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:22+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2472,8 +3012,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-20T05:35:55+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:56+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:22+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2485,8 +3025,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-20T05:35:56+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:56+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:24+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2498,8 +3038,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-20T05:35:56+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:57+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:24+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2511,8 +3051,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-20T05:35:57+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:57+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:25+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2524,9 +3064,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-20T05:35:57+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:25+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     {
       "id": "src-itmedia-biz",
@@ -2537,8 +3077,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-20T05:35:58+09:00",
-      "lastSuccessAt": "2026-07-20T05:35:58+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:26+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2550,9 +3090,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-20T05:35:59+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:28+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     {
       "id": "src-nict",
@@ -2563,9 +3103,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-20T05:36:00+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:29+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     {
       "id": "src-ppc",
@@ -2576,9 +3116,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-20T05:36:01+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:30+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     {
       "id": "src-caa",
@@ -2589,9 +3129,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-20T05:36:03+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:32+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     {
       "id": "src-univ-journal",
@@ -2602,8 +3142,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-20T05:36:04+09:00",
-      "lastSuccessAt": "2026-07-20T05:36:05+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:33+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2615,8 +3155,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-20T05:36:14+09:00",
-      "lastSuccessAt": "2026-07-20T05:36:14+09:00",
+      "lastFetchedAt": "2026-07-21T05:57:50+09:00",
+      "lastSuccessAt": "2026-07-21T05:57:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2628,8 +3168,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-21T05:58:08+09:00",
+      "lastSuccessAt": "2026-07-21T05:58:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2647,6 +3187,62 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260721-0556",
+      "scheduledAt": "2026-07-21T05:56:37+09:00",
+      "startedAt": "2026-07-21T05:56:37+09:00",
+      "finishedAt": "2026-07-21T05:58:14+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 19,
+      "sourcesFailed": 10,
+      "candidatesFound": 113,
+      "duplicatesRemoved": 1,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "sourceId": "src-stat-search",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-riken",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-nii",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-utokyo",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-thebridge",
+          "message": "フィード取得失敗: Status code 403"
+        },
+        {
+          "sourceId": "src-atpress",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-aist",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-nict",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-ppc",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-caa",
+          "message": "フィード取得失敗: Status code 403"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260720-0534",
       "scheduledAt": "2026-07-20T05:34:59+09:00",
@@ -2769,9 +3365,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-20T05:36:32+09:00",
-    "lastSuccessAt": "2026-07-20T05:36:32+09:00",
-    "nextScheduledAt": "2026-07-21T05:00:00+09:00",
+    "lastCollectionAt": "2026-07-21T05:58:14+09:00",
+    "lastSuccessAt": "2026-07-21T05:58:14+09:00",
+    "nextScheduledAt": "2026-07-22T05:00:00+09:00",
     "lastJobStatus": "partial_success"
   },
   "preferences": {
