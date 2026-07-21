@@ -2727,6 +2727,546 @@
       "trendScore": 10.97,
       "createdAt": "2026-07-21T05:58:14+09:00",
       "updatedAt": "2026-07-21T05:58:14+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/ab4733aaba76ba385c59",
+      "title": "Gemini 3.6 Flash・3.5 Flash-Lite GAとtemperature非推奨化まとめ - Qiita",
+      "originalTitle": "Gemini 3.6 Flash・3.5 Flash-Lite GAとtemperature非推奨化まとめ",
+      "summary": "GoogleはGemini APIで3つの重要な変更を発表しました。Gemini 3.6 FlashとGemini 3.5 Flash-Liteの一般提供開始、サンプリングパラメータtemperature、top_p、top_kの非推奨化です。これらの変更は開発者に影響を与えるため、コードの確認と移行が必要です。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/ab4733aaba76ba385c59",
+      "originalUrl": "https://qiita.com/picnic/items/ab4733aaba76ba385c59",
+      "finalUrl": "https://qiita.com/picnic/items/ab4733aaba76ba385c59",
+      "publishedAt": "2026-07-22T04:34:00+09:00",
+      "collectedAt": "2026-07-22T05:55:27+09:00",
+      "scrapedAt": "2026-07-22T05:55:27+09:00",
+      "lastVerifiedAt": "2026-07-22T05:55:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Gemini",
+        "GoogleAI",
+        "LLM"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "3fe45dc0ffc7ef8f1ab4b1b8da84d251c1d09460d495f2065b7c4be355022bf4",
+      "trendScore": 10.92,
+      "createdAt": "2026-07-22T05:55:27+09:00",
+      "updatedAt": "2026-07-22T05:55:27+09:00"
+    },
+    {
+      "id": "https://qiita.com/mguozhen/items/33fd13eea6b2a3c53e91",
+      "title": "AIショートドラマの作り方：脚本から映像までの全パイプライン - Qiita",
+      "originalTitle": "AIショートドラマの作り方：脚本から映像までの全パイプライン",
+      "summary": "AIショートドラマの制作プロセスは、従来の人による制作工程をAIに置き換えることで実現できる。脚本から映像、音楽、字幕までの全工程をAIが担い、人間の介入は品質の判断とセンスの提供に限られる。AIに適切なプロンプトを与えることで、質の高いコンテンツを生成できる。採用では、撮影や編集の経験は不要だが、センス、目、実行力が求められる。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/mguozhen/items/33fd13eea6b2a3c53e91",
+      "originalUrl": "https://qiita.com/mguozhen/items/33fd13eea6b2a3c53e91",
+      "finalUrl": "https://qiita.com/mguozhen/items/33fd13eea6b2a3c53e91",
+      "publishedAt": "2026-07-22T04:20:47+09:00",
+      "collectedAt": "2026-07-22T05:55:33+09:00",
+      "scrapedAt": "2026-07-22T05:55:33+09:00",
+      "lastVerifiedAt": "2026-07-22T05:55:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI",
+        "ショートドラマ",
+        "コンテンツ生産"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "e63eb95f9f9d730bfd1fdf4406909a417985894687c2c094070b8d20e8298487",
+      "trendScore": 10.91,
+      "createdAt": "2026-07-22T05:55:33+09:00",
+      "updatedAt": "2026-07-22T05:55:33+09:00"
+    },
+    {
+      "id": "https://qiita.com/yutat23/items/0d9eb6f82c45ef7136bf",
+      "title": "VS CodeでCodex Petを眺められる拡張を作った - Pet Viewer for Codex - Qiita",
+      "originalTitle": "VS CodeでCodex Petを眺められる拡張を作った - Pet Viewer for Codex",
+      "summary": "VS Code用の拡張機能「Pet Viewer for Codex」が作成された。CodexのPet機能をVS Codeのパネルに表示することができ、Hooks連携でCodexの状態に反応する。背景も選べる。MarketplaceやGitHubから入手可能。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/yutat23/items/0d9eb6f82c45ef7136bf",
+      "originalUrl": "https://qiita.com/yutat23/items/0d9eb6f82c45ef7136bf",
+      "finalUrl": "https://qiita.com/yutat23/items/0d9eb6f82c45ef7136bf",
+      "publishedAt": "2026-07-22T03:15:17+09:00",
+      "collectedAt": "2026-07-22T05:55:39+09:00",
+      "scrapedAt": "2026-07-22T05:55:39+09:00",
+      "lastVerifiedAt": "2026-07-22T05:55:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "VS Code",
+        "Codex",
+        "Pet Viewer"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a164fd1c4b25924536c813aa01a92a8833942ca4043fb979dacf3b995462985f",
+      "trendScore": 10.84,
+      "createdAt": "2026-07-22T05:55:39+09:00",
+      "updatedAt": "2026-07-22T05:55:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/Thanush/items/44724e8672f06332ff2e",
+      "title": "小さなLLM（Llama-3.2-1B）をQLoRAでファインチューニングしてFunction Callingを覚えさせてみた - Qiita",
+      "originalTitle": "小さなLLM（Llama-3.2-1B）をQLoRAでファインチューニングしてFunction Callingを覚えさせてみた",
+      "summary": "小さなLLM（Llama-3.2-1B）をQLoRAでファインチューニングしてFunction Callingを覚えさせた。学習前のベースモデルでは、ツール呼び出し（function calling）が苦手で、出力するJSONの構造が間違っていた。QLoRAでファインチューニングした結果、構造のズレが直り、正しい出力が得られた。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/Thanush/items/44724e8672f06332ff2e",
+      "originalUrl": "https://qiita.com/Thanush/items/44724e8672f06332ff2e",
+      "finalUrl": "https://qiita.com/Thanush/items/44724e8672f06332ff2e",
+      "publishedAt": "2026-07-21T21:06:13+09:00",
+      "collectedAt": "2026-07-22T05:55:46+09:00",
+      "scrapedAt": "2026-07-22T05:55:46+09:00",
+      "lastVerifiedAt": "2026-07-22T05:55:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "QLoRA",
+        "ファインチューニング"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "fdfd5590356447db7f95256467bea50192ffc3824e13700494acfe35c5b5b878",
+      "trendScore": 10.47,
+      "createdAt": "2026-07-22T05:55:46+09:00",
+      "updatedAt": "2026-07-22T05:55:46+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/mobility-working-group",
+      "title": "モビリティワーキンググループ｜デジタル庁",
+      "originalTitle": "モビリティ・ロードマップ2026を掲載しました",
+      "summary": "デジタル社会推進会議令第4条の規定に基づき、自動運転、ドローン、サービスロボットなど地域のモビリティを支える技術の同時かつ一体的な事業化に向けた「モビリティ・ロードマップ」の策定を推進するため、モビリティワーキンググループを開催している。モビリティワーキンググループは、2023年12月から2026年5月までに16回開催され、モビリティ・ロードマップ2026などの資料が掲載されている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/mobility-working-group",
+      "originalUrl": "https://www.digital.go.jp/councils/mobility-working-group",
+      "finalUrl": "https://www.digital.go.jp/councils/mobility-working-group",
+      "publishedAt": "2026-07-21T15:00:00+09:00",
+      "collectedAt": "2026-07-22T05:55:51+09:00",
+      "scrapedAt": "2026-07-22T05:55:51+09:00",
+      "lastVerifiedAt": "2026-07-22T05:55:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "モビリティワーキンググループ",
+        "デジタル社会",
+        "自動運転"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "e8ae95d769664f8e339edacd7eee4597839f278e4f77faeae5c43df84aea44db",
+      "trendScore": 10.11,
+      "createdAt": "2026-07-22T05:55:51+09:00",
+      "updatedAt": "2026-07-22T05:55:51+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0",
+      "title": "モビリティワーキンググループ（第16回）｜デジタル庁",
+      "originalTitle": "モビリティワーキンググループ（第16回）の会議資料等を追加しました",
+      "summary": "デジタル庁のモビリティワーキンググループ第16回会合が開催され、レベル4自動運転移動サービスの社会実装促進や自動運転車の社会的ルールの実装について議論された。モビリティ・ロードマップ2026の取りまとめも行われた。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0",
+      "originalUrl": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0",
+      "finalUrl": "https://www.digital.go.jp/councils/mobility-working-group/f2f10a04-15de-4a03-95d0-61224a443fb0",
+      "publishedAt": "2026-07-21T15:00:00+09:00",
+      "collectedAt": "2026-07-22T05:55:57+09:00",
+      "scrapedAt": "2026-07-22T05:55:57+09:00",
+      "lastVerifiedAt": "2026-07-22T05:55:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "モビリティ",
+        "自動運転",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "46472313aa6b0dda7c9d066691dd5347693ca28f3844241b1a463fa15f914622",
+      "trendScore": 10.11,
+      "createdAt": "2026-07-22T05:55:57+09:00",
+      "updatedAt": "2026-07-22T05:55:57+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/speech/minister-260717-01",
+      "title": "松本大臣記者会見（令和8年7月17日）｜デジタル庁",
+      "originalTitle": "松本大臣記者会見（令和8年7月17日）要旨を掲載しました",
+      "summary": "デジタル庁は、GビズIDと連携した商業登記電子証明書のリモート署名方式の運用開始を発表した。スマートフォンのGビズIDアプリを用いて、リモートで署名できるようになる。また、デジタル庁主催のオンラインイベント「第28回RegTechミート」の開催を発表し、クマによる被害対策テクノロジーをテーマに議論する。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/speech/minister-260717-01",
+      "originalUrl": "https://www.digital.go.jp/speech/minister-260717-01",
+      "finalUrl": "https://www.digital.go.jp/speech/minister-260717-01",
+      "publishedAt": "2026-07-21T15:00:00+09:00",
+      "collectedAt": "2026-07-22T05:56:03+09:00",
+      "scrapedAt": "2026-07-22T05:56:03+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "GビズID",
+        "RegTechミート"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "fb6e53338c5571e8eb5650addc9265fcf1c685636a8a8cde9863cb6cb10aee68",
+      "trendScore": 10.11,
+      "createdAt": "2026-07-22T05:56:03+09:00",
+      "updatedAt": "2026-07-22T05:56:03+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/joho05_hh_000910.html",
+      "title": "国土交通省｜報道資料｜鉄道輸送統計月報（概要）（令和8年（2026年）4月分）",
+      "originalTitle": "�S���A�����v����i�T�v�j�i�ߘa8�N�i2026�N�j4�����j",
+      "summary": "国土交通省は、令和8年（2026年）4月の鉄道輸送統計月報を発表した。旅客数量は20億5562万人で、前年同月比2.2％増加した。旅客人キロ総合計は375億人キロで、前年同月比2.3％増加した。一方、貨物数量は301万トンで、前年同月比3.2％減少した。貨物トンキロ総合計は14億トンキロで、前年同月比3.3％減少した。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/joho05_hh_000910.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/joho05_hh_000910.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/joho05_hh_000910.html",
+      "publishedAt": "2026-07-21T05:00:00+09:00",
+      "collectedAt": "2026-07-22T05:56:09+09:00",
+      "scrapedAt": "2026-07-22T05:56:09+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:09+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "鉄道輸送統計",
+        "国土交通省",
+        "旅客数量"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "25cbbc28f5fc0563fcf84b82c07d85ed4a6fb384b8ba9ee08d07e793761c11ba",
+      "trendScore": 9.52,
+      "createdAt": "2026-07-22T05:56:09+09:00",
+      "updatedAt": "2026-07-22T05:56:09+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo10_hh_000383.html",
+      "title": "国土交通省｜報道資料｜第７回グリーンインフラ大賞の募集を開始<br>～グリーンインフラに関する優れた取組･計画事例を表彰します～",
+      "originalTitle": "��V��O���[���C���t����܂̕�W���J�n�`�O���[���C���t���Ɋւ���D�ꂽ��g��v�掖���\\�����܂��`",
+      "summary": "国土交通省は第7回グリーンインフラ大賞の募集を開始した。グリーンインフラに関する優れた取組や計画事例を募集し、国土交通大臣賞や特別優秀賞などを選定する。応募受付期間は7月21日から9月24日までで、応募対象事例はグリーンインフラに関する実施済みの事例や実装に向けた企画・計画に関する事例などである。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo10_hh_000383.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo10_hh_000383.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo10_hh_000383.html",
+      "publishedAt": "2026-07-21T05:00:00+09:00",
+      "collectedAt": "2026-07-22T05:56:15+09:00",
+      "scrapedAt": "2026-07-22T05:56:15+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "グリーンインフラ",
+        "国土交通省",
+        "環境政策"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "515b20dc88d0eba587ce6d4c3384e29e15a3ed5042835b6c556f61bc11908199",
+      "trendScore": 9.52,
+      "createdAt": "2026-07-22T05:56:15+09:00",
+      "updatedAt": "2026-07-22T05:56:15+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000446.000037407.html",
+      "title": "茨城ロボッツ、「B.LEAGUE Hope × 日本生命 地域を元気に！バスケACTION」地域課題チャレンジ賞「DE&Iの浸透・共生」部門を受賞",
+      "originalTitle": "茨城ロボッツ、「B.LEAGUE Hope × 日本生命 地域を元気に！バスケACTION」地域課題チャレンジ賞「DE&Iの浸透・共生」部門を受賞",
+      "summary": "茨城ロボッツは、B.LEAGUEと日本生命保険が共同で推進する社会貢献プロジェクト「B.LEAGUE Hope × 日本生命 地域を元気に！バスケACTION」において、地域課題チャレンジ賞「DE&Iの浸透・共生」部門を受賞した。受賞した取り組み「心のバリアフリープロジェクト」は、車いすバスケットボールを通じた交流や、車いすに乗って街を巡るフィールドワーク体験を通して、障がいの有無にかかわらず互いを理解し合い、多様性を尊重する共生社会の実現を目指した活動である。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000446.000037407.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000446.000037407.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000446.000037407.html",
+      "publishedAt": "2026-07-22T05:40:02+09:00",
+      "collectedAt": "2026-07-22T05:56:22+09:00",
+      "scrapedAt": "2026-07-22T05:56:22+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:22+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "茨城ロボッツ",
+        "B.LEAGUE",
+        "車いすバスケットボール"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "08a2665f96f70642d0c9af2298f62e48d82deac6ffeac8bd0cf0b0af262a2d96",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-22T05:56:22+09:00",
+      "updatedAt": "2026-07-22T05:56:22+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000046.000029237.html",
+      "title": "【EPARK歯科】LINE×診察券・問診票「Eパス」「Eノート」の提供を開始",
+      "originalTitle": "【EPARK歯科】LINE×診察券・問診票「Eパス」「Eノート」の提供を開始",
+      "summary": "エンパワーヘルスケア株式会社は、歯科医院向けのLINEサービス「Eパス」と「Eノート」を提供開始した。Eパスは診察券をデジタル化し、Eノートは問診票をデジタル化するサービスで、受付業務の効率化やペーパーレス化、患者さまの利便性向上を支援する。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000046.000029237.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000046.000029237.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000046.000029237.html",
+      "publishedAt": "2026-07-22T05:40:02+09:00",
+      "collectedAt": "2026-07-22T05:56:27+09:00",
+      "scrapedAt": "2026-07-22T05:56:27+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "EPARK歯科",
+        "LINE",
+        "歯科医院"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "617268dcf6cbe88edb241a4d1343c4c0d05c5ffbb9ac1aac203fb72b0ba02641",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-22T05:56:27+09:00",
+      "updatedAt": "2026-07-22T05:56:27+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000019.000156032.html",
+      "title": "サロンでの仕上がりを長く再現するために新機能を追加13年愛されたスタイリングトリートメントが進化「テモイdeフォルム」誕生",
+      "originalTitle": "サロンでの仕上がりを長く再現するために新機能を追加13年愛されたスタイリングトリートメントが進化「テモイdeフォルム」誕生",
+      "summary": "株式会社DoAQUSHは、スタイリングトリートメント「テモイdeフォルム」をリニューアル発売します。この商品は、サロンでの仕上がりを長く再現するために新機能を追加し、補修と保護を両立したスタイリングトリートメントとして進化しました。13年愛されたスタイリングトリートメントに新発想を追加し、進化しました。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000019.000156032.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000019.000156032.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000019.000156032.html",
+      "publishedAt": "2026-07-22T05:40:02+09:00",
+      "collectedAt": "2026-07-22T05:56:33+09:00",
+      "scrapedAt": "2026-07-22T05:56:33+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "テモイdeフォルム",
+        "スタイリングトリートメント",
+        "ヘアケア"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "003b8db74b9854d797dc24794e346becac9aaba60d5acb1c236ace6d01fe446a",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-22T05:56:33+09:00",
+      "updatedAt": "2026-07-22T05:56:33+09:00"
+    },
+    {
+      "id": "https://www.itmedia.co.jp/business/articles/2607/21/news053.html",
+      "title": "�u�t�]���v�N���邩�@�g���ҁhPayPal���㔭Stripe���甃����ā@���̗��ɂ���A���σC���t���u������v�̃V�i���I",
+      "originalTitle": "「逆転劇」起こるか　“先駆者”PayPalが後発Stripeから買収提案　その裏にある、決済インフラ「主役交代」のシナリオ",
+      "summary": "PayPalとStripeは、オンライン決済サービスを提供している企業です。PayPalは1998年に設立され、Stripeは2010年に設立されました。両社は、オンライン決済の分野で競争しています。PayPalは、世界中で広く利用されており、Stripeも急成長を遂げています。両社は、安全で便利なオンライン決済サービスを提供するために、技術の開発に注力しています。",
+      "summarySource": "llm",
+      "source": "ITmedia ビジネス",
+      "sourceId": "src-itmedia-biz",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/21/news053.html",
+      "originalUrl": "https://www.itmedia.co.jp/business/articles/2607/21/news053.html",
+      "finalUrl": "https://www.itmedia.co.jp/business/articles/2607/21/news053.html",
+      "publishedAt": "2026-07-21T09:33:00+09:00",
+      "collectedAt": "2026-07-22T05:56:39+09:00",
+      "scrapedAt": "2026-07-22T05:56:39+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "PayPal",
+        "Stripe",
+        "オンライン決済"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "452800fa44c207d5374f2a3fd7c53b93060dfc5649e3ce3d51465804a41a4fa6",
+      "trendScore": 9.79,
+      "createdAt": "2026-07-22T05:56:39+09:00",
+      "updatedAt": "2026-07-22T05:56:39+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999599",
+      "title": "サーフィンが知的障害のある子どもや若者の生活の質と心理的幸福感を高める 中部大学などが検証",
+      "originalTitle": "サーフィンが知的障害のある子どもや若者の生活の質と心理的幸福感を高める　中部大学などが検証",
+      "summary": "中部大学などは、知的障害のある子どもや若者を対象とした「サーフセラピー」プログラムを日本で初めて試行し、健康関連の生活の質と心理的幸福感が改善したことを明らかにした。サーフセラピーは、サーフィンや海での活動を治療的・支援的に活用するプログラムで、海外では子どもや若者の気分、自信、社会的交流、身体活動などへの効果が報告されている。研究グループは、全6回のサーフセラピープログラムを知的障害のある自閉スペクトラム症やダウン症の子どもと若者を対象に試行し効果検証を行った。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999599",
+      "originalUrl": "https://univ-journal.jp/999599/",
+      "finalUrl": "https://univ-journal.jp/999599",
+      "publishedAt": "2026-07-20T17:00:39+09:00",
+      "collectedAt": "2026-07-22T05:56:54+09:00",
+      "scrapedAt": "2026-07-22T05:56:54+09:00",
+      "lastVerifiedAt": "2026-07-22T05:56:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "サーフセラピー",
+        "知的障害",
+        "心理的幸福感"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d6852b0387bfaba74baebb446168e9df5e9571304796d9969aae901b7a5f938f",
+      "trendScore": 8.8,
+      "createdAt": "2026-07-22T05:56:54+09:00",
+      "updatedAt": "2026-07-22T05:56:54+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/950852?display=b",
+      "title": "大和ハウス工業､千葉県最高層タワマンの勝算 建設費高騰下で問われる｢高付加価値化｣戦略",
+      "originalTitle": "大和ハウス工業､千葉県最高層タワマンの勝算　建設費高騰下で問われる｢高付加価値化｣戦略 | ビジネス | 東洋経済オンライン",
+      "summary": "大和ハウス工業は千葉県最高層のタワーマンション「プレミストタワー船橋」の建設を進めており、上層階からは東京都内のスカイツリーや富士山が見える。駅から徒歩2分という立地条件と、高い天井やグレードアップしたキッチン設備を備えたモデルの部屋が用意されている。最高7億2900万円の価格がつけられている。建設費の高騰により、マンション開発の利益率が低下している中で、高付加価値化戦略が問われている。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/950852?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/950852?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/950852?display=b",
+      "publishedAt": "2026-07-22T05:35:00+09:00",
+      "collectedAt": "2026-07-22T05:57:01+09:00",
+      "scrapedAt": "2026-07-22T05:57:01+09:00",
+      "lastVerifiedAt": "2026-07-22T05:57:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "タワーマンション",
+        "マンション開発",
+        "不動産"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "5a6cce041a9c62def55ab719089094dbcea7c0e270cb98dff0d1cec4e8d079e9",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-22T05:57:01+09:00",
+      "updatedAt": "2026-07-22T05:57:01+09:00"
     }
   ],
   "sources": [
@@ -2739,8 +3279,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-21T05:56:37+09:00",
-      "lastSuccessAt": "2026-07-21T05:56:37+09:00",
+      "lastFetchedAt": "2026-07-22T05:55:26+09:00",
+      "lastSuccessAt": "2026-07-22T05:55:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2752,8 +3292,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-21T05:56:50+09:00",
-      "lastSuccessAt": "2026-07-21T05:56:50+09:00",
+      "lastFetchedAt": "2026-07-22T05:55:39+09:00",
+      "lastSuccessAt": "2026-07-22T05:55:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2765,8 +3305,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-21T05:56:56+09:00",
-      "lastSuccessAt": "2026-07-21T05:56:57+09:00",
+      "lastFetchedAt": "2026-07-22T05:55:46+09:00",
+      "lastSuccessAt": "2026-07-22T05:55:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2791,8 +3331,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-21T05:56:57+09:00",
-      "lastSuccessAt": "2026-07-21T05:56:57+09:00",
+      "lastFetchedAt": "2026-07-22T05:55:46+09:00",
+      "lastSuccessAt": "2026-07-22T05:55:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2804,8 +3344,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-21T05:56:57+09:00",
-      "lastSuccessAt": "2026-07-21T05:56:58+09:00",
+      "lastFetchedAt": "2026-07-22T05:55:46+09:00",
+      "lastSuccessAt": "2026-07-22T05:55:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2817,8 +3357,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-21T05:56:58+09:00",
-      "lastSuccessAt": "2026-07-21T05:56:59+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:03+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2830,8 +3370,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-21T05:56:59+09:00",
-      "lastSuccessAt": "2026-07-21T05:56:59+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:04+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2843,8 +3383,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-21T05:57:00+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:01+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:06+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2854,11 +3394,11 @@
       "feedUrl": "https://www.stat.go.jp/rss/index.rdf",
       "type": "rss",
       "category": "社会×データ",
-      "enabled": true,
+      "enabled": false,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-21T05:57:02+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:15+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 5
+      "consecutiveFailures": 6
     },
     {
       "id": "src-riken",
@@ -2867,11 +3407,11 @@
       "feedUrl": "https://www.riken.jp/pr/news/rss.xml",
       "type": "rss",
       "category": "社会×データ",
-      "enabled": true,
+      "enabled": false,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-21T05:57:04+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:16+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 5
+      "consecutiveFailures": 6
     },
     {
       "id": "src-nii",
@@ -2880,11 +3420,11 @@
       "feedUrl": "https://www.nii.ac.jp/news/feed/",
       "type": "rss",
       "category": "社会×データ",
-      "enabled": true,
+      "enabled": false,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-21T05:57:04+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:17+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 5
+      "consecutiveFailures": 6
     },
     {
       "id": "src-arxiv-cs-ai",
@@ -2919,11 +3459,11 @@
       "feedUrl": "https://www.u-tokyo.ac.jp/ja/news.rss",
       "type": "rss",
       "category": "学術",
-      "enabled": true,
+      "enabled": false,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-21T05:57:06+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:18+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 5
+      "consecutiveFailures": 6
     },
     {
       "id": "src-jstage-latest",
@@ -2947,8 +3487,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-21T05:57:08+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:08+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:19+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2960,9 +3500,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-21T05:57:21+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:33+09:00",
       "lastSuccessAt": "2026-07-16T11:54:07+09:00",
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "src-newspicks-none",
@@ -2986,8 +3526,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-21T05:57:21+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:22+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:34+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:34+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -2999,8 +3539,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-21T05:57:22+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:22+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:34+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3012,8 +3552,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-21T05:57:22+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:24+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:35+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:36+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3025,8 +3565,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-21T05:57:24+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:24+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:36+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:36+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3038,8 +3578,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-21T05:57:24+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:25+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:36+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:36+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3051,8 +3591,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-21T05:57:25+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:25+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:36+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3064,9 +3604,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-21T05:57:25+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:37+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "src-itmedia-biz",
@@ -3077,8 +3617,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-21T05:57:26+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:26+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:38+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3090,9 +3630,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-21T05:57:28+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:40+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "src-nict",
@@ -3103,9 +3643,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-21T05:57:29+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:41+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "src-ppc",
@@ -3116,9 +3656,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-21T05:57:30+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:43+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "src-caa",
@@ -3129,9 +3669,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-21T05:57:32+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:45+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "src-univ-journal",
@@ -3142,8 +3682,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-21T05:57:33+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:35+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:46+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3155,8 +3695,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-21T05:57:50+09:00",
-      "lastSuccessAt": "2026-07-21T05:57:51+09:00",
+      "lastFetchedAt": "2026-07-22T05:56:55+09:00",
+      "lastSuccessAt": "2026-07-22T05:56:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3184,9 +3724,117 @@
       "lastFetchedAt": null,
       "lastSuccessAt": null,
       "consecutiveFailures": 0
+    },
+    {
+      "id": "bk-jst",
+      "name": "科学技術振興機構 JST",
+      "baseUrl": "https://www.jst.go.jp/",
+      "feedUrl": "https://www.jst.go.jp/rss/pr.xml",
+      "type": "rss",
+      "category": "社会×データ",
+      "enabled": true,
+      "reliabilityScore": 0.85,
+      "lastFetchedAt": null,
+      "lastSuccessAt": null,
+      "consecutiveFailures": 0
+    },
+    {
+      "id": "bk-itmedia-enterprise",
+      "name": "ITmedia エンタープライズ",
+      "baseUrl": "https://www.itmedia.co.jp/",
+      "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/enterprise.xml",
+      "type": "rss",
+      "category": "AI",
+      "enabled": true,
+      "reliabilityScore": 0.8,
+      "lastFetchedAt": null,
+      "lastSuccessAt": null,
+      "consecutiveFailures": 0
+    },
+    {
+      "id": "bk-itmedia-pcuser",
+      "name": "ITmedia PC USER",
+      "baseUrl": "https://www.itmedia.co.jp/",
+      "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/pcuser.xml",
+      "type": "rss",
+      "category": "AI",
+      "enabled": true,
+      "reliabilityScore": 0.75,
+      "lastFetchedAt": null,
+      "lastSuccessAt": null,
+      "consecutiveFailures": 0
+    },
+    {
+      "id": "bk-kyoto-u",
+      "name": "京都大学 最新情報",
+      "baseUrl": "https://www.kyoto-u.ac.jp/",
+      "feedUrl": "https://www.kyoto-u.ac.jp/ja/rss.xml",
+      "type": "rss",
+      "category": "学術",
+      "enabled": true,
+      "reliabilityScore": 0.9,
+      "lastFetchedAt": null,
+      "lastSuccessAt": null,
+      "consecutiveFailures": 0
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260722-0555",
+      "scheduledAt": "2026-07-22T05:55:26+09:00",
+      "startedAt": "2026-07-22T05:55:26+09:00",
+      "finishedAt": "2026-07-22T05:57:01+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 10,
+      "candidatesFound": 56,
+      "duplicatesRemoved": 1,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "sourceId": "src-stat-search",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-riken",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-nii",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-utokyo",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-thebridge",
+          "message": "フィード取得失敗: Status code 403"
+        },
+        {
+          "sourceId": "src-atpress",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-aist",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-nict",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-ppc",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-caa",
+          "message": "フィード取得失敗: Status code 403"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260721-0556",
       "scheduledAt": "2026-07-21T05:56:37+09:00",
@@ -3365,9 +4013,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-21T05:58:14+09:00",
-    "lastSuccessAt": "2026-07-21T05:58:14+09:00",
-    "nextScheduledAt": "2026-07-22T05:00:00+09:00",
+    "lastCollectionAt": "2026-07-22T05:57:01+09:00",
+    "lastSuccessAt": "2026-07-22T05:57:01+09:00",
+    "nextScheduledAt": "2026-07-23T05:00:00+09:00",
     "lastJobStatus": "partial_success"
   },
   "preferences": {
