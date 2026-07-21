@@ -1662,11 +1662,11 @@
       "publishedAt": "2026-07-20T03:58:52+09:00",
       "collectedAt": "2026-07-20T05:35:00+09:00",
       "scrapedAt": "2026-07-20T05:35:00+09:00",
-      "lastVerifiedAt": "2026-07-20T05:35:00+09:00",
+      "lastVerifiedAt": "2026-07-21T10:00:57+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -1677,12 +1677,12 @@
         "ファクトチェック"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "b03d0a0399c2a100b28c132926f42326031706b0c92f616531161a14f6d8746a",
       "trendScore": 10.9,
       "createdAt": "2026-07-20T05:35:00+09:00",
-      "updatedAt": "2026-07-20T05:35:00+09:00"
+      "updatedAt": "2026-07-21T10:00:57+09:00"
     },
     {
       "id": "https://qiita.com/penta-design-system/items/185c7e45f4ce6037ac64",
@@ -1698,11 +1698,11 @@
       "publishedAt": "2026-07-20T03:00:37+09:00",
       "collectedAt": "2026-07-20T05:35:06+09:00",
       "scrapedAt": "2026-07-20T05:35:06+09:00",
-      "lastVerifiedAt": "2026-07-20T05:35:06+09:00",
+      "lastVerifiedAt": "2026-07-21T10:00:57+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -1713,12 +1713,12 @@
         "文書検索"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "099fc53bb3a42fa3ce5632673c756c35a5e3d2a6bfc5e6bd95b4a4ff1d5723b1",
       "trendScore": 10.85,
       "createdAt": "2026-07-20T05:35:06+09:00",
-      "updatedAt": "2026-07-20T05:35:06+09:00"
+      "updatedAt": "2026-07-21T10:00:57+09:00"
     },
     {
       "id": "https://qiita.com/BX166/items/5a1bfb715eb4145c1aa5",
@@ -1734,11 +1734,11 @@
       "publishedAt": "2026-07-20T01:23:00+09:00",
       "collectedAt": "2026-07-20T05:35:12+09:00",
       "scrapedAt": "2026-07-20T05:35:12+09:00",
-      "lastVerifiedAt": "2026-07-20T05:35:12+09:00",
+      "lastVerifiedAt": "2026-07-21T10:00:57+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -1749,12 +1749,12 @@
         "Auto Router"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "551f7042f0af48864568a7f09f7f793040a97a82e369af50238e4dc8b66c799e",
       "trendScore": 10.75,
       "createdAt": "2026-07-20T05:35:12+09:00",
-      "updatedAt": "2026-07-20T05:35:12+09:00"
+      "updatedAt": "2026-07-21T10:00:57+09:00"
     },
     {
       "id": "https://qiita.com/kiarina/items/c95c65f90f0a9e580897",
@@ -1770,11 +1770,11 @@
       "publishedAt": "2026-07-19T21:51:52+09:00",
       "collectedAt": "2026-07-20T05:35:18+09:00",
       "scrapedAt": "2026-07-20T05:35:18+09:00",
-      "lastVerifiedAt": "2026-07-20T05:35:18+09:00",
+      "lastVerifiedAt": "2026-07-21T10:00:57+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -1785,12 +1785,12 @@
         "Apple M1 Max"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "077b620f829b0d7dfece8110881dac2c58920c4905d43521478109b375868caa",
       "trendScore": 10.54,
       "createdAt": "2026-07-20T05:35:18+09:00",
-      "updatedAt": "2026-07-20T05:35:18+09:00"
+      "updatedAt": "2026-07-21T10:00:57+09:00"
     },
     {
       "id": "https://www.digital.go.jp/resources/dashboard-guidebook",
@@ -1914,11 +1914,11 @@
       "publishedAt": "2026-07-20T05:10:02+09:00",
       "collectedAt": "2026-07-20T05:35:42+09:00",
       "scrapedAt": "2026-07-20T05:35:42+09:00",
-      "lastVerifiedAt": "2026-07-20T05:35:42+09:00",
+      "lastVerifiedAt": "2026-07-21T10:00:58+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "社会×データ",
       "categories": [
         "社会×データ"
@@ -1929,12 +1929,12 @@
         "ウォルト・ディズニー・コンサートホール"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "a5c2fe29d21dbbeded9d317f530be9d7c8a259c9370731e1b174f80d951e46d5",
       "trendScore": 10.97,
       "createdAt": "2026-07-20T05:35:42+09:00",
-      "updatedAt": "2026-07-20T05:35:42+09:00"
+      "updatedAt": "2026-07-21T10:00:58+09:00"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000003124.000047877.html",
@@ -1950,11 +1950,11 @@
       "publishedAt": "2026-07-20T05:10:02+09:00",
       "collectedAt": "2026-07-20T05:35:49+09:00",
       "scrapedAt": "2026-07-20T05:35:49+09:00",
-      "lastVerifiedAt": "2026-07-20T05:35:49+09:00",
+      "lastVerifiedAt": "2026-07-21T10:00:58+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "社会×データ",
       "categories": [
         "社会×データ"
@@ -1965,12 +1965,12 @@
         "日本文化"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "484c6bc7223161c3b361fc07a5aa00413a028f968c2a22c5363e31a5b6e1832b",
       "trendScore": 10.97,
       "createdAt": "2026-07-20T05:35:49+09:00",
-      "updatedAt": "2026-07-20T05:35:49+09:00"
+      "updatedAt": "2026-07-21T10:00:58+09:00"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000003094.000047877.html",
@@ -1986,11 +1986,11 @@
       "publishedAt": "2026-07-20T05:10:02+09:00",
       "collectedAt": "2026-07-20T05:35:55+09:00",
       "scrapedAt": "2026-07-20T05:35:55+09:00",
-      "lastVerifiedAt": "2026-07-20T05:35:55+09:00",
+      "lastVerifiedAt": "2026-07-21T10:00:58+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "学術",
       "categories": [
         "学術"
@@ -2001,12 +2001,12 @@
         "死からはじめる哲学"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "5308abc0954a819590fc623e586e07dafe0ead4b2c4e9870f2301b1f5c5b904e",
       "trendScore": 10.97,
       "createdAt": "2026-07-20T05:35:55+09:00",
-      "updatedAt": "2026-07-20T05:35:55+09:00"
+      "updatedAt": "2026-07-21T10:00:58+09:00"
     },
     {
       "id": "https://univ-journal.jp/999571",
@@ -2022,11 +2022,11 @@
       "publishedAt": "2026-07-19T11:00:17+09:00",
       "collectedAt": "2026-07-20T05:36:08+09:00",
       "scrapedAt": "2026-07-20T05:36:08+09:00",
-      "lastVerifiedAt": "2026-07-20T05:36:08+09:00",
-      "httpStatus": 200,
+      "lastVerifiedAt": "2026-07-21T10:00:58+09:00",
+      "httpStatus": 403,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "想定外のHTTP 403",
       "category": "学術",
       "categories": [
         "学術"
@@ -2037,12 +2037,12 @@
         "スーパーグローバル大学"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "7f0f1e8ff71d00cf581163de3eb69dd53ffc4a870ffca69935c5c641430e819a",
       "trendScore": 9.89,
       "createdAt": "2026-07-20T05:36:08+09:00",
-      "updatedAt": "2026-07-20T05:36:08+09:00"
+      "updatedAt": "2026-07-21T10:00:58+09:00"
     },
     {
       "id": "https://univ-journal.jp/999474",
@@ -2058,11 +2058,11 @@
       "publishedAt": "2026-07-19T07:00:00+09:00",
       "collectedAt": "2026-07-20T05:36:14+09:00",
       "scrapedAt": "2026-07-20T05:36:14+09:00",
-      "lastVerifiedAt": "2026-07-20T05:36:14+09:00",
+      "lastVerifiedAt": "2026-07-21T10:01:00+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "学術",
       "categories": [
         "学術"
@@ -2073,12 +2073,12 @@
         "マンガ研究"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "3fabac805073b785c59b0fe2879cdee0807b4a33b3d160d7b0eb6c5a848d328c",
       "trendScore": 9.65,
       "createdAt": "2026-07-20T05:36:14+09:00",
-      "updatedAt": "2026-07-20T05:36:14+09:00"
+      "updatedAt": "2026-07-21T10:01:00+09:00"
     },
     {
       "id": "https://toyokeizai.net/articles/-/951736",
@@ -2094,11 +2094,11 @@
       "publishedAt": "2026-07-20T05:30:00+09:00",
       "collectedAt": "2026-07-20T05:36:19+09:00",
       "scrapedAt": "2026-07-20T05:36:19+09:00",
-      "lastVerifiedAt": "2026-07-20T05:36:19+09:00",
+      "lastVerifiedAt": "2026-07-21T10:01:01+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "社会×データ",
       "categories": [
         "社会×データ"
@@ -2109,12 +2109,12 @@
         "健康被害"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "1778ab09ebdac4d99314c9289b04e68bbdadcb9ddcec3a6a4e7d204d583bde6a",
       "trendScore": 10.99,
       "createdAt": "2026-07-20T05:36:19+09:00",
-      "updatedAt": "2026-07-20T05:36:19+09:00"
+      "updatedAt": "2026-07-21T10:01:01+09:00"
     },
     {
       "id": "https://toyokeizai.net/articles/-/948553?display=b",
@@ -2130,10 +2130,10 @@
       "publishedAt": "2026-07-20T05:30:00+09:00",
       "collectedAt": "2026-07-20T05:36:26+09:00",
       "scrapedAt": "2026-07-20T05:36:26+09:00",
-      "lastVerifiedAt": "2026-07-20T05:36:26+09:00",
+      "lastVerifiedAt": "2026-07-21T10:01:02+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "redirected",
+      "linkStatus": "valid",
       "validationError": null,
       "category": "制度",
       "categories": [
@@ -2150,7 +2150,7 @@
       "contentHash": "299559521489c79403bcd39fce2616014e2390a174e73cb727319cc3b8b654e0",
       "trendScore": 10.99,
       "createdAt": "2026-07-20T05:36:26+09:00",
-      "updatedAt": "2026-07-20T05:36:26+09:00"
+      "updatedAt": "2026-07-21T10:01:02+09:00"
     },
     {
       "id": "https://toyokeizai.net/articles/-/951998?display=b",
@@ -2166,10 +2166,10 @@
       "publishedAt": "2026-07-20T05:00:00+09:00",
       "collectedAt": "2026-07-20T05:36:32+09:00",
       "scrapedAt": "2026-07-20T05:36:32+09:00",
-      "lastVerifiedAt": "2026-07-20T05:36:32+09:00",
+      "lastVerifiedAt": "2026-07-21T10:01:03+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "redirected",
+      "linkStatus": "valid",
       "validationError": null,
       "category": "社会×データ",
       "categories": [
@@ -2186,7 +2186,7 @@
       "contentHash": "263b6f0fe8dd1ae4f38c5c14f7b77a54cb8bf60c515b4c16dc15680c3eb36d86",
       "trendScore": 10.96,
       "createdAt": "2026-07-20T05:36:32+09:00",
-      "updatedAt": "2026-07-20T05:36:32+09:00"
+      "updatedAt": "2026-07-21T10:01:03+09:00"
     },
     {
       "id": "https://qiita.com/north238/items/c53ce05e771f662e055b",
