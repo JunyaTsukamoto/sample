@@ -2145,12 +2145,12 @@
         "東京ディズニーシー"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "299559521489c79403bcd39fce2616014e2390a174e73cb727319cc3b8b654e0",
       "trendScore": 10.99,
       "createdAt": "2026-07-20T05:36:26+09:00",
-      "updatedAt": "2026-07-21T10:01:02+09:00"
+      "updatedAt": "2026-07-22T20:52:14.701Z"
     },
     {
       "id": "https://toyokeizai.net/articles/-/951998?display=b",
@@ -2181,12 +2181,12 @@
         "ASIMO"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "263b6f0fe8dd1ae4f38c5c14f7b77a54cb8bf60c515b4c16dc15680c3eb36d86",
       "trendScore": 10.96,
       "createdAt": "2026-07-20T05:36:32+09:00",
-      "updatedAt": "2026-07-21T10:01:03+09:00"
+      "updatedAt": "2026-07-22T20:52:14.701Z"
     },
     {
       "id": "https://qiita.com/north238/items/c53ce05e771f662e055b",
@@ -3267,6 +3267,546 @@
       "trendScore": 10.98,
       "createdAt": "2026-07-22T05:57:01+09:00",
       "updatedAt": "2026-07-22T05:57:01+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/77dca4e2f084bf5acca4",
+      "title": "Cursor Router登場！Autoモードが賢いモデルルーターに進化した話 - Qiita",
+      "originalTitle": "Cursor Router登場！Autoモードが賢いモデルルーターに進化した話",
+      "summary": "Cursor RouterはAutoモードを刷新し、リクエストごとにタスクの種類と複雑度を分析して最適なモデルへ自動的にルーティングする仕組みに進化しました。さらに、コストと知能のバランスを選べる最適化モード、チーム/グループ単位で制御できる管理者コントロール、価格効率ルーティング先としてGrok 4.5が組み込まれた点も特徴です。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/77dca4e2f084bf5acca4",
+      "originalUrl": "https://qiita.com/picnic/items/77dca4e2f084bf5acca4",
+      "finalUrl": "https://qiita.com/picnic/items/77dca4e2f084bf5acca4",
+      "publishedAt": "2026-07-23T04:29:18+09:00",
+      "collectedAt": "2026-07-23T05:50:43+09:00",
+      "scrapedAt": "2026-07-23T05:50:43+09:00",
+      "lastVerifiedAt": "2026-07-23T05:50:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Cursor Router",
+        "Autoモード",
+        "モデルルーター"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "2f9518eefac666b1f8a453a7bf44283a9a7d619166a1944d1cc4c5ed3d2f7d7a",
+      "trendScore": 10.92,
+      "createdAt": "2026-07-23T05:50:43+09:00",
+      "updatedAt": "2026-07-23T05:50:43+09:00"
+    },
+    {
+      "id": "https://qiita.com/pesipesi/items/f47c9d98e40a6eed0897",
+      "title": "さくらのAIエンジン無料枠でハンズフリーのお料理アシスタントアプリを作る - Qiita",
+      "originalTitle": "さくらのAIエンジン無料枠でハンズフリーのお料理アシスタントアプリを作る",
+      "summary": "さくらのAIエンジン無料枠を利用して、ハンズフリーのお料理アシスタントアプリを作成するプロジェクトが紹介されている。アプリは音声操作でレシピを操作でき、レシピの不明点についてAIに質問することもできる。タイマー機能やレシピ登録機能も搭載されており、レシピからカロリー計算も可能である。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/pesipesi/items/f47c9d98e40a6eed0897",
+      "originalUrl": "https://qiita.com/pesipesi/items/f47c9d98e40a6eed0897",
+      "finalUrl": "https://qiita.com/pesipesi/items/f47c9d98e40a6eed0897",
+      "publishedAt": "2026-07-23T01:37:59+09:00",
+      "collectedAt": "2026-07-23T05:50:49+09:00",
+      "scrapedAt": "2026-07-23T05:50:49+09:00",
+      "lastVerifiedAt": "2026-07-23T05:50:49+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AIエンジン",
+        "お料理アシスタント",
+        "ハンズフリー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a57dedb2adb1f2a5ab0cb452c800f50cf1731ab20c78e0b3a92f127b69b8cb32",
+      "trendScore": 10.75,
+      "createdAt": "2026-07-23T05:50:49+09:00",
+      "updatedAt": "2026-07-23T05:50:49+09:00"
+    },
+    {
+      "id": "https://qiita.com/homhom44/items/9ebe7abd9aec61dfc2bf",
+      "title": "Claude / Anthropic 関連ニュースまとめ（2026-07-23） - Qiita",
+      "originalTitle": "Claude / Anthropic 関連ニュースまとめ（2026-07-23）",
+      "summary": "ClaudeやAnthropicに関するニュースをまとめた索引が公開された。Claude Codeの新機能や1Passwordとの連携、非公式ダッシュボードの紹介などが含まれる。さらに、Anthropicの安全対策やClaude Codeの安い使用方法、ハードウェア開発への応用などが紹介されている。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/homhom44/items/9ebe7abd9aec61dfc2bf",
+      "originalUrl": "https://qiita.com/homhom44/items/9ebe7abd9aec61dfc2bf",
+      "finalUrl": "https://qiita.com/homhom44/items/9ebe7abd9aec61dfc2bf",
+      "publishedAt": "2026-07-23T01:28:33+09:00",
+      "collectedAt": "2026-07-23T05:50:55+09:00",
+      "scrapedAt": "2026-07-23T05:50:55+09:00",
+      "lastVerifiedAt": "2026-07-23T05:50:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "d36f7fe671f3fcee681708a68121bb59b26de4b0c4d5110359754e8b6c243e6a",
+      "trendScore": 10.74,
+      "createdAt": "2026-07-23T05:50:55+09:00",
+      "updatedAt": "2026-07-23T05:50:55+09:00"
+    },
+    {
+      "id": "https://qiita.com/okssusucha/items/c2b3d1256b5a49d4bbd6",
+      "title": "推論を短く圧縮すると監視可能性が落ちる、Qwen3が示すCoTの代償 - Qiita",
+      "originalTitle": "推論を短く圧縮すると監視可能性が落ちる、Qwen3が示すCoTの代償",
+      "summary": "推論モデルを短く圧縮すると、監視可能性が落ちることがわかった。監視可能性とは、モデルの出力に不正なバイアスを混ぜたとき、そのバイアスの痕跡が推論途中経過に現れるかどうかを測る指標である。研究では、長さにペナルティをかけて訓練したモデルでは、バイアスを見抜ける割合が低下した。正解率はほぼ維持されたが、モデルが何に影響されて答えを出したかを人間が読み取る能力が失われた。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/okssusucha/items/c2b3d1256b5a49d4bbd6",
+      "originalUrl": "https://qiita.com/okssusucha/items/c2b3d1256b5a49d4bbd6",
+      "finalUrl": "https://qiita.com/okssusucha/items/c2b3d1256b5a49d4bbd6",
+      "publishedAt": "2026-07-22T23:28:33+09:00",
+      "collectedAt": "2026-07-23T05:51:01+09:00",
+      "scrapedAt": "2026-07-23T05:51:01+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "推論モデル",
+        "監視可能性",
+        "長さ圧縮"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "ef5da934e8380bac0982ac97eb0c95fe61b8473c1eeb32d03d662b1b518bb86b",
+      "trendScore": 10.62,
+      "createdAt": "2026-07-23T05:51:01+09:00",
+      "updatedAt": "2026-07-23T05:51:01+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/speech/minister-260721-01",
+      "title": "松本大臣記者会見（令和8年7月21日）｜デジタル庁",
+      "originalTitle": "松本大臣記者会見（令和8年7月21日）要旨を掲載しました",
+      "summary": "松本デジタル大臣は、デジタル社会の実現に向けた重点計画の変更について記者会見を行った。重点計画では、国のAX/DX基盤の高度化、公正・公平・迅速な給付のためのインフラ作り、自治体のAX/DX推進、国民の暮らしのAX/DX推進の4つ柱を掲げている。重点計画では、AIエージェントの活用や自動運転の社会実装も推進される予定である。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/speech/minister-260721-01",
+      "originalUrl": "https://www.digital.go.jp/speech/minister-260721-01",
+      "finalUrl": "https://www.digital.go.jp/speech/minister-260721-01",
+      "publishedAt": "2026-07-22T17:05:55+09:00",
+      "collectedAt": "2026-07-23T05:51:07+09:00",
+      "scrapedAt": "2026-07-23T05:51:07+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル社会",
+        "AX/DX",
+        "AIエージェント"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "bf5509332955981fc2ab1772cf5bfb159e2e9162ddf66610df5416eaee84f08f",
+      "trendScore": 10.24,
+      "createdAt": "2026-07-23T05:51:07+09:00",
+      "updatedAt": "2026-07-23T05:51:07+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
+      "title": "アジャイル開発に関する有識者検討会（第7回）｜デジタル庁",
+      "originalTitle": "アジャイル開発に関する有識者検討会（第7回）の会議資料等を掲載しました",
+      "summary": "デジタル庁はアジャイル開発に関する有識者検討会（第7回）を開催した。会議では、アジャイル開発における会計監査や会計検査の留意事項について議論された。委員は、アジャイル開発で会計監査や会計検査を行う際には、ベロシティの比較はするべきではないことや、ストーリーポイントの考え方を説明する必要があることを指摘した。また、複数チームや規模の大きいプロジェクトでは、見積りの基準にするストーリーとその大きさは合わせて比較・説明できるようにしておくことが望ましいと述べた。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
+      "originalUrl": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
+      "finalUrl": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
+      "publishedAt": "2026-07-22T15:00:00+09:00",
+      "collectedAt": "2026-07-23T05:51:13+09:00",
+      "scrapedAt": "2026-07-23T05:51:13+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "アジャイル開発",
+        "会計監査",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "ede04da7fd21f06e29b74de7818163679b2374dbab5c3f379e56b251beddee84",
+      "trendScore": 10.12,
+      "createdAt": "2026-07-23T05:51:13+09:00",
+      "updatedAt": "2026-07-23T05:51:13+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338",
+      "title": "第10回デジタル社会構想会議｜デジタル庁",
+      "originalTitle": "第10回デジタル社会構想会議の議事録を掲載しました",
+      "summary": "デジタル社会構想会議の第10回会議が開催され、デジタル社会の実現に向けた重点計画の改定について議論された。会議では、デジタル庁の取り組みやAIの利活用についても話し合われた。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338",
+      "originalUrl": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338",
+      "finalUrl": "https://www.digital.go.jp/councils/social-concept/76083c4c-44f7-4921-b71c-01a28b9a4338",
+      "publishedAt": "2026-07-22T15:00:00+09:00",
+      "collectedAt": "2026-07-23T05:51:19+09:00",
+      "scrapedAt": "2026-07-23T05:51:19+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:19+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル社会",
+        "重点計画",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "73f8a02810bbcbf07b5f07a35c8971160ddada54f67fc853af7a59aa0255c39c",
+      "trendScore": 10.12,
+      "createdAt": "2026-07-23T05:51:19+09:00",
+      "updatedAt": "2026-07-23T05:51:19+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00355.html",
+      "title": "国土交通省｜報道資料｜令和８年度上期ブロック監理課長等会議を開催<br>～全国８ブロックにおいて公共工事の入札制度の諸課題について意見交換を行います～",
+      "originalTitle": "�ߘa�W�N�x����u���b�N�ė��ے�����c���J�Á`�S���W�u���b�N�ɂ����Č����H���̓��D���x�̏��ۑ�ɂ��Ĉӌ��������s���܂��`",
+      "summary": "国土交通省は、毎年2回、都道府県・指定都市の公共工事の入札担当課長等と公共工事の入札契約に係る諸課題について意見交換を行うブロック監理課長等会議を開催しています。令和8年度上期は7月24日から8月19日の期間において、全国8ブロックにおいて開催します。今回の会議は、第三次・担い手3法が昨年12月に全面施行されてから初めて開催する会議であり、労務費ダンピング調査をはじめとするダンピング対策、働き方改革を推し進める週休2日工事の推進、建設工事における熱中症対策の取り組み等に関して",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00355.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00355.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00355.html",
+      "publishedAt": "2026-07-22T05:00:00+09:00",
+      "collectedAt": "2026-07-23T05:51:25+09:00",
+      "scrapedAt": "2026-07-23T05:51:25+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "公共工事",
+        "入札制度",
+        "ブロック監理課長等会議"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "8c62c5f2cf281a743e6d41eb97ddcd405e60d30129b3f05cb5a930cbf5cb98d9",
+      "trendScore": 9.52,
+      "createdAt": "2026-07-23T05:51:25+09:00",
+      "updatedAt": "2026-07-23T05:51:25+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000445.000010414.html",
+      "title": "ヤマハミュージックジャパン・在日イタリア大使館、日伊両国の文化交流の発展を目的としたパートナーシップ契約を締結",
+      "originalTitle": "ヤマハミュージックジャパン・在日イタリア大使館、日伊両国の文化交流の発展を目的としたパートナーシップ契約を締結",
+      "summary": "ヤマハミュージックジャパンと在日イタリア大使館は、日伊両国の文化交流の発展を目的としたパートナーシップ契約を締結した。ヤマハのグランドピアノ「S6X」をイタリア大使公邸に設置し、記念イヤーを彩る催しでの演奏機会の創出により、日伊両国の文化交流を推進する。音楽を通じた対話の促進や、次の世代を担う才能の発掘・育成にも取り組む。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000445.000010414.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000445.000010414.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000445.000010414.html",
+      "publishedAt": "2026-07-23T05:40:02+09:00",
+      "collectedAt": "2026-07-23T05:51:31+09:00",
+      "scrapedAt": "2026-07-23T05:51:31+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:31+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "ヤマハ",
+        "イタリア大使館",
+        "文化交流"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "8730ac42fb12daf9cdeeb9f66b1d138556406195d0cd2e6b831aec244b83df9f",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-23T05:51:31+09:00",
+      "updatedAt": "2026-07-23T05:51:31+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000102.000036275.html",
+      "title": "新感覚！超リアルタイム芸人ドキュメンタリー「365日で売れてくレ」始動",
+      "originalTitle": "新感覚！超リアルタイム芸人ドキュメンタリー「365日で売れてくレ」始動",
+      "summary": "新生フィナンシャル株式会社は、芸人のソマオ・ミートボール、イチゴ、ゼロカランを起用した新Web企画『365日で売れてくレ』を開始した。この企画では、3組の芸人に1日1万円の活動資金を365日提供し、ブレイク前の芸人が売れていくまでの日々に密着する。認知度調査で50％を超えた芸人には、TVCM出演権が贈呈される。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000036275.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000102.000036275.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000102.000036275.html",
+      "publishedAt": "2026-07-23T05:40:02+09:00",
+      "collectedAt": "2026-07-23T05:51:37+09:00",
+      "scrapedAt": "2026-07-23T05:51:37+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:37+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "芸人",
+        "ドキュメンタリー",
+        "SNS"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "484f0eb1576140b859e350bf34202e4a92305ea5d7d0b5464fac469d0cacbf3d",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-23T05:51:37+09:00",
+      "updatedAt": "2026-07-23T05:51:37+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000028.000106099.html",
+      "title": "ローマ五賢帝の一人であり屈指の哲学者でもあったマルクス・アウレリウスの著書「自省録」に共鳴したEylandt by HEMELシリーズの新作「Aurelian（アウレリアン）」が登場。",
+      "originalTitle": "ローマ五賢帝の一人であり屈指の哲学者でもあったマルクス・アウレリウスの著書「自省録」に共鳴したEylandt by HEMELシリーズの新作「Aurelian（アウレリアン）」が登場。",
+      "summary": "マルクス・アウレリウスの著書「自省録」に共鳴したEylandt by HEMELシリーズの新作「Aurelian（アウレリアン）」が登場。天然大理石のダイヤルが特徴で、価格は7万4800円。ヘメルのスピリットが込められており、実用的なラグジュアリーをモットーとしている。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000106099.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000028.000106099.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000028.000106099.html",
+      "publishedAt": "2026-07-23T05:40:02+09:00",
+      "collectedAt": "2026-07-23T05:51:43+09:00",
+      "scrapedAt": "2026-07-23T05:51:43+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "マルクス・アウレリウス",
+        "Eylandt",
+        "HEMEL"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "a175c52c55267da708f74b2305fe1a5aec38be057d92ca6b412a7aebd019b9be",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-23T05:51:43+09:00",
+      "updatedAt": "2026-07-23T05:51:43+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999586",
+      "title": "お茶の水女子大学 2027年度から授業料20％値上げへ",
+      "originalTitle": "お茶の水女子大学　2027年度から授業料20％値上げへ",
+      "summary": "お茶の水女子大学は2027年度から授業料を20％値上げすることを検討している。新入生の授業料は642,960円に改定される。ただし、在学生の授業料は変更せず、新入生にのみ適用される。大学は、支援措置として「高等教育の修学支援新制度」の授業料減免を拡充するほか、大学独自の奨学金制度を拡充することを検討している。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999586",
+      "originalUrl": "https://univ-journal.jp/999586/",
+      "finalUrl": "https://univ-journal.jp/999586",
+      "publishedAt": "2026-07-22T11:00:53+09:00",
+      "collectedAt": "2026-07-23T05:51:56+09:00",
+      "scrapedAt": "2026-07-23T05:51:56+09:00",
+      "lastVerifiedAt": "2026-07-23T05:51:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "お茶の水女子大学",
+        "授業料",
+        "値上げ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "fa6089bc1df00a5b8297b035703eb3d33ff7a919a1396afb559796740a0d8e4c",
+      "trendScore": 9.88,
+      "createdAt": "2026-07-23T05:51:56+09:00",
+      "updatedAt": "2026-07-23T05:51:56+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999226",
+      "title": "音楽教育を軸に社会的なスキルを育成 「芸術工学部」設立構想で広がる進路 ～昭和音楽大学～ - 大学ジャーナルオンライン",
+      "originalTitle": "音楽教育を軸に社会的なスキルを育成 「芸術工学部」設立構想で広がる進路 ～昭和音楽大学～",
+      "summary": "昭和音楽大学は音楽教育を軸に社会的なスキルを育成することを目指し、新たに「芸術工学部」の設立を構想中である。音楽技術を学ぶとともに社会で活躍できる力を育むことを目的とし、デジタルコンテンツの制作やビジネスにおける社会実装を行う人材を育成したいと考えている。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999226",
+      "originalUrl": "https://univ-journal.jp/column/2026999226/",
+      "finalUrl": "https://univ-journal.jp/column/2026999226",
+      "publishedAt": "2026-07-22T07:00:54+09:00",
+      "collectedAt": "2026-07-23T05:52:02+09:00",
+      "scrapedAt": "2026-07-23T05:52:02+09:00",
+      "lastVerifiedAt": "2026-07-23T05:52:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "昭和音楽大学",
+        "芸術工学部",
+        "音楽教育"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "cf5717c6e25a1945646bc3777849be814db48347859ecd9ff043370d2a974019",
+      "trendScore": 9.64,
+      "createdAt": "2026-07-23T05:52:02+09:00",
+      "updatedAt": "2026-07-23T05:52:02+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999596",
+      "title": "「曲がりたい」と「転びそう」を見分ける電動バイク制御技術 芝浦工業大学が開発",
+      "originalTitle": "「曲がりたい」と「転びそう」を見分ける電動バイク制御技術　芝浦工業大学が開発",
+      "summary": "芝浦工業大学の研究グループは、運転者の意図をリアルタイムに推定し、必要な場合にのみ車体の安定化制御を行う電動バイク制御技術を開発した。この技術は、ハンドルと前輪を機械的に切り離し、電気信号によって操舵を行う「Steer-by-Wire（SBW）」技術を搭載した電動バイクで実験を行った。走行状況を「直進」「旋回」「不安定状態」の3つに分類し、システムが「不安定状態」と判断した場合のみ、車体姿勢を回復させる安定化制御を行う。実験では、カーブ走行時と転倒につながる不安定状態を高精度",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999596",
+      "originalUrl": "https://univ-journal.jp/999596/",
+      "finalUrl": "https://univ-journal.jp/999596",
+      "publishedAt": "2026-07-21T17:00:42+09:00",
+      "collectedAt": "2026-07-23T05:52:08+09:00",
+      "scrapedAt": "2026-07-23T05:52:08+09:00",
+      "lastVerifiedAt": "2026-07-23T05:52:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "電動バイク",
+        "制御技術",
+        "安定化制御"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "ef4437f33662ff5aa8defc63a2ec36ab00d1f0beca9205cbe98559a7b5e6b1fa",
+      "trendScore": 8.81,
+      "createdAt": "2026-07-23T05:52:08+09:00",
+      "updatedAt": "2026-07-23T05:52:08+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952114",
+      "title": "街中でいつの間にか急増している！日焼け防止フェイスカバーの《ヤケーヌ》が\"売れに売れている\"理由を探った",
+      "originalTitle": "街中でいつの間にか急増している！日焼け防止フェイスカバーの《ヤケーヌ》が\"売れに売れている\"理由を探った | ビジネス | 東洋経済オンライン",
+      "summary": "真夏の日に着ける人が急増しているフェイスカバー「ヤケーヌ」の開発秘話が紹介されている。外で着用すると名探偵コナンの犯人役のようにも見えるとのこと。真夏の日にも着ることができるフェイスカバーの開発理由や特徴が紹介されている。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952114",
+      "originalUrl": "https://toyokeizai.net/articles/-/952114?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952114",
+      "publishedAt": "2026-07-23T05:45:00+09:00",
+      "collectedAt": "2026-07-23T05:52:14+09:00",
+      "scrapedAt": "2026-07-23T05:52:14+09:00",
+      "lastVerifiedAt": "2026-07-23T05:52:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "フェイスカバー",
+        "ヤケーヌ",
+        "日焼け防止"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "a063639b119fa770e9af3c95f2a5b0fb121b478f213d349144b7e7896fc693bd",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-23T05:52:14+09:00",
+      "updatedAt": "2026-07-23T05:52:14+09:00"
     }
   ],
   "sources": [
@@ -3279,8 +3819,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-22T05:55:26+09:00",
-      "lastSuccessAt": "2026-07-22T05:55:26+09:00",
+      "lastFetchedAt": "2026-07-23T05:50:42+09:00",
+      "lastSuccessAt": "2026-07-23T05:50:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3292,8 +3832,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-22T05:55:39+09:00",
-      "lastSuccessAt": "2026-07-22T05:55:39+09:00",
+      "lastFetchedAt": "2026-07-23T05:50:55+09:00",
+      "lastSuccessAt": "2026-07-23T05:50:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3305,8 +3845,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-22T05:55:46+09:00",
-      "lastSuccessAt": "2026-07-22T05:55:46+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:01+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3331,8 +3871,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-22T05:55:46+09:00",
-      "lastSuccessAt": "2026-07-22T05:55:46+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:01+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3344,8 +3884,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-22T05:55:46+09:00",
-      "lastSuccessAt": "2026-07-22T05:55:47+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:02+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3357,8 +3897,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-22T05:56:03+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:04+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:19+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3370,8 +3910,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-22T05:56:04+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:05+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:19+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3383,8 +3923,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-22T05:56:06+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:07+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:21+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3487,8 +4027,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-22T05:56:19+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:20+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:25+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3500,9 +4040,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-22T05:56:33+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:43+09:00",
       "lastSuccessAt": "2026-07-16T11:54:07+09:00",
-      "consecutiveFailures": 3
+      "consecutiveFailures": 4
     },
     {
       "id": "src-newspicks-none",
@@ -3526,8 +4066,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-22T05:56:34+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:34+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:43+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3539,8 +4079,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-22T05:56:34+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:35+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:44+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3552,8 +4092,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-22T05:56:35+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:36+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:44+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3565,8 +4105,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-22T05:56:36+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:36+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:45+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3578,8 +4118,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-22T05:56:36+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:36+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:46+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3591,8 +4131,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-22T05:56:36+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:37+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:47+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3604,9 +4144,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-22T05:56:37+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:47+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 3
+      "consecutiveFailures": 4
     },
     {
       "id": "src-itmedia-biz",
@@ -3617,8 +4157,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-22T05:56:38+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:38+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:48+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3630,9 +4170,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-22T05:56:40+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:50+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 3
+      "consecutiveFailures": 4
     },
     {
       "id": "src-nict",
@@ -3643,9 +4183,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-22T05:56:41+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:51+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 3
+      "consecutiveFailures": 4
     },
     {
       "id": "src-ppc",
@@ -3656,9 +4196,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-22T05:56:43+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:51+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 3
+      "consecutiveFailures": 4
     },
     {
       "id": "src-caa",
@@ -3669,9 +4209,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-22T05:56:45+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:53+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 3
+      "consecutiveFailures": 4
     },
     {
       "id": "src-univ-journal",
@@ -3682,8 +4222,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-22T05:56:46+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:48+09:00",
+      "lastFetchedAt": "2026-07-23T05:51:54+09:00",
+      "lastSuccessAt": "2026-07-23T05:51:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3695,8 +4235,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-22T05:56:55+09:00",
-      "lastSuccessAt": "2026-07-22T05:56:56+09:00",
+      "lastFetchedAt": "2026-07-23T05:52:08+09:00",
+      "lastSuccessAt": "2026-07-23T05:52:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3779,6 +4319,46 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260723-0550",
+      "scheduledAt": "2026-07-23T05:50:42+09:00",
+      "startedAt": "2026-07-23T05:50:42+09:00",
+      "finishedAt": "2026-07-23T05:52:14+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 6,
+      "candidatesFound": 54,
+      "duplicatesRemoved": 1,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "sourceId": "src-thebridge",
+          "message": "フィード取得失敗: Status code 403"
+        },
+        {
+          "sourceId": "src-atpress",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-aist",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-nict",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-ppc",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-caa",
+          "message": "フィード取得失敗: Status code 403"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260722-0555",
       "scheduledAt": "2026-07-22T05:55:26+09:00",
@@ -4013,9 +4593,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-22T05:57:01+09:00",
-    "lastSuccessAt": "2026-07-22T05:57:01+09:00",
-    "nextScheduledAt": "2026-07-23T05:00:00+09:00",
+    "lastCollectionAt": "2026-07-23T05:52:14+09:00",
+    "lastSuccessAt": "2026-07-23T05:52:14+09:00",
+    "nextScheduledAt": "2026-07-24T05:00:00+09:00",
     "lastJobStatus": "partial_success"
   },
   "preferences": {
