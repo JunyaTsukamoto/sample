@@ -2685,12 +2685,12 @@
         "地方ローカル線"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "89a22d7540f49765eafe1a5cce0d60d8ca7afd3cee3c0106fecbe8fdf9265904",
       "trendScore": 10.97,
       "createdAt": "2026-07-21T05:58:08+09:00",
-      "updatedAt": "2026-07-23T10:04:00+09:00"
+      "updatedAt": "2026-07-23T20:48:59.877Z"
     },
     {
       "id": "https://diamond.jp/articles/-/395110",
@@ -3807,6 +3807,546 @@
       "trendScore": 10.99,
       "createdAt": "2026-07-23T05:52:14+09:00",
       "updatedAt": "2026-07-23T05:52:14+09:00"
+    },
+    {
+      "id": "https://qiita.com/miyaguchi_kioku/items/c8a026693719f7d9bdf3",
+      "title": "AIエージェント設計完全ガイド④-Claude Codeで実践するDynamic Workflows - Qiita",
+      "originalTitle": "AIエージェント設計完全ガイド④-Claude Codeで実践するDynamic Workflows",
+      "summary": "AIエージェント設計完全ガイド④では、Claude Codeで実践するDynamic Workflowsについて解説している。Dynamic Workflowsとは、複雑なタスクに応じてAIが処理を分解し、複数のAgentやツールを組み合わせて実行する考え方である。Claude Codeは、Anthropicが提供するAgent型の開発ツールであり、プロジェクト内のファイルを読み、コードを編集し、コマンドを実行し、テストやGitなどの開発ツールと連携できる。Graph Eng",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/miyaguchi_kioku/items/c8a026693719f7d9bdf3",
+      "originalUrl": "https://qiita.com/miyaguchi_kioku/items/c8a026693719f7d9bdf3",
+      "finalUrl": "https://qiita.com/miyaguchi_kioku/items/c8a026693719f7d9bdf3",
+      "publishedAt": "2026-07-24T04:57:56+09:00",
+      "collectedAt": "2026-07-24T05:47:24+09:00",
+      "scrapedAt": "2026-07-24T05:47:24+09:00",
+      "lastVerifiedAt": "2026-07-24T05:47:24+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AIエージェント",
+        "Claude Code",
+        "Dynamic Workflows"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "9cf54b341be51a4a66049f411f5c8234a181e0bce6e7bb1a5164428fa0139e75",
+      "trendScore": 10.95,
+      "createdAt": "2026-07-24T05:47:24+09:00",
+      "updatedAt": "2026-07-24T05:47:24+09:00"
+    },
+    {
+      "id": "https://qiita.com/singula/items/7b0c9cf2e7f21a780926",
+      "title": "AIに仕事を奪われる不安から始めるハーネス作成入門 第16回 Slack承認を想定したハーネス処理フローを描く - Qiita",
+      "originalTitle": "AIに仕事を奪われる不安から始めるハーネス作成入門 第16回 Slack承認を想定したハーネス処理フローを描く",
+      "summary": "ハーネスエンジニアリングの連載記事で、Slack承認を想定したハーネス処理フローを描く方法が紹介されている。承認ポイントを「動くフロー」にするために、Mermaidシーケンス図で可視化する。Slackを承認チャネルとして使う理由は、既に使っていること、APIが充実していること、インタラクティブボタンが使えること、通知が届くことなどである。ハーネスのSlack承認フローは、大きく5つのフェーズに分かれ、タスク受付、リスク判定、Slack通知、承認待ち・実行、結果通知のフェーズが",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/singula/items/7b0c9cf2e7f21a780926",
+      "originalUrl": "https://qiita.com/singula/items/7b0c9cf2e7f21a780926",
+      "finalUrl": "https://qiita.com/singula/items/7b0c9cf2e7f21a780926",
+      "publishedAt": "2026-07-24T04:55:25+09:00",
+      "collectedAt": "2026-07-24T05:47:30+09:00",
+      "scrapedAt": "2026-07-24T05:47:30+09:00",
+      "lastVerifiedAt": "2026-07-24T05:47:30+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ハーネスエンジニアリング",
+        "Slack",
+        "承認フロー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "54a4f838c61db7e285154d24c2e0516e50db57c775753837a8d57b47ea7b9e01",
+      "trendScore": 10.95,
+      "createdAt": "2026-07-24T05:47:30+09:00",
+      "updatedAt": "2026-07-24T05:47:30+09:00"
+    },
+    {
+      "id": "https://qiita.com/miyaguchi_kioku/items/fd52ca8cb9dd08b4b582",
+      "title": "AIエージェント設計完全ガイド③-Graph Engineering実践 - Qiita",
+      "originalTitle": "AIエージェント設計完全ガイド③-Graph Engineering実践",
+      "summary": "AIエージェント設計完全ガイドの第3回では、Graph Engineeringの実践について解説している。Graph Engineeringの価値は、たくさんのAIを同時に動かすことではなく、失敗しても止まらず、間違いを検証し、コストを制御しながら、目的に収束させることにある。Node ContractやEdge Contract、Failure Isolation、Adversarial Verificationなどの設計パターンについても触れている。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/miyaguchi_kioku/items/fd52ca8cb9dd08b4b582",
+      "originalUrl": "https://qiita.com/miyaguchi_kioku/items/fd52ca8cb9dd08b4b582",
+      "finalUrl": "https://qiita.com/miyaguchi_kioku/items/fd52ca8cb9dd08b4b582",
+      "publishedAt": "2026-07-24T04:49:54+09:00",
+      "collectedAt": "2026-07-24T05:47:36+09:00",
+      "scrapedAt": "2026-07-24T05:47:36+09:00",
+      "lastVerifiedAt": "2026-07-24T05:47:36+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AIエージェント",
+        "Graph Engineering",
+        "設計パターン"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "9da880df02c39817206a43e47365e560f7e19a2c969399562e144027dd20ca02",
+      "trendScore": 10.94,
+      "createdAt": "2026-07-24T05:47:36+09:00",
+      "updatedAt": "2026-07-24T05:47:36+09:00"
+    },
+    {
+      "id": "https://qiita.com/hisuzuya/items/bad397e9d66ed1fefa9f",
+      "title": "【LLM・VLM実践学習 #2】LLMへ知識を与える — Embedding・ベクトル検索・RAG - Qiita",
+      "originalTitle": "【LLM・VLM実践学習 #2】LLMへ知識を与える — Embedding・ベクトル検索・RAG",
+      "summary": "LLMへ知識を与えるために、Embedding・ベクトル検索・RAGの仕組みを説明する。RAGは質問に関係する文書を検索し、その文書をLLMへ渡してから回答を生成する。Embeddingは文章を検索用のベクトルへ変換する。ベクトル検索の最小構成はコサイン類似度でよい。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/hisuzuya/items/bad397e9d66ed1fefa9f",
+      "originalUrl": "https://qiita.com/hisuzuya/items/bad397e9d66ed1fefa9f",
+      "finalUrl": "https://qiita.com/hisuzuya/items/bad397e9d66ed1fefa9f",
+      "publishedAt": "2026-07-23T17:32:18+09:00",
+      "collectedAt": "2026-07-24T05:47:42+09:00",
+      "scrapedAt": "2026-07-24T05:47:42+09:00",
+      "lastVerifiedAt": "2026-07-24T05:47:42+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "RAG",
+        "Embedding"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a1f82594503679b5d2e81c726ab10329a904d36b47cc7b5392378da8d3b49b3b",
+      "trendScore": 10.27,
+      "createdAt": "2026-07-24T05:47:42+09:00",
+      "updatedAt": "2026-07-24T05:47:42+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3",
+      "title": "デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました｜デジタル庁",
+      "originalTitle": "デジタル改革共創プラットフォーム「2026年度アンバサダー就任式」を行いました",
+      "summary": "デジタル庁は、地方公共団体と政府機関の職員が意見交換できるオンラインコミュニティ「デジタル改革共創プラットフォーム」を運営している。このプラットフォームでは、アンバサダー制度を設けており、2026年度のアンバサダー就任式を行った。新たに12名がアンバサダーに就任し、コミュニティの活性化を図る。デジタル改革の促進を目的としたこのプラットフォームは、全国の地方公共団体の8割以上が参加しており、デジタル改革に関する情報共有や意見交換を行っている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3",
+      "originalUrl": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3",
+      "finalUrl": "https://www.digital.go.jp/news/9df060ae-3a45-483d-8f4b-97a05d75b2c3",
+      "publishedAt": "2026-07-23T15:00:00+09:00",
+      "collectedAt": "2026-07-24T05:47:48+09:00",
+      "scrapedAt": "2026-07-24T05:47:48+09:00",
+      "lastVerifiedAt": "2026-07-24T05:47:48+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル改革",
+        "地方公共団体",
+        "オンラインコミュニティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "dc220d7d9201304460f17709a007fb1c9f45aa4cee508923192f7a33169b4032",
+      "trendScore": 10.12,
+      "createdAt": "2026-07-24T05:47:48+09:00",
+      "updatedAt": "2026-07-24T05:47:48+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/mynumber_resources",
+      "title": "広報資料｜デジタル庁",
+      "originalTitle": "広報資料におけるマイナンバーカード活用等に関する周知用資料を更新しました",
+      "summary": "デジタル庁の広報資料では、マイナンバーカードの活用方法や更新手続き、視覚・聴覚障害者のための資料、セキュリティの基本ポイント、ポスター・リーフレットなどの情報が提供されている。マイナンバーカードの安全性や健康保険証としての利用方法についても解説されている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/mynumber_resources",
+      "originalUrl": "https://www.digital.go.jp/policies/mynumber_resources",
+      "finalUrl": "https://www.digital.go.jp/policies/mynumber_resources",
+      "publishedAt": "2026-07-23T15:00:00+09:00",
+      "collectedAt": "2026-07-24T05:47:54+09:00",
+      "scrapedAt": "2026-07-24T05:47:54+09:00",
+      "lastVerifiedAt": "2026-07-24T05:47:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "マイナンバーカード",
+        "デジタル庁",
+        "健康保険証"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "91829ea53f752fa200ec8b68b83379f2d751e73f220cd249291745dcee9db558",
+      "trendScore": 10.12,
+      "createdAt": "2026-07-24T05:47:54+09:00",
+      "updatedAt": "2026-07-24T05:47:54+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/digital_promotion_staff/community",
+      "title": "デジタル推進委員オンラインコミュニティ｜デジタル庁",
+      "originalTitle": "デジタル推進委員オンラインコミュニティ登録マニュアルを更新しました",
+      "summary": "デジタル庁はデジタル推進委員オンラインコミュニティを運営しており、デジタル推進委員の皆さまの取組を支援、拡大、活性化するために交流や情報交換に活用できる。デジタル推進委員に任命された方のみが参加でき、利用規約に同意した上で登録する必要がある。オンラインコミュニティには登録マニュアルやスタートガイドが用意されている。また、年度総会などのイベントも開催されている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/digital_promotion_staff/community",
+      "originalUrl": "https://www.digital.go.jp/policies/digital_promotion_staff/community",
+      "finalUrl": "https://www.digital.go.jp/policies/digital_promotion_staff/community",
+      "publishedAt": "2026-07-23T15:00:00+09:00",
+      "collectedAt": "2026-07-24T05:48:00+09:00",
+      "scrapedAt": "2026-07-24T05:48:00+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:00+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル推進委員",
+        "オンラインコミュニティ",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "fb5d5ae4f8b3f8175d4af4faa63cc644a3ca8f78260acbcb33effc85556744ed",
+      "trendScore": 10.12,
+      "createdAt": "2026-07-24T05:48:00+09:00",
+      "updatedAt": "2026-07-24T05:48:00+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo10_hh_000384.html",
+      "title": "国土交通省｜報道資料｜エネルギー・経済安全保障小委員会の設置について議論を行いました<br>～社会資本整備審議会環境部会・交通政策審議会交通体系分科会環境部会第４５回合同会議を書面開催しました～",
+      "originalTitle": "�G�l���M�[�E�o�ψ��S�ۏᏬ�ψ���̐ݒu�ɂ��ċc�_���s���܂����`�Љ�{�����R�c�������E��ʐ����R�c���ʑ̌n���ȉ�������S�T�񍇓���c�����ʊJ�Â��܂����`",
+      "summary": "国土交通省は社会資本整備審議会環境部会・交通政策審議会交通体系分科会環境部会第４５回合同会議を書面開催し、エネルギー・経済安全保障小委員会の設置について議論を行った。国際情勢の変動の中で、脱炭素化や非化石転換を推進しながら、エネルギーの自給率向上と調達の多角化を同時に実現するための施策を検討するため、小委員会の設置を決定した。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo10_hh_000384.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo10_hh_000384.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo10_hh_000384.html",
+      "publishedAt": "2026-07-23T05:00:00+09:00",
+      "collectedAt": "2026-07-24T05:48:06+09:00",
+      "scrapedAt": "2026-07-24T05:48:06+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "エネルギー",
+        "経済安全保障",
+        "国土交通省"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "9a2e29994be9a3a02d411c85d64698c01952a0a0e93448788f4953aa41e87266",
+      "trendScore": 9.52,
+      "createdAt": "2026-07-24T05:48:06+09:00",
+      "updatedAt": "2026-07-24T05:48:06+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000035.000155449.html",
+      "title": "【エムディー株式会社】AI出店戦略ツール「gleasin」と生成AIによる商圏調査の精度を主要7駅で検証。公的統計データとの比較結果を公開",
+      "originalTitle": "【エムディー株式会社】AI出店戦略ツール「gleasin」と生成AIによる商圏調査の精度を主要7駅で検証。公的統計データとの比較結果を公開",
+      "summary": "エムディー株式会社は、AI出店戦略ツール「gleasin」と生成AIによる商圏調査の精度を主要7駅で検証した結果を公開した。新宿・渋谷・池袋・大阪・博多・札幌・名古屋を対象に、人口・世帯数・昼間就業者数・年間小売販売額の回答精度を比較した。結果はホワイトペーパーとして公開されており、出店判断におけるデータの出典と集計条件の重要性を強調している。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000155449.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000035.000155449.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000035.000155449.html",
+      "publishedAt": "2026-07-24T05:40:02+09:00",
+      "collectedAt": "2026-07-24T05:48:13+09:00",
+      "scrapedAt": "2026-07-24T05:48:13+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI出店戦略",
+        "商圏調査",
+        "生成AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "85bf646331787ed3cd6b81809e2fe81fb4338b115afd4985ba925b0ba791e2c5",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-24T05:48:13+09:00",
+      "updatedAt": "2026-07-24T05:48:13+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000009.000186295.html",
+      "title": "イケル・レクオナ、Aruba.it Racing - Ducati Teamとの契約を更新",
+      "originalTitle": "イケル・レクオナ、Aruba.it Racing - Ducati Teamとの契約を更新",
+      "summary": "イケル・レクオナは、Aruba.it Racing - Ducati Teamとの契約を更新し、2027年と2028年のWorldSBKに参戦する。レクオナはチームの一員として自然に溶け込み、バイクにもチームにもスムーズに適応し、情熱、献身、チームスピリットを持って取り組んでいる。ドゥカティはレクオナとの契約更新を非常に重要な意味を持つとし、チームとともにプロジェクトを継続していくことを目指している。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000186295.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000009.000186295.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000009.000186295.html",
+      "publishedAt": "2026-07-24T05:40:02+09:00",
+      "collectedAt": "2026-07-24T05:48:18+09:00",
+      "scrapedAt": "2026-07-24T05:48:18+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:18+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "イケル・レクオナ",
+        "Aruba.it Racing - Ducati Team",
+        "WorldSBK"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "7b621ef04c2459acfc9823332cb6c45a56e53ba0acff4ac7c3c81e8631b8e45e",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-24T05:48:18+09:00",
+      "updatedAt": "2026-07-24T05:48:18+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000601.000050979.html",
+      "title": "eスポーツチーム「REJECT」、『Apex Legends』プロ選手集結のBBQ配信企画「えぺやすみ BBQ編」を開催",
+      "originalTitle": "eスポーツチーム「REJECT」、『Apex Legends』プロ選手集結のBBQ配信企画「えぺやすみ BBQ編」を開催",
+      "summary": "eスポーツチーム「REJECT」は、Yogiboの協賛のもと、『Apex Legends』のプロ選手が集結する配信イベント「えぺやすみ BBQ編」を開催する。プロ選手たちがチームの垣根を越えて集まり、BBQを楽しみながら交流する配信企画で、選手たちの素顔や普段はなかなか聞くことのできないトークを紹介する。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000601.000050979.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000601.000050979.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000601.000050979.html",
+      "publishedAt": "2026-07-24T05:40:02+09:00",
+      "collectedAt": "2026-07-24T05:48:24+09:00",
+      "scrapedAt": "2026-07-24T05:48:24+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:24+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "eスポーツ",
+        "Apex Legends",
+        "REJECT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "cfb15e27e6d074540357473b541e29ca57e5591a627f271d42d017417b40e818",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-24T05:48:24+09:00",
+      "updatedAt": "2026-07-24T05:48:24+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999602",
+      "title": "排外的ナショナリズムは敵・味方を区別しつつ高まる 東京理科大学が「言葉の選択」から定量的に検証",
+      "originalTitle": "排外的ナショナリズムは敵・味方を区別しつつ高まる　東京理科大学が「言葉の選択」から定量的に検証",
+      "summary": "東京理科大学の研究グループは、戦前の日本で発行された約30万件の新聞記事を分析し、排外的ナショナリズムの高まりを定量的に捉えることに成功した。研究では、新聞による外国地名の表記選択に着目し、外国由来のカタカナを避け、当て字を選ぶ傾向が強まる度合いを外国への排外的な態度を映す指標とした。その結果、排外的ナショナリズムの高まりはアメリカ・イギリスとの開戦ではなく、その5年前の1936年に立ち上がり、その後も一方的に強まったのではなく、強まる時期と弱まる時期を繰り返していた。さらに",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999602",
+      "originalUrl": "https://univ-journal.jp/999602/",
+      "finalUrl": "https://univ-journal.jp/999602",
+      "publishedAt": "2026-07-23T11:00:12+09:00",
+      "collectedAt": "2026-07-24T05:48:42+09:00",
+      "scrapedAt": "2026-07-24T05:48:42+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:42+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "排外的ナショナリズム",
+        "東京理科大学",
+        "新聞記事分析"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "dba136dec4c875f3f41f637bc1d695232b24c82b4d6a073c6f27f7dda5e3f4a6",
+      "trendScore": 9.88,
+      "createdAt": "2026-07-24T05:48:42+09:00",
+      "updatedAt": "2026-07-24T05:48:42+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999425",
+      "title": "目指すのは「イノベーティブテクノロジスト」の育成 三条市立大学 アハメド シャハリアル学長 - 大学ジャーナルオンライン",
+      "originalTitle": "目指すのは「イノベーティブテクノロジスト」の育成　三条市立大学 アハメド シャハリアル学長",
+      "summary": "三条市立大学は、地域のものづくり技術を高度化させることを目的とし、工学とマネジメントを融合させた教育を行っている。学生は、地域の企業で実習を経験し、ものづくりのプロセスを学ぶ。大学は、デジタル技術をものづくりに取り入れることも重要と考え、将来的にはデジタル領域の学びを拡張する予定である。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999425",
+      "originalUrl": "https://univ-journal.jp/column/2026999425/",
+      "finalUrl": "https://univ-journal.jp/column/2026999425",
+      "publishedAt": "2026-07-23T07:00:49+09:00",
+      "collectedAt": "2026-07-24T05:48:47+09:00",
+      "scrapedAt": "2026-07-24T05:48:47+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "三条市立大学",
+        "ものづくり",
+        "デジタル技術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "7e53a150aab490cc2a5f3604e652ecd20f150e98e1356eeddbd84f7ce12a884c",
+      "trendScore": 9.64,
+      "createdAt": "2026-07-24T05:48:47+09:00",
+      "updatedAt": "2026-07-24T05:48:47+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999606",
+      "title": "海を渡るカモメが薬剤耐性菌を運ぶ可能性 摂南大学と姫路獨協大学が解析",
+      "originalTitle": "海を渡るカモメが薬剤耐性菌を運ぶ可能性　摂南大学と姫路獨協大学が解析",
+      "summary": "摂南大学と姫路獨協大学の研究グループは、オオセグロカモメの糞便から院内感染の原因菌として知られるステノトロフォモナス・マルトフィリアを高頻度に検出した。オオセグロカモメは夏季に北海道周辺で繁殖し、冬季には西日本から東南アジア地域へ移動することがあり、薬剤耐性菌の保有宿主・運び手となる可能性が示唆された。研究では、糞便中に高い割合でステノトロフォモナス・マルトフィリアが存在し、抗菌薬耐性を示すことが明らかになった。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999606",
+      "originalUrl": "https://univ-journal.jp/999606/",
+      "finalUrl": "https://univ-journal.jp/999606",
+      "publishedAt": "2026-07-22T17:00:46+09:00",
+      "collectedAt": "2026-07-24T05:48:54+09:00",
+      "scrapedAt": "2026-07-24T05:48:54+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "オオセグロカモメ",
+        "薬剤耐性菌",
+        "ステノトロフォモナス・マルトフィリア"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "c2ea86cb96404b84b1537d401a31e24dac25ab0a8c47d6022de9dd503562af23",
+      "trendScore": 8.81,
+      "createdAt": "2026-07-24T05:48:54+09:00",
+      "updatedAt": "2026-07-24T05:48:54+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952044?display=b",
+      "title": "北海道最高層のタワマンが問いかける再開発マンションの現実…｢多額の公金投じた事業で投資｣は\"あり\"なのか",
+      "originalTitle": "北海道最高層のタワマンが問いかける再開発マンションの現実…｢多額の公金投じた事業で投資｣は\"あり\"なのか | ビジネス | 東洋経済オンライン",
+      "summary": "北海道の札幌駅北口周辺は大きな変貌を遂げている。高層マンションやホテルが立ち並ぶ中、北8条西1丁目地区に建つ「ONE札幌ステーションタワー」が特に注目される。地上48階建て、高さ175.2mのタワーマンションで、総戸数624戸。一般分譲された542戸の価格は5160万～数億円で、平均坪単価は約400万円に達した。しかし、実際にここで暮らす実需は約35％にとどまり、住宅としてのマンションとは別の「顔」を持っていることがわかる。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952044?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/952044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952044?display=b",
+      "publishedAt": "2026-07-24T05:40:00+09:00",
+      "collectedAt": "2026-07-24T05:48:59+09:00",
+      "scrapedAt": "2026-07-24T05:48:59+09:00",
+      "lastVerifiedAt": "2026-07-24T05:48:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "札幌",
+        "マンション",
+        "再開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "c7695145ef94f39ed4373a893ed1c1316d2c7e826877f587997e90f2f180fbf4",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-24T05:48:59+09:00",
+      "updatedAt": "2026-07-24T05:48:59+09:00"
     }
   ],
   "sources": [
@@ -3819,8 +4359,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-23T05:50:42+09:00",
-      "lastSuccessAt": "2026-07-23T05:50:42+09:00",
+      "lastFetchedAt": "2026-07-24T05:47:22+09:00",
+      "lastSuccessAt": "2026-07-24T05:47:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3832,8 +4372,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-23T05:50:55+09:00",
-      "lastSuccessAt": "2026-07-23T05:50:55+09:00",
+      "lastFetchedAt": "2026-07-24T05:47:36+09:00",
+      "lastSuccessAt": "2026-07-24T05:47:36+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3845,8 +4385,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-23T05:51:01+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:01+09:00",
+      "lastFetchedAt": "2026-07-24T05:47:42+09:00",
+      "lastSuccessAt": "2026-07-24T05:47:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3871,8 +4411,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-23T05:51:01+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:02+09:00",
+      "lastFetchedAt": "2026-07-24T05:47:43+09:00",
+      "lastSuccessAt": "2026-07-24T05:47:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3884,8 +4424,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-23T05:51:02+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:02+09:00",
+      "lastFetchedAt": "2026-07-24T05:47:43+09:00",
+      "lastSuccessAt": "2026-07-24T05:47:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3897,8 +4437,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-23T05:51:19+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:19+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:00+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3910,8 +4450,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-23T05:51:19+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:20+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:01+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -3923,8 +4463,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-23T05:51:21+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:22+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:03+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4027,8 +4567,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-23T05:51:25+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:25+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:06+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4040,9 +4580,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-23T05:51:43+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:24+09:00",
       "lastSuccessAt": "2026-07-16T11:54:07+09:00",
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-newspicks-none",
@@ -4066,8 +4606,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-23T05:51:43+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:44+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:25+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4079,8 +4619,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-23T05:51:44+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:44+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:25+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4092,8 +4632,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-23T05:51:44+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:45+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:26+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4105,8 +4645,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-23T05:51:45+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:46+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:27+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4118,8 +4658,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-23T05:51:46+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:47+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:27+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4131,8 +4671,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-23T05:51:47+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:47+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:28+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4144,9 +4684,9 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-23T05:51:47+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:29+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-itmedia-biz",
@@ -4157,8 +4697,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-23T05:51:48+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:48+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:30+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:30+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4170,9 +4710,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-23T05:51:50+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:31+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-nict",
@@ -4183,9 +4723,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-07-23T05:51:51+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:32+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-ppc",
@@ -4196,9 +4736,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-23T05:51:51+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:33+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-caa",
@@ -4209,9 +4749,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.95,
-      "lastFetchedAt": "2026-07-23T05:51:53+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:36+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 4
+      "consecutiveFailures": 5
     },
     {
       "id": "src-univ-journal",
@@ -4222,8 +4762,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-23T05:51:54+09:00",
-      "lastSuccessAt": "2026-07-23T05:51:55+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:37+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4235,8 +4775,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-23T05:52:08+09:00",
-      "lastSuccessAt": "2026-07-23T05:52:09+09:00",
+      "lastFetchedAt": "2026-07-24T05:48:54+09:00",
+      "lastSuccessAt": "2026-07-24T05:48:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -4319,6 +4859,46 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260724-0547",
+      "scheduledAt": "2026-07-24T05:47:22+09:00",
+      "startedAt": "2026-07-24T05:47:22+09:00",
+      "finishedAt": "2026-07-24T05:48:59+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 6,
+      "candidatesFound": 53,
+      "duplicatesRemoved": 2,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "sourceId": "src-thebridge",
+          "message": "フィード取得失敗: Status code 403"
+        },
+        {
+          "sourceId": "src-atpress",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-aist",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-nict",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-ppc",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "src-caa",
+          "message": "フィード取得失敗: Status code 403"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260723-0550",
       "scheduledAt": "2026-07-23T05:50:42+09:00",
@@ -4593,9 +5173,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-23T05:52:14+09:00",
-    "lastSuccessAt": "2026-07-23T05:52:14+09:00",
-    "nextScheduledAt": "2026-07-24T05:00:00+09:00",
+    "lastCollectionAt": "2026-07-24T05:48:59+09:00",
+    "lastSuccessAt": "2026-07-24T05:48:59+09:00",
+    "nextScheduledAt": "2026-07-25T05:00:00+09:00",
     "lastJobStatus": "partial_success"
   },
   "preferences": {
