@@ -4341,12 +4341,12 @@
         "再開発"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "c7695145ef94f39ed4373a893ed1c1316d2c7e826877f587997e90f2f180fbf4",
       "trendScore": 10.99,
       "createdAt": "2026-07-24T05:48:59+09:00",
-      "updatedAt": "2026-07-26T10:08:33+09:00"
+      "updatedAt": "2026-07-26T20:44:08.877Z"
     },
     {
       "id": "https://qiita.com/picnic/items/fd81f1614b95cafdc830",
@@ -5133,12 +5133,12 @@
         "国土交通省"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "b9bc59f804e3e560bf562302d385e744cc7b5d5278e92faeb00fd6e7ea5865b5",
       "trendScore": 8.1,
       "createdAt": "2026-07-26T05:38:28+09:00",
-      "updatedAt": "2026-07-26T05:38:28+09:00"
+      "updatedAt": "2026-07-26T20:44:08.877Z"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/water01_hh_000189.html",
@@ -5169,12 +5169,12 @@
         "ダム事務所"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "f8e61de72cfc71dc6497d93c1ec6c3e95a60bd680e774f4ef1c260599f7023ee",
       "trendScore": 8.1,
       "createdAt": "2026-07-26T05:38:34+09:00",
-      "updatedAt": "2026-07-26T05:38:34+09:00"
+      "updatedAt": "2026-07-26T20:44:08.877Z"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000001468.000021766.html",
@@ -5427,6 +5427,510 @@
       "trendScore": 10.99,
       "createdAt": "2026-07-26T05:39:22+09:00",
       "updatedAt": "2026-07-26T05:39:22+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/a775f2b931484c96cbae",
+      "title": "探すのは機械、読むのはAI ── Excelの上に検索とAIの三段構えを組んだら、国の設計図と同じ形だった話 - Qiita",
+      "originalTitle": "探すのは機械、読むのはAI ── Excelの上に検索とAIの三段構えを組んだら、国の設計図と同じ形だった話",
+      "summary": "Excelの解説動画「ExcelドカタCH」の運営者が、VBAコードの自動登録を実現したことで、従来の「NO‼︎VBA」の方針を転換した。経産省のデジタル政策の設計図でも、データを現場に置いたままAIがデータのある場所へ出向くという新しいアプローチが語られている。Excelの属人化やブラックボックス化が問題視されていたが、AIの登場によりこれらの問題が解決しつつある。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/a775f2b931484c96cbae",
+      "originalUrl": "https://qiita.com/shu15511551/items/a775f2b931484c96cbae",
+      "finalUrl": "https://qiita.com/shu15511551/items/a775f2b931484c96cbae",
+      "publishedAt": "2026-07-27T04:55:20+09:00",
+      "collectedAt": "2026-07-27T05:42:41+09:00",
+      "scrapedAt": "2026-07-27T05:42:41+09:00",
+      "lastVerifiedAt": "2026-07-27T05:42:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Excel",
+        "AI",
+        "VBA"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "c43e99e08861b3fca87a641684f14e4bcb1316918e453eeeb5dda273ec2d1c27",
+      "trendScore": 10.95,
+      "createdAt": "2026-07-27T05:42:41+09:00",
+      "updatedAt": "2026-07-27T05:42:41+09:00"
+    },
+    {
+      "id": "https://qiita.com/clar_biz/items/ae903765f0d5caf5821d",
+      "title": "Claude Codeのサブエージェント運用で効いたのは「賢い指示」より「失敗のカタログ化」だった - Qiita",
+      "originalTitle": "Claude Codeのサブエージェント運用で効いたのは「賢い指示」より「失敗のカタログ化」だった",
+      "summary": "Claude Code上に役割の異なるサブエージェントを11体作り、個人開発の全業務を役割分担している。効果を出しているのは凝ったプロンプトではなく、失敗を記録し、次の委任プロンプトに機械的に混ぜ込む仕組みだった。このAIチーム構築は、自分の個人開発を毎日回すための実務フローとして使い続けているものを公開している。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/clar_biz/items/ae903765f0d5caf5821d",
+      "originalUrl": "https://qiita.com/clar_biz/items/ae903765f0d5caf5821d",
+      "finalUrl": "https://qiita.com/clar_biz/items/ae903765f0d5caf5821d",
+      "publishedAt": "2026-07-27T02:43:54+09:00",
+      "collectedAt": "2026-07-27T05:42:47+09:00",
+      "scrapedAt": "2026-07-27T05:42:47+09:00",
+      "lastVerifiedAt": "2026-07-27T05:42:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Claude Code",
+        "サブエージェント",
+        "個人開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "023285543067cc4bb7ac9b93e6284023aa0f3c40651137b4999fab9542be7c1e",
+      "trendScore": 10.82,
+      "createdAt": "2026-07-27T05:42:47+09:00",
+      "updatedAt": "2026-07-27T05:42:47+09:00"
+    },
+    {
+      "id": "https://qiita.com/pich/items/b016adb249ecd190505b",
+      "title": "Proof-Adjusted Autonomy（証明調整済み自律性）: 「90%自律のエージェント」は実は61.6% - Qiita",
+      "originalTitle": "Proof-Adjusted Autonomy（証明調整済み自律性）: 「90%自律のエージェント」は実は61.6%",
+      "summary": "Proof-Adjusted Autonomy（証明調整済み自律性）とは、エージェントが人間の介入なしに実行し、独立した信頼できる証拠を伴う割合を表す指標である。四つの条件付きゲートの積で計算され、独立性を仮定せず、重複カウントもしない。マーケティングが報告するのは最初の因子だけだが、運用チームが背負うのは四つの積である。証明債は未検証の残りが消えず、在庫として蓄積する。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/pich/items/b016adb249ecd190505b",
+      "originalUrl": "https://qiita.com/pich/items/b016adb249ecd190505b",
+      "finalUrl": "https://qiita.com/pich/items/b016adb249ecd190505b",
+      "publishedAt": "2026-07-27T00:43:30+09:00",
+      "collectedAt": "2026-07-27T05:42:53+09:00",
+      "scrapedAt": "2026-07-27T05:42:53+09:00",
+      "lastVerifiedAt": "2026-07-27T05:42:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "自律性",
+        "証明調整済み自律性",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "71b53c472d396a16a56fbcc85ec460317e665e89367ab849024a3361d64fae42",
+      "trendScore": 10.7,
+      "createdAt": "2026-07-27T05:42:53+09:00",
+      "updatedAt": "2026-07-27T05:42:53+09:00"
+    },
+    {
+      "id": "https://qiita.com/atsushi11o7/items/60832227a5e1f18e1786",
+      "title": "強化学習の基礎を、Gymnasium を使って整理する（バンディット〜DQN 編） - Qiita",
+      "originalTitle": "強化学習の基礎を、Gymnasium を使って整理する（バンディット〜DQN 編）",
+      "summary": "強化学習の基礎を整理する記事。強化学習はエージェントと環境のループの繰り返しであり、エージェントは行動を選び、環境は次の状態と報酬を返す。教師あり学習と違って正解ラベルは与えられず、報酬という遅れたフィードバックだけを頼りに良い行動を逆算する。用語として状態、観測、行動、報酬、方策、エピソード、収益、割引率などを整理する。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/atsushi11o7/items/60832227a5e1f18e1786",
+      "originalUrl": "https://qiita.com/atsushi11o7/items/60832227a5e1f18e1786",
+      "finalUrl": "https://qiita.com/atsushi11o7/items/60832227a5e1f18e1786",
+      "publishedAt": "2026-07-26T23:46:18+09:00",
+      "collectedAt": "2026-07-27T05:42:59+09:00",
+      "scrapedAt": "2026-07-27T05:42:59+09:00",
+      "lastVerifiedAt": "2026-07-27T05:42:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "強化学習",
+        "Gymnasium",
+        "機械学習"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "ffeb858fc6c1f44df34475982df1c3733a335c8a9b07319d7c7406dd5ba844ce",
+      "trendScore": 10.65,
+      "createdAt": "2026-07-27T05:42:59+09:00",
+      "updatedAt": "2026-07-27T05:42:59+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
+      "title": "Earth hacks、CO2排出量を「重さ」で体感する新たな買い物体験「デカボマート」を出展",
+      "originalTitle": "Earth hacks、CO2排出量を「重さ」で体感する新たな買い物体験「デカボマート」を出展",
+      "summary": "Earth hacks株式会社は、東京都主催の「TOKYO GX ACTION MUSEUM」で、CO2排出量を「重さ」で体感する新たな買い物体験「デカボマート」を出展します。デカボマートは、商品のCO2排出量を「重さ」として表現することで、生活者が実際に商品を選びながら、目には見えない環境負荷の違いを直感的に理解できる新しい買い物体験です。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000148.000122970.html",
+      "publishedAt": "2026-07-27T05:10:02+09:00",
+      "collectedAt": "2026-07-27T05:43:05+09:00",
+      "scrapedAt": "2026-07-27T05:43:05+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "デカボマート",
+        "CO2排出量",
+        "環境価値"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "224a32dea922f4a4dbb04e2e9d0ed86fb56da23af3cab26dafc366b3829035e0",
+      "trendScore": 10.97,
+      "createdAt": "2026-07-27T05:43:05+09:00",
+      "updatedAt": "2026-07-27T05:43:05+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000086.000072784.html",
+      "title": "最優秀賞は金沢美術工芸大学の有山 紗梨さんの「米研ぎ」をモチーフとした作品 アイ工務店主催 「第二回 日本酒ボトルデザインコンテスト」の入賞者を発表！",
+      "originalTitle": "最優秀賞は金沢美術工芸大学の有山 紗梨さんの「米研ぎ」をモチーフとした作品　アイ工務店主催 「第二回 日本酒ボトルデザインコンテスト」の入賞者を発表！",
+      "summary": "アイ工務店が主催する「第二回 日本酒ボトルデザインコンテスト」の入賞者が発表された。最優秀賞は金沢美術工芸大学の有山紗梨さんの「米研ぎ」をモチーフとした作品で、デザインコンセプトは「繰り返しを愛す」である。アイ工務店賞の優秀賞には多摩美術大学の吉永美来さんと東京造形大学の桒原まなさんが選ばれた。コンテストは、日本における芸術の発展および建設技術の発展を願い、アイ工務店と十一代大樋長左衛門氏とのコラボにより開催されている。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000086.000072784.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000086.000072784.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000086.000072784.html",
+      "publishedAt": "2026-07-27T05:10:02+09:00",
+      "collectedAt": "2026-07-27T05:43:11+09:00",
+      "scrapedAt": "2026-07-27T05:43:11+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "日本酒",
+        "ボトルデザイン",
+        "コンテスト"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "76b19913e144d225d38c7fd0a5bbaebe7f22e3feac2d7065634a00a88e538819",
+      "trendScore": 10.97,
+      "createdAt": "2026-07-27T05:43:11+09:00",
+      "updatedAt": "2026-07-27T05:43:11+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000017.000157015.html",
+      "title": "finojectとKaia、アジア屈指のブロックチェーン基盤の日本市場開拓で提携",
+      "originalTitle": "finojectとKaia、アジア屈指のブロックチェーン基盤の日本市場開拓で提携",
+      "summary": "finojectとKaiaは、日本市場におけるステーブルコイン・トークン化市場の事業機会創出とKaiaの日本市場における事業展開支援に関する業務提携契約を締結しました。finojectは、日本の金融規制環境・市場慣行に関するアドバイザリーをKaiaに提供し、Kaiaが持つブロックチェーン基盤の日本における実装を後押しします。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000157015.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000017.000157015.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000017.000157015.html",
+      "publishedAt": "2026-07-27T05:10:02+09:00",
+      "collectedAt": "2026-07-27T05:43:17+09:00",
+      "scrapedAt": "2026-07-27T05:43:17+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "ブロックチェーン",
+        "ステーブルコイン",
+        "金融規制"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "9e668f375bd748e0389b4997e4bfdaef82f82ea51280eb9c05cc9e5b4a9a1a08",
+      "trendScore": 10.97,
+      "createdAt": "2026-07-27T05:43:17+09:00",
+      "updatedAt": "2026-07-27T05:43:17+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999617",
+      "title": "北海道科学大学 歌手の野口五郎さんと深層振動の共同研究",
+      "originalTitle": "北海道科学大学　歌手の野口五郎さんと深層振動の共同研究",
+      "summary": "北海道科学大学は、歌手の野口五郎さんと深層振動の共同研究を始めた。深層振動は、人の耳に聞こえない低周波音で、身体に影響を与えることが考えられている。この研究では、AIを活用して深層振動の特性を分析し、知覚に与える影響を明らかにする。野口さんは、歌手活動の傍らで深層振動の研究に取り組んでおり、深層振動に関する特許も保有している。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999617",
+      "originalUrl": "https://univ-journal.jp/999617/",
+      "finalUrl": "https://univ-journal.jp/999617",
+      "publishedAt": "2026-07-26T11:00:39+09:00",
+      "collectedAt": "2026-07-27T05:43:24+09:00",
+      "scrapedAt": "2026-07-27T05:43:24+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:24+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "深層振動",
+        "北海道科学大学",
+        "野口五郎"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "c7a9bf96e2f6ae15196d10ac74bc9d991d5764aa6842e5336e13b251b4b58f80",
+      "trendScore": 9.89,
+      "createdAt": "2026-07-27T05:43:24+09:00",
+      "updatedAt": "2026-07-27T05:43:24+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999733",
+      "title": "高崎商科大学 「年明け入試」の志願者数が10年で約7倍に 2027年度入試より入学辞退時の学納金返金制度を見直しへ",
+      "originalTitle": "高崎商科大学　「年明け入試」の志願者数が10年で約7倍に　2027年度入試より入学辞退時の学納金返金制度を見直しへ",
+      "summary": "高崎商科大学は、2027年度入試から入学辞退時の学納金返金制度を見直すことを発表した。入学手続時納入金から事務手数料5万円を差し引いた金額を返金する。同大学の「年明け入試」の志願者数は10年前と比較して約7倍に増加している。受験生・保護者の経済的負担を軽減し、安心して進路選択ができる環境を整えることが目的である。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999733",
+      "originalUrl": "https://univ-journal.jp/999733/",
+      "finalUrl": "https://univ-journal.jp/999733",
+      "publishedAt": "2026-07-26T07:00:48+09:00",
+      "collectedAt": "2026-07-27T05:43:31+09:00",
+      "scrapedAt": "2026-07-27T05:43:31+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:31+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "高崎商科大学",
+        "入学辞退",
+        "学納金返金制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "64468ab8a9c66cfd0e1aa4ed9f49ee2c6ad0f311fd31813134ce3e691baeeaab",
+      "trendScore": 9.65,
+      "createdAt": "2026-07-27T05:43:31+09:00",
+      "updatedAt": "2026-07-27T05:43:31+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999685",
+      "title": "「情報を小出しにするスライド」は視線を導き学習効果を高める 東京理科大学",
+      "originalTitle": "「情報を小出しにするスライド」は視線を導き学習効果を高める　東京理科大学",
+      "summary": "東京理科大学の研究グループは、授業スライドの情報を教員の説明に合わせて少しずつ表示する「累積提示法」が、学習者の視線を適切に誘導し、学習効果を高めることを明らかにした。実験では、累積提示法で学んだ学生の得点が有意に高かった。また、視線計測の結果、累積提示法では、一斉提示法と比べて学習者の視線が教員の説明に対応する箇所へより早く向かい、より長くとどまることが確認された。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999685",
+      "originalUrl": "https://univ-journal.jp/999685/",
+      "finalUrl": "https://univ-journal.jp/999685",
+      "publishedAt": "2026-07-25T17:00:53+09:00",
+      "collectedAt": "2026-07-27T05:43:37+09:00",
+      "scrapedAt": "2026-07-27T05:43:37+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:37+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学習効果",
+        "視線誘導",
+        "スライド提示法"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "29f2d18fd9cb6409694f792c01cfff83ba3fc1ff030381109bea0edf92bab81f",
+      "trendScore": 8.81,
+      "createdAt": "2026-07-27T05:43:37+09:00",
+      "updatedAt": "2026-07-27T05:43:37+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/951828?display=b",
+      "title": "資産性が高い中古マンションランキング〈神奈川･千葉･埼玉編〉､浦和タワマンは2億円に迫る",
+      "originalTitle": "資産性が高い中古マンションランキング〈神奈川･千葉･埼玉編〉､浦和タワマンは2億円に迫る | ビジネス | 東洋経済オンライン",
+      "summary": "神奈川・千葉・埼玉の中古マンションランキングを発表した。ランキングでは、浦和タワーマンションの価格が2億円に迫るなど、資産性の高い物件が目立った。神奈川県内の価格トップは、元町・中華街から徒歩2分の「パークコート山下公園」の2億5795万円だった。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/951828?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/951828?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/951828?display=b",
+      "publishedAt": "2026-07-27T05:40:00+09:00",
+      "collectedAt": "2026-07-27T05:43:43+09:00",
+      "scrapedAt": "2026-07-27T05:43:43+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "中古マンション",
+        "ランキング",
+        "資産性"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "05f3d2dc94e1d1911ad4adbee3366114bce02647d66af2165d8f07b786c5d70c",
+      "trendScore": 11,
+      "createdAt": "2026-07-27T05:43:43+09:00",
+      "updatedAt": "2026-07-27T05:43:43+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952455?display=b",
+      "title": "オープンハウスが高級マンションブランド｢イノベイシア｣で番町エリアにも食い込む…狭小地仕入れノウハウをフル活用",
+      "originalTitle": "オープンハウスが高級マンションブランド｢イノベイシア｣で番町エリアにも食い込む…狭小地仕入れノウハウをフル活用 | ビジネス | 東洋経済オンライン",
+      "summary": "オープンハウスグループは、高級マンションブランド「イノベイシア」で東京・千代田区六番町にマンションを建設中。同ブランドの2棟目となるこの物件は、敷地面積531㎡超、地上7階で総戸数16戸の小ぶりな高級マンションで、坪単価1000万円超と富裕層を狙った設定。オープンハウスグループは、都市部の老朽住宅が建つ土地を仕入れ、土地を分割し狭小住宅を建てて売ることで好立地かつ手の届きやすい価格を実現し販売を伸ばしてきた。東京23区のマンション供給「棟数」では首位を占める。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952455?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/952455?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952455?display=b",
+      "publishedAt": "2026-07-27T05:35:00+09:00",
+      "collectedAt": "2026-07-27T05:43:49+09:00",
+      "scrapedAt": "2026-07-27T05:43:49+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:49+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "オープンハウス",
+        "高級マンション",
+        "イノベイシア"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "d51338b38ee58a1530c8a35382bd159f8ee974488b746fab39342b18729b4c87",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-27T05:43:49+09:00",
+      "updatedAt": "2026-07-27T05:43:49+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952367?display=b",
+      "title": "｢最も請け負いたくないのはマンション｣ゼネコンが漏らす本音､デベロッパーとの力関係逆転が映し出す価格高騰の行方",
+      "originalTitle": "｢最も請け負いたくないのはマンション｣ゼネコンが漏らす本音､デベロッパーとの力関係逆転が映し出す価格高騰の行方 | ビジネス | 東洋経済オンライン",
+      "summary": "建設業界では、採算性の低いマンション建設をゼネコンが敬遠しており、デベロッパーがゼネコン確保に苦戦している。ゼネコンは工事に膨大な手間がかかるマンション建設を最も請け負いたくないと考えている。デベロッパーはゼネコンに対する姿勢を転換せざるをえなくなっており、価格高騰の行方が懸念されている。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952367?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/952367?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952367?display=b",
+      "publishedAt": "2026-07-27T05:30:00+09:00",
+      "collectedAt": "2026-07-27T05:43:55+09:00",
+      "scrapedAt": "2026-07-27T05:43:55+09:00",
+      "lastVerifiedAt": "2026-07-27T05:43:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "マンション",
+        "ゼネコン",
+        "デベロッパー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "9df82a9b2fb25981eee165f19bc3da9a27d4b5fce8729ba8d2e43cb3c33b2283",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-27T05:43:55+09:00",
+      "updatedAt": "2026-07-27T05:43:55+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/395467",
+      "title": "【無料公開】三菱ケミカルの新トップが石油化学事業で「もう一段再編はある」と断言！田辺三菱の売却候補とは",
+      "originalTitle": "【無料公開】三菱ケミカルの新トップが石油化学事業で「もう一段再編はある」と断言！田辺三菱の売却候補とは - 限定無料公開！Diamond Premium 製造業 セレクション",
+      "summary": "三菱ケミカルグループの新社長である筑本学氏は、石油化学事業で「もう一段の再編がある」と明言した。同社は11月に新たな中期経営計画を発表し、化学事業に集中する方針を示した。筑本氏は、従業員との信頼感を高め、適材適所の役員配置を進めており、社内の雰囲気は変わってきたと語った。",
+      "summarySource": "llm",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/395467",
+      "originalUrl": "https://diamond.jp/articles/-/395467",
+      "finalUrl": "https://diamond.jp/articles/-/395467",
+      "publishedAt": "2026-07-27T05:30:00+09:00",
+      "collectedAt": "2026-07-27T05:44:01+09:00",
+      "scrapedAt": "2026-07-27T05:44:01+09:00",
+      "lastVerifiedAt": "2026-07-27T05:44:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "三菱ケミカル",
+        "石油化学事業",
+        "中期経営計画"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "8b4e6d58de869748ef853633fb194597f435557b7351905f1672e85d62114314",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-27T05:44:01+09:00",
+      "updatedAt": "2026-07-27T05:44:01+09:00"
     }
   ],
   "sources": [
@@ -5439,8 +5943,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-26T05:37:46+09:00",
-      "lastSuccessAt": "2026-07-26T05:37:46+09:00",
+      "lastFetchedAt": "2026-07-27T05:42:39+09:00",
+      "lastSuccessAt": "2026-07-27T05:42:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5452,8 +5956,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-26T05:38:00+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:00+09:00",
+      "lastFetchedAt": "2026-07-27T05:42:53+09:00",
+      "lastSuccessAt": "2026-07-27T05:42:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5465,8 +5969,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-26T05:38:06+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:07+09:00",
+      "lastFetchedAt": "2026-07-27T05:42:59+09:00",
+      "lastSuccessAt": "2026-07-27T05:42:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5491,8 +5995,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-26T05:38:07+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:08+09:00",
+      "lastFetchedAt": "2026-07-27T05:42:59+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5504,8 +6008,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-26T05:38:08+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:08+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:00+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5517,8 +6021,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-26T05:38:18+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:18+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:00+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5530,8 +6034,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-26T05:38:18+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:20+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:01+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5543,8 +6047,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-26T05:38:21+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:26+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:01+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5647,8 +6151,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-26T05:38:34+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:35+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:02+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5686,8 +6190,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-26T05:38:46+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:47+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:17+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5699,8 +6203,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-26T05:38:47+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:47+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:17+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5712,8 +6216,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-26T05:38:47+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:50+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:17+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5725,8 +6229,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-26T05:38:50+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:51+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:19+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5738,8 +6242,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-26T05:38:51+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:51+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:19+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5751,8 +6255,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-26T05:38:51+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:52+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:20+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5777,8 +6281,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-26T05:38:52+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:52+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:20+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5842,8 +6346,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-26T05:38:54+09:00",
-      "lastSuccessAt": "2026-07-26T05:38:56+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:22+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5855,8 +6359,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-26T05:39:04+09:00",
-      "lastSuccessAt": "2026-07-26T05:39:05+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:37+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5868,8 +6372,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-21T05:58:08+09:00",
-      "lastSuccessAt": "2026-07-21T05:58:08+09:00",
+      "lastFetchedAt": "2026-07-27T05:43:55+09:00",
+      "lastSuccessAt": "2026-07-27T05:43:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5881,8 +6385,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:02+09:00",
+      "lastSuccessAt": "2026-07-27T05:44:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5894,9 +6398,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:03+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 0
+      "consecutiveFailures": 1
     },
     {
       "id": "bk-itmedia-enterprise",
@@ -5907,8 +6411,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:04+09:00",
+      "lastSuccessAt": "2026-07-27T05:44:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5920,8 +6424,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:04+09:00",
+      "lastSuccessAt": "2026-07-27T05:44:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5933,8 +6437,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:04+09:00",
+      "lastSuccessAt": "2026-07-27T05:44:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5946,8 +6450,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:05+09:00",
+      "lastSuccessAt": "2026-07-27T05:44:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5959,8 +6463,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:05+09:00",
+      "lastSuccessAt": "2026-07-27T05:44:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5972,8 +6476,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": null,
-      "lastSuccessAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:06+09:00",
+      "lastSuccessAt": "2026-07-27T05:44:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5985,9 +6489,9 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:06+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 0
+      "consecutiveFailures": 1
     },
     {
       "id": "bk-fsa",
@@ -5998,9 +6502,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:07+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 0
+      "consecutiveFailures": 1
     },
     {
       "id": "bk-jpo",
@@ -6011,12 +6515,44 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": null,
+      "lastFetchedAt": "2026-07-27T05:44:07+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 0
+      "consecutiveFailures": 1
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260727-0542",
+      "scheduledAt": "2026-07-27T05:42:39+09:00",
+      "startedAt": "2026-07-27T05:42:39+09:00",
+      "finishedAt": "2026-07-27T05:44:08+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 26,
+      "sourcesFailed": 4,
+      "candidatesFound": 153,
+      "duplicatesRemoved": 5,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 14,
+      "errors": [
+        {
+          "sourceId": "bk-jst",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-zdnet",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-fsa",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-jpo",
+          "message": "フィード取得失敗: Status code 403"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260726-0537",
       "scheduledAt": "2026-07-26T05:37:46+09:00",
@@ -6386,10 +6922,10 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-26T05:39:22+09:00",
-    "lastSuccessAt": "2026-07-26T05:39:22+09:00",
-    "nextScheduledAt": "2026-07-27T05:00:00+09:00",
-    "lastJobStatus": "success"
+    "lastCollectionAt": "2026-07-27T05:44:08+09:00",
+    "lastSuccessAt": "2026-07-27T05:44:08+09:00",
+    "nextScheduledAt": "2026-07-28T05:00:00+09:00",
+    "lastJobStatus": "partial_success"
   },
   "preferences": {
     "categories": {
