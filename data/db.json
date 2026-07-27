@@ -5931,6 +5931,546 @@
       "trendScore": 10.99,
       "createdAt": "2026-07-27T05:44:01+09:00",
       "updatedAt": "2026-07-27T05:44:01+09:00"
+    },
+    {
+      "id": "https://qiita.com/singula/items/d176da18e0512faed5be",
+      "title": "AIに仕事を奪われる不安から始めるハーネス作成入門 第17回 AIハーネスにログ設計が必要な理由 - Qiita",
+      "originalTitle": "AIに仕事を奪われる不安から始めるハーネス作成入門 第17回 AIハーネスにログ設計が必要な理由",
+      "summary": "AIがコードを書く時代に、品質を保証するのは誰の仕事なのかという問いが浮かびます。AI時代だからこそ品質保証の経験が価値を持ちます。AI生成物の品質問題は従来と異なり、ロジックエラーではなく「もっともらしい間違い」が中心となり、再現性やテスト容易性も異なります。SEの経験が活きる4つの領域として、入力検証、出力検証、エラーハンドリング、セキュリティがあります。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/singula/items/d176da18e0512faed5be",
+      "originalUrl": "https://qiita.com/singula/items/d176da18e0512faed5be",
+      "finalUrl": "https://qiita.com/singula/items/d176da18e0512faed5be",
+      "publishedAt": "2026-07-28T03:38:14+09:00",
+      "collectedAt": "2026-07-28T05:57:56+09:00",
+      "scrapedAt": "2026-07-28T05:57:56+09:00",
+      "lastVerifiedAt": "2026-07-28T05:57:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI",
+        "品質保証",
+        "SE"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "c3294bc8af6cd917c84c0dfa551fc144eb1da09b06643fb17d383154ed88e96a",
+      "trendScore": 10.86,
+      "createdAt": "2026-07-28T05:57:56+09:00",
+      "updatedAt": "2026-07-28T05:57:56+09:00"
+    },
+    {
+      "id": "https://qiita.com/ysrkw/items/3e620087fd096b9230f7",
+      "title": "批判的思考でエージェントの成果物に向き合う - Qiita",
+      "originalTitle": "批判的思考でエージェントの成果物に向き合う",
+      "summary": "AIコーディングエージェントの成果物に対して批判的思考で向き合うことが重要である。エージェントは論理的思考でコードを生成するが、意図していない成果物を生み出すこともある。そこで、エンジニアは成果物を説明・説得できる理解力と問い直す力、つまり批判的思考が必要である。批判的思考は、論理的思考で敷いた線路の終点が本当に目的地であったかを問い直し、別のルートを選び直すことができる。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/ysrkw/items/3e620087fd096b9230f7",
+      "originalUrl": "https://qiita.com/ysrkw/items/3e620087fd096b9230f7",
+      "finalUrl": "https://qiita.com/ysrkw/items/3e620087fd096b9230f7",
+      "publishedAt": "2026-07-28T03:14:17+09:00",
+      "collectedAt": "2026-07-28T05:58:02+09:00",
+      "scrapedAt": "2026-07-28T05:58:02+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AIコーディングエージェント",
+        "批判的思考",
+        "論理的思考"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "3112f37714892f64117f0b8a86c3bc0d3beca0b46114fd3a253f1a43ab8ea417",
+      "trendScore": 10.84,
+      "createdAt": "2026-07-28T05:58:02+09:00",
+      "updatedAt": "2026-07-28T05:58:02+09:00"
+    },
+    {
+      "id": "https://qiita.com/lemonIN/items/eeb555fce520724458e7",
+      "title": "パラドックス・ビュー ～錯視のアトリエ～ - Qiita",
+      "originalTitle": "パラドックス・ビュー ～錯視のアトリエ～",
+      "summary": "パラドックス・ビュー ～錯視のアトリエ～は、視覚トリックと錯覚をテーマにした3Dパズルゲームです。プレイヤーは3D空間に配置されたオブジェクトを操作し、指定された視点から見たときに特定の形や文字が完成するように調整します。ゲームはスマートフォン向けに開発されており、短時間で制作することができます。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lemonIN/items/eeb555fce520724458e7",
+      "originalUrl": "https://qiita.com/lemonIN/items/eeb555fce520724458e7",
+      "finalUrl": "https://qiita.com/lemonIN/items/eeb555fce520724458e7",
+      "publishedAt": "2026-07-28T01:37:40+09:00",
+      "collectedAt": "2026-07-28T05:58:08+09:00",
+      "scrapedAt": "2026-07-28T05:58:08+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "パズルゲーム",
+        "視覚トリック",
+        "3Dゲーム"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "45bd6b6f301dce7d279821917c8a71dcc7f58ecafbb8d328ccff20e4c92e7664",
+      "trendScore": 10.74,
+      "createdAt": "2026-07-28T05:58:08+09:00",
+      "updatedAt": "2026-07-28T05:58:08+09:00"
+    },
+    {
+      "id": "https://qiita.com/trow126/items/6e229ead3f6677288a12",
+      "title": "「LSTMで株価予測、ほぼ一致」を判定条件を凍結してから検証したら、前日コピーに42%負けていた - Qiita",
+      "originalTitle": "「LSTMで株価予測、ほぼ一致」を判定条件を凍結してから検証したら、前日コピーに42%負けていた",
+      "summary": "LSTMを用いた株価予測の有効性を検証するために、特定の記事のコードを再現してテストを行った。結果は、ナイーブ予測（前日の終値をそのまま予測値とする）がLSTMモデルよりも42%良いRMSE（平均二乗誤差）を示した。つまり、LSTMモデルは実際には前日の値をほぼコピーして出力しており、予測曲線が実線と重なるのは1日遅れによる錯視であることが示された。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/trow126/items/6e229ead3f6677288a12",
+      "originalUrl": "https://qiita.com/trow126/items/6e229ead3f6677288a12",
+      "finalUrl": "https://qiita.com/trow126/items/6e229ead3f6677288a12",
+      "publishedAt": "2026-07-28T05:51:08+09:00",
+      "collectedAt": "2026-07-28T05:58:14+09:00",
+      "scrapedAt": "2026-07-28T05:58:14+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LSTM",
+        "株価予測",
+        "機械学習"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a768122e7e926c3bfd511cd783f95b8e34353c4416351057fbf73e8c97ce4a6a",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-28T05:58:14+09:00",
+      "updatedAt": "2026-07-28T05:58:14+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+      "title": "アジャイル開発に関する有識者検討会（第8回）｜デジタル庁",
+      "originalTitle": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+      "summary": "デジタル庁はアジャイル開発に関する有識者検討会（第8回）を開催した。会では、アジャイル開発のパイロットプロジェクトについて議論が行われた。パイロットプロジェクトの適切な要件や、プロジェクトの募集方法について委員から意見が述べられた。パイロットプロジェクトでは、現場が参加しやすい枠組みを設計することが重要であるとされた。また、プロジェクトの失敗も学びとしてガイドブックに反映させることができるという意見も出された。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+      "originalUrl": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+      "finalUrl": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+      "publishedAt": "2026-07-27T15:00:00+09:00",
+      "collectedAt": "2026-07-28T05:58:20+09:00",
+      "scrapedAt": "2026-07-28T05:58:20+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "アジャイル開発",
+        "パイロットプロジェクト",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "dcaf9540749bdc6e39b787b625f1d03a6cca7dbc3538a6cf7c8c4bc78cfe1922",
+      "trendScore": 10.11,
+      "createdAt": "2026-07-28T05:58:20+09:00",
+      "updatedAt": "2026-07-28T05:58:20+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo10_hh_000385.html",
+      "title": "国土交通省｜報道資料｜モビリティとインフラを活用したエネルギーの自律性向上に向けた議論を行います<br>～社会資本整備審議会環境部会・交通政策審議会交通体系分科会環境部会エネルギー・経済安全保障小委員会第１回合同会議を開催～",
+      "originalTitle": "���r���e�B�ƃC���t�������p�����G�l���M�[�̎���������Ɍ������c�_���s���܂��`�Љ�{�����R�c�������E��ʐ����R�c���ʑ̌n���ȉ������G�l���M�[�E�o�ψ��S�ۏᏬ�ψ����P�񍇓���c���J�Á`",
+      "summary": "国土交通省は、モビリティとインフラを活用してエネルギーの自律性向上を図る「モビリティ・エネリンク構想」について議論する第１回合同会議を開催する。会議では、構想のコンセプトや目指す方向性について意見をいただく。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo10_hh_000385.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo10_hh_000385.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo10_hh_000385.html",
+      "publishedAt": "2026-07-27T05:00:00+09:00",
+      "collectedAt": "2026-07-28T05:58:26+09:00",
+      "scrapedAt": "2026-07-28T05:58:26+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "エネルギー",
+        "モビリティ",
+        "インフラ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "631016f5bfb67b51bc59a33fd65da76597a61bcbbcfa2ef477f50abe1ff87e8d",
+      "trendScore": 9.51,
+      "createdAt": "2026-07-28T05:58:26+09:00",
+      "updatedAt": "2026-07-28T05:58:26+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo11_hh_000091.html",
+      "title": "国土交通省｜報道資料｜東アジア海域パートナーシップ（PEMSEA※）第18回年次会合が開催されました<br>～地域ブルーカーボン会計プロトコルが承認～",
+      "originalTitle": "���A�W�A�C��p�[�g�i�[�V�b�v�iPEMSEA���j��18��N������J�Â���܂����`�n��u���[�J�[�{����v�v���g�R�������F�`",
+      "summary": "東アジア海域パートナーシップ（PEMSEA）の第18回年次会合がシンガポールで開催され、ブルーカーボンの吸収量を東アジア・東南アジアの国々で共通の方法で算定する「地域ブルーカーボン会計プロトコル」が承認された。東アジア海域の持続可能な開発戦略の実施計画に関する情報共有も行われた。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo11_hh_000091.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo11_hh_000091.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo11_hh_000091.html",
+      "publishedAt": "2026-07-27T05:00:00+09:00",
+      "collectedAt": "2026-07-28T05:58:32+09:00",
+      "scrapedAt": "2026-07-28T05:58:32+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ブルーカーボン",
+        "東アジア海域パートナーシップ",
+        "持続可能な開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "40fef703f644e8f1204a46711af34c5c32b54b5c143ad2138df9fb65d18f3a0e",
+      "trendScore": 9.51,
+      "createdAt": "2026-07-28T05:58:32+09:00",
+      "updatedAt": "2026-07-28T05:58:32+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/joho03_hh_000237.html",
+      "title": "国土交通省｜報道資料｜国土交通月例経済（令和８年７月号）",
+      "originalTitle": "���y��ʌ���o�ρi�ߘa�W�N�V�����j",
+      "summary": "国土交通省は「国土交通月例経済（令和８年７月号）」を発表した。概況や数値データは、国土交通省のサイトで公開されている。建設分野や交通分野の数値データも提供されている。最新の統計調査の値は「政府統計の総合窓口」e-Statや原典資料に記載の公表ページで確認できる。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/joho03_hh_000237.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/joho03_hh_000237.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/joho03_hh_000237.html",
+      "publishedAt": "2026-07-27T05:00:00+09:00",
+      "collectedAt": "2026-07-28T05:58:38+09:00",
+      "scrapedAt": "2026-07-28T05:58:38+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "国土交通省",
+        "経済",
+        "統計"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "7b3f2bc09f8fba249d56f1b1a5e65185c9b4375db9f9da5934053567484d25dc",
+      "trendScore": 9.51,
+      "createdAt": "2026-07-28T05:58:38+09:00",
+      "updatedAt": "2026-07-28T05:58:38+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000006.000169252.html",
+      "title": "インナーブランディング・採用広報をゲーム・エンタメ業界の広報担当者が語る「ひとみしり広報の放課後」イベントを開催",
+      "originalTitle": "インナーブランディング・採用広報をゲーム・エンタメ業界の広報担当者が語る「ひとみしり広報の放課後」イベントを開催",
+      "summary": "株式会社SPRINTは、広報・人事の「ひとみしり」が集うコミュニティ「ひとみしり広報の放課後」の第2回イベントを2026年8月4日に開催する。テーマは「インナーブランディング・採用広報」で、ゲストセッションとパネルディスカッションが行われる。中島怜美氏と根本朋子氏がそれぞれの事例を紹介する。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000169252.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000006.000169252.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000006.000169252.html",
+      "publishedAt": "2026-07-28T05:40:02+09:00",
+      "collectedAt": "2026-07-28T05:58:44+09:00",
+      "scrapedAt": "2026-07-28T05:58:44+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "インナーブランディング",
+        "採用広報",
+        "広報"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "b45767ca8e9166559b4b115423b1f022b8ccbc66b2b68571fbe75ddf8a4b97fe",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-28T05:58:44+09:00",
+      "updatedAt": "2026-07-28T05:58:44+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000006.000187014.html",
+      "title": "加熱式デバイスブランド「Sixhill」が日本市場へ本格展開",
+      "originalTitle": "加熱式デバイスブランド「Sixhill」が日本市場へ本格展開",
+      "summary": "加熱式デバイスブランド「Sixhill」が日本市場へ本格展開。赤外線加熱技術「Breelight」搭載の「Sixhill LUOS シリーズ」や「Sixhill S1」を投入。日本の加熱式たばこ市場は成熟度の高い市場の一つであり、Sixhill はブランドの背景にある技術蓄積や製品開発力がユーザーの選択基準になることを目指している。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000187014.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000006.000187014.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000006.000187014.html",
+      "publishedAt": "2026-07-28T05:40:02+09:00",
+      "collectedAt": "2026-07-28T05:58:50+09:00",
+      "scrapedAt": "2026-07-28T05:58:50+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "Sixhill",
+        "加熱式デバイス",
+        "Breelight"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "46b6407739603d24115ecd159db3daa5b5f368a7d95672655ca0714c09af720c",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-28T05:58:50+09:00",
+      "updatedAt": "2026-07-28T05:58:50+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000047.000012401.html",
+      "title": "棟換気のリーディングカンパニーのトーコーがリフォーム市場へ本格参入！新ブランド「TOKO MIRAI RENOV.」立ち上げと、住宅長寿命化に寄与する「リフォーム用換気製品」を今秋より販売開始",
+      "originalTitle": "棟換気のリーディングカンパニーのトーコーがリフォーム市場へ本格参入！新ブランド「TOKO MIRAI RENOV.」立ち上げと、住宅長寿命化に寄与する「リフォーム用換気製品」を今秋より販売開始",
+      "summary": "トーコーはリフォーム市場へ本格参入し、新ブランド「TOKO MIRAI RENOV.」を立ち上げました。住宅の長寿命化に寄与する「リフォーム用換気製品」の販売を今秋より開始します。トーコーは棟換気製品のリーディングカンパニーであり、日本の住宅の長寿命化に寄与してきました。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000047.000012401.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000047.000012401.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000047.000012401.html",
+      "publishedAt": "2026-07-28T05:40:02+09:00",
+      "collectedAt": "2026-07-28T05:58:56+09:00",
+      "scrapedAt": "2026-07-28T05:58:56+09:00",
+      "lastVerifiedAt": "2026-07-28T05:58:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "トーコー",
+        "リフォーム",
+        "棟換気"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1f82cdfe59afb5fc6520fcdb7b6fc81a466580b4c5d8dca080b50220ab270d2a",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-28T05:58:56+09:00",
+      "updatedAt": "2026-07-28T05:58:56+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999788",
+      "title": "東京純心大学が校名変更 2027年度から「東京純心看護大学」に",
+      "originalTitle": "東京純心大学が校名変更　2027年度から「東京純心看護大学」に",
+      "summary": "東京純心大学は2027年度から大学名を「東京純心看護大学」に変更する。看護学部看護学科と別科の助産専攻のみとなっているため、校名変更により看護教育の専門性を高め、地域や国際社会に貢献する。大学側は「命の尊厳を守る看護者を育てる大学」として教育の質を高めたいとしている。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999788",
+      "originalUrl": "https://univ-journal.jp/999788/",
+      "finalUrl": "https://univ-journal.jp/999788",
+      "publishedAt": "2026-07-27T11:00:46+09:00",
+      "collectedAt": "2026-07-28T05:59:03+09:00",
+      "scrapedAt": "2026-07-28T05:59:03+09:00",
+      "lastVerifiedAt": "2026-07-28T05:59:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "東京純心大学",
+        "看護教育",
+        "校名変更"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "15ac14233d0b0b05105df7bf3374338bc7d1a15bdd6c121b6c7f6f33fc707d10",
+      "trendScore": 9.87,
+      "createdAt": "2026-07-28T05:59:03+09:00",
+      "updatedAt": "2026-07-28T05:59:03+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999653",
+      "title": "神田外語大学 2028年4月「国際経営学部」新設構想 語学教育を基盤にビジネス実践力を養う",
+      "originalTitle": "神田外語大学　2028年4月「国際経営学部」新設構想　語学教育を基盤にビジネス実践力を養う",
+      "summary": "神田外語大学は2028年4月に「国際経営学部」を新設する構想を進めており、語学教育を基盤にビジネス実践力を養うことを目指している。入学定員は120名で、学位名は学士（国際経営）となる。同大学は、高度な言語運用能力やコミュニケーション能力を育む教育が特長となっている。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999653",
+      "originalUrl": "https://univ-journal.jp/999653/",
+      "finalUrl": "https://univ-journal.jp/999653",
+      "publishedAt": "2026-07-27T09:00:52+09:00",
+      "collectedAt": "2026-07-28T05:59:09+09:00",
+      "scrapedAt": "2026-07-28T05:59:09+09:00",
+      "lastVerifiedAt": "2026-07-28T05:59:09+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "神田外語大学",
+        "国際経営学部",
+        "語学教育"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "7934fbb25f0ab6ec2ca0d77bdc84a662a0aae44503d385fec3c0cfa2dc4d3f71",
+      "trendScore": 9.75,
+      "createdAt": "2026-07-28T05:59:09+09:00",
+      "updatedAt": "2026-07-28T05:59:09+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999368",
+      "title": "家政学部の発展的改組によって専門性をより高め学部連携を促進～日本女子大学～ - 大学ジャーナルオンライン",
+      "originalTitle": "家政学部の発展的改組によって専門性をより高め学部連携を促進～日本女子大学～",
+      "summary": "日本女子大学は家政学部の発展的改組を進めており、建築デザイン学部、食科学部、経済学部、ファッションデザイン学部、人間科学部、理工学部の新学部を設置する。家政学部の改組は、従来の枠組みでは各領域の専門性を包摂できなくなってきたため、学部を独立させた。新学部では生活者の視点を重視し、文系と理系の両面から人間と生活を科学的に探究する。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999368",
+      "originalUrl": "https://univ-journal.jp/column/2026999368/",
+      "finalUrl": "https://univ-journal.jp/column/2026999368",
+      "publishedAt": "2026-07-27T07:00:39+09:00",
+      "collectedAt": "2026-07-28T05:59:15+09:00",
+      "scrapedAt": "2026-07-28T05:59:15+09:00",
+      "lastVerifiedAt": "2026-07-28T05:59:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "日本女子大学",
+        "家政学部",
+        "学部改組"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "b58c2e7fa9ad1c51a2893e21345e0282433b80718c90a69a7311f2905df32c73",
+      "trendScore": 9.63,
+      "createdAt": "2026-07-28T05:59:15+09:00",
+      "updatedAt": "2026-07-28T05:59:15+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952404?display=b",
+      "title": "｢常識を突き破った先に成長がある｣ファミマ新社長が激白！ 旗艦店､衣料品､ファミチキ強化で描く｢次世代店舗の姿｣とは？",
+      "originalTitle": "｢常識を突き破った先に成長がある｣ファミマ新社長が激白！ 旗艦店､衣料品､ファミチキ強化で描く｢次世代店舗の姿｣とは？ | ビジネス | 東洋経済オンライン",
+      "summary": "ファミリーマートの新社長、小谷建夫氏は、現在のコンビニ業界に不安を感じている。価格高騰や食品強化型のドラッグストアの台頭で、売り上げや客数が伸び悩んでいる状況で、今後どのようなコンビニを目指していくのか。旗艦店の出店や新たなヒット商品の開発、看板商品の磨き込みを強化し、コンビニの楽しさを取り戻すことを目指す。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952404?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/952404?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952404?display=b",
+      "publishedAt": "2026-07-28T05:50:00+09:00",
+      "collectedAt": "2026-07-28T05:59:21+09:00",
+      "scrapedAt": "2026-07-28T05:59:21+09:00",
+      "lastVerifiedAt": "2026-07-28T05:59:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "コンビニ",
+        "ファミリーマート",
+        "小谷建夫"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "99467ba958955cc32c71ef7603ab9c62081daa35fdab4ce11f55548a2a377624",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-28T05:59:21+09:00",
+      "updatedAt": "2026-07-28T05:59:21+09:00"
     }
   ],
   "sources": [
@@ -5943,8 +6483,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-27T05:42:39+09:00",
-      "lastSuccessAt": "2026-07-27T05:42:40+09:00",
+      "lastFetchedAt": "2026-07-28T05:57:55+09:00",
+      "lastSuccessAt": "2026-07-28T05:57:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5956,8 +6496,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-27T05:42:53+09:00",
-      "lastSuccessAt": "2026-07-27T05:42:53+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:08+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5969,8 +6509,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-27T05:42:59+09:00",
-      "lastSuccessAt": "2026-07-27T05:42:59+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:14+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -5995,8 +6535,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-27T05:42:59+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:00+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:14+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6008,8 +6548,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-27T05:43:00+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:00+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:15+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6021,8 +6561,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-27T05:43:00+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:01+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:20+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6034,8 +6574,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-27T05:43:01+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:01+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:21+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6047,8 +6587,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-27T05:43:01+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:02+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:22+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6151,8 +6691,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-27T05:43:02+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:03+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:38+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6190,8 +6730,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-27T05:43:17+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:17+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:56+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6203,8 +6743,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-27T05:43:17+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:17+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:56+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6216,8 +6756,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-27T05:43:17+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:19+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:57+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6229,8 +6769,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-27T05:43:19+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:19+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:58+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6242,8 +6782,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-27T05:43:19+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:20+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:58+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6255,8 +6795,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-27T05:43:20+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:20+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:58+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6281,8 +6821,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-27T05:43:20+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:20+09:00",
+      "lastFetchedAt": "2026-07-28T05:58:59+09:00",
+      "lastSuccessAt": "2026-07-28T05:58:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6346,8 +6886,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-27T05:43:22+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:23+09:00",
+      "lastFetchedAt": "2026-07-28T05:59:00+09:00",
+      "lastSuccessAt": "2026-07-28T05:59:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6359,8 +6899,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-27T05:43:37+09:00",
-      "lastSuccessAt": "2026-07-27T05:43:37+09:00",
+      "lastFetchedAt": "2026-07-28T05:59:15+09:00",
+      "lastSuccessAt": "2026-07-28T05:59:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6521,6 +7061,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260728-0557",
+      "scheduledAt": "2026-07-28T05:57:55+09:00",
+      "startedAt": "2026-07-28T05:57:55+09:00",
+      "finishedAt": "2026-07-28T05:59:21+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 81,
+      "duplicatesRemoved": 1,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260727-0542",
       "scheduledAt": "2026-07-27T05:42:39+09:00",
@@ -6922,10 +7477,10 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-27T05:44:08+09:00",
-    "lastSuccessAt": "2026-07-27T05:44:08+09:00",
-    "nextScheduledAt": "2026-07-28T05:00:00+09:00",
-    "lastJobStatus": "partial_success"
+    "lastCollectionAt": "2026-07-28T05:59:21+09:00",
+    "lastSuccessAt": "2026-07-28T05:59:21+09:00",
+    "nextScheduledAt": "2026-07-29T05:00:00+09:00",
+    "lastJobStatus": "success"
   },
   "preferences": {
     "categories": {
