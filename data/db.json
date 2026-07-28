@@ -5349,12 +5349,12 @@
         "経営統合"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "5f6c796098ec082e2a16b3aa5cfe50d10f62a83fb6f298ec75c700c949a56513",
       "trendScore": 11,
       "createdAt": "2026-07-26T05:39:10+09:00",
-      "updatedAt": "2026-07-27T10:10:34+09:00"
+      "updatedAt": "2026-07-28T20:56:16.174Z"
     },
     {
       "id": "https://toyokeizai.net/articles/-/951959",
@@ -6471,6 +6471,546 @@
       "trendScore": 10.99,
       "createdAt": "2026-07-28T05:59:21+09:00",
       "updatedAt": "2026-07-28T05:59:21+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/420db30743baf7fb78fa",
+      "title": "Gemini API Managed AgentsがGemini 3.6 Flash対応、Hooks/Triggers追加 - Qiita",
+      "originalTitle": "Gemini API Managed AgentsがGemini 3.6 Flash対応、Hooks/Triggers追加",
+      "summary": "Google公式ブログでGemini APIのManaged Agents機能のアップデートが発表された。Gemini 3.6 Flashモデルが利用可能になり、HooksとTriggersが追加された。Managed AgentsはGoogle側がホスティング・実行管理を担うエージェント実行基盤であり、今回の拡張によりエージェントの起動タイミングと実行中の挙動制御をより細かくコントロールできるようになった。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/420db30743baf7fb78fa",
+      "originalUrl": "https://qiita.com/picnic/items/420db30743baf7fb78fa",
+      "finalUrl": "https://qiita.com/picnic/items/420db30743baf7fb78fa",
+      "publishedAt": "2026-07-29T04:39:06+09:00",
+      "collectedAt": "2026-07-29T05:54:47+09:00",
+      "scrapedAt": "2026-07-29T05:54:47+09:00",
+      "lastVerifiedAt": "2026-07-29T05:54:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Gemini API",
+        "Managed Agents",
+        "Google AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "b28625ce24f120c8da7218289c2f4f5aed14b9270ff9a1b26c7506a0424f677e",
+      "trendScore": 10.92,
+      "createdAt": "2026-07-29T05:54:47+09:00",
+      "updatedAt": "2026-07-29T05:54:47+09:00"
+    },
+    {
+      "id": "https://qiita.com/kinamocchi_tech/items/d66ef42bc88ebf3b6dbf",
+      "title": "Gemini API Managed Agents 大型更新とは？3.6 Flash・Environment Hooks を3分で速報解説 - Qiita",
+      "originalTitle": "Gemini API Managed Agents 大型更新とは？3.6 Flash・Environment Hooks を3分で速報解説",
+      "summary": "Gemini API Managed Agents が大型更新された。Managed Agents は、Gemini API の一回の呼び出しで推論、コード実行、パッケージのインストール、ファイル操作、ウェブ取得を隔離されたクラウドのサンドボックス内でまとめて動かしてくれる仕組み。4つの更新が入った。既定モデルが Gemini 3.6 Flash に変更された。Environment Hooks が導入され、ツール呼び出しの前後にカスタムスクリプトを差し込めるようになった。予",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/kinamocchi_tech/items/d66ef42bc88ebf3b6dbf",
+      "originalUrl": "https://qiita.com/kinamocchi_tech/items/d66ef42bc88ebf3b6dbf",
+      "finalUrl": "https://qiita.com/kinamocchi_tech/items/d66ef42bc88ebf3b6dbf",
+      "publishedAt": "2026-07-29T02:14:35+09:00",
+      "collectedAt": "2026-07-29T05:54:53+09:00",
+      "scrapedAt": "2026-07-29T05:54:53+09:00",
+      "lastVerifiedAt": "2026-07-29T05:54:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Gemini API",
+        "Managed Agents",
+        "AIエージェント"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "fbc98f7b91da7be4667ad2c0d2911c3aba63da49ed4e2a9c74fd213ad6a1bca3",
+      "trendScore": 10.78,
+      "createdAt": "2026-07-29T05:54:53+09:00",
+      "updatedAt": "2026-07-29T05:54:53+09:00"
+    },
+    {
+      "id": "https://qiita.com/chuandujiusi/items/a86b5e67e5980f0b121b",
+      "title": "「経験がないから」はもう言い訳できない？ エンジニアとチームの常識を変える「AX（AIトランスフォーメーション）」の現在地 - Qiita",
+      "originalTitle": "「経験がないから」はもう言い訳できない？ エンジニアとチームの常識を変える「AX（AIトランスフォーメーション）」の現在地",
+      "summary": "AIの進化により、開発現場やビジネスプロセスが変化している。AX（AIトランスフォーメーション）とは、AIが存在・活用されることを前提としてシステム設計や開発プロセスを再設計する変革である。AXの具体例として、未経験者によるローカルLLM環境の構築、AI駆動開発、バイブコーディングによる個人開発の爆速化が紹介される。AX時代に求められるエンジニアのスキルセットとして、問い力的指示、AI出力の検証・レビュー能力、システム全体の設計思想が挙げられる。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/chuandujiusi/items/a86b5e67e5980f0b121b",
+      "originalUrl": "https://qiita.com/chuandujiusi/items/a86b5e67e5980f0b121b",
+      "finalUrl": "https://qiita.com/chuandujiusi/items/a86b5e67e5980f0b121b",
+      "publishedAt": "2026-07-29T02:11:22+09:00",
+      "collectedAt": "2026-07-29T05:54:59+09:00",
+      "scrapedAt": "2026-07-29T05:54:59+09:00",
+      "lastVerifiedAt": "2026-07-29T05:54:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AIトランスフォーメーション",
+        "DX",
+        "開発環境"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "01adb44c9672006897e4bc6de05957fbb26e4f2ecdad94294e6a4ddfdd05f26a",
+      "trendScore": 10.78,
+      "createdAt": "2026-07-29T05:54:59+09:00",
+      "updatedAt": "2026-07-29T05:54:59+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/ac5d37510d951ad6eb68",
+      "title": "Cursorがインド向け新プラン「Cursor Start」発表、月額₹649で始めるAI開発 - Qiita",
+      "originalTitle": "Cursorがインド向け新プラン「Cursor Start」発表、月額₹649で始めるAI開発",
+      "summary": "Cursorがインド市場向けの新プラン「Cursor Start」を発表しました。月額₹649で、UPIまたはカード決済に対応したローカル価格プランです。為替変動の影響を受けずに手頃な価格でAIエージェント開発を始められるようになりました。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/picnic/items/ac5d37510d951ad6eb68",
+      "originalUrl": "https://qiita.com/picnic/items/ac5d37510d951ad6eb68",
+      "finalUrl": "https://qiita.com/picnic/items/ac5d37510d951ad6eb68",
+      "publishedAt": "2026-07-28T22:12:42+09:00",
+      "collectedAt": "2026-07-29T05:55:05+09:00",
+      "scrapedAt": "2026-07-29T05:55:05+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Cursor",
+        "AI開発",
+        "インド市場"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "67ff44405a652785538eed8702bee5e2fad2593788ddefafe7341abbcc44f83a",
+      "trendScore": 10.54,
+      "createdAt": "2026-07-29T05:55:05+09:00",
+      "updatedAt": "2026-07-29T05:55:05+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/news/0af1c2ec-b5f1-430b-abc6-cdbbe9952292",
+      "title": "令和8年熊本地震に関する対応状況について｜デジタル庁",
+      "originalTitle": "令和8年熊本地震に関する対応状況について",
+      "summary": "令和8年熊本地震を受けて、デジタル庁は災害対策本部を設置し、政府情報システムの運用状況を確認した。被災地域の一部拠点を除き、システムは正常に稼働していることが確認された。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/news/0af1c2ec-b5f1-430b-abc6-cdbbe9952292",
+      "originalUrl": "https://www.digital.go.jp/news/0af1c2ec-b5f1-430b-abc6-cdbbe9952292",
+      "finalUrl": "https://www.digital.go.jp/news/0af1c2ec-b5f1-430b-abc6-cdbbe9952292",
+      "publishedAt": "2026-07-28T23:14:27+09:00",
+      "collectedAt": "2026-07-29T05:55:11+09:00",
+      "scrapedAt": "2026-07-29T05:55:11+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "熊本地震",
+        "デジタル庁",
+        "災害対策"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "2f37434241637cc14e8067cea4262da41fec20277630c86eabc635d5142ab18b",
+      "trendScore": 10.6,
+      "createdAt": "2026-07-29T05:55:11+09:00",
+      "updatedAt": "2026-07-29T05:55:11+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/resources/data_local_governments",
+      "title": "オープンデータ取組済自治体資料｜デジタル庁",
+      "originalTitle": "オープンデータ取組済自治体資料を更新しました",
+      "summary": "デジタル庁は、オープンデータ取組済みの自治体の一覧やデータの公開方法についての資料を公開しています。地方公共団体は、公式サイトや独立したサイト、府省や民間団体のサイトでデータを公開することができます。オープンデータ取組済みの都道府県・市区町村の一覧や、データベースサイトのリストも提供されています。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/resources/data_local_governments",
+      "originalUrl": "https://www.digital.go.jp/resources/data_local_governments",
+      "finalUrl": "https://www.digital.go.jp/resources/data_local_governments",
+      "publishedAt": "2026-07-28T15:00:00+09:00",
+      "collectedAt": "2026-07-29T05:55:17+09:00",
+      "scrapedAt": "2026-07-29T05:55:17+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "オープンデータ",
+        "自治体",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "58249f20c3ff56779edcd00779d931b7a995b64d65207a16c2ae68be43f8c711",
+      "trendScore": 10.11,
+      "createdAt": "2026-07-29T05:55:17+09:00",
+      "updatedAt": "2026-07-29T05:55:17+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sabo01_hh_000214.html",
+      "title": "国土交通省｜報道資料｜令和8年7月28日16時27分頃の熊本県熊本地方の地震に伴う土砂災害に関する警報等の暫定的な運用について",
+      "originalTitle": "�ߘa8�N7��28��16��27�����̌F�{���F�{�n���̒n�k�ɔ����y���ЊQ�Ɋւ���x�񓙂̎b��I�ȉ^�p�ɂ���",
+      "summary": "熊本県熊本地方で発生した地震により、熊本県、長崎県、鹿児島県の市町村について、土砂災害に関する警報等の発表基準を引き下げて運用する。地震による地盤の緩みを考慮し、雨による土砂災害の危険性が高まっているため、通常よりも警戒を高めるための暫定基準を設ける。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sabo01_hh_000214.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sabo01_hh_000214.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sabo01_hh_000214.html",
+      "publishedAt": "2026-07-28T05:00:00+09:00",
+      "collectedAt": "2026-07-29T05:55:23+09:00",
+      "scrapedAt": "2026-07-29T05:55:23+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:23+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "地震",
+        "土砂災害",
+        "警報"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "a385b1552565b141c7067ebef52aa8f70023de078026ff6d6f7f13bc36c8913e",
+      "trendScore": 9.52,
+      "createdAt": "2026-07-29T05:55:23+09:00",
+      "updatedAt": "2026-07-29T05:55:23+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000746.html",
+      "title": "国土交通省｜報道資料｜汚水処理について施設の最適化と広域連携の推進に向け検討を行います<br>～関係４省による、持続可能な汚水処理に向けた取組のさらなる推進～",
+      "originalTitle": "���������ɂ��Ď{�݂̍œK���ƍL��A�g�̐��i�Ɍ����������s���܂��`�֌W�S�Ȃɂ��A�����\\�ȉ��������Ɍ�������g�̂���Ȃ鐄�i�`",
+      "summary": "国土交通省は、総務省、農林水産省、環境省と連携し、地方公共団体における持続可能な汚水処理を実現していくため、汚水処理施設の最適化と広域連携の推進に向けた検討会を開催します。人口・職員の減少、施設の老朽化が進む中、既整備区域を含めた汚水処理施設の最適化と、広域連携による事業運営の一体化を推進するガイドライン策定に向けて議論を行います。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000746.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000746.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000746.html",
+      "publishedAt": "2026-07-28T05:00:00+09:00",
+      "collectedAt": "2026-07-29T05:55:29+09:00",
+      "scrapedAt": "2026-07-29T05:55:29+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "汚水処理",
+        "広域連携",
+        "持続可能"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "2f1ac0abe97e35a891b3955b715c015ec3d3476bc285e12252298b9f7937ad72",
+      "trendScore": 9.52,
+      "createdAt": "2026-07-29T05:55:29+09:00",
+      "updatedAt": "2026-07-29T05:55:29+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000001376.000048998.html",
+      "title": "【コクヨサプライロジスティクス】ゲーミフィケーションで物流現場の「働きがい」を向上する実証実験を開始",
+      "originalTitle": "【コクヨサプライロジスティクス】ゲーミフィケーションで物流現場の「働きがい」を向上する実証実験を開始",
+      "summary": "コクヨサプライロジスティクスは、物流現場の「働きがい」を向上させるためにゲーミフィケーションを利用した実証実験を開始した。学生からの提言や現場スタッフの声に基づいて、個人の努力や成長の「見える化」を実現し、自己成長への期待を高めることを目指している。実証実験では、ウェブアプリ上で作業データを蓄積・可視化し、自ら手の届く目標を設定できるようにする。コクヨグループのノウハウを物流現場に応用し、現場スタッフが自発的に業務に取り組める仕組みを検証・実装する。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000001376.000048998.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000001376.000048998.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000001376.000048998.html",
+      "publishedAt": "2026-07-29T05:40:01+09:00",
+      "collectedAt": "2026-07-29T05:55:35+09:00",
+      "scrapedAt": "2026-07-29T05:55:35+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:35+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "物流",
+        "ゲーミフィケーション",
+        "働きがい"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "4a652d4ea1b43addc80f580f98af456b3664b4da8a330097e91dd8ba5f0bafd1",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-29T05:55:35+09:00",
+      "updatedAt": "2026-07-29T05:55:35+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000011.000029218.html",
+      "title": "「ガーデングループの日」「にわぞぅ誕生日」2つの記念日を正式登録",
+      "originalTitle": "「ガーデングループの日」「にわぞぅ誕生日」2つの記念日を正式登録",
+      "summary": "ガーデングループは、一般社団法人日本記念日協会より「2月8日 ガーデングループの日」と「11月28日 にわぞぅ誕生日」を正式に記念日認定・登録されました。ガーデングループは、お客様に憩いの場を提供することを目指しており、記念日登録を通じてお客様や地域社会との絆を深め、楽しさと豊かさを提供していきます。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000029218.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000011.000029218.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000011.000029218.html",
+      "publishedAt": "2026-07-29T05:40:01+09:00",
+      "collectedAt": "2026-07-29T05:55:41+09:00",
+      "scrapedAt": "2026-07-29T05:55:41+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ガーデングループ",
+        "記念日",
+        "日本記念日協会"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "f62422e74e9326367ca5841e283ef4aff2e9f9ea9490e8e3296d53de13bf7109",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-29T05:55:41+09:00",
+      "updatedAt": "2026-07-29T05:55:41+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000068.000039284.html",
+      "title": "株式会社 digglue、アスクルの使用済みクリアホルダー資源循環プロジェクトに「CE トレーサビリティ」を提供",
+      "originalTitle": "株式会社 digglue、アスクルの使用済みクリアホルダー資源循環プロジェクトに「CE トレーサビリティ」を提供",
+      "summary": "株式会社digglueは、アスクルの使用済みクリアホルダー資源循環プロジェクトに「CE トレーサビリティ」を提供し、回収から再製品化までのトレーサビリティ向上と業務効率化を支援している。アスクルは2020年11月から使用済みクリアホルダーの資源循環に関する取り組みを開始し、2022年4月に「アスクル資源循環プラットフォーム」を立ち上げている。digglueの「CE トレーサビリティ」は、使用済みクリアホルダーの排出・回収から、分別、再生ペレット製造、製品化までの工程におけるト",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000068.000039284.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000068.000039284.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000068.000039284.html",
+      "publishedAt": "2026-07-29T05:40:01+09:00",
+      "collectedAt": "2026-07-29T05:55:47+09:00",
+      "scrapedAt": "2026-07-29T05:55:47+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "資源循環",
+        "トレーサビリティ",
+        "デジタルプラットフォーム"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "022d8df77f51878e6ea384bd591af36178694b448097badc2891f92c2ddad115",
+      "trendScore": 10.98,
+      "createdAt": "2026-07-29T05:55:47+09:00",
+      "updatedAt": "2026-07-29T05:55:47+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999836",
+      "title": "映画・ゲームのCG映像を高品質・短時間で制作 千葉大学などが高精度な「多重反射」計算手法を開発",
+      "originalTitle": "映画・ゲームのCG映像を高品質・短時間で制作　千葉大学などが高精度な「多重反射」計算手法を開発",
+      "summary": "千葉大学、京都大学、奈良先端科学技術大学院大学の研究チームは、コンピュータグラフィックス（CG）において、高精度で多重反射を計算できる新しい数理モデルを開発した。このモデルは、写実的なCG映像が求められる分野で、高品質画像を短い計算時間で生成できる。CGで金属やプラスチックなどの素材をリアルに描くために、物体表面の質感を物理的に正しく再現するための「多重反射」を計算する手法が開発された。実験の結果、既存の手法と比べて、同じ計算時間でより少ないノイズかつ極めて小さい誤差で、粗い",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999836",
+      "originalUrl": "https://univ-journal.jp/999836/",
+      "finalUrl": "https://univ-journal.jp/999836",
+      "publishedAt": "2026-07-28T17:00:02+09:00",
+      "collectedAt": "2026-07-29T05:55:58+09:00",
+      "scrapedAt": "2026-07-29T05:55:58+09:00",
+      "lastVerifiedAt": "2026-07-29T05:55:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "CG",
+        "多重反射",
+        "コンピュータグラフィックス"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "956c062f75597b9f7b87609bde11c5dbc7640cd1b8454ead53b032f269beb3a1",
+      "trendScore": 10.23,
+      "createdAt": "2026-07-29T05:55:58+09:00",
+      "updatedAt": "2026-07-29T05:55:58+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999781",
+      "title": "昭和女子大学 2025年度卒業生の実就職率96.1％を達成 女子大学で全国2位・全大学で11位",
+      "originalTitle": "昭和女子大学　2025年度卒業生の実就職率96.1％を達成　女子大学で全国2位・全大学で11位",
+      "summary": "昭和女子大学の2025年度卒業生の実就職率は96.1％で、全国の女子大学で2位、全大学で11位となった。卒業生の総数は1573人で、総合職や技術職への就職が多かった。学生の総合職志向が強まり、多様な領域での就職も増えた。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999781",
+      "originalUrl": "https://univ-journal.jp/999781/",
+      "finalUrl": "https://univ-journal.jp/999781",
+      "publishedAt": "2026-07-28T11:00:42+09:00",
+      "collectedAt": "2026-07-29T05:56:04+09:00",
+      "scrapedAt": "2026-07-29T05:56:04+09:00",
+      "lastVerifiedAt": "2026-07-29T05:56:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "昭和女子大学",
+        "就職率",
+        "女子大学"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "fb10711885bfc736e384e6fe60795f31fd4eb8eaf810808cd32dda1bdce3d83c",
+      "trendScore": 9.87,
+      "createdAt": "2026-07-29T05:56:04+09:00",
+      "updatedAt": "2026-07-29T05:56:04+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999707",
+      "title": "バラバラだと思っていた経験につながりを見いだせた。東洋英和女学院大学大学院国際協力研究科との出会い - 大学ジャーナルオンライン",
+      "originalTitle": "バラバラだと思っていた経験につながりを見いだせた。東洋英和女学院大学大学院国際協力研究科との出会い",
+      "summary": "東洋英和女学院大学大学院国際協力研究科の修士2年の麦島菜津子は、保育とDX、そしてフランスという多様な視点を組み合わせて研究に臨んでいる。国際政治、SE、子育ての経験が大学院につながった。麦島さんは、保育士の労働環境改善を支援するDXにも取り組み始め、外国をルーツにしたお子さんの受け入れ方を考えるヒントが得られるのではないかと考え、大学院入学を決意した。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999707",
+      "originalUrl": "https://univ-journal.jp/column/2026999707/",
+      "finalUrl": "https://univ-journal.jp/column/2026999707",
+      "publishedAt": "2026-07-28T07:00:07+09:00",
+      "collectedAt": "2026-07-29T05:56:10+09:00",
+      "scrapedAt": "2026-07-29T05:56:10+09:00",
+      "lastVerifiedAt": "2026-07-29T05:56:10+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "東洋英和女学院大学",
+        "国際協力研究科",
+        "保育"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d7979144b4dfbc32afd08d01b333bab0f8abdacc34ce361a6f17bddc80fad413",
+      "trendScore": 9.63,
+      "createdAt": "2026-07-29T05:56:10+09:00",
+      "updatedAt": "2026-07-29T05:56:10+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952508",
+      "title": "ソニー｢着るクーラー｣が累計84万点の大ヒット…2万7000円でも売れる《酷暑ニッポン》都市の新常識",
+      "originalTitle": "ソニー｢着るクーラー｣が累計84万点の大ヒット…2万7000円でも売れる《酷暑ニッポン》都市の新常識 | ビジネス | 東洋経済オンライン",
+      "summary": "ソニーが発売した「着るクーラー」が都市部や海外で売り上げを伸ばしている。猛暑が続く現代において、ビジネスパーソンを中心に急速に普及している。冷温両対応や進化する冷却性能、グローバル展開まで、開発の舞台裏と今後の可能性が注目されている。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952508",
+      "originalUrl": "https://toyokeizai.net/articles/-/952508?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952508",
+      "publishedAt": "2026-07-29T05:45:00+09:00",
+      "collectedAt": "2026-07-29T05:56:16+09:00",
+      "scrapedAt": "2026-07-29T05:56:16+09:00",
+      "lastVerifiedAt": "2026-07-29T05:56:16+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "着るクーラー",
+        "ソニー",
+        "REON POCKET"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "c77f52e24aa9475c74c66d2f7c971aebd2cf59551741c94d800a6a1319b15394",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-29T05:56:16+09:00",
+      "updatedAt": "2026-07-29T05:56:16+09:00"
     }
   ],
   "sources": [
@@ -6483,8 +7023,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-28T05:57:55+09:00",
-      "lastSuccessAt": "2026-07-28T05:57:55+09:00",
+      "lastFetchedAt": "2026-07-29T05:54:45+09:00",
+      "lastSuccessAt": "2026-07-29T05:54:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6496,8 +7036,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-28T05:58:08+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:08+09:00",
+      "lastFetchedAt": "2026-07-29T05:54:59+09:00",
+      "lastSuccessAt": "2026-07-29T05:54:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6509,8 +7049,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-28T05:58:14+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:14+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:05+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6535,8 +7075,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-28T05:58:14+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:15+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:05+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6548,8 +7088,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-28T05:58:15+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:16+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:06+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6561,8 +7101,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-28T05:58:20+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:21+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:17+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6574,8 +7114,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-28T05:58:21+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:21+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:18+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6587,8 +7127,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-28T05:58:22+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:22+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:20+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6691,8 +7231,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-28T05:58:38+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:38+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:29+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6730,8 +7270,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-28T05:58:56+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:56+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:47+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6743,8 +7283,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-28T05:58:56+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:57+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:48+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6756,8 +7296,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-28T05:58:57+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:58+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:48+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6769,8 +7309,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-28T05:58:58+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:58+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:51+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6782,8 +7322,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-28T05:58:58+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:58+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:51+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6795,8 +7335,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-28T05:58:58+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:59+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:51+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6821,8 +7361,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-28T05:58:59+09:00",
-      "lastSuccessAt": "2026-07-28T05:58:59+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:52+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6886,8 +7426,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-28T05:59:00+09:00",
-      "lastSuccessAt": "2026-07-28T05:59:02+09:00",
+      "lastFetchedAt": "2026-07-29T05:55:54+09:00",
+      "lastSuccessAt": "2026-07-29T05:55:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -6899,8 +7439,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-28T05:59:15+09:00",
-      "lastSuccessAt": "2026-07-28T05:59:16+09:00",
+      "lastFetchedAt": "2026-07-29T05:56:10+09:00",
+      "lastSuccessAt": "2026-07-29T05:56:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7061,6 +7601,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260729-0554",
+      "scheduledAt": "2026-07-29T05:54:45+09:00",
+      "startedAt": "2026-07-29T05:54:45+09:00",
+      "finishedAt": "2026-07-29T05:56:16+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 55,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260728-0557",
       "scheduledAt": "2026-07-28T05:57:55+09:00",
@@ -7477,9 +8032,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-28T05:59:21+09:00",
-    "lastSuccessAt": "2026-07-28T05:59:21+09:00",
-    "nextScheduledAt": "2026-07-29T05:00:00+09:00",
+    "lastCollectionAt": "2026-07-29T05:56:16+09:00",
+    "lastSuccessAt": "2026-07-29T05:56:16+09:00",
+    "nextScheduledAt": "2026-07-30T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
