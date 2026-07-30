@@ -6465,12 +6465,12 @@
         "小谷建夫"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "99467ba958955cc32c71ef7603ab9c62081daa35fdab4ce11f55548a2a377624",
       "trendScore": 10.99,
       "createdAt": "2026-07-28T05:59:21+09:00",
-      "updatedAt": "2026-07-29T10:00:35+09:00"
+      "updatedAt": "2026-07-30T20:53:52.133Z"
     },
     {
       "id": "https://qiita.com/picnic/items/420db30743baf7fb78fa",
@@ -7551,6 +7551,546 @@
       "trendScore": 9.65,
       "createdAt": "2026-07-30T05:42:06+09:00",
       "updatedAt": "2026-07-30T05:42:06+09:00"
+    },
+    {
+      "id": "https://qiita.com/singula/items/f65e11f4839f30429dab",
+      "title": "AIに仕事を奪われる不安から始めるハーネス作成入門 第18回 MCPサーバーの単体テスト・結合テスト観点を作る - Qiita",
+      "originalTitle": "AIに仕事を奪われる不安から始めるハーネス作成入門 第18回  MCPサーバーの単体テスト・結合テスト観点を作る",
+      "summary": "ハーネスエンジニアリングのテスト方法について解説している。MCPサーバーのテストはWeb APIテストとは異なり、プロトコルやクライアントの違いによって難しさがある。単体テストと結合テストの観点を整理し、pytestコード例を示している。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/singula/items/f65e11f4839f30429dab",
+      "originalUrl": "https://qiita.com/singula/items/f65e11f4839f30429dab",
+      "finalUrl": "https://qiita.com/singula/items/f65e11f4839f30429dab",
+      "publishedAt": "2026-07-31T05:46:50+09:00",
+      "collectedAt": "2026-07-31T05:52:25+09:00",
+      "scrapedAt": "2026-07-31T05:52:25+09:00",
+      "lastVerifiedAt": "2026-07-31T05:52:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ハーネスエンジニアリング",
+        "MCPサーバー",
+        "テスト"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a37c56f209c357af5beb3813115e737f5b0c803d4c44aaf16cd54e4b42a854ec",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-31T05:52:25+09:00",
+      "updatedAt": "2026-07-31T05:52:25+09:00"
+    },
+    {
+      "id": "https://qiita.com/fujimoooon/items/62011b091623c0f931b3",
+      "title": "【詳細編】RAGはモデルの\"中\"で何をしているのか ― hidden state と層の話 - Qiita",
+      "originalTitle": "【詳細編】RAGはモデルの\"中\"で何をしているのか ― hidden state と層の話",
+      "summary": "RAG（Retrieval-Augmented Generation）とは、質問に関連する文書を知識ベースから探し、探した文書を質問と一緒にプロンプトへ連結し、LLMが答えを作る仕組みである。モデルの重みは一切変わらない。内部では、検索してきた文書が途中の層やhidden stateにも影響する。モデルはRAGか手打ちかを区別していない。入力トークン列を誰がどう用意したかはパイプライン側の話である。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/fujimoooon/items/62011b091623c0f931b3",
+      "originalUrl": "https://qiita.com/fujimoooon/items/62011b091623c0f931b3",
+      "finalUrl": "https://qiita.com/fujimoooon/items/62011b091623c0f931b3",
+      "publishedAt": "2026-07-31T03:40:11+09:00",
+      "collectedAt": "2026-07-31T05:52:31+09:00",
+      "scrapedAt": "2026-07-31T05:52:31+09:00",
+      "lastVerifiedAt": "2026-07-31T05:52:31+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "RAG",
+        "LLM",
+        "知識ベース"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "7a35ae71580343cdb5e09f1dfaa05eb46f012a2aaf9e2922a241e8bee4d75297",
+      "trendScore": 10.87,
+      "createdAt": "2026-07-31T05:52:31+09:00",
+      "updatedAt": "2026-07-31T05:52:31+09:00"
+    },
+    {
+      "id": "https://qiita.com/kinamocchi_tech/items/92be1cbc502deb3ddd26",
+      "title": "GPT-5.6が値下げ！Luna 80%・Terra 20%——2026年7月30日の新API価格を3分で速報解説 - Qiita",
+      "originalTitle": "GPT-5.6が値下げ！Luna 80%・Terra 20%——2026年7月30日の新API価格を3分で速報解説",
+      "summary": "OpenAIのGPT-5.6のAPI価格が2026年7月30日から値下げされた。Lunaは80%、Terraは20%の値下げとなり、Lunaの入力価格は100万トークンあたり0.20ドル、Terraの入力価格は100万トークンあたり2ドルとなった。コンテキストは105万トークンで、Fast modeも追加された。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/kinamocchi_tech/items/92be1cbc502deb3ddd26",
+      "originalUrl": "https://qiita.com/kinamocchi_tech/items/92be1cbc502deb3ddd26",
+      "finalUrl": "https://qiita.com/kinamocchi_tech/items/92be1cbc502deb3ddd26",
+      "publishedAt": "2026-07-31T03:14:25+09:00",
+      "collectedAt": "2026-07-31T05:52:37+09:00",
+      "scrapedAt": "2026-07-31T05:52:37+09:00",
+      "lastVerifiedAt": "2026-07-31T05:52:37+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "GPT-5.6",
+        "API価格",
+        "OpenAI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "104277e3137adaadb368f838a489389df11e002ce5757449948354f679ed7dd6",
+      "trendScore": 10.84,
+      "createdAt": "2026-07-31T05:52:37+09:00",
+      "updatedAt": "2026-07-31T05:52:37+09:00"
+    },
+    {
+      "id": "https://qiita.com/sugarfree/items/8f1da240063c2de6a523",
+      "title": "【技術解説】【完全ガイド】Pythonによるセンチメント分析を活用した株式トレード自動化スクリプトの実装 - Qiita",
+      "originalTitle": "【技術解説】【完全ガイド】Pythonによるセンチメント分析を活用した株式トレード自動化スクリプトの実装",
+      "summary": "この記事では、Pythonを使用してセンチメント分析を行い、それを元に株式トレードの自動化スクリプトを実装する方法について解説します。具体的には、ニュースやSNSからのデータを収集し、テキストの前処理を行い、センチメント分析を実施し、その結果を基にしたトレード戦略を構築する手順を紹介します。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/sugarfree/items/8f1da240063c2de6a523",
+      "originalUrl": "https://qiita.com/sugarfree/items/8f1da240063c2de6a523",
+      "finalUrl": "https://qiita.com/sugarfree/items/8f1da240063c2de6a523",
+      "publishedAt": "2026-07-30T11:01:32+09:00",
+      "collectedAt": "2026-07-31T05:52:43+09:00",
+      "scrapedAt": "2026-07-31T05:52:43+09:00",
+      "lastVerifiedAt": "2026-07-31T05:52:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Python",
+        "センチメント分析",
+        "自動化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "e86b7ad482ac045a309e3a83c7a8d403c5ccc00a959cac52a9df826841992864",
+      "trendScore": 9.88,
+      "createdAt": "2026-07-31T05:52:43+09:00",
+      "updatedAt": "2026-07-31T05:52:43+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
+      "title": "令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について｜デジタル庁",
+      "originalTitle": "令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について",
+      "summary": "令和8年熊本地震により被災した方は、罹災証明書のオンライン申請が可能です。マイナンバーカードを利用して、マイナポータルから申請できます。申請方法は市町村により異なりますので、各自治体の公式サイトをご確認ください。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
+      "originalUrl": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
+      "finalUrl": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
+      "publishedAt": "2026-07-30T15:16:52+09:00",
+      "collectedAt": "2026-07-31T05:52:49+09:00",
+      "scrapedAt": "2026-07-31T05:52:49+09:00",
+      "lastVerifiedAt": "2026-07-31T05:52:49+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "熊本地震",
+        "罹災証明書",
+        "オンライン申請"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "dac5cdb76bd28a81638cda49b5a517bf698e9b6d060174bacacc47e92440dfde",
+      "trendScore": 10.13,
+      "createdAt": "2026-07-31T05:52:49+09:00",
+      "updatedAt": "2026-07-31T05:52:49+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/about/agency",
+      "title": "所管の法人｜デジタル庁",
+      "originalTitle": "地方公共団体情報システム機構における個人番号カード関係事務に係る評価資料を掲載しました",
+      "summary": "デジタル庁は、地方公共団体情報システム機構の目標及び主務大臣評価に関する資料を掲載した。地方公共団体情報システム機構は、マイナンバーカードの発行や、マイナンバー制度を支える各種システムの整備・運用を行っている。地方公共団体の情報化推進を支援する取組も行っている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/about/agency",
+      "originalUrl": "https://www.digital.go.jp/about/agency",
+      "finalUrl": "https://www.digital.go.jp/about/agency",
+      "publishedAt": "2026-07-30T15:00:00+09:00",
+      "collectedAt": "2026-07-31T05:52:55+09:00",
+      "scrapedAt": "2026-07-31T05:52:55+09:00",
+      "lastVerifiedAt": "2026-07-31T05:52:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "地方公共団体情報システム機構",
+        "マイナンバー制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "eae91e8c0eb2c9d1e00601fa7f57099153467ca0195302a8deddedbc5d41a7e0",
+      "trendScore": 10.11,
+      "createdAt": "2026-07-31T05:52:55+09:00",
+      "updatedAt": "2026-07-31T05:52:55+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/recruitment/recruiting-session",
+      "title": "新卒採用 業務説明会・イベント｜デジタル庁",
+      "originalTitle": "新卒採用 業務説明会・イベント情報を掲載しました",
+      "summary": "デジタル庁では、新卒採用向けに業務説明会やインターンシップ、座談会などのイベントを開催します。文系・理系を問わず、専門知識の有無に関係なく、人物本位で人材を募集しています。デジタル庁の組織や業務に興味がある方は、ぜひご参加ください。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/recruitment/recruiting-session",
+      "originalUrl": "https://www.digital.go.jp/recruitment/recruiting-session",
+      "finalUrl": "https://www.digital.go.jp/recruitment/recruiting-session",
+      "publishedAt": "2026-07-30T15:00:00+09:00",
+      "collectedAt": "2026-07-31T05:53:01+09:00",
+      "scrapedAt": "2026-07-31T05:53:01+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "新卒採用",
+        "業務説明会"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "ad0f61cf00b18bed884efa311ebb668e528837e83907f8e9f4291fcc307b743e",
+      "trendScore": 10.11,
+      "createdAt": "2026-07-31T05:53:01+09:00",
+      "updatedAt": "2026-07-31T05:53:01+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000279.html",
+      "title": "国土交通省｜報道資料｜地域生活圏形成に取り組む主体の認定を開始します！<br>～「民間の地域経営主体」を国が認定～",
+      "originalTitle": "�n�搶�����`���Ɏ��g�ގ�̂̔F����J�n���܂��I�`�u���Ԃ̒n��o�c��́v�������F��`",
+      "summary": "国土交通省は、地域生活圏の形成に取り組む主体の認定を開始する。人口減少や少子高齢化が進む中、地域の暮らしを支える生活サービスが持続的に提供される「地域生活圏」の形成を目指す。認定された主体は、地域での信用・信頼を得ることができ、国土政策局の支援も受けることができる。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000279.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000279.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000279.html",
+      "publishedAt": "2026-07-30T05:00:00+09:00",
+      "collectedAt": "2026-07-31T05:53:07+09:00",
+      "scrapedAt": "2026-07-31T05:53:07+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "地域生活圏",
+        "国土交通省",
+        "認定"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "fc5bfee81dd2fe35de021959918dd9a1a40aafc6276e525e2cdd8c43ccd26ba7",
+      "trendScore": 9.52,
+      "createdAt": "2026-07-31T05:53:07+09:00",
+      "updatedAt": "2026-07-31T05:53:07+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000008.000163662.html",
+      "title": "ペットとの避難生活で見落とされがちな“ニオイ対策”",
+      "originalTitle": "ペットとの避難生活で見落とされがちな“ニオイ対策”",
+      "summary": "ペットと一緒に避難する際に、見落とされがちな「ニオイ対策」について考えることが大切です。消臭剤の備えや衛生管理が重要です。日常使いが、そのまま防災につながります。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000163662.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000008.000163662.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000008.000163662.html",
+      "publishedAt": "2026-07-31T05:40:02+09:00",
+      "collectedAt": "2026-07-31T05:53:13+09:00",
+      "scrapedAt": "2026-07-31T05:53:13+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "ペット防災",
+        "ニオイ対策",
+        "消臭剤"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "a1aa0aa483592a5c2cda7e4a8b0f203c0d3ba33d8fd894bc1d1c17e53caa3c14",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-31T05:53:13+09:00",
+      "updatedAt": "2026-07-31T05:53:13+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000289.000072105.html",
+      "title": "株式会社スケブとのBaaS事業にかかる基本合意書の締結およびSkebポイントへのチャージ機能「みんなの銀行かんたん決済」の提供開始について",
+      "originalTitle": "株式会社スケブとのBaaS事業にかかる基本合意書の締結およびSkebポイントへのチャージ機能「みんなの銀行かんたん決済」の提供開始について",
+      "summary": "株式会社みんなの銀行と株式会社スケブは、BaaS事業にかかる基本合意書を締結し、口座直結型の即時決済サービス「みんなの銀行かんたん決済」の提供を開始しました。このサービスにより、Skeb内で利用できる「Skebポイント」への直接チャージが可能となります。両社は、クリエイターエコノミーのさらなる発展に向けたシナジーを創出することを目指しています。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000289.000072105.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000289.000072105.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000289.000072105.html",
+      "publishedAt": "2026-07-31T05:40:02+09:00",
+      "collectedAt": "2026-07-31T05:53:19+09:00",
+      "scrapedAt": "2026-07-31T05:53:19+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:19+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "みんなの銀行",
+        "スケブ",
+        "BaaS"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "976aade78f2d98d8708adef903aa76971a94a6fe69676801e47d0cd2bbd4bde5",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-31T05:53:19+09:00",
+      "updatedAt": "2026-07-31T05:53:19+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000536.000004256.html",
+      "title": "【愛媛・松山】三福綜合不動産が専門部署制へ組織改革",
+      "originalTitle": "【愛媛・松山】三福綜合不動産が専門部署制へ組織改革",
+      "summary": "愛媛県松山市の不動産会社、株式会社三福綜合不動産は、2026年8月から営業組織を刷新し、店舗単位の体制から業務ごとの専門部署制へ移行する。専門性の向上と業務の標準化を図り、WEB反響から来店・契約までの対応品質を高めることを目的としている。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000536.000004256.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000536.000004256.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000536.000004256.html",
+      "publishedAt": "2026-07-31T05:40:02+09:00",
+      "collectedAt": "2026-07-31T05:53:25+09:00",
+      "scrapedAt": "2026-07-31T05:53:25+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "不動産",
+        "組織改革",
+        "専門部署制"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "e327556bca91cd5b6816fc4c1c113758fee3bd8b77a49b3700fb60e7e3b8bf2a",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-31T05:53:25+09:00",
+      "updatedAt": "2026-07-31T05:53:25+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999869",
+      "title": "大学夜間主コースの縮小続く 香川大学法・経済学部も2028年度から募集停止",
+      "originalTitle": "大学夜間主コースの縮小続く　香川大学法・経済学部も2028年度から募集停止",
+      "summary": "香川大学は法学部・経済学部の夜間主コースについて、2027年度学生募集を最後に、2028年度以降の学生募集を停止する。夜間主コースは1995年に設置され、社会人の期待に応えるべく働きながら夜間に大学で学びたいという意欲ある社会人を対象に授業を行っていた。しかし近年、社会構造・ニーズの急速な変化や、通信教育・オンライン教育等の普及等により、夜間主コースへの志願者が減少している。学生募集停止後についても、在学生の学修機会に影響が生じることのないよう、必要な授業・指導体制を確保し、",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999869",
+      "originalUrl": "https://univ-journal.jp/999869/",
+      "finalUrl": "https://univ-journal.jp/999869",
+      "publishedAt": "2026-07-30T11:00:32+09:00",
+      "collectedAt": "2026-07-31T05:53:34+09:00",
+      "scrapedAt": "2026-07-31T05:53:34+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:34+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "大学",
+        "夜間主コース",
+        "学生募集停止"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "f98715b9c8714091f5965738b3eec96621fea65a1f8e45e4297a8bae867373fe",
+      "trendScore": 9.88,
+      "createdAt": "2026-07-31T05:53:34+09:00",
+      "updatedAt": "2026-07-31T05:53:34+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999843",
+      "title": "腸内細菌叢の乱れが食品添加物による腸の炎症を増強 日本医科大学と東京農業大学が解析",
+      "originalTitle": "腸内細菌叢の乱れが食品添加物による腸の炎症を増強　日本医科大学と東京農業大学が解析",
+      "summary": "日本医科大学と東京農業大学の研究グループは、食品添加物のアルミニウムアンモニウム硫酸塩が、腸内細菌叢の乱れた状態で腸上皮細胞死を増強し、腸管への好酸球浸潤を促進することを明らかにした。腸内細菌叢の乱れは、腸のバリア機能や免疫応答に影響し、食物アレルギーや好酸球性消化管疾患などの発症に関わると考えられている。研究グループは、腸内細菌叢の乱れが食品添加物による腸の炎症を増強する可能性が示されたことを発表した。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999843",
+      "originalUrl": "https://univ-journal.jp/999843/",
+      "finalUrl": "https://univ-journal.jp/999843",
+      "publishedAt": "2026-07-29T17:00:07+09:00",
+      "collectedAt": "2026-07-31T05:53:40+09:00",
+      "scrapedAt": "2026-07-31T05:53:40+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:40+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "腸内細菌叢",
+        "食品添加物",
+        "腸の炎症"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "01eb471c2398b1629e93b7dbed24201b513de686c97d1869e699bbe044612f81",
+      "trendScore": 8.8,
+      "createdAt": "2026-07-31T05:53:40+09:00",
+      "updatedAt": "2026-07-31T05:53:40+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952883?display=b",
+      "title": "うぶごえCF 宣伝に利用されたメディア ｢善意｣で見過ごされるリスク CFは寄付か営利事業か",
+      "originalTitle": "うぶごえCF　宣伝に利用されたメディア　｢善意｣で見過ごされるリスク　CFは寄付か営利事業か | ビジネス | 東洋経済オンライン",
+      "summary": "クラウドファンディングサイト「うぶごえ」は、鉄道事業者を支援するプロジェクトを立ち上げていたが、支援金の未払いが複数発生している。同サイトのプロジェクトは、雑誌や新聞などで好意的に取り上げられていたが、結果的にメディアが宣伝してしまったことで被害を拡大させた可能性がある。背景には、クラウドファンディングが「善意」を前提にした活動であることばかりに目が行き、運営事業者は営利を目的にしている実態を軽視したことにある。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952883?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/952883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952883?display=b",
+      "publishedAt": "2026-07-31T05:40:00+09:00",
+      "collectedAt": "2026-07-31T05:53:46+09:00",
+      "scrapedAt": "2026-07-31T05:53:46+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "クラウドファンディング",
+        "うぶごえ",
+        "鉄道事業者"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "750297b0f718ade49b4097828387f980e52a2a00b2c30ac907860887729391ab",
+      "trendScore": 10.99,
+      "createdAt": "2026-07-31T05:53:46+09:00",
+      "updatedAt": "2026-07-31T05:53:46+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/953055?display=b",
+      "title": "〈株価も反応〉三菱自動車が人型ロボを工場で活用へ､東大発ベンチャー｢フィジカルAI｣で攻勢！ 新型パジェロにも期待感",
+      "originalTitle": "〈株価も反応〉三菱自動車が人型ロボを工場で活用へ､東大発ベンチャー｢フィジカルAI｣で攻勢！ 新型パジェロにも期待感 | ビジネス | 東洋経済オンライン",
+      "summary": "三菱自動車は東大発ベンチャー企業と組み、人型ロボットの量産や工場での活用に乗り出す。国内の人口減少に伴う製造現場での労働力不足に対する危機感がある。三菱自動車のCEOは「日本の製造業では人口減少に伴う生産現場での労働力不足への対応が喫緊の課題」と指摘した。両社は京都製作所京都工場でロボットの生産を開始する予定で、工場の現場への導入は27年の半ば以降を予定している。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/953055?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/953055?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/953055?display=b",
+      "publishedAt": "2026-07-31T05:20:00+09:00",
+      "collectedAt": "2026-07-31T05:53:52+09:00",
+      "scrapedAt": "2026-07-31T05:53:52+09:00",
+      "lastVerifiedAt": "2026-07-31T05:53:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "三菱自動車",
+        "人型ロボット",
+        "フィジカルAI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "11e1d1ae8476fec9c5d4888f9bc86052f151eea08ddac6eff047b2befbdac2f1",
+      "trendScore": 10.97,
+      "createdAt": "2026-07-31T05:53:52+09:00",
+      "updatedAt": "2026-07-31T05:53:52+09:00"
     }
   ],
   "sources": [
@@ -7563,8 +8103,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-30T05:40:35+09:00",
-      "lastSuccessAt": "2026-07-30T05:40:35+09:00",
+      "lastFetchedAt": "2026-07-31T05:52:23+09:00",
+      "lastSuccessAt": "2026-07-31T05:52:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7576,8 +8116,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-30T05:40:48+09:00",
-      "lastSuccessAt": "2026-07-30T05:40:48+09:00",
+      "lastFetchedAt": "2026-07-31T05:52:37+09:00",
+      "lastSuccessAt": "2026-07-31T05:52:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7589,8 +8129,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-30T05:40:54+09:00",
-      "lastSuccessAt": "2026-07-30T05:40:55+09:00",
+      "lastFetchedAt": "2026-07-31T05:52:43+09:00",
+      "lastSuccessAt": "2026-07-31T05:52:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7615,8 +8155,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-30T05:40:55+09:00",
-      "lastSuccessAt": "2026-07-30T05:40:55+09:00",
+      "lastFetchedAt": "2026-07-31T05:52:43+09:00",
+      "lastSuccessAt": "2026-07-31T05:52:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7628,8 +8168,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-30T05:40:55+09:00",
-      "lastSuccessAt": "2026-07-30T05:40:55+09:00",
+      "lastFetchedAt": "2026-07-31T05:52:44+09:00",
+      "lastSuccessAt": "2026-07-31T05:52:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7641,8 +8181,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-30T05:41:12+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:13+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:01+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7654,8 +8194,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-30T05:41:13+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:14+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:01+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7667,8 +8207,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-07-30T05:41:15+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:16+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:03+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7771,8 +8311,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-07-30T05:41:30+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:31+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:07+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7810,8 +8350,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-07-30T05:41:48+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:49+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:25+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7823,8 +8363,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-30T05:41:49+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:49+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:25+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7836,8 +8376,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-30T05:41:49+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:52+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:26+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7849,8 +8389,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-07-30T05:41:52+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:52+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:27+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7862,8 +8402,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-30T05:41:52+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:52+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:27+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7875,8 +8415,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-30T05:41:52+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:53+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:28+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7901,8 +8441,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-30T05:41:53+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:53+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:28+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7966,8 +8506,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-07-30T05:41:55+09:00",
-      "lastSuccessAt": "2026-07-30T05:41:57+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:30+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -7979,8 +8519,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-07-29T05:56:10+09:00",
-      "lastSuccessAt": "2026-07-29T05:56:11+09:00",
+      "lastFetchedAt": "2026-07-31T05:53:41+09:00",
+      "lastSuccessAt": "2026-07-31T05:53:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8141,6 +8681,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260731-0552",
+      "scheduledAt": "2026-07-31T05:52:23+09:00",
+      "startedAt": "2026-07-31T05:52:23+09:00",
+      "finishedAt": "2026-07-31T05:53:52+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 56,
+      "duplicatesRemoved": 1,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260730-0540",
       "scheduledAt": "2026-07-30T05:40:34+09:00",
@@ -8587,9 +9142,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-07-30T05:42:06+09:00",
-    "lastSuccessAt": "2026-07-30T05:42:06+09:00",
-    "nextScheduledAt": "2026-07-31T05:00:00+09:00",
+    "lastCollectionAt": "2026-07-31T05:53:52+09:00",
+    "lastSuccessAt": "2026-07-31T05:53:52+09:00",
+    "nextScheduledAt": "2026-08-01T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
