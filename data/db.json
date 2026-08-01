@@ -8631,6 +8631,546 @@
       "trendScore": 10.95,
       "createdAt": "2026-08-01T05:50:23+09:00",
       "updatedAt": "2026-08-01T05:50:23+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/09a156382e6322f63d22",
+      "title": "Excel VBA × 生成AI API の事例を、AIエージェント4体に世界中から探させた話 - Qiita",
+      "originalTitle": "Excel VBA × 生成AI API の事例を、AIエージェント4体に世界中から探させた話",
+      "summary": "Excel VBAと生成AI APIを組み合わせた事例を調査するために、AIエージェント4体を使用して世界中から探しました。約5分で調査を完了し、地図を作成しました。結果として、自分の立っている場所が地図の空白であったことがわかりました。VBAから生成AI APIを呼ぶ事例は、2023年と2025年末に二つの波で多数見られましたが、実務で運用中と明言した事例は1件だけでした。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/09a156382e6322f63d22",
+      "originalUrl": "https://qiita.com/shu15511551/items/09a156382e6322f63d22",
+      "finalUrl": "https://qiita.com/shu15511551/items/09a156382e6322f63d22",
+      "publishedAt": "2026-08-02T05:31:44+09:00",
+      "collectedAt": "2026-08-02T05:37:42+09:00",
+      "scrapedAt": "2026-08-02T05:37:42+09:00",
+      "lastVerifiedAt": "2026-08-02T05:37:42+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Excel VBA",
+        "生成AI API",
+        "AIエージェント"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "b33f7bb501b3f812a0db2053733c8b3cc16f75f538734454fe7babb5d8e58163",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-02T05:37:42+09:00",
+      "updatedAt": "2026-08-02T05:37:42+09:00"
+    },
+    {
+      "id": "https://qiita.com/s936031/items/059b858a4ccd8a5e67bb",
+      "title": "WordPressプラグインの設定画面が英語で困ったので、AIで丸ごと翻訳してみた - Qiita",
+      "originalTitle": "WordPressプラグインの設定画面が英語で困ったので、AIで丸ごと翻訳してみた",
+      "summary": "WordPressプラグインの設定画面が英語で困ったとき、AIで丸ごと翻訳する方法を紹介する。従来のPO/MOファイルを作る方法は大変なので、Matically AI Translatorプラグインを使うとワンクリックで日本語化できる。16言語に対応しており、ReactやVueで動的に生成される画面にも対応している。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/s936031/items/059b858a4ccd8a5e67bb",
+      "originalUrl": "https://qiita.com/s936031/items/059b858a4ccd8a5e67bb",
+      "finalUrl": "https://qiita.com/s936031/items/059b858a4ccd8a5e67bb",
+      "publishedAt": "2026-08-01T22:41:49+09:00",
+      "collectedAt": "2026-08-02T05:37:48+09:00",
+      "scrapedAt": "2026-08-02T05:37:48+09:00",
+      "lastVerifiedAt": "2026-08-02T05:37:48+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "WordPress",
+        "プラグイン",
+        "翻訳"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "77520f603190771381c6e79737939fdd5a69cedd5a2ada16aad3ecd182ff4fed",
+      "trendScore": 10.59,
+      "createdAt": "2026-08-02T05:37:48+09:00",
+      "updatedAt": "2026-08-02T05:37:48+09:00"
+    },
+    {
+      "id": "https://qiita.com/akira_papa_AI/items/c0d70aad5c6c494668df",
+      "title": "Claude Codeの /init でCLAUDE.mdを自動生成する — はじめてのプロジェクト設定を10分で - Qiita",
+      "originalTitle": "Claude Codeの /init でCLAUDE.mdを自動生成する — はじめてのプロジェクト設定を10分で",
+      "summary": "Claude Codeの/initコマンドを使用すると、CLAUDE.mdファイルを自動生成できる。CLAUDE.mdは、プロジェクトの取扱説明書を書いておくメモファイルで、Claude Codeのセッション開始時に読み込まれる。/initコマンドは、コードベースを分析してビルドコマンドやテストの流し方などの情報を含むCLAUDE.mdファイルを生成する。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/akira_papa_AI/items/c0d70aad5c6c494668df",
+      "originalUrl": "https://qiita.com/akira_papa_AI/items/c0d70aad5c6c494668df",
+      "finalUrl": "https://qiita.com/akira_papa_AI/items/c0d70aad5c6c494668df",
+      "publishedAt": "2026-08-01T22:24:12+09:00",
+      "collectedAt": "2026-08-02T05:37:54+09:00",
+      "scrapedAt": "2026-08-02T05:37:54+09:00",
+      "lastVerifiedAt": "2026-08-02T05:37:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Claude Code",
+        "CLAUDE.md",
+        "自動生成"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "465aebbf2e92f76641fb583c668df2f4f9add87282065a57ad6e1468b16b7151",
+      "trendScore": 10.57,
+      "createdAt": "2026-08-02T05:37:54+09:00",
+      "updatedAt": "2026-08-02T05:37:54+09:00"
+    },
+    {
+      "id": "https://qiita.com/amanity-haray/items/06d3392294972de9862f",
+      "title": "ローカル画像生成で「Corporate Memphis」を本物っぽく出す — Qwen-Imageのプロンプト/ネガティブ/img2img実装知見 - Qiita",
+      "originalTitle": "ローカル画像生成で「Corporate Memphis」を本物っぽく出す — Qwen-Imageのプロンプト/ネガティブ/img2img実装知見",
+      "summary": "ローカル画像生成で「Corporate Memphis」を本物っぽく出す方法について解説している。Corporate Memphisはフラットで手足が長いビッグテック系イラストで、ローカルモデルでは最初はクオリティが低かった。プロンプトやネガティブプロンプト、img2imgの実装知見を共有し、Gemini同等以上の品質に持っていく方法を紹介している。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/amanity-haray/items/06d3392294972de9862f",
+      "originalUrl": "https://qiita.com/amanity-haray/items/06d3392294972de9862f",
+      "finalUrl": "https://qiita.com/amanity-haray/items/06d3392294972de9862f",
+      "publishedAt": "2026-08-01T13:27:35+09:00",
+      "collectedAt": "2026-08-02T05:38:00+09:00",
+      "scrapedAt": "2026-08-02T05:38:00+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:00+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ローカル画像生成",
+        "Corporate Memphis",
+        "Qwen-Image"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "6436ed4ca7d139035c8c6ebd163a84c7490dac8cf1c9f20ee9447984393f5481",
+      "trendScore": 10.04,
+      "createdAt": "2026-08-02T05:38:00+09:00",
+      "updatedAt": "2026-08-02T05:38:00+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/laws",
+      "title": "法令｜デジタル庁",
+      "originalTitle": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました",
+      "summary": "デジタル庁の法令に関する情報がまとめられている。デジタル社会形成基本法やデジタル庁設置法、情報通信技術を利用する方法による国の歳入等の納付に関する法律などが掲載されている。各法令の公布日、施行日、概要、または新旧対照表へのリンクが提供されている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/laws",
+      "originalUrl": "https://www.digital.go.jp/laws",
+      "finalUrl": "https://www.digital.go.jp/laws",
+      "publishedAt": "2026-07-31T15:02:16+09:00",
+      "collectedAt": "2026-08-02T05:38:06+09:00",
+      "scrapedAt": "2026-08-02T05:38:06+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "法令",
+        "情報通信技術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "9fe323c05efad3174e8eff988b758eb9cda1cdf30f8f6d956691d230c1c38eda",
+      "trendScore": 8.7,
+      "createdAt": "2026-08-02T05:38:06+09:00",
+      "updatedAt": "2026-08-02T05:38:06+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/port06_hh_000345.html",
+      "title": "国土交通省｜報道資料｜《八代港》港湾の広域ネットワークを活用した被災地への給水車への船舶からの水の供給を開始<br>～令和８年熊本地震における対応【清龍丸】～",
+      "originalTitle": "�s����`�t�`�p�̍L��l�b�g���[�N�����p������Вn�ւ̋����Ԃւ̑D������̐��̋������J�n�`�ߘa�W�N�F�{�n�k�ɂ�����Ή��y�����ہz�`",
+      "summary": "国土交通省中部地方整備局は、八代港において大型浚渫兼油回収船「清龍丸」による給水車への船舶からの水の供給を開始した。給水車への水の供給は、八代港内外港地区14.0m岸壁で行われ、一般の方への配布は行わない。給水支援は、約150トンの飲料水がなくなり次第終了する。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/port06_hh_000345.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/port06_hh_000345.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/port06_hh_000345.html",
+      "publishedAt": "2026-08-01T05:00:00+09:00",
+      "collectedAt": "2026-08-02T05:38:12+09:00",
+      "scrapedAt": "2026-08-02T05:38:12+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:12+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "八代港",
+        "給水車",
+        "船舶からの水の供給"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "d82389f59ff022fb26778eca736aafcaa852bbabefb437d71b7ea4ba04158e72",
+      "trendScore": 9.53,
+      "createdAt": "2026-08-02T05:38:12+09:00",
+      "updatedAt": "2026-08-02T05:38:12+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/port06_hh_000344.html",
+      "title": "国土交通省｜報道資料｜《三角港》港湾の広域ネットワークを活用した被災地への給水支援を開始<br>～令和８年熊本地震における対応【白山】～",
+      "originalTitle": "�s�O�p�`�t�`�p�̍L��l�b�g���[�N�����p������Вn�ւ̋����x�����J�n�`�ߘa�W�N�F�{�n�k�ɂ�����Ή��y���R�z�`",
+      "summary": "国土交通省は、令和8年熊本地震の被災者を支援するために、三角港で大型浚渫兼油回収船「白山」から給水支援を開始した。生活用水を配布する給水所を設け、被災者に水を提供している。給水支援は8月2日から開始され、悪天候などにより中断や中止になる可能性がある。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/port06_hh_000344.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/port06_hh_000344.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/port06_hh_000344.html",
+      "publishedAt": "2026-08-01T05:00:00+09:00",
+      "collectedAt": "2026-08-02T05:38:18+09:00",
+      "scrapedAt": "2026-08-02T05:38:18+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:18+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "給水支援",
+        "熊本地震",
+        "国土交通省"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "55fe80a8953dfe9bfe857ef0b57ab7ba8595e5681569ede2e57baa6db9fda340",
+      "trendScore": 9.53,
+      "createdAt": "2026-08-02T05:38:18+09:00",
+      "updatedAt": "2026-08-02T05:38:18+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/port06_hh_000342.html",
+      "title": "国土交通省｜報道資料｜九州地方整備局所有船「海輝（かいき）」又は「海煌（かいこう）」 による給水支援を実施中",
+      "originalTitle": "��B�n�������Ǐ��L�D�u�C�P�i�������j�v���́u�C���i���������j�v �ɂ�鋋���x�������{��",
+      "summary": "国土交通省九州地方整備局は、八代港内で船舶から給水支援を実施しています。調査観測兼清掃船「海輝」または「海煌」により、八代港内の4.5ｍ岸壁にて給水支援を実施しています。配布量は1回あたり5リットル程度となります。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/port06_hh_000342.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/port06_hh_000342.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/port06_hh_000342.html",
+      "publishedAt": "2026-08-01T05:00:00+09:00",
+      "collectedAt": "2026-08-02T05:38:24+09:00",
+      "scrapedAt": "2026-08-02T05:38:24+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:24+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "給水支援",
+        "国土交通省",
+        "八代港"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "5b31ceb7a29570615864bfaa5226298c4393d6f02f9f2c812733376795c2caed",
+      "trendScore": 9.53,
+      "createdAt": "2026-08-02T05:38:24+09:00",
+      "updatedAt": "2026-08-02T05:38:24+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000001676.000017372.html",
+      "title": "「Bitfan」にてアカペラグループ・RAG FAIRのオフィシャルファンクラブをオープン！",
+      "originalTitle": "「Bitfan」にてアカペラグループ・RAG FAIRのオフィシャルファンクラブをオープン！",
+      "summary": "アカペラグループRAG FAIRのオフィシャルファンクラブ「RAG FAIR FAMILY」がBitfanでオープンした。ファンクラブではチケット先行やレア楽曲、生配信などが提供される。会費は月額550円または年額5,500円。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000001676.000017372.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000001676.000017372.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000001676.000017372.html",
+      "publishedAt": "2026-08-02T05:10:02+09:00",
+      "collectedAt": "2026-08-02T05:38:30+09:00",
+      "scrapedAt": "2026-08-02T05:38:30+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:30+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "RAG FAIR",
+        "Bitfan",
+        "ファンクラブ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "235632eb7da5e08af1dc6544b6d98f9125db4384cc2223502f9942cb8836981b",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-02T05:38:30+09:00",
+      "updatedAt": "2026-08-02T05:38:30+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000021.000167469.html",
+      "title": "【たけたろう】韓国発グローバルコスメブランド「BANILA CO」ブランド初の日本公式アンバサダーに就任",
+      "originalTitle": "【たけたろう】韓国発グローバルコスメブランド「BANILA CO」ブランド初の日本公式アンバサダーに就任",
+      "summary": "韓国発グローバルコスメブランド「BANILA CO」は、たけたろうをブランド初の日本公式アンバサダーに就任させた。たけたろうは美容クリエイターとして、SNSを中心に多くの支持を集めており、BANILA COの想いと価値観が共鳴したという。アンバサダーとして、新商品ローンチキャンペーンや公式SNSコンテンツへの出演などを行う。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000167469.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000021.000167469.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000021.000167469.html",
+      "publishedAt": "2026-08-02T05:10:02+09:00",
+      "collectedAt": "2026-08-02T05:38:36+09:00",
+      "scrapedAt": "2026-08-02T05:38:36+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:36+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "BANILA CO",
+        "たけたろう",
+        "コスメ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "c5dbd6405afbb3d20b90c490363421a9e7839606b8414b2d33c0fabde6411666",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-02T05:38:36+09:00",
+      "updatedAt": "2026-08-02T05:38:36+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000878.000013809.html",
+      "title": "オルタナティブ投資プラットフォーム「オルタナバンク」、『累計申込総額800億円突破記念ファンドFinal ID1133』を公開",
+      "originalTitle": "オルタナティブ投資プラットフォーム「オルタナバンク」、『累計申込総額800億円突破記念ファンドFinal ID1133』を公開",
+      "summary": "オルタナティブ投資プラットフォーム「オルタナバンク」が、新商品『累計申込総額800億円突破記念ファンドFinal ID1133』を公開した。募集総額は3億1,590万円で、目標利回りは8.8％。最低申込金額は1万円以上で、追加申込単位も1万円。募集期間は2026年8月3日から8月6日まで。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000878.000013809.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000878.000013809.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000878.000013809.html",
+      "publishedAt": "2026-08-02T05:10:02+09:00",
+      "collectedAt": "2026-08-02T05:38:42+09:00",
+      "scrapedAt": "2026-08-02T05:38:42+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:42+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "オルタナバンク",
+        "クラウドファンディング",
+        "投資プラットフォーム"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "618b7476bb7bbe8d10429a9df5f5539da1904c8f29fb5e9f9913a72a195a5b28",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-02T05:38:42+09:00",
+      "updatedAt": "2026-08-02T05:38:42+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999747",
+      "title": "講義動画の英語字幕を自動生成 大学院授業の英語化に向け東京大学松尾・岩澤研究室がOSS無償公開",
+      "originalTitle": "講義動画の英語字幕を自動生成　大学院授業の英語化に向け東京大学松尾・岩澤研究室がOSS無償公開",
+      "summary": "東京大学松尾・岩澤研究室が開発したソフトウェアは、日本語の講義動画から英語字幕を自動生成し、字幕ファイルを出力する。東京大学大学院の工学系研究科では、2025年度より英語で実施可能な授業については原則として英語で行う方針を掲げており、このソフトウェアは英語字幕化にかかる作業時間を削減することができる。ソフトウェアは完全自動ではなく、人手を最小化する補助自動化であり、字幕エディタ上で効率的に編集・承認できるようにした。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999747",
+      "originalUrl": "https://univ-journal.jp/999747/",
+      "finalUrl": "https://univ-journal.jp/999747",
+      "publishedAt": "2026-08-01T11:00:52+09:00",
+      "collectedAt": "2026-08-02T05:38:50+09:00",
+      "scrapedAt": "2026-08-02T05:38:50+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "英語字幕",
+        "自動生成",
+        "東京大学"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "5dd1a911e9ee2efba0e408eadc2872492ff6a1df0bb028cc08261b2e61513558",
+      "trendScore": 9.89,
+      "createdAt": "2026-08-02T05:38:50+09:00",
+      "updatedAt": "2026-08-02T05:38:50+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999538",
+      "title": "岡山理科大学 通信教育部 情報理工学部 完全オンラインで、いつでもどこでも本物の情報教育を―― - 大学ジャーナルオンライン",
+      "originalTitle": "岡山理科大学 通信教育部 情報理工学部　完全オンラインで、いつでもどこでも本物の情報教育を――",
+      "summary": "岡山理科大学は、社会人の「学び直し」のニーズに応えるため、2025年度に「通信教育部 情報理工学部」を開設した。完全オンラインで、いつでもどこでも学習できるこの学部は、実務に役立つ専門スキルを習得できる。学部長の劉渤江教授によると、ビジネスシーンで応用できる情報技術を授けるために、実務家を教員に招き、独自のカリキュラムを設計した。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999538",
+      "originalUrl": "https://univ-journal.jp/column/2026999538/",
+      "finalUrl": "https://univ-journal.jp/column/2026999538",
+      "publishedAt": "2026-08-01T07:00:42+09:00",
+      "collectedAt": "2026-08-02T05:38:56+09:00",
+      "scrapedAt": "2026-08-02T05:38:56+09:00",
+      "lastVerifiedAt": "2026-08-02T05:38:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "岡山理科大学",
+        "通信教育",
+        "情報理工学部"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d7f321e6412268e898c5f27f8cc8b552078e0383523fea324f5282f40924e62c",
+      "trendScore": 9.65,
+      "createdAt": "2026-08-02T05:38:56+09:00",
+      "updatedAt": "2026-08-02T05:38:56+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999940",
+      "title": "東京成徳短期大学 2028年度から募集停止し、大学「子ども学部」に新学科設置構想",
+      "originalTitle": "東京成徳短期大学　2028年度から募集停止し、大学「子ども学部」に新学科設置構想",
+      "summary": "東京成徳短期大学は、2028年度から学生募集を停止することを決定した。短期大学の学生募集停止は、18歳人口の減少や社会状況の変化により、入学定員の未充足が続いていることによる。東京成徳短期大学の教育の経験や成果は、併設の東京成徳大学子ども学部に設置構想中の新学科へ受け継がれる予定である。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999940",
+      "originalUrl": "https://univ-journal.jp/999940/",
+      "finalUrl": "https://univ-journal.jp/999940",
+      "publishedAt": "2026-07-31T17:00:03+09:00",
+      "collectedAt": "2026-08-02T05:39:02+09:00",
+      "scrapedAt": "2026-08-02T05:39:02+09:00",
+      "lastVerifiedAt": "2026-08-02T05:39:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "東京成徳短期大学",
+        "学生募集停止",
+        "子ども学部"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "34001d64c81142a373c225725d0141c99bd4c6ef3770c23b91c8d3bed26c1001",
+      "trendScore": 8.82,
+      "createdAt": "2026-08-02T05:39:02+09:00",
+      "updatedAt": "2026-08-02T05:39:02+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952560",
+      "title": "\"バズ狙い\"だけでは売れない…没ネタを恐れずヒットを生む｢サンコー流ものづくり｣の舞台裏",
+      "originalTitle": "\"バズ狙い\"だけでは売れない…没ネタを恐れずヒットを生む｢サンコー流ものづくり｣の舞台裏 | ビジネス | 東洋経済オンライン",
+      "summary": "サンコーはユニークな商品を生み出し続ける中小企業で、ヒット商品の裏側には失敗した商品が存在する。失敗を恐れず新たなチャレンジを重ね続けている。SNSで話題になったものの売れなかった商品やニッチなアイデアもあるが、その過程から見えてくるものづくりの本質を探ることができる。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952560",
+      "originalUrl": "https://toyokeizai.net/articles/-/952560?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952560",
+      "publishedAt": "2026-08-02T05:30:00+09:00",
+      "collectedAt": "2026-08-02T05:39:08+09:00",
+      "scrapedAt": "2026-08-02T05:39:08+09:00",
+      "lastVerifiedAt": "2026-08-02T05:39:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "サンコー",
+        "ものづくり",
+        "ヒット商品"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "81e869e1d61bd05c960e509019bb6556971310349ef1956c2d26960b330f6f55",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-02T05:39:08+09:00",
+      "updatedAt": "2026-08-02T05:39:08+09:00"
     }
   ],
   "sources": [
@@ -8643,8 +9183,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-01T05:48:51+09:00",
-      "lastSuccessAt": "2026-08-01T05:48:51+09:00",
+      "lastFetchedAt": "2026-08-02T05:37:41+09:00",
+      "lastSuccessAt": "2026-08-02T05:37:41+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8656,8 +9196,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-01T05:49:05+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:05+09:00",
+      "lastFetchedAt": "2026-08-02T05:37:54+09:00",
+      "lastSuccessAt": "2026-08-02T05:37:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8669,8 +9209,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-01T05:49:11+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:12+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:00+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8695,8 +9235,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-01T05:49:12+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:13+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:00+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8708,8 +9248,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-01T05:49:13+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:13+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:01+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8721,8 +9261,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-01T05:49:29+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:30+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:06+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8734,8 +9274,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-01T05:49:30+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:30+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:06+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8747,8 +9287,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-01T05:49:31+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:32+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:08+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8851,8 +9391,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-01T05:49:35+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:35+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:24+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8890,8 +9430,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-01T05:49:47+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:48+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:42+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8903,8 +9443,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-01T05:49:48+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:48+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:43+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8916,8 +9456,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-01T05:49:48+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:50+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:43+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8929,8 +9469,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-01T05:49:50+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:50+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:44+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8942,8 +9482,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-01T05:49:50+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:51+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:44+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8955,8 +9495,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-01T05:49:51+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:52+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:45+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -8981,8 +9521,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-01T05:49:52+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:52+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:45+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9046,8 +9586,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-01T05:49:54+09:00",
-      "lastSuccessAt": "2026-08-01T05:49:56+09:00",
+      "lastFetchedAt": "2026-08-02T05:38:48+09:00",
+      "lastSuccessAt": "2026-08-02T05:38:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9059,8 +9599,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-01T05:50:11+09:00",
-      "lastSuccessAt": "2026-08-01T05:50:12+09:00",
+      "lastFetchedAt": "2026-08-02T05:39:02+09:00",
+      "lastSuccessAt": "2026-08-02T05:39:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9221,6 +9761,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260802-0537",
+      "scheduledAt": "2026-08-02T05:37:41+09:00",
+      "startedAt": "2026-08-02T05:37:41+09:00",
+      "finishedAt": "2026-08-02T05:39:08+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 55,
+      "duplicatesRemoved": 4,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260801-0548",
       "scheduledAt": "2026-08-01T05:48:51+09:00",
@@ -9697,9 +10252,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-01T05:50:23+09:00",
-    "lastSuccessAt": "2026-08-01T05:50:23+09:00",
-    "nextScheduledAt": "2026-08-02T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-02T05:39:08+09:00",
+    "lastSuccessAt": "2026-08-02T05:39:08+09:00",
+    "nextScheduledAt": "2026-08-03T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
