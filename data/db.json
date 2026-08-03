@@ -8589,12 +8589,12 @@
         "設備投資"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "38f76f90736ff4972afa43ddf8d61772f08dc99c5f59d33ee94578c9a52dfd2f",
       "trendScore": 10.99,
       "createdAt": "2026-08-01T05:50:17+09:00",
-      "updatedAt": "2026-08-02T10:08:43+09:00"
+      "updatedAt": "2026-08-03T20:51:02.795Z"
     },
     {
       "id": "https://toyokeizai.net/articles/-/952956",
@@ -9711,6 +9711,546 @@
       "trendScore": 10.99,
       "createdAt": "2026-08-03T05:41:13+09:00",
       "updatedAt": "2026-08-03T05:41:13+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/9c1cf92460c96eae5a9e",
+      "title": "Excel の中の AI、6つそろって4586行 ── 全部で一週間だった話 - Qiita",
+      "originalTitle": "Excel の中の AI、6つそろって4586行 ── 全部で一週間だった話",
+      "summary": "ExcelでAIを活用するための6つのフォームを作成し、合計4586行のコードを実装した。フォームはそれぞれ1日程度で作成され、実働時間は8日程度であった。フォームの作成には、CLIを呼ぶ配管の共用、フォームの複製、文法の共通化などが行われた。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/9c1cf92460c96eae5a9e",
+      "originalUrl": "https://qiita.com/shu15511551/items/9c1cf92460c96eae5a9e",
+      "finalUrl": "https://qiita.com/shu15511551/items/9c1cf92460c96eae5a9e",
+      "publishedAt": "2026-08-04T05:26:32+09:00",
+      "collectedAt": "2026-08-04T05:49:33+09:00",
+      "scrapedAt": "2026-08-04T05:49:33+09:00",
+      "lastVerifiedAt": "2026-08-04T05:49:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Excel",
+        "AI",
+        "VBA"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "faa8b305ab43f00461f99e30d083d1b5ed9c18e06cc2d7bc5fa954d9daafc9ad",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-04T05:49:33+09:00",
+      "updatedAt": "2026-08-04T05:49:33+09:00"
+    },
+    {
+      "id": "https://qiita.com/singula/items/f48a211058d4716687ab",
+      "title": "AIに仕事を奪われる不安から始めるハーネス作成入門 第19回 機密情報をLLMに渡さないハーネス設計 - Qiita",
+      "originalTitle": "AIに仕事を奪われる不安から始めるハーネス作成入門 第19回  機密情報をLLMに渡さないハーネス設計",
+      "summary": "AIエージェントを業務で使うとき、機密情報の漏洩が最も気になるリスクのひとつです。プロンプトに顧客情報や社内パスワードを含めてしまうと、それが外部のAPIサーバーに送信される可能性があります。情報分類、アクセス制御、データマスキングなどのセキュリティ知識は、AIハーネス設計に活かせます。機密情報がLLMに渡る経路は主に4つあり、プロンプト直接入力、RAGコンテキスト、MCPツール応答、ログ記録があります。情報分類マトリクスを適用し、機密情報漏洩リスクの一覧を作成して、ハーネス",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/singula/items/f48a211058d4716687ab",
+      "originalUrl": "https://qiita.com/singula/items/f48a211058d4716687ab",
+      "finalUrl": "https://qiita.com/singula/items/f48a211058d4716687ab",
+      "publishedAt": "2026-08-04T04:36:15+09:00",
+      "collectedAt": "2026-08-04T05:49:39+09:00",
+      "scrapedAt": "2026-08-04T05:49:39+09:00",
+      "lastVerifiedAt": "2026-08-04T05:49:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AIハーネス設計",
+        "機密情報漏洩",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "98855e8dc98b6ba87ccf9271ad7a8507fd4b9dd9d72ce30b51e5f69887bcba2e",
+      "trendScore": 10.93,
+      "createdAt": "2026-08-04T05:49:39+09:00",
+      "updatedAt": "2026-08-04T05:49:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/mguozhen/items/d94ed053b485698fbbcc",
+      "title": "シリコンバレー 101 号線に、Flatkey の看板を出しました - Qiita",
+      "originalTitle": "シリコンバレー 101 号線に、Flatkey の看板を出しました",
+      "summary": "シリコンバレーの101号線に、AIスタートアップのFlatkeyの看板が出されました。看板はインプレッションのためではなく、顧客が実際にいる場所に存在感を示すために設置されたものです。Flatkeyは、300以上のAIモデルと1000以上のツールを1つのAPIキーで提供するサービスを提供しています。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/mguozhen/items/d94ed053b485698fbbcc",
+      "originalUrl": "https://qiita.com/mguozhen/items/d94ed053b485698fbbcc",
+      "finalUrl": "https://qiita.com/mguozhen/items/d94ed053b485698fbbcc",
+      "publishedAt": "2026-08-04T03:01:22+09:00",
+      "collectedAt": "2026-08-04T05:49:45+09:00",
+      "scrapedAt": "2026-08-04T05:49:45+09:00",
+      "lastVerifiedAt": "2026-08-04T05:49:45+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI",
+        "スタートアップ",
+        "シリコンバレー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "17de72bc56ae15b92ab77def2282364620682270f873d581df5b155783edaaf3",
+      "trendScore": 10.83,
+      "createdAt": "2026-08-04T05:49:45+09:00",
+      "updatedAt": "2026-08-04T05:49:45+09:00"
+    },
+    {
+      "id": "https://qiita.com/dsgarage/items/56d51dae7cc1e1523d40",
+      "title": "【受講レビュー】Max Summer School 中級編でFluCoMaの音色分類を学んだ｜ドラマーがAIに楽器を聞き分けさせるまで - Qiita",
+      "originalTitle": "【受講レビュー】Max Summer School 中級編でFluCoMaの音色分類を学んだ｜ドラマーがAIに楽器を聞き分けさせるまで",
+      "summary": "Max Summer School 中級編では、FluCoMaを用いた音色分類を学んだ。FluCoMaは音の分析と機械学習を、プログラミングの深い知識なしに音楽制作へ持ち込むためのツールキットである。講義では、トロンボーンとオーボエをAIに聞き分けさせるために、データ集め、学習、判別、保存を行った。講義の内容は、FluCoMaの機能、MFCCの使い方、音色分類の方法などであった。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/dsgarage/items/56d51dae7cc1e1523d40",
+      "originalUrl": "https://qiita.com/dsgarage/items/56d51dae7cc1e1523d40",
+      "finalUrl": "https://qiita.com/dsgarage/items/56d51dae7cc1e1523d40",
+      "publishedAt": "2026-08-03T21:16:40+09:00",
+      "collectedAt": "2026-08-04T05:49:51+09:00",
+      "scrapedAt": "2026-08-04T05:49:51+09:00",
+      "lastVerifiedAt": "2026-08-04T05:49:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "FluCoMa",
+        "音色分類",
+        "機械学習"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "feb45c9c3945e4e72166f4185803f36000994585c2de7c4aa698d63a1b8e1b2c",
+      "trendScore": 10.49,
+      "createdAt": "2026-08-04T05:49:51+09:00",
+      "updatedAt": "2026-08-04T05:49:51+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/procurement/proper-public-procurement",
+      "title": "公共調達の適正化に係る情報の公表｜デジタル庁",
+      "originalTitle": "公共調達の適正化に係る情報について令和8年6月分を更新しました",
+      "summary": "デジタル庁は、公共調達の適正化に係る情報を公表している。令和8年度の情報は、毎月更新されており、公共工事や物品役務等の契約事案が分類されている。公表される情報には、競争入札による契約や随意契約による契約が含まれる。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/procurement/proper-public-procurement",
+      "originalUrl": "https://www.digital.go.jp/procurement/proper-public-procurement",
+      "finalUrl": "https://www.digital.go.jp/procurement/proper-public-procurement",
+      "publishedAt": "2026-08-03T15:19:24+09:00",
+      "collectedAt": "2026-08-04T05:49:57+09:00",
+      "scrapedAt": "2026-08-04T05:49:57+09:00",
+      "lastVerifiedAt": "2026-08-04T05:49:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "公共調達",
+        "適正化",
+        "契約"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "531f1def659ec9577b47b44913ff6dd3b80667a1e1c81b2040837265b9b7106f",
+      "trendScore": 10.14,
+      "createdAt": "2026-08-04T05:49:57+09:00",
+      "updatedAt": "2026-08-04T05:49:57+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+      "title": "デジタル田園都市国家構想｜デジタル庁",
+      "originalTitle": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
+      "summary": "デジタル田園都市国家構想は、地方がそれぞれの特性に応じた発展を遂げることができるよう、日本経済成長の起爆剤としての大規模な地方創生策を講ずることを目的としています。デジタルの力で新たなサービスや共助のビジネスモデルを生み出しながら、デジタルの恩恵を地域の皆様に届けていくことを目指します。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+      "originalUrl": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+      "finalUrl": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+      "publishedAt": "2026-08-03T15:00:00+09:00",
+      "collectedAt": "2026-08-04T05:50:03+09:00",
+      "scrapedAt": "2026-08-04T05:50:03+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル田園都市国家構想",
+        "地方創生",
+        "デジタル化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "6908415f82dc01c8c28548716d4a42aac8b8e4cf49bb1431ece30de699fd987e",
+      "trendScore": 10.12,
+      "createdAt": "2026-08-04T05:50:03+09:00",
+      "updatedAt": "2026-08-04T05:50:03+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/toshi05_hh_000528.html",
+      "title": "国土交通省｜報道資料｜エリアリノベーションの方法や行政の役割について議論します！<br>～第２回「エリアリノベーション懇談会」を開催～",
+      "originalTitle": "�G���A���m�x�[�V�����̕��@��s���̖����ɂ��ċc�_���܂��I�`��Q��u�G���A���m�x�[�V�������k��v���J�Á`",
+      "summary": "国土交通省は、地域固有の魅力を活かしたまちづくりを推進するため、エリアリノベーションの在り方や方法について検討する「エリアリノベーション懇談会」を開催している。第2回懇談会は山形市で開催され、エクスカーションや前回の議論を踏まえ、エリアリノベーションの方法や行政の役割について議論・意見交換を行う。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/toshi05_hh_000528.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/toshi05_hh_000528.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/toshi05_hh_000528.html",
+      "publishedAt": "2026-08-03T05:00:00+09:00",
+      "collectedAt": "2026-08-04T05:50:09+09:00",
+      "scrapedAt": "2026-08-04T05:50:09+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:09+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "エリアリノベーション",
+        "まちづくり",
+        "国土交通省"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "69fda8798a14cfde23444ddb8794b59557cf0606ceb9c263bec25f7bc0bca821",
+      "trendScore": 9.52,
+      "createdAt": "2026-08-04T05:50:09+09:00",
+      "updatedAt": "2026-08-04T05:50:09+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/road01_hh_002124.html",
+      "title": "国土交通省｜報道資料｜道路愛護等に顕著な功績のあった団体・個人に対する大臣表彰<br>～国土交通大臣表彰の受賞者（８５団体、４個人）を決定～",
+      "originalTitle": "���H���쓙�Ɍ����Ȍ��т̂������c�́E�l�ɑ΂����b�\\���`���y��ʑ�b�\\���̎�܎ҁi�W�T�c�́A�S�l�j������`",
+      "summary": "国土交通省は、道路交通の安全や道路の正しい利用を促進する活動を行った団体や個人に感謝状を贈り、表彰することとしている。今年の表彰者は85団体と4個人で、8月1日から8月31日までの「道路ふれあい月間」の中で表彰式が行われる。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/road01_hh_002124.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/road01_hh_002124.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/road01_hh_002124.html",
+      "publishedAt": "2026-08-03T05:00:00+09:00",
+      "collectedAt": "2026-08-04T05:50:15+09:00",
+      "scrapedAt": "2026-08-04T05:50:15+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "道路愛護",
+        "国土交通省",
+        "大臣表彰"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "6c1dca23bcc92bef9b1923f8e4b018f1a907659077ddcca3e334f085d733b268",
+      "trendScore": 9.52,
+      "createdAt": "2026-08-04T05:50:15+09:00",
+      "updatedAt": "2026-08-04T05:50:15+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000006819.000003442.html",
+      "title": "令和8年熊本地震の被災地・被災者への支援について",
+      "originalTitle": "令和8年熊本地震の被災地・被災者への支援について",
+      "summary": "パナソニックグループは、令和8年熊本地震の被災地・被災者への支援活動および被災地の復興のために、総額3,000万円を寄付することを決定しました。寄付先は社会福祉法人中央共同募金会、特定非営利活動法人ジャパン・プラットフォーム、日本赤十字社です。また、関係先と連携しながら、飲料水、非常食、簡易トイレなどの支援物資の提供も進めています。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000006819.000003442.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000006819.000003442.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000006819.000003442.html",
+      "publishedAt": "2026-08-04T05:40:02+09:00",
+      "collectedAt": "2026-08-04T05:50:21+09:00",
+      "scrapedAt": "2026-08-04T05:50:21+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "熊本地震",
+        "パナソニック",
+        "支援活動"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "2c08541363271d85323911e005c68fffa68251c52dc413ff0f33f28ac0882864",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-04T05:50:21+09:00",
+      "updatedAt": "2026-08-04T05:50:21+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000136.000059360.html",
+      "title": "「フランチャイズ起業TV」チャンネル登録者10万人突破記念 アントレ、フランチャイズ本部・代理店本部向けに出演料・編集費無料の出演キャンペーンを開始",
+      "originalTitle": "「フランチャイズ起業TV」チャンネル登録者10万人突破記念　アントレ、フランチャイズ本部・代理店本部向けに出演料・編集費無料の出演キャンペーンを開始",
+      "summary": "株式会社アントレが運営するYouTubeチャンネル「フランチャイズ起業TV」の登録者数が10万人を突破したことを記念し、フランチャイズ本部・代理店本部向けに出演料・編集費無料の出演キャンペーンを開始した。出演料および動画編集費用はアントレが負担し、複数回の出演にも対応する。対象は2026年8月中に問い合わせ・商談をいただいた場合に限り、出演には別途「アントレ」への広告掲載のお申し込みが必要である。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000136.000059360.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000136.000059360.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000136.000059360.html",
+      "publishedAt": "2026-08-04T05:40:02+09:00",
+      "collectedAt": "2026-08-04T05:50:27+09:00",
+      "scrapedAt": "2026-08-04T05:50:27+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "フランチャイズ",
+        "アントレ",
+        "YouTube"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "166df1491426982fc4005671c8ef31b39de6e4f3dfbd89006fb4e460f8d28afd",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-04T05:50:27+09:00",
+      "updatedAt": "2026-08-04T05:50:27+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000202.000020107.html",
+      "title": "新渋谷系ガールズラップデュオ「NIC♡RY」、1stミニアルバム『NIC♡RY』を8月7日（金）にリリース決定",
+      "originalTitle": "新渋谷系ガールズラップデュオ「NIC(ハート)RY」、1stミニアルバム『NIC(ハート)RY』を8月7日（金）にリリース決定",
+      "summary": "ガールズラップデュオ「NIC♡RY」が1stミニアルバム『NIC♡RY』を8月7日にリリースする。デビューシングル「PEACE」と新曲3曲を収録。TGC KIDSフェスでライブデビューを果たし、紅白歌合戦出演と東京ドームでのライブを目標に掲げた。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000202.000020107.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000202.000020107.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000202.000020107.html",
+      "publishedAt": "2026-08-04T05:40:02+09:00",
+      "collectedAt": "2026-08-04T05:50:33+09:00",
+      "scrapedAt": "2026-08-04T05:50:33+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "NIC♡RY",
+        "ガールズラップデュオ",
+        "新渋谷系"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "6fbb366e399f1aa6743e3f77dfcd074c2c90171b6b023aabebadca5e3540c23a",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-04T05:50:33+09:00",
+      "updatedAt": "2026-08-04T05:50:33+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999914",
+      "title": "広島大学 2027年10月に「大学院海洋・海事系実践科学研究院（修士課程）」を新設 戦略17分野「海洋・造船」に関する人材育成が加速",
+      "originalTitle": "広島大学　2027年10月に「大学院海洋・海事系実践科学研究院（修士課程）」を新設　戦略17分野「海洋・造船」に関する人材育成が加速",
+      "summary": "広島大学は2027年10月に「大学院海洋・海事系実践科学研究院（修士課程）」を新設する。入学定員は15人で、教育はすべて英語で実施する。海洋政策・海洋ガバナンス、海洋利用技術、海洋環境・海洋資源の3領域の基礎的知識と高度な専門知識を身に付けた人材を育成する。呉キャンパスを整備し、呉市と連携して教育・研究を行う。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999914",
+      "originalUrl": "https://univ-journal.jp/999914/",
+      "finalUrl": "https://univ-journal.jp/999914",
+      "publishedAt": "2026-08-03T11:00:10+09:00",
+      "collectedAt": "2026-08-04T05:50:44+09:00",
+      "scrapedAt": "2026-08-04T05:50:44+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "広島大学",
+        "海洋・海事",
+        "大学院"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "253df5e405668c133a1fcde49fdc593ca32da7ce37901d9f89b8870251ac547e",
+      "trendScore": 9.88,
+      "createdAt": "2026-08-04T05:50:44+09:00",
+      "updatedAt": "2026-08-04T05:50:44+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026998661",
+      "title": "追手門学院大学 理工学部 理工系の中核を担う４学科設置と学科横断PBL導入の理由 - 大学ジャーナルオンライン",
+      "originalTitle": "追手門学院大学 理工学部　理工系の中核を担う４学科設置と学科横断PBL導入の理由",
+      "summary": "追手門学院大学理工学部は、数理・データサイエンス学科、機械工学科、電気電子工学科、情報工学科の4学科を擁し、専門教育を土台としながら学科横断型PBLを展開。専門性と協働力を兼ね備えた理工系人材の育成に取り組んでいる。理工系の学問は長い歴史の中で積み上げられてきた学問であり、まずは基礎をしっかり学び、自分の専門分野を持ってほしいと考えている。少人数教育を支えに、4学科横断PBLで協働力と主体性を育むことを目指している。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026998661",
+      "originalUrl": "https://univ-journal.jp/column/2026998661/",
+      "finalUrl": "https://univ-journal.jp/column/2026998661",
+      "publishedAt": "2026-08-03T07:00:04+09:00",
+      "collectedAt": "2026-08-04T05:50:51+09:00",
+      "scrapedAt": "2026-08-04T05:50:51+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "理工学部",
+        "PBL",
+        "専門性"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "8ad83c1bb99c73206debab570ce573719ebdcfc21e1683dd459d2fa19a9e64ac",
+      "trendScore": 9.64,
+      "createdAt": "2026-08-04T05:50:51+09:00",
+      "updatedAt": "2026-08-04T05:50:51+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999855",
+      "title": "妊娠に対するネガティブな気持ちは子どもの発達と関連するか？ エコチル調査で検証",
+      "originalTitle": "妊娠に対するネガティブな気持ちは子どもの発達と関連するか？　エコチル調査で検証",
+      "summary": "妊娠がわかったときの気持ちが子どもの発達と関連する可能性を、東京科学大学、青森県立保健大学、富山大学の研究グループが全国調査で明らかにした。妊娠がわかったときに「とてもうれしかった」以外の気持ちだった場合には、3歳時に保護者の自己報告による発達の遅れが疑われる割合が高いことがわかった。ソーシャルサポートは、妊娠判明時の気持ちと子どもの発達との関連を媒介し、周囲からの支えがその関連を弱める方向に働くことが示唆された。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999855",
+      "originalUrl": "https://univ-journal.jp/999855/",
+      "finalUrl": "https://univ-journal.jp/999855",
+      "publishedAt": "2026-08-02T17:00:01+09:00",
+      "collectedAt": "2026-08-04T05:50:56+09:00",
+      "scrapedAt": "2026-08-04T05:50:56+09:00",
+      "lastVerifiedAt": "2026-08-04T05:50:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "妊娠",
+        "子どもの発達",
+        "ソーシャルサポート"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "5ad23d1de308cd72fb4579203978d1d082f0fcec48648d330932d183b5fbd434",
+      "trendScore": 8.81,
+      "createdAt": "2026-08-04T05:50:56+09:00",
+      "updatedAt": "2026-08-04T05:50:56+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/953540?display=b",
+      "title": "〈独自〉ホルムズ海峡の｢影のタンカー船団｣が原油輸送を再開…停戦崩壊後のリスク上昇､乗組員に数倍の報酬",
+      "originalTitle": "〈独自〉ホルムズ海峡の｢影のタンカー船団｣が原油輸送を再開…停戦崩壊後のリスク上昇､乗組員に数倍の報酬 | ビジネス | 東洋経済オンライン",
+      "summary": "ホルムズ海峡の「影のタンカー船団」が原油輸送を再開した。アメリカとイランの一時停戦が崩壊したため、ホルムズ海峡を通過する商船の危険度が高まっている。タンカー2隻がイランのミサイル攻撃を受け、乗組員1名が死亡、8人が負傷した。ギリシャの海運会社と韓国のシノコーが運航する超大型原油タンカーがペルシャ湾とオマーン湾の間を往復している。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/953540?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/953540?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/953540?display=b",
+      "publishedAt": "2026-08-04T05:40:00+09:00",
+      "collectedAt": "2026-08-04T05:51:02+09:00",
+      "scrapedAt": "2026-08-04T05:51:02+09:00",
+      "lastVerifiedAt": "2026-08-04T05:51:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "ホルムズ海峡",
+        "原油輸送",
+        "イラン"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "dc8a9be48b3ec62fcacedaf8784782f0bfe111f8a010ba91c8c255cd44be9b02",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-04T05:51:02+09:00",
+      "updatedAt": "2026-08-04T05:51:02+09:00"
     }
   ],
   "sources": [
@@ -9723,8 +10263,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-03T05:39:40+09:00",
-      "lastSuccessAt": "2026-08-03T05:39:40+09:00",
+      "lastFetchedAt": "2026-08-04T05:49:31+09:00",
+      "lastSuccessAt": "2026-08-04T05:49:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9736,8 +10276,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-03T05:39:54+09:00",
-      "lastSuccessAt": "2026-08-03T05:39:54+09:00",
+      "lastFetchedAt": "2026-08-04T05:49:45+09:00",
+      "lastSuccessAt": "2026-08-04T05:49:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9749,8 +10289,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-03T05:39:59+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:00+09:00",
+      "lastFetchedAt": "2026-08-04T05:49:51+09:00",
+      "lastSuccessAt": "2026-08-04T05:49:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9775,8 +10315,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-03T05:40:00+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:00+09:00",
+      "lastFetchedAt": "2026-08-04T05:49:52+09:00",
+      "lastSuccessAt": "2026-08-04T05:49:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9788,8 +10328,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-03T05:40:00+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:00+09:00",
+      "lastFetchedAt": "2026-08-04T05:49:52+09:00",
+      "lastSuccessAt": "2026-08-04T05:49:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9801,8 +10341,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-03T05:40:00+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:01+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:03+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9814,8 +10354,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-03T05:40:01+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:02+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:04+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9827,8 +10367,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-03T05:40:03+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:04+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:06+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9931,8 +10471,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-03T05:40:13+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:14+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:15+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9970,8 +10510,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-03T05:40:24+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:25+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:33+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:34+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9983,8 +10523,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-03T05:40:25+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:25+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:34+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:34+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -9996,8 +10536,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-03T05:40:25+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:28+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:34+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10009,8 +10549,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-03T05:40:28+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:28+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:37+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10022,8 +10562,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-03T05:40:28+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:29+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:37+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10035,8 +10575,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-03T05:40:29+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:30+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:38+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10061,8 +10601,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-03T05:40:30+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:30+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:39+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10126,8 +10666,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-03T05:40:32+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:34+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:41+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10139,8 +10679,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-03T05:40:49+09:00",
-      "lastSuccessAt": "2026-08-03T05:40:49+09:00",
+      "lastFetchedAt": "2026-08-04T05:50:56+09:00",
+      "lastSuccessAt": "2026-08-04T05:50:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10301,6 +10841,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260804-0549",
+      "scheduledAt": "2026-08-04T05:49:31+09:00",
+      "startedAt": "2026-08-04T05:49:31+09:00",
+      "finishedAt": "2026-08-04T05:51:02+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 54,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260803-0539",
       "scheduledAt": "2026-08-03T05:39:40+09:00",
@@ -10807,9 +11362,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-03T05:41:13+09:00",
-    "lastSuccessAt": "2026-08-03T05:41:13+09:00",
-    "nextScheduledAt": "2026-08-04T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-04T05:51:02+09:00",
+    "lastSuccessAt": "2026-08-04T05:51:02+09:00",
+    "nextScheduledAt": "2026-08-05T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
