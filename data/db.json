@@ -9669,12 +9669,12 @@
         "マンション"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "21dfa9336aaf158c96b47216daeb6e25f7a5b43f9a8aa4640ae76eb95be1aa34",
       "trendScore": 10.98,
       "createdAt": "2026-08-03T05:41:07+09:00",
-      "updatedAt": "2026-08-04T10:01:44+09:00"
+      "updatedAt": "2026-08-05T20:53:11.966Z"
     },
     {
       "id": "https://diamond.jp/articles/-/396120",
@@ -10791,6 +10791,546 @@
       "trendScore": 8.8,
       "createdAt": "2026-08-05T06:00:10+09:00",
       "updatedAt": "2026-08-05T06:00:10+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/63ecf21878d3182c5337",
+      "title": "MCPがステートレス化、AIエージェント基盤の水平スケーリング対応が可能に - Qiita",
+      "originalTitle": "MCPがステートレス化、AIエージェント基盤の水平スケーリング対応が可能に",
+      "summary": "Model Context Protocol (MCP) の新仕様が公開され、MCP のコアが完全にステートレス化された。水平スケーリング・サーバーレスデプロイ・標準的なラウンドロビン負荷分散が可能になり、AI エージェント基盤を本番運用する上での大きな障壁が取り除かれた。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/63ecf21878d3182c5337",
+      "originalUrl": "https://qiita.com/picnic/items/63ecf21878d3182c5337",
+      "finalUrl": "https://qiita.com/picnic/items/63ecf21878d3182c5337",
+      "publishedAt": "2026-08-06T04:46:11+09:00",
+      "collectedAt": "2026-08-06T05:51:40+09:00",
+      "scrapedAt": "2026-08-06T05:51:40+09:00",
+      "lastVerifiedAt": "2026-08-06T05:51:40+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "MCP",
+        "ステートレス化",
+        "水平スケーリング"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a3e0f9fa017645648dba942faa9791fd69dc80d296a7f9a35ee0809807c4b9d1",
+      "trendScore": 10.94,
+      "createdAt": "2026-08-06T05:51:40+09:00",
+      "updatedAt": "2026-08-06T05:51:40+09:00"
+    },
+    {
+      "id": "https://qiita.com/chuandujiusi/items/52b8c0da57ff2fcdcf9b",
+      "title": "【初心者向け】ITとアイデアで地方が変わる？日本全国に見る「IT町おこし」の面白い現在地 - Qiita",
+      "originalTitle": "【初心者向け】ITとアイデアで地方が変わる？日本全国に見る「IT町おこし」の面白い現在地",
+      "summary": "日本全国の地方自治体がITやアイデアを活用して地域おこしを進めています。徳島県神山町は光ファイバー網を整備し、都市部のIT企業やフリーランスがサテライトオフィスを構える動きを見せています。福岡県福岡市はスタートアップと行政が一体化し、新しいビジネスやテクノロジーの実証実験を積極的に受け入れています。北海道東川町は写真やデザイン、ITの融合を図り、クリエイティブな環境を提供しています。島根県海士町はデジタルの島前を目指し、教育改革やデジタルツールの導入を進めています。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/chuandujiusi/items/52b8c0da57ff2fcdcf9b",
+      "originalUrl": "https://qiita.com/chuandujiusi/items/52b8c0da57ff2fcdcf9b",
+      "finalUrl": "https://qiita.com/chuandujiusi/items/52b8c0da57ff2fcdcf9b",
+      "publishedAt": "2026-08-06T03:02:55+09:00",
+      "collectedAt": "2026-08-06T05:51:47+09:00",
+      "scrapedAt": "2026-08-06T05:51:47+09:00",
+      "lastVerifiedAt": "2026-08-06T05:51:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "IT町おこし",
+        "地方創生",
+        "デジタル化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "cf3a5ab67ae80d4dce031e2313f739f53ac960b8cd2a666d71ce744772e47702",
+      "trendScore": 10.83,
+      "createdAt": "2026-08-06T05:51:47+09:00",
+      "updatedAt": "2026-08-06T05:51:47+09:00"
+    },
+    {
+      "id": "https://qiita.com/tomada/items/bbf70e775607769b59ff",
+      "title": "敵対レビューは指摘を増やさない。バグ7個を仕込んだPRで3条件を比較した - Qiita",
+      "originalTitle": "敵対レビューは指摘を増やさない。バグ7個を仕込んだPRで3条件を比較した",
+      "summary": "敵対レビューは指摘を増やさないことがわかった。バグ7個を仕込んだPRで3条件を比較した。条件は通常のコードレビュー、素の別LLMレビュー、敵対フレーミングの3つだった。結果は、一番厳しくした条件が、一番見逃したというものだった。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/tomada/items/bbf70e775607769b59ff",
+      "originalUrl": "https://qiita.com/tomada/items/bbf70e775607769b59ff",
+      "finalUrl": "https://qiita.com/tomada/items/bbf70e775607769b59ff",
+      "publishedAt": "2026-08-06T02:11:54+09:00",
+      "collectedAt": "2026-08-06T05:51:53+09:00",
+      "scrapedAt": "2026-08-06T05:51:53+09:00",
+      "lastVerifiedAt": "2026-08-06T05:51:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "コードレビュー",
+        "敵対レビュー",
+        "ClaudeCode"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "dc0cac4d352d680d2c31e38df7df7aa4de5818dcb666fdcc6d49240975f3e5da",
+      "trendScore": 10.78,
+      "createdAt": "2026-08-06T05:51:53+09:00",
+      "updatedAt": "2026-08-06T05:51:53+09:00"
+    },
+    {
+      "id": "https://qiita.com/mashikokoutaro1019/items/6e41c335863287764ed2",
+      "title": "人工知能概論【第十七講】 - Qiita",
+      "originalTitle": "人工知能概論【第十七講】",
+      "summary": "機械学習における分類とは、入力データをあらかじめ定義したクラスに振り分けるタスクです。分類手法はアルゴリズムの仕組みによっていくつかの系統に分かれます。決定木系、SVM、ロジスティック回帰などが代表的な手法です。各手法の仕組み、得意・不得意、ハイパーパラメータ、モデル選定の進め方を理解することが重要です。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/mashikokoutaro1019/items/6e41c335863287764ed2",
+      "originalUrl": "https://qiita.com/mashikokoutaro1019/items/6e41c335863287764ed2",
+      "finalUrl": "https://qiita.com/mashikokoutaro1019/items/6e41c335863287764ed2",
+      "publishedAt": "2026-08-05T22:52:32+09:00",
+      "collectedAt": "2026-08-06T05:51:58+09:00",
+      "scrapedAt": "2026-08-06T05:51:58+09:00",
+      "lastVerifiedAt": "2026-08-06T05:51:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "機械学習",
+        "分類",
+        "決定木"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "453c0c8e177c6558caeb45af95ef40e3203f92fd766b3d7d84d52be467e4b821",
+      "trendScore": 10.58,
+      "createdAt": "2026-08-06T05:51:58+09:00",
+      "updatedAt": "2026-08-06T05:51:58+09:00"
+    },
+    {
+      "id": "https://qiita.com/bob3bob3/items/5df1f73e9afcc9ae5c0f",
+      "title": "olympicAthletesデータセットの紹介 - Qiita",
+      "originalTitle": "olympicAthletesデータセットの紹介",
+      "summary": "olympicAthletesデータセットは、1896年のアテネ大会から2026年のミラノ・コルティナ大会までの近代オリンピックにおける参加選手と参加競技、メダル獲得状況、各大会のメタデータなどを含む。主要な3つのデータフレームがあり、選手ごとのデータ、国ごとのメダル獲得数一覧、大会ごとのメタデータが含まれる。データセットはCRANに登録されており、Rで簡単にインストールして利用できる。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/bob3bob3/items/5df1f73e9afcc9ae5c0f",
+      "originalUrl": "https://qiita.com/bob3bob3/items/5df1f73e9afcc9ae5c0f",
+      "finalUrl": "https://qiita.com/bob3bob3/items/5df1f73e9afcc9ae5c0f",
+      "publishedAt": "2026-08-05T22:30:45+09:00",
+      "collectedAt": "2026-08-06T05:52:05+09:00",
+      "scrapedAt": "2026-08-06T05:52:05+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "olympicAthletes",
+        "データセット",
+        "R"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "52686013ce056a5eefd938a63e71b74d8c63c3ec7166c6f220fe3488a9ef4be1",
+      "trendScore": 10.56,
+      "createdAt": "2026-08-06T05:52:05+09:00",
+      "updatedAt": "2026-08-06T05:52:05+09:00"
+    },
+    {
+      "id": "https://qiita.com/hyousube/items/ab85b1f03296b97b43a9",
+      "title": "最新自然言語処理用語解説 - Qiita",
+      "originalTitle": "最新自然言語処理用語解説",
+      "summary": "機械学習を使った最新の自然言語処理に関する用語を解説する。事前学習済みモデル、ファインチューニング、Trainer APIなどの概念について説明している。事前学習済みモデルは、膨大な文章を読んで日本語の文法や基礎知識を身につけたモデルであり、BERTが代表的なモデルの一つである。ファインチューニングは、事前学習済みモデルに少量のデータを使って社内ルールを教える作業であり、ゼロから育てるよりも効率的である。Trainer APIは、Hugging Faceが用意している自動学習",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/hyousube/items/ab85b1f03296b97b43a9",
+      "originalUrl": "https://qiita.com/hyousube/items/ab85b1f03296b97b43a9",
+      "finalUrl": "https://qiita.com/hyousube/items/ab85b1f03296b97b43a9",
+      "publishedAt": "2026-08-05T14:13:33+09:00",
+      "collectedAt": "2026-08-06T05:52:11+09:00",
+      "scrapedAt": "2026-08-06T05:52:11+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "自然言語処理",
+        "機械学習",
+        "BERT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "c7e296d8d29dbc23fafed190b2395080adbd1a335621777558655f52f8e6f746",
+      "trendScore": 10.07,
+      "createdAt": "2026-08-06T05:52:11+09:00",
+      "updatedAt": "2026-08-06T05:52:11+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733",
+      "title": "シンガポール共和国とデジタル分野における協力覚書を取り交わしました｜デジタル庁",
+      "originalTitle": "シンガポール共和国とデジタル分野における協力覚書を取り交わしました",
+      "summary": "日本のデジタル庁とシンガポール政府技術庁は、デジタル分野における協力覚書を取り交わしました。覚書では、デジタル政府戦略やデータ戦略、サイバーセキュリティ、AIの導入などについての協力を強化することになっています。協力期間は3年間で、双方の書面による合意がある場合に3年の延長ができることになっています。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733",
+      "originalUrl": "https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733",
+      "finalUrl": "https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733",
+      "publishedAt": "2026-08-05T15:58:44+09:00",
+      "collectedAt": "2026-08-06T05:52:16+09:00",
+      "scrapedAt": "2026-08-06T05:52:16+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:16+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "シンガポール",
+        "協力覚書"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "1118d372554ab41de4aa9195b7f0616a5a8f5f1076f932f83edd3e18c7d9e35c",
+      "trendScore": 10.17,
+      "createdAt": "2026-08-06T05:52:16+09:00",
+      "updatedAt": "2026-08-06T05:52:16+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/digital_garden_city_nation/well-being",
+      "title": "地域幸福度（Well-Being）｜デジタル庁",
+      "originalTitle": "地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました",
+      "summary": "デジタル庁は、地域の街づくりにおいて「地域幸福度（Well-Being）」指標を共通指標として活用することを目的としています。この指標を使用することで、市民や事業者などが協力して街づくりの目標に向かって取り組むことが可能になります。デジタル庁は、地域幸福度指標の活用促進に関する検討会やオンラインセミナー、ワークショップなどを実施しています。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/well-being",
+      "originalUrl": "https://www.digital.go.jp/policies/digital_garden_city_nation/well-being",
+      "finalUrl": "https://www.digital.go.jp/policies/digital_garden_city_nation/well-being",
+      "publishedAt": "2026-08-05T15:00:00+09:00",
+      "collectedAt": "2026-08-06T05:52:23+09:00",
+      "scrapedAt": "2026-08-06T05:52:23+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:23+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "地域幸福度",
+        "Well-Being",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "dce6e41765899de7aa94541690399983922ab87229dc382163546ae507f70a5f",
+      "trendScore": 10.11,
+      "createdAt": "2026-08-06T05:52:23+09:00",
+      "updatedAt": "2026-08-06T05:52:23+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo03_hh_000001_00138.html",
+      "title": "国土交通省｜報道資料｜バングラデシュでのインフラPPP候補プロジェクト 新たに２件を選定！<br>～第８回日バングラデシュ・ジョイントPPPプラットフォーム会合を開催～",
+      "originalTitle": "�o���O���f�V���ł̃C���t��PPP���v���W�F�N�g�@�V���ɂQ����I��I�`��W����o���O���f�V���E�W���C���gPPP�v���b�g�t�H�[������J�Á`",
+      "summary": "国土交通省は、バングラデシュPPP庁と第８回日バングラデシュ・ジョイントPPPプラットフォーム会合を開催し、バングラデシュでのインフラPPP候補プロジェクトを２件選定した。選定されたプロジェクトは、シャリアプール＝チャンドプール道路上の橋梁の建設とバリサル＝ボーラ道路上のボーラ橋の建設である。日本企業によるPPP事業化に向けて検討を進める案件として選定され、選定に係る協議に参加した日本企業が競争入札を経ずに優先交渉権を得ることが可能となる。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo03_hh_000001_00138.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo03_hh_000001_00138.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo03_hh_000001_00138.html",
+      "publishedAt": "2026-08-05T05:00:00+09:00",
+      "collectedAt": "2026-08-06T05:52:29+09:00",
+      "scrapedAt": "2026-08-06T05:52:29+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "バングラデシュ",
+        "インフラ",
+        "PPP"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "07b4afd0d62ded702e7bb4dad662180d6144773243665429a1a9acfd9b45d77a",
+      "trendScore": 9.52,
+      "createdAt": "2026-08-06T05:52:29+09:00",
+      "updatedAt": "2026-08-06T05:52:29+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo03_hh_001357.html",
+      "title": "国土交通省｜報道資料｜気候変動を考慮して天塩川水系、久慈川水系及び那珂川水系の長期計画を変更しました<br>～流域治水の観点も踏まえた河川整備基本方針の見直し～",
+      "originalTitle": "�C��ϓ����l�����ēV���쐅�n�A�v���쐅�n�y�ѓ߉ϐ쐅�n�̒����v���ύX���܂����`���採���̊ϓ_�����܂����͐쐮����{���j�̌������`",
+      "summary": "国土交通省は、気候変動の影響を考慮して天塩川水系、久慈川水系及び那珂川水系の長期計画を変更した。将来の降雨量の増大を考慮し、流域治水の観点も踏まえた河川整備基本方針の見直しを行った。洪水の規模を変更し、河川で対応する流量や洪水を貯留する施設での対応を検討した。また、森林の整備・保全や霞堤の保全による遊水機能の確保などを推進する方向性を提示した。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo03_hh_001357.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo03_hh_001357.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo03_hh_001357.html",
+      "publishedAt": "2026-08-05T05:00:00+09:00",
+      "collectedAt": "2026-08-06T05:52:35+09:00",
+      "scrapedAt": "2026-08-06T05:52:35+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:35+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "気候変動",
+        "河川整備",
+        "流域治水"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "7b012480c0f2d36a5e030ff3dcfab437f70ede301c93c1092e60810fc05c76ad",
+      "trendScore": 9.52,
+      "createdAt": "2026-08-06T05:52:35+09:00",
+      "updatedAt": "2026-08-06T05:52:35+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000052.000124658.html",
+      "title": "被災地支援へのご協力に感謝 「令和8年熊本地震 緊急支援プロジェクト」参加者数が延べ5万人を突破",
+      "originalTitle": "被災地支援へのご協力に感謝 「令和8年熊本地震 緊急支援プロジェクト」参加者数が延べ5万人を突破",
+      "summary": "西部ガスホールディングス株式会社は、熊本地震の被災地支援として「令和8年熊本地震 緊急支援プロジェクト」を実施しており、参加者数が延べ5万人を突破した。参加者は無料会員サービス「SAIBU LAND」内の「デイリーチャレンジ」に参加し、10マイルを進呈され、その同額が被災地支援のために熊本県へ寄付される。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000052.000124658.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000052.000124658.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000052.000124658.html",
+      "publishedAt": "2026-08-06T05:40:02+09:00",
+      "collectedAt": "2026-08-06T05:52:40+09:00",
+      "scrapedAt": "2026-08-06T05:52:40+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:40+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "熊本地震",
+        "被災地支援",
+        "西部ガス"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "2f0f99cf9f7f9a0d575fe31eeeff1ba7997d314b38812255ad3e9d55a9dc873f",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-06T05:52:40+09:00",
+      "updatedAt": "2026-08-06T05:52:40+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000001278.000072639.html",
+      "title": "「まるでAI…」わずか3日で2560万インプ超え！ ネットを沸かせた、“ちゃんえな” こと【令和の爆美女モデル・中野恵那】写真集発売決定！〈令和のマシュマロボディを披露♡〉",
+      "originalTitle": "「まるでAI…」わずか3日で2560万インプ超え！ ネットを沸かせた、“ちゃんえな” こと【令和の爆美女モデル・中野恵那】写真集発売決定！〈令和のマシュマロボディを披露(ハート)〉",
+      "summary": "中野恵那さんの写真集が2026年10月2日に発売される。中野恵那さんは「令和の爆美女」と呼ばれ、Xに投稿したアパレルブランドのモデル写真が話題になり、投稿から3日で2560万インプを超えた。写真集には「令和のマシュマロボディ」を披露する様々な姿が収められている。東京・大阪で写真集お渡しイベントも開催される。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000001278.000072639.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000001278.000072639.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000001278.000072639.html",
+      "publishedAt": "2026-08-06T05:40:02+09:00",
+      "collectedAt": "2026-08-06T05:52:47+09:00",
+      "scrapedAt": "2026-08-06T05:52:47+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "中野恵那",
+        "写真集",
+        "モデル"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "71520c1ae6317bca59529aa8a60b7a59e5fe4e2efeaec627863fc12227a1d730",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-06T05:52:47+09:00",
+      "updatedAt": "2026-08-06T05:52:47+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000014.000159422.html",
+      "title": "メディカルブロー、国際アートメイク大会「WULOP JAPAN 2026」で個人・団体ともにグランプリを獲得",
+      "originalTitle": "メディカルブロー、国際アートメイク大会「WULOP JAPAN 2026」で個人・団体ともにグランプリを獲得",
+      "summary": "メディカルブローは、国際アートメイク大会「WULOP JAPAN 2026」で個人・団体ともにグランプリを獲得した。個人戦では西山優里奈が「LATEX部門 シャドウライナー」でグランプリを獲得し、団体戦では山﨑哲之が率いる日本代表チームが「WBT（WULOP Best Trainer）」部門でグランプリを受賞した。この結果、メディカルブロー所属アーティスト5名と山﨑哲之が日本代表として「WULOP WORLD FINAL 2026」への出場権を獲得した。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000159422.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000014.000159422.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000014.000159422.html",
+      "publishedAt": "2026-08-06T05:40:02+09:00",
+      "collectedAt": "2026-08-06T05:52:53+09:00",
+      "scrapedAt": "2026-08-06T05:52:53+09:00",
+      "lastVerifiedAt": "2026-08-06T05:52:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "メディカルブロー",
+        "アートメイク",
+        "WULOP JAPAN 2026"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "380fb7617f3433032ef3fe39c939347a9338380166972d191758e5c80c3d1063",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-06T05:52:53+09:00",
+      "updatedAt": "2026-08-06T05:52:53+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999852",
+      "title": "汚染現場に生息する細菌が「PFAS」の環境浄化に利用できる可能性 神戸大学",
+      "originalTitle": "汚染現場に生息する細菌が「PFAS」の環境浄化に利用できる可能性　神戸大学",
+      "summary": "神戸大学の研究グループは、PFASで汚染された河川から採取した細菌が、PFASを除去する能力を持つことを明らかにした。研究では、7種類の細菌を単離し、PFAS除去能力を評価したところ、代表的なPFASであるPFOSを最大17.8％、PFOAを最大14.1％低減できることが確認された。実際の産業廃棄物最終処分場から採取した浸出水でも、複数のPFAS濃度を低減できることが確認され、実環境でのPFAS除去への応用可能性が示された。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999852",
+      "originalUrl": "https://univ-journal.jp/999852/",
+      "finalUrl": "https://univ-journal.jp/999852",
+      "publishedAt": "2026-08-04T17:00:47+09:00",
+      "collectedAt": "2026-08-06T05:53:06+09:00",
+      "scrapedAt": "2026-08-06T05:53:06+09:00",
+      "lastVerifiedAt": "2026-08-06T05:53:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "PFAS",
+        "バイオレメディエーション",
+        "環境浄化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d0bd50431aaefc959262192fc617ceb59a19f0e8a56da64bdfc041c499732000",
+      "trendScore": 8.81,
+      "createdAt": "2026-08-06T05:53:06+09:00",
+      "updatedAt": "2026-08-06T05:53:06+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/953830?display=b",
+      "title": "初の四半期決算で見えた｢スペースXの実力｣…株価はなぜIPO後高値の半値近くまで下落したのか",
+      "originalTitle": "初の四半期決算で見えた｢スペースXの実力｣…株価はなぜIPO後高値の半値近くまで下落したのか | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "米スペースXの上場後初の四半期決算が発表された。売上高は前年同期比でほぼ倍増し、赤字は大きく縮小した。市場予想を上回る内容だったが、株価は下落し、高値の半値近くまで沈んでいる。スペースXの実力が見えたが、株価の下落の理由は不明である。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/953830?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/953830?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/953830?display=b",
+      "publishedAt": "2026-08-06T05:40:00+09:00",
+      "collectedAt": "2026-08-06T05:53:11+09:00",
+      "scrapedAt": "2026-08-06T05:53:11+09:00",
+      "lastVerifiedAt": "2026-08-06T05:53:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "スペースX",
+        "四半期決算",
+        "株価"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "3013e2fce364b61f473401950994b3ff034dbfda6341ca1897f7235c5d84f436",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-06T05:53:11+09:00",
+      "updatedAt": "2026-08-06T05:53:11+09:00"
     }
   ],
   "sources": [
@@ -10803,8 +11343,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-05T05:58:41+09:00",
-      "lastSuccessAt": "2026-08-05T05:58:42+09:00",
+      "lastFetchedAt": "2026-08-06T05:51:39+09:00",
+      "lastSuccessAt": "2026-08-06T05:51:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10816,8 +11356,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-05T05:58:55+09:00",
-      "lastSuccessAt": "2026-08-05T05:58:56+09:00",
+      "lastFetchedAt": "2026-08-06T05:51:53+09:00",
+      "lastSuccessAt": "2026-08-06T05:51:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10829,8 +11369,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-05T05:59:01+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:02+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:11+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10855,8 +11395,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-05T05:59:02+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:02+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:11+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10868,8 +11408,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-05T05:59:02+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:02+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:12+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10881,8 +11421,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-05T05:59:13+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:14+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:23+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10894,8 +11434,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-05T05:59:14+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:15+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:23+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -10907,8 +11447,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-05T05:59:16+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:16+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:26+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11011,8 +11551,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-05T05:59:25+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:26+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:35+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11050,8 +11590,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-05T05:59:43+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:44+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:53+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11063,8 +11603,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-05T05:59:44+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:44+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:54+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11076,8 +11616,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-05T05:59:44+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:46+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:54+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11089,8 +11629,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-05T05:59:46+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:47+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:55+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11102,8 +11642,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-05T05:59:47+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:47+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:56+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11115,8 +11655,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-05T05:59:47+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:49+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:56+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11141,8 +11681,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-05T05:59:49+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:49+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:57+09:00",
+      "lastSuccessAt": "2026-08-06T05:52:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11206,8 +11746,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-05T05:59:51+09:00",
-      "lastSuccessAt": "2026-08-05T05:59:53+09:00",
+      "lastFetchedAt": "2026-08-06T05:52:59+09:00",
+      "lastSuccessAt": "2026-08-06T05:53:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11219,8 +11759,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-04T05:50:56+09:00",
-      "lastSuccessAt": "2026-08-04T05:50:57+09:00",
+      "lastFetchedAt": "2026-08-06T05:53:06+09:00",
+      "lastSuccessAt": "2026-08-06T05:53:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11381,6 +11921,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260806-0551",
+      "scheduledAt": "2026-08-06T05:51:39+09:00",
+      "startedAt": "2026-08-06T05:51:39+09:00",
+      "finishedAt": "2026-08-06T05:53:11+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 57,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260805-0558",
       "scheduledAt": "2026-08-05T05:58:41+09:00",
@@ -11917,9 +12472,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-05T06:00:10+09:00",
-    "lastSuccessAt": "2026-08-05T06:00:10+09:00",
-    "nextScheduledAt": "2026-08-06T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-06T05:53:11+09:00",
+    "lastSuccessAt": "2026-08-06T05:53:11+09:00",
+    "nextScheduledAt": "2026-08-07T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
