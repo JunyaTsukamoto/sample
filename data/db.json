@@ -10245,12 +10245,12 @@
         "イラン"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "dc8a9be48b3ec62fcacedaf8784782f0bfe111f8a010ba91c8c255cd44be9b02",
       "trendScore": 10.99,
       "createdAt": "2026-08-04T05:51:02+09:00",
-      "updatedAt": "2026-08-05T09:56:48+09:00"
+      "updatedAt": "2026-08-07T00:51:11.082Z"
     },
     {
       "id": "https://qiita.com/shu15511551/items/ded3cb505370c4976437",
@@ -11331,6 +11331,546 @@
       "trendScore": 10.99,
       "createdAt": "2026-08-06T05:53:11+09:00",
       "updatedAt": "2026-08-06T05:53:11+09:00"
+    },
+    {
+      "id": "https://qiita.com/uni928/items/a23a914f9375686eaed8",
+      "title": "ChatGPTに長いコードを渡す前に圧縮する「TokenTrim」を作りました - Qiita",
+      "originalTitle": "ChatGPTに長いコードを渡す前に圧縮する「TokenTrim」を作りました",
+      "summary": "ChatGPTに長いコードを渡す前に圧縮するツール「TokenTrim」を作成しました。TokenTrimは、コードの不要な空白やコメントを削除して、ChatGPTへ渡しやすい形に整理します。主な機能として、行頭・行末の空白の削除、不要な空行や連続スペースの整理、JSONの1行化、HTML/CSSのコメントの削除などを行います。コードを圧縮してそのまま実行することを目的としていませんが、ChatGPTへコード解析を依頼するときの前処理として使用することを想定しています。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/uni928/items/a23a914f9375686eaed8",
+      "originalUrl": "https://qiita.com/uni928/items/a23a914f9375686eaed8",
+      "finalUrl": "https://qiita.com/uni928/items/a23a914f9375686eaed8",
+      "publishedAt": "2026-08-07T09:49:28+09:00",
+      "collectedAt": "2026-08-07T09:49:41+09:00",
+      "scrapedAt": "2026-08-07T09:49:41+09:00",
+      "lastVerifiedAt": "2026-08-07T09:49:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "TokenTrim",
+        "コード圧縮"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "13fcf1411f92700ac2be18b4e24aa6a1a0ec8d73da815c7bd69917923630b2fe",
+      "trendScore": 11,
+      "createdAt": "2026-08-07T09:49:41+09:00",
+      "updatedAt": "2026-08-07T09:49:41+09:00"
+    },
+    {
+      "id": "https://qiita.com/tamakiiii/items/fb17df6eaa99cb12b781",
+      "title": "Orcaに追加されたプラグイン機能とマーケットプレイスを調べてみた - Qiita",
+      "originalTitle": "Orcaに追加されたプラグイン機能とマーケットプレイスを調べてみた",
+      "summary": "Orcaに追加されたプラグイン機能とマーケットプレイスについて調べてみた。プラグイン機能は試験的な機能で、マーケットプレイスはプラグインの取得先をまとめた一覧である。マーケットプレイスの実体はGitリポジトリで、中身は各プラグインの取得先をまとめた一覧である。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/tamakiiii/items/fb17df6eaa99cb12b781",
+      "originalUrl": "https://qiita.com/tamakiiii/items/fb17df6eaa99cb12b781",
+      "finalUrl": "https://qiita.com/tamakiiii/items/fb17df6eaa99cb12b781",
+      "publishedAt": "2026-08-07T09:45:46+09:00",
+      "collectedAt": "2026-08-07T09:49:47+09:00",
+      "scrapedAt": "2026-08-07T09:49:47+09:00",
+      "lastVerifiedAt": "2026-08-07T09:49:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Orca",
+        "プラグイン",
+        "マーケットプレイス"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "1226f5ea7d085eea7da5d2d9733c848ccc4c86b6db2892f6b2fcf88fab72cb37",
+      "trendScore": 11,
+      "createdAt": "2026-08-07T09:49:47+09:00",
+      "updatedAt": "2026-08-07T09:49:47+09:00"
+    },
+    {
+      "id": "https://qiita.com/fabryluka142/items/13e73874550ca2487d4b",
+      "title": "When a 15-Second Limit Makes Better Review Videos: A Design Tradeoff in AI-Driven Clip Generation - Qiita",
+      "originalTitle": "When a 15-Second Limit Makes Better Review Videos: A Design Tradeoff in AI-Driven Clip Generation",
+      "summary": "デザインレビューで短いクリップが有効であることが分かった。エンジニアリングチームは、UIの変更を伝えるためにスクリーンレコーディングやアニメーションを使用するが、3分間のウォークスルーを録画し、関係者全員が見ることを期待すると、重要な詳細が失われ、コメントが散漫になる。15秒の制限を設けることで、クリエイターは最も重要な視覚情報を選択することができる。ただし、AIビデオ生成ツールは、長い出力がデフォルトであり、短いクリップを生成することが難しい。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/fabryluka142/items/13e73874550ca2487d4b",
+      "originalUrl": "https://qiita.com/fabryluka142/items/13e73874550ca2487d4b",
+      "finalUrl": "https://qiita.com/fabryluka142/items/13e73874550ca2487d4b",
+      "publishedAt": "2026-08-07T09:36:48+09:00",
+      "collectedAt": "2026-08-07T09:49:53+09:00",
+      "scrapedAt": "2026-08-07T09:49:53+09:00",
+      "lastVerifiedAt": "2026-08-07T09:49:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI",
+        "デザインレビュー",
+        "ビデオ生成"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "d5a804e6559d47cd57a49987e14c8015b9cc86393f05dd792739fac7beb35e95",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-07T09:49:53+09:00",
+      "updatedAt": "2026-08-07T09:49:53+09:00"
+    },
+    {
+      "id": "https://qiita.com/ryanfarrar1/items/ed21d02428955839dd8c",
+      "title": "決定論的に分かることはモデルに推測させない — 語彙注入を守る翻訳モデルを作ってみた - Qiita",
+      "originalTitle": "決定論的に分かることはモデルに推測させない — 語彙注入を守る翻訳モデルを作ってみた",
+      "summary": "アメリカ人のエンジニアが、iPhoneで完全にオフラインで動く日本語学習アプリを作成している。その中で使う翻訳モデルの開発について書かれている。決定論的に分かることはモデルに推測させないという考え方に基づいて、語彙注入を守る翻訳モデルを作成した。サイバーエージェントのCAT-Translateをベースモデルとして、LoRA SFTとMO-GRPOを用いた学習を行った。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/ryanfarrar1/items/ed21d02428955839dd8c",
+      "originalUrl": "https://qiita.com/ryanfarrar1/items/ed21d02428955839dd8c",
+      "finalUrl": "https://qiita.com/ryanfarrar1/items/ed21d02428955839dd8c",
+      "publishedAt": "2026-08-07T07:23:26+09:00",
+      "collectedAt": "2026-08-07T09:49:59+09:00",
+      "scrapedAt": "2026-08-07T09:49:59+09:00",
+      "lastVerifiedAt": "2026-08-07T09:49:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "翻訳モデル",
+        "語彙注入",
+        "機械学習"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "231b075ef748750c641c3e9794dceaee1aeef5049be29ceb11a83b2cd3b282dd",
+      "trendScore": 10.85,
+      "createdAt": "2026-08-07T09:49:59+09:00",
+      "updatedAt": "2026-08-07T09:49:59+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/assessment/project-review/2025",
+      "title": "令和7年（2025年）政策評価・行政事業レビュー｜デジタル庁",
+      "originalTitle": "令和7年（2025年）政策評価・行政事業レビューにおける政策評価の結果及び政策への反映状況を更新しました",
+      "summary": "令和7年（2025年）の行政事業レビューの詳細がデジタル庁のウェブサイトに掲載されている。行政事業レビューは、政策評価と行政事業の見直しを目的としたもので、デジタル庁の事業や各府省庁が所管する情報システムに関する事業のレビューシートが公開されている。デジタル庁の事業レビューシートには、情報システムの整備や電子政府の総合窓口システムなどの事業が含まれている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/assessment/project-review/2025",
+      "originalUrl": "https://www.digital.go.jp/policies/assessment/project-review/2025",
+      "finalUrl": "https://www.digital.go.jp/policies/assessment/project-review/2025",
+      "publishedAt": "2026-08-06T15:00:00+09:00",
+      "collectedAt": "2026-08-07T09:50:05+09:00",
+      "scrapedAt": "2026-08-07T09:50:05+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "行政事業レビュー",
+        "政策評価"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "722cc0e6969aedd3ae47ec0c56b06847cd9efe37562e976ef55d6cceffc06b76",
+      "trendScore": 9.88,
+      "createdAt": "2026-08-07T09:50:05+09:00",
+      "updatedAt": "2026-08-07T09:50:05+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo12_hh_000531.html",
+      "title": "国土交通省｜報道資料｜令和８年度「『交通空白』解消等リ・デザイン全面展開プロジェクト」地域交通DX推進タイプ(２次公募)の第１次選定について<br>～「交通空白」解消は成長投資～",
+      "originalTitle": "�ߘa�W�N�x�u�w��ʋ󔒁x���������E�f�U�C���S�ʓW�J�v���W�F�N�g�v�n����DX���i�^�C�v(�Q������)�̑�P���I��ɂ��ā`�u��ʋ󔒁v�����͐��������`",
+      "summary": "国土交通省は「交通空白」解消を目的とした「リ・デザイン全面展開プロジェクト」を進めており、令和8年度の地域交通DX推進タイプ（2次公募）の第1次選定で全国5事業を支援対象に選定した。デジタル技術を活用した高度サービスの実装を支援し、持続可能な地域交通の実現を目指す。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo12_hh_000531.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo12_hh_000531.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo12_hh_000531.html",
+      "publishedAt": "2026-08-06T05:00:00+09:00",
+      "collectedAt": "2026-08-07T09:50:11+09:00",
+      "scrapedAt": "2026-08-07T09:50:11+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "交通空白",
+        "リ・デザイン",
+        "地域交通"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "e58fc164dd6758c3d55bb268fa8ad51747276c64b93722dbd66fadcdb0fa03c0",
+      "trendScore": 9.28,
+      "createdAt": "2026-08-07T09:50:11+09:00",
+      "updatedAt": "2026-08-07T09:50:11+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/toshi10_hh_000603.html",
+      "title": "国土交通省｜報道資料｜景観エリアリノベーション事業のモデル都市を選定<br>～富山市南富山駅周辺の暮らしを潤す景観を再生～",
+      "originalTitle": "�i�σG���A���m�x�[�V�������Ƃ̃��f���s�s��I��`�x�R�s��x�R�w���ӂ̕�炵�������i�ς��Đ��`",
+      "summary": "国土交通省は、景観エリアリノベーション事業のモデル都市として富山県富山市を選定した。富山市では、南富山駅周辺の景観を再生し、建物の活用を図るため、協働事業を行う民間事業者の探索や官民連携のあり方の検討を行う。景観エリアリノベーション事業は、建造物の老朽化などにより良好な景観が損なわれている地域で、景観整備推進法人として指定された民間会社が、景観計画に基づき建物の改修や利活用を行い、景観の再生を図るものである。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/toshi10_hh_000603.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/toshi10_hh_000603.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/toshi10_hh_000603.html",
+      "publishedAt": "2026-08-06T05:00:00+09:00",
+      "collectedAt": "2026-08-07T09:50:17+09:00",
+      "scrapedAt": "2026-08-07T09:50:17+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "景観エリアリノベーション",
+        "富山市",
+        "国土交通省"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "864c613e0744d712085cfb75c6c2d71a7dabc888afd1d50b7723aed50b5ea719",
+      "trendScore": 9.28,
+      "createdAt": "2026-08-07T09:50:17+09:00",
+      "updatedAt": "2026-08-07T09:50:17+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000349.html",
+      "title": "国土交通省｜報道資料｜令和８年熊本地震により被災した道路・河川等の迅速な復旧を支援<br>～大規模災害時の災害査定の効率化（簡素化）及び事前ルールを適用します～",
+      "originalTitle": "�ߘa�W�N�F�{�n�k�ɂ���Ђ������H�E�͐쓙�̐v���ȕ������x���`��K�͍ЊQ���̍ЊQ����̌������i�ȑf���j�y�ю��O���[����K�p���܂��`",
+      "summary": "国土交通省は、令和8年熊本地震により被災した道路・河川等の迅速な復旧を支援するために、大規模災害時の災害査定の効率化（簡素化）及び事前ルールを適用することを決定した。地方公共団体が行う災害査定の期間を大幅に縮減し、被災自治体における災害復旧事業の迅速化を図る。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000349.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000349.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000349.html",
+      "publishedAt": "2026-08-06T05:00:00+09:00",
+      "collectedAt": "2026-08-07T09:50:23+09:00",
+      "scrapedAt": "2026-08-07T09:50:23+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:23+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "熊本地震",
+        "災害復旧",
+        "国土交通省"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "603ff9ca8d1e2860bff18ff359b43dd907aa4acf40c5e0def5ae3943b4f2a873",
+      "trendScore": 9.28,
+      "createdAt": "2026-08-07T09:50:23+09:00",
+      "updatedAt": "2026-08-07T09:50:23+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000009664.000014827.html",
+      "title": "TVアニメ「バンドリ！ ゆめ∞みた」#8本編中ライブ映像を公開！Blu-ray 上巻のジャケットイラストも公開！",
+      "originalTitle": "TVアニメ「バンドリ！ ゆめ∞みた」#8本編中ライブ映像を公開！Blu-ray 上巻のジャケットイラストも公開！",
+      "summary": "TVアニメ「バンドリ！ ゆめ∞みた」#8本編中のライブ映像が公開された。Blu-ray 上巻のジャケットイラストも公開され、VRFloorの衣装を着たみゅーたいぷ5人が描かれている。TVアニメ「バンドリ！ ゆめ∞みた」は各放送局・配信プラットフォームで放送・配信中である。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000009664.000014827.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000009664.000014827.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000009664.000014827.html",
+      "publishedAt": "2026-08-07T09:40:41+09:00",
+      "collectedAt": "2026-08-07T09:50:29+09:00",
+      "scrapedAt": "2026-08-07T09:50:29+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "バンドリ！",
+        "TVアニメ",
+        "Blu-ray"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "37ae49c743966f12a5f9ac18bc45144307e69521177abb2ff84fdb9e99a7bd34",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-07T09:50:29+09:00",
+      "updatedAt": "2026-08-07T09:50:29+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000244.000106743.html",
+      "title": "【ハンドボール 女子ユース日本代表】第11回女子ユース世界選手権・9－12位決定戦結果 オランダを破り9位決定戦へ",
+      "originalTitle": "【ハンドボール　女子ユース日本代表】第11回女子ユース世界選手権・9-12位決定戦結果　オランダを破り9位決定戦へ",
+      "summary": "第11回女子ユース世界選手権で、日本女子代表U-18はオランダを破り、9位決定戦へ進出した。体格差のハンデをはね返しての快勝で、チームは最高のムードに包まれた。日本はチーム平均身長で約10cmの差をはね返しての戦いで後半中盤からのスパート。47ｰ36と11点差でオランダに快勝した。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000244.000106743.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000244.000106743.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000244.000106743.html",
+      "publishedAt": "2026-08-07T09:40:41+09:00",
+      "collectedAt": "2026-08-07T09:50:41+09:00",
+      "scrapedAt": "2026-08-07T09:50:41+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "ハンドボール",
+        "女子ユース世界選手権",
+        "日本代表"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "a1119991b1832da42a1fc1167e2c6b03aa45c65b29d95a4cd7f1643772c1504a",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-07T09:50:41+09:00",
+      "updatedAt": "2026-08-07T09:50:41+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000008.000062491.html",
+      "title": "【令和8年熊本地震】熊本支援チーム、発災当日から3拠点で活動。炊き出しのべ5880食",
+      "originalTitle": "【令和8年熊本地震】熊本支援チーム、発災当日から3拠点で活動。炊き出しのべ5880食",
+      "summary": "熊本支援チームは、令和8年熊本地震の発災当日から八代・熊本・筑後の3拠点で炊き出しや被災家屋の片付け、物資配送、ボランティア受け入れを実施している。炊き出しのべ5880食、被災家屋の片付けのべ42件、災害ゴミ搬出のべ10トン、ボランティア参加のべ200名を実施している。被災された方からの支援要請、ボランティア、支援物資を受け付けており、支援はすべてボランティアによる無償のものである。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000062491.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000008.000062491.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000008.000062491.html",
+      "publishedAt": "2026-08-07T09:40:41+09:00",
+      "collectedAt": "2026-08-07T09:50:47+09:00",
+      "scrapedAt": "2026-08-07T09:50:47+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "熊本地震",
+        "熊本支援チーム",
+        "ボランティア"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "faddbf7b1d6c4464d58b5764cf35ef1c2924bbe8ca47c8b883ee4037741f32bd",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-07T09:50:47+09:00",
+      "updatedAt": "2026-08-07T09:50:47+09:00"
+    },
+    {
+      "id": "https://www.itmedia.co.jp/business/articles/2608/07/news011.html",
+      "title": "��s�Ȃ�3�J����AI��1�J���@10�����̃f�[�^�Łu���疜�~�v�������o�����g�f�[�^�h���u���������B�p�h",
+      "originalTitle": "銀行なら3カ月→AIは1カ月　10万件のデータで「数千万円」を引き出した“データドリブン資金調達術”",
+      "summary": "ITmediaは、AIの活用が進む中で、企業の経営層がAIの重要性を認識し、AIを活用したビジネスモデルへの転換を進めていることを報じた。Zehitomoの調査によると、AIの活用が進む企業では、経営層がAIの重要性を認識し、AIを活用したビジネスモデルへの転換を進めていることが分かった。RFC Venture Debt Fund 1は、AIを活用したビジネスモデルへの転換を支援するために設立されたファンドである。",
+      "summarySource": "llm",
+      "source": "ITmedia ビジネス",
+      "sourceId": "src-itmedia-biz",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/07/news011.html",
+      "originalUrl": "https://www.itmedia.co.jp/business/articles/2608/07/news011.html",
+      "finalUrl": "https://www.itmedia.co.jp/business/articles/2608/07/news011.html",
+      "publishedAt": "2026-08-07T07:00:00+09:00",
+      "collectedAt": "2026-08-07T09:50:53+09:00",
+      "scrapedAt": "2026-08-07T09:50:53+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI",
+        "ビジネスモデル",
+        "経営層"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "b2ff0e4f609d51f892d79e72c140cc8e95cf1213d7641cea61a2bdef3380375d",
+      "trendScore": 10.83,
+      "createdAt": "2026-08-07T09:50:53+09:00",
+      "updatedAt": "2026-08-07T09:50:53+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999211",
+      "title": "それでも私たちは、『東の早慶、西の大和をめざす』と言い続ける～大和大学～ - 大学ジャーナルオンライン",
+      "originalTitle": "それでも私たちは、『東の早慶、西の大和をめざす』と言い続ける～大和大学～",
+      "summary": "大和大学は、西大和学園中学・高等学校の母体である学校法人西大和学園によって2014年に創設された。同大学の標語「東の早慶、西の大和をめざす」は、開学当初から掲げてきたもので、関西圏に早慶に匹敵する私立大学を作ることを目指している。現在、6学部・収容定員6000名の総合大学としての体制が整備されてきている。さらに大学の魅力を高めるため、教育の進化や研究の進化を含む5つの重点施策を掲げて取り組みを進めている。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999211",
+      "originalUrl": "https://univ-journal.jp/column/2026999211/",
+      "finalUrl": "https://univ-journal.jp/column/2026999211",
+      "publishedAt": "2026-08-07T07:00:51+09:00",
+      "collectedAt": "2026-08-07T09:50:59+09:00",
+      "scrapedAt": "2026-08-07T09:50:59+09:00",
+      "lastVerifiedAt": "2026-08-07T09:50:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "大和大学",
+        "西大和学園",
+        "私立大学"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "e8782a7bd065bbb9326bb00c8091d69c82b2fa5ff356ff514736d6452bd6e70a",
+      "trendScore": 10.83,
+      "createdAt": "2026-08-07T09:50:59+09:00",
+      "updatedAt": "2026-08-07T09:50:59+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000055",
+      "title": "巨大地震に備える「開放型アルミ耐震シェルター」の耐震性を金沢工業大学が実証 堤サッシュ工業が開発",
+      "originalTitle": "巨大地震に備える「開放型アルミ耐震シェルター」の耐震性を金沢工業大学が実証　堤サッシュ工業が開発",
+      "summary": "金沢工業大学は、堤サッシュ工業が開発した「開放型アルミ耐震シェルター」の耐震性を実証した。実験の結果、巨大地震クラスの加振に対して十分に耐えられることが確認された。このシェルターは、木造住宅内に設置でき、既存の古い家屋内でも大震災時にすぐに避難可能である。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000055",
+      "originalUrl": "https://univ-journal.jp/1000055/",
+      "finalUrl": "https://univ-journal.jp/1000055",
+      "publishedAt": "2026-08-06T17:00:13+09:00",
+      "collectedAt": "2026-08-07T09:51:04+09:00",
+      "scrapedAt": "2026-08-07T09:51:04+09:00",
+      "lastVerifiedAt": "2026-08-07T09:51:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "地震",
+        "耐震",
+        "シェルター"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "0a11f9a0689f98b917dac1dcfc56fe296e631a11193d89c85dfda72dba725909",
+      "trendScore": 10,
+      "createdAt": "2026-08-07T09:51:04+09:00",
+      "updatedAt": "2026-08-07T09:51:04+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999481",
+      "title": "青山学院大学アントレプレナーシップセンター新設の狙いは何か？ 設立記念イベントレポート - 大学ジャーナルオンライン",
+      "originalTitle": "青山学院大学アントレプレナーシップセンター新設の狙いは何か？　設立記念イベントレポート",
+      "summary": "青山学院大学は2026年度よりアントレプレナーシップセンターを設立した。同センターでは学生や教員のアントレプレナーシップ活動を支援し、社会にイノベーションを起こすことを目指す。設立記念イベントでは、センターの設立経緯や特長、パネルディスカッションや教員による実践事例の発表が行われた。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999481",
+      "originalUrl": "https://univ-journal.jp/column/2026999481/",
+      "finalUrl": "https://univ-journal.jp/column/2026999481",
+      "publishedAt": "2026-08-06T07:00:05+09:00",
+      "collectedAt": "2026-08-07T09:51:11+09:00",
+      "scrapedAt": "2026-08-07T09:51:11+09:00",
+      "lastVerifiedAt": "2026-08-07T09:51:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "青山学院大学",
+        "アントレプレナーシップ",
+        "イノベーション"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "a6d3637c6f1d6ff5fdea681778bc49b6dc3f3f9bcdb5f751b994dfff085650b0",
+      "trendScore": 9.4,
+      "createdAt": "2026-08-07T09:51:11+09:00",
+      "updatedAt": "2026-08-07T09:51:11+09:00"
     }
   ],
   "sources": [
@@ -11343,8 +11883,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-06T05:51:39+09:00",
-      "lastSuccessAt": "2026-08-06T05:51:39+09:00",
+      "lastFetchedAt": "2026-08-07T09:49:40+09:00",
+      "lastSuccessAt": "2026-08-07T09:49:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11356,8 +11896,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-06T05:51:53+09:00",
-      "lastSuccessAt": "2026-08-06T05:51:53+09:00",
+      "lastFetchedAt": "2026-08-07T09:49:53+09:00",
+      "lastSuccessAt": "2026-08-07T09:49:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11369,8 +11909,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-06T05:52:11+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:11+09:00",
+      "lastFetchedAt": "2026-08-07T09:49:59+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11395,8 +11935,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-06T05:52:11+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:12+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:00+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11408,8 +11948,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-06T05:52:12+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:12+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:00+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11421,8 +11961,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-06T05:52:23+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:23+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:05+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11434,8 +11974,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-06T05:52:23+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:24+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:06+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11447,8 +11987,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-06T05:52:26+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:27+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:07+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11551,8 +12091,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-06T05:52:35+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:35+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:23+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11590,8 +12130,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-06T05:52:53+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:54+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:47+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11603,8 +12143,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-06T05:52:54+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:54+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:47+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11616,8 +12156,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-06T05:52:54+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:55+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:47+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11629,8 +12169,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-06T05:52:55+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:56+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:48+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11642,8 +12182,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-06T05:52:56+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:56+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:48+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11655,8 +12195,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-06T05:52:56+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:57+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:49+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11681,8 +12221,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-06T05:52:57+09:00",
-      "lastSuccessAt": "2026-08-06T05:52:57+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:49+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11746,8 +12286,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-06T05:52:59+09:00",
-      "lastSuccessAt": "2026-08-06T05:53:00+09:00",
+      "lastFetchedAt": "2026-08-07T09:50:53+09:00",
+      "lastSuccessAt": "2026-08-07T09:50:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11921,6 +12461,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260807-0949",
+      "scheduledAt": "2026-08-07T09:49:40+09:00",
+      "startedAt": "2026-08-07T09:49:40+09:00",
+      "finishedAt": "2026-08-07T09:51:11+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 17,
+      "sourcesFailed": 0,
+      "candidatesFound": 56,
+      "duplicatesRemoved": 4,
+      "invalidUrlsRemoved": 2,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260806-0551",
       "scheduledAt": "2026-08-06T05:51:39+09:00",
@@ -12472,9 +13027,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-06T05:53:11+09:00",
-    "lastSuccessAt": "2026-08-06T05:53:11+09:00",
-    "nextScheduledAt": "2026-08-07T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-07T09:51:11+09:00",
+    "lastSuccessAt": "2026-08-07T09:51:11+09:00",
+    "nextScheduledAt": "2026-08-08T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
