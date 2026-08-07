@@ -6,13 +6,15 @@
 
 1. Excelの「課題」列から空欄でない文章を読み込む
 2. `sentence-transformers` で文章をベクトル化する
-3. cosine距離・average linkageの `AgglomerativeClustering` を実行する
-4. クラスタ数 8, 10, 12, 15, 20 をsilhouette scoreとクラスタ規模で比較する
-5. UMAPで共通の2次元座標を作り、各クラスタ数の結果を並べて可視化する
-6. 各クラスタの重心に近い課題文を代表文として抽出する
-7. 採用したクラスタ番号を元Excelのコピーに追加する
+3. LOF（Local Outlier Factor）で外れ課題を検出し、通常のクラスタリング対象から分離する
+4. 残った課題にcosine距離・average linkageの `AgglomerativeClustering` を実行する
+5. クラスタ数 8, 10, 12, 15, 20 をsilhouette scoreとクラスタ規模で比較する
+6. 最小クラスタ5件以上、最大クラスタ80%以下の候補だけを自動採用対象にする
+7. UMAPで共通の2次元座標を作り、各クラスタ数の結果を並べて可視化する
+8. 全候補の代表文を研究者が比較し、解釈可能性を記録できるExcelを出力する
+9. 採用したクラスタ番号、外れ値フラグ、外れ値スコアを元Excelのコピーに追加する
 
-クラスタ番号は計算上のIDにすぎず、大小に意味はありません。また、silhouette scoreが最大の結果を既定で採用しますが、それが研究目的上の最適な分類体系とは限りません。代表文、クラスタ規模、UMAP上の重なりも合わせて判断してください。
+クラスタ番号は計算上のIDにすぎず、大小に意味はありません。自動採用条件を満たす候補がない場合は、無理にクラスタ数を決めず「採用候補なし」と出力します。LOFの外れ値判定も最終判断ではありません。`outlier_issues.csv` を確認し、研究上重要な少数テーマが誤って除外されていないか確認してください。
 
 ## セットアップ
 
@@ -49,6 +51,11 @@ python cluster_issues.py \
 
 - `--cluster-counts 8 10 12 15 20`: 比較するクラスタ数
 - `--selected-k auto`: 結果Excelに使うクラスタ数。`auto` はsilhouette score最大の候補
+- `--min-cluster-size 5`: 自動採用候補に必要な最小クラスタ件数
+- `--max-cluster-share 0.80`: 最大クラスタが全対象に占めてよい比率
+- `--outlier-method lof|none`: 外れ値検出。既定は `lof`
+- `--outlier-contamination 0.03`: LOFで外れ値とする比率。既定は3%
+- `--outlier-neighbors 20`: LOFの近傍数
 - `--sheet シート名`: 対象シート
 - `--text-column 課題`: 課題文の列名
 - `--model モデル名`: Sentence Transformersのモデル
@@ -60,19 +67,23 @@ python cluster_issues.py \
 
 `--output-dir` 以下に次を作成します。
 
-- `cluster_evaluation.csv`: 候補ごとのcosine silhouette score、最小・最大クラスタ規模、規模の標準偏差
-- `cluster_assignments_all.csv`: 各課題について全候補のクラスタ番号とUMAP座標
+- `cluster_evaluation.csv`: silhouette score、クラスタ規模、最大クラスタ比率、自動候補の可否と除外理由
+- `cluster_assignments_all.csv`: 各課題について外れ値情報、全候補のクラスタ番号、UMAP座標
+- `outlier_issues.csv`: 外れ値らしさの高い順に並べた確認用一覧
 - `umap_cluster_comparison.png`: 全候補を同じUMAP座標上で比較した図
-- `cluster_summary.xlsx`: 採用結果のクラスタ規模、代表文、研究者入力用 `cluster_name` 列
-- `防災訓練_課題一覧_clustered_kN.xlsx`: 元Excelを複製し、採用結果の `cluster` と `cluster_name` を追加したファイル
+- `cluster_review.xlsx`: 全候補の評価、代表文、解釈可能性スコア・研究者メモ・選択欄
+- `cluster_summary.xlsx`: 採用結果の代表文。候補がなければ「採用候補なし」と除外理由
+- `防災訓練_課題一覧_clustered_kN.xlsx`: 採用時のみ作成。`cluster`、`cluster_name`、`is_outlier`、`outlier_score` を追加
 - `embeddings.npz`: 同じ文章・同じモデルで再実行するときの埋め込みキャッシュ
 - `run_metadata.json`: モデル、距離、linkage、採用クラスタ数などの再現用情報
 
 ## 人間によるクラスタ名の付与
 
-1. `cluster_summary.xlsx` を開く
-2. 代表文を確認し、同じ `cluster` の行すべてに同じ `cluster_name` を入力する（先頭行だけでも可）
-3. 次のコマンドで結果Excelへ反映する
+1. `cluster_review.xlsx` の `candidate_review` シートで候補の規模と除外理由を確認する
+2. 各 `k_N` シートの代表文を読み、`interpretability_score_1_to_5`、メモ、選択欄を記入する
+3. 採用したいクラスタ数を `--selected-k N` で再実行する。手動指定時は自動条件を満たさない候補でも出力できるが、警告が表示される
+4. `cluster_summary.xlsx` の同じ `cluster` に同じ `cluster_name` を入力する（先頭行だけでも可）
+5. 次のコマンドで結果Excelへ反映する
 
 ```bash
 python apply_cluster_names.py \
@@ -83,11 +94,22 @@ python apply_cluster_names.py \
 
 同一クラスタに異なる名前が入力されている場合は、誤反映を防ぐためエラーになります。結果Excelの `cluster_name` 列へ直接入力しても構いません。
 
+自動条件を満たす候補がない場合でも、全候補の `cluster_review.xlsx` と外れ値一覧は出力されます。代表文から研究目的に合う候補を選べた場合だけ、例えば次のように明示指定してください。
+
+```bash
+python cluster_issues.py \
+  "/Users/tj/Downloads/防災訓練_課題一覧.xlsx" \
+  --output-dir outputs \
+  --cluster-counts 4 6 8 10 12 \
+  --selected-k 8
+```
+
 ## 解釈上の注意
 
 - 課題文の粒度や長さが大きく違う場合、前処理やモデル変更による感度分析を推奨します。
 - UMAPは可視化用の非線形圧縮です。2次元上の距離だけでクラスタの妥当性を判断しないでください。
 - silhouette scoreは候補間比較の補助指標です。小クラスタの意味、分類体系の説明可能性、研究目的との整合性を優先してください。
+- `cluster=-1` はLOFで外れ値候補とされた課題です。削除対象ではなく、別テーマまたは重要な少数事例として人間が再確認してください。
 - 同じ設定を再現できるよう `run_metadata.json` を研究記録と一緒に保存してください。
 
 ## テスト

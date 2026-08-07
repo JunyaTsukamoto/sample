@@ -18,6 +18,7 @@ import numpy as np
 from openpyxl import Workbook, load_workbook
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics import silhouette_score
+from sklearn.neighbors import LocalOutlierFactor
 from sklearn.preprocessing import normalize
 
 
@@ -35,9 +36,13 @@ class IssueRow:
 class ClusterEvaluation:
     n_clusters: int
     silhouette_cosine: float
+    n_clustered: int
     smallest_cluster: int
     largest_cluster: int
+    largest_cluster_share: float
     cluster_size_std: float
+    is_valid_candidate: bool
+    rejection_reason: str
 
 
 def parse_args() -> argparse.Namespace:
@@ -64,6 +69,36 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--batch-size", type=int, default=32)
     parser.add_argument("--device", help="例: cpu, cuda, mps。省略時は自動判定")
     parser.add_argument("--representatives", type=int, default=5)
+    parser.add_argument(
+        "--min-cluster-size",
+        type=int,
+        default=5,
+        help="自動採用候補に必要な最小クラスタ件数",
+    )
+    parser.add_argument(
+        "--max-cluster-share",
+        type=float,
+        default=0.80,
+        help="自動採用候補で許容する最大クラスタの比率（0より大きく1以下）",
+    )
+    parser.add_argument(
+        "--outlier-method",
+        choices=("lof", "none"),
+        default="lof",
+        help="クラスタリング前の外れ値検出方法",
+    )
+    parser.add_argument(
+        "--outlier-contamination",
+        type=float,
+        default=0.03,
+        help="LOFで外れ値とみなす比率（0より大きく0.5以下）",
+    )
+    parser.add_argument(
+        "--outlier-neighbors",
+        type=int,
+        default=20,
+        help="LOFの近傍数",
+    )
     parser.add_argument("--random-state", type=int, default=42)
     parser.add_argument("--umap-neighbors", type=int, default=15)
     parser.add_argument(
@@ -181,18 +216,61 @@ def fit_clusters(embeddings: np.ndarray, n_clusters: int) -> np.ndarray:
     return model.fit_predict(normalized)
 
 
+def detect_outliers(
+    embeddings: np.ndarray,
+    method: str,
+    contamination: float,
+    n_neighbors: int,
+) -> tuple[np.ndarray, np.ndarray]:
+    """Return an outlier mask and a score where larger means more outlier-like."""
+    if method == "none":
+        return (
+            np.zeros(len(embeddings), dtype=bool),
+            np.full(len(embeddings), np.nan, dtype=np.float32),
+        )
+    if not 0 < contamination <= 0.5:
+        raise ValueError("--outlier-contamination は0より大きく0.5以下にしてください。")
+    if n_neighbors < 2:
+        raise ValueError("--outlier-neighbors は2以上にしてください。")
+
+    normalized = normalize(embeddings, norm="l2")
+    safe_neighbors = min(n_neighbors, len(normalized) - 1)
+    detector = LocalOutlierFactor(
+        n_neighbors=safe_neighbors,
+        metric="cosine",
+        contamination=contamination,
+        n_jobs=-1,
+    )
+    predictions = detector.fit_predict(normalized)
+    return predictions == -1, -np.asarray(detector.negative_outlier_factor_)
+
+
 def evaluate_clustering(
-    embeddings: np.ndarray, labels: np.ndarray, n_clusters: int
+    embeddings: np.ndarray,
+    labels: np.ndarray,
+    n_clusters: int,
+    min_cluster_size: int,
+    max_cluster_share: float,
 ) -> ClusterEvaluation:
     sizes = np.bincount(labels, minlength=n_clusters)
+    largest_share = float(sizes.max() / len(labels))
+    reasons = []
+    if int(sizes.min()) < min_cluster_size:
+        reasons.append(f"smallest_cluster<{min_cluster_size}")
+    if largest_share > max_cluster_share:
+        reasons.append(f"largest_cluster_share>{max_cluster_share:.2f}")
     return ClusterEvaluation(
         n_clusters=n_clusters,
         silhouette_cosine=float(
             silhouette_score(embeddings, labels, metric="cosine")
         ),
+        n_clustered=len(labels),
         smallest_cluster=int(sizes.min()),
         largest_cluster=int(sizes.max()),
+        largest_cluster_share=largest_share,
         cluster_size_std=float(sizes.std()),
+        is_valid_candidate=not reasons,
+        rejection_reason="; ".join(reasons),
     )
 
 
@@ -256,13 +334,22 @@ def write_assignments_csv(
     issues: Sequence[IssueRow],
     all_labels: dict[int, np.ndarray],
     coordinates: np.ndarray,
+    outlier_mask: np.ndarray,
+    outlier_scores: np.ndarray,
 ) -> None:
-    fieldnames = ["excel_row", "課題"] + [
+    fieldnames = ["excel_row", "課題", "is_outlier", "outlier_score"] + [
         f"cluster_{count}" for count in sorted(all_labels)
     ] + ["umap_x", "umap_y"]
     rows = []
     for index, issue in enumerate(issues):
-        row = {"excel_row": issue.excel_row, "課題": issue.text}
+        row = {
+            "excel_row": issue.excel_row,
+            "課題": issue.text,
+            "is_outlier": bool(outlier_mask[index]),
+            "outlier_score": (
+                "" if np.isnan(outlier_scores[index]) else float(outlier_scores[index])
+            ),
+        }
         row.update(
             {
                 f"cluster_{count}": int(labels[index])
@@ -272,6 +359,32 @@ def write_assignments_csv(
         row.update(umap_x=float(coordinates[index, 0]), umap_y=float(coordinates[index, 1]))
         rows.append(row)
     write_csv(path, fieldnames, rows)
+
+
+def write_outliers_csv(
+    path: Path,
+    issues: Sequence[IssueRow],
+    outlier_mask: np.ndarray,
+    outlier_scores: np.ndarray,
+) -> None:
+    outlier_indices = np.flatnonzero(outlier_mask)
+    order = outlier_indices[
+        np.argsort(-outlier_scores[outlier_indices], kind="stable")
+    ]
+    rows = [
+        {
+            "outlier_rank": rank,
+            "excel_row": issues[index].excel_row,
+            "outlier_score": float(outlier_scores[index]),
+            "課題": issues[index].text,
+        }
+        for rank, index in enumerate(order, start=1)
+    ]
+    write_csv(
+        path,
+        ["outlier_rank", "excel_row", "outlier_score", "課題"],
+        rows,
+    )
 
 
 def write_cluster_summary(
@@ -326,23 +439,180 @@ def write_cluster_summary(
     workbook.save(path)
 
 
+def write_no_candidate_summary(
+    path: Path,
+    evaluations: Sequence[ClusterEvaluation],
+    min_cluster_size: int,
+    max_cluster_share: float,
+) -> None:
+    workbook = Workbook()
+    worksheet = workbook.active
+    worksheet.title = "selection_status"
+    worksheet.append(["selection_status", "採用候補なし"])
+    worksheet.append(["min_cluster_size", min_cluster_size])
+    worksheet.append(["max_cluster_share", max_cluster_share])
+    worksheet.append([])
+    worksheet.append(
+        [
+            "n_clusters",
+            "silhouette_cosine",
+            "smallest_cluster",
+            "largest_cluster_share",
+            "rejection_reason",
+        ]
+    )
+    for evaluation in evaluations:
+        worksheet.append(
+            [
+                evaluation.n_clusters,
+                evaluation.silhouette_cosine,
+                evaluation.smallest_cluster,
+                evaluation.largest_cluster_share,
+                evaluation.rejection_reason,
+            ]
+        )
+    worksheet.column_dimensions["A"].width = 24
+    worksheet.column_dimensions["B"].width = 24
+    worksheet.column_dimensions["D"].width = 24
+    worksheet.column_dimensions["E"].width = 48
+    workbook.save(path)
+
+
+def write_cluster_review(
+    path: Path,
+    issues: Sequence[IssueRow],
+    embeddings: np.ndarray,
+    all_labels: dict[int, np.ndarray],
+    evaluations: Sequence[ClusterEvaluation],
+    n_representatives: int,
+) -> None:
+    """Write every candidate's representatives for researcher-led selection."""
+    workbook = Workbook()
+    review_sheet = workbook.active
+    review_sheet.title = "candidate_review"
+    review_sheet.append(
+        [
+            "n_clusters",
+            "silhouette_cosine",
+            "smallest_cluster",
+            "largest_cluster",
+            "largest_cluster_share",
+            "automatic_candidate",
+            "rejection_reason",
+            "interpretability_score_1_to_5",
+            "researcher_notes",
+            "researcher_selected",
+        ]
+    )
+    for evaluation in evaluations:
+        review_sheet.append(
+            [
+                evaluation.n_clusters,
+                evaluation.silhouette_cosine,
+                evaluation.smallest_cluster,
+                evaluation.largest_cluster,
+                evaluation.largest_cluster_share,
+                evaluation.is_valid_candidate,
+                evaluation.rejection_reason,
+                "",
+                "",
+                "",
+            ]
+        )
+    review_sheet.freeze_panes = "A2"
+    review_sheet.auto_filter.ref = review_sheet.dimensions
+    review_sheet.column_dimensions["A"].width = 14
+    review_sheet.column_dimensions["B"].width = 20
+    review_sheet.column_dimensions["E"].width = 22
+    review_sheet.column_dimensions["F"].width = 22
+    review_sheet.column_dimensions["G"].width = 42
+    review_sheet.column_dimensions["H"].width = 30
+    review_sheet.column_dimensions["I"].width = 45
+    review_sheet.column_dimensions["J"].width = 22
+
+    for count, labels in sorted(all_labels.items()):
+        worksheet = workbook.create_sheet(f"k_{count}")
+        worksheet.append(
+            [
+                "cluster",
+                "cluster_name",
+                "size",
+                "representative_rank",
+                "centroid_similarity",
+                "excel_row",
+                "representative_issue",
+            ]
+        )
+        representatives = representative_indices(
+            embeddings, labels, n_representatives
+        )
+        for cluster_id in sorted(representatives):
+            size = int(np.count_nonzero(labels == cluster_id))
+            for rank, (issue_index, similarity) in enumerate(
+                representatives[cluster_id], start=1
+            ):
+                issue = issues[issue_index]
+                worksheet.append(
+                    [
+                        cluster_id,
+                        "",
+                        size,
+                        rank,
+                        similarity,
+                        issue.excel_row,
+                        issue.text,
+                    ]
+                )
+        worksheet.freeze_panes = "A2"
+        worksheet.auto_filter.ref = worksheet.dimensions
+        worksheet.column_dimensions["A"].width = 12
+        worksheet.column_dimensions["B"].width = 28
+        worksheet.column_dimensions["C"].width = 10
+        worksheet.column_dimensions["D"].width = 22
+        worksheet.column_dimensions["E"].width = 22
+        worksheet.column_dimensions["F"].width = 12
+        worksheet.column_dimensions["G"].width = 90
+    workbook.save(path)
+
+
 def append_clusters_to_excel(
     input_path: Path,
     output_path: Path,
     sheet_name: str,
     issues: Sequence[IssueRow],
     labels: np.ndarray,
+    outlier_mask: np.ndarray | None = None,
+    outlier_scores: np.ndarray | None = None,
 ) -> None:
     copy2(input_path, output_path)
     workbook = load_workbook(output_path)
     worksheet = workbook[sheet_name]
     cluster_column = worksheet.max_column + 1
     name_column = cluster_column + 1
+    outlier_column = name_column + 1
+    score_column = outlier_column + 1
     worksheet.cell(row=1, column=cluster_column, value="cluster")
     worksheet.cell(row=1, column=name_column, value="cluster_name")
-    for issue, label in zip(issues, labels, strict=True):
+    worksheet.cell(row=1, column=outlier_column, value="is_outlier")
+    worksheet.cell(row=1, column=score_column, value="outlier_score")
+    if outlier_mask is None:
+        outlier_mask = np.zeros(len(issues), dtype=bool)
+    if outlier_scores is None:
+        outlier_scores = np.full(len(issues), np.nan)
+    for issue, label, is_outlier, outlier_score in zip(
+        issues, labels, outlier_mask, outlier_scores, strict=True
+    ):
         worksheet.cell(row=issue.excel_row, column=cluster_column, value=int(label))
         worksheet.cell(row=issue.excel_row, column=name_column, value="")
+        worksheet.cell(
+            row=issue.excel_row, column=outlier_column, value=bool(is_outlier)
+        )
+        if not np.isnan(outlier_score):
+            worksheet.cell(
+                row=issue.excel_row,
+                column=score_column,
+                value=float(outlier_score),
+            )
     workbook.save(output_path)
     workbook.close()
 
@@ -352,6 +622,7 @@ def plot_comparison(
     coordinates: np.ndarray,
     all_labels: dict[int, np.ndarray],
     evaluations: Sequence[ClusterEvaluation],
+    outlier_mask: np.ndarray,
 ) -> None:
     import matplotlib
 
@@ -365,17 +636,33 @@ def plot_comparison(
         rows, columns, figsize=(6 * columns, 5 * rows), squeeze=False
     )
     score_by_k = {item.n_clusters: item.silhouette_cosine for item in evaluations}
+    valid_by_k = {item.n_clusters: item.is_valid_candidate for item in evaluations}
     for axis, count in zip(axes.flat, counts):
         labels = all_labels[count]
+        inlier_mask = ~outlier_mask
         scatter = axis.scatter(
-            coordinates[:, 0],
-            coordinates[:, 1],
-            c=labels,
+            coordinates[inlier_mask, 0],
+            coordinates[inlier_mask, 1],
+            c=labels[inlier_mask],
             cmap="tab20",
             s=18,
             alpha=0.8,
         )
-        axis.set_title(f"k={count}  silhouette={score_by_k[count]:.3f}")
+        if np.any(outlier_mask):
+            axis.scatter(
+                coordinates[outlier_mask, 0],
+                coordinates[outlier_mask, 1],
+                c="black",
+                marker="x",
+                s=34,
+                linewidths=1.0,
+                label="outlier",
+            )
+            axis.legend(loc="best")
+        status = "valid" if valid_by_k[count] else "rejected"
+        axis.set_title(
+            f"k={count}  silhouette={score_by_k[count]:.3f}  {status}"
+        )
         axis.set_xlabel("UMAP 1")
         axis.set_ylabel("UMAP 2")
         figure.colorbar(scatter, ax=axis, shrink=0.75, label="cluster")
@@ -391,9 +678,12 @@ def choose_selected_k(
     selected_k_arg: str,
     cluster_counts: Sequence[int],
     evaluations: Sequence[ClusterEvaluation],
-) -> int:
+) -> int | None:
     if selected_k_arg == "auto":
-        return max(evaluations, key=lambda item: item.silhouette_cosine).n_clusters
+        valid = [item for item in evaluations if item.is_valid_candidate]
+        if not valid:
+            return None
+        return max(valid, key=lambda item: item.silhouette_cosine).n_clusters
     try:
         selected = int(selected_k_arg)
     except ValueError as error:
@@ -418,7 +708,10 @@ def main() -> int:
         sheet_name, issues = read_issues(input_path, args.sheet, args.text_column)
         if len(issues) < 3:
             raise ValueError("空欄でない課題文が3件以上必要です。")
-        cluster_counts = validate_cluster_counts(args.cluster_counts, len(issues))
+        if args.min_cluster_size < 1:
+            raise ValueError("--min-cluster-size は1以上にしてください。")
+        if not 0 < args.max_cluster_share <= 1:
+            raise ValueError("--max-cluster-share は0より大きく1以下にしてください。")
         texts = [issue.text for issue in issues]
         embeddings = load_or_create_embeddings(
             texts=texts,
@@ -433,16 +726,66 @@ def main() -> int:
                 f"埋め込みの形状が不正です: {embeddings.shape}, 課題数={len(issues)}"
             )
 
+        outlier_mask, outlier_scores = detect_outliers(
+            embeddings,
+            args.outlier_method,
+            args.outlier_contamination,
+            args.outlier_neighbors,
+        )
+        inlier_mask = ~outlier_mask
+        inlier_issues = [
+            issue for index, issue in enumerate(issues) if inlier_mask[index]
+        ]
+        inlier_embeddings = embeddings[inlier_mask]
+        print(
+            f"外れ値検出: {int(outlier_mask.sum())}件を除外、"
+            f"{len(inlier_issues)}件をクラスタリング"
+        )
+        if len(inlier_issues) < 3:
+            raise ValueError("外れ値除外後の課題文が3件未満です。")
+        cluster_counts = validate_cluster_counts(
+            args.cluster_counts, len(inlier_issues)
+        )
+
+        inlier_labels_by_k: dict[int, np.ndarray] = {}
         all_labels: dict[int, np.ndarray] = {}
         evaluations: list[ClusterEvaluation] = []
         for count in cluster_counts:
             print(f"クラスタリング・評価中: k={count}")
-            labels = fit_clusters(embeddings, count)
-            all_labels[count] = labels
-            evaluations.append(evaluate_clustering(embeddings, labels, count))
+            labels = fit_clusters(inlier_embeddings, count)
+            inlier_labels_by_k[count] = labels
+            expanded_labels = np.full(len(issues), -1, dtype=int)
+            expanded_labels[inlier_mask] = labels
+            all_labels[count] = expanded_labels
+            evaluations.append(
+                evaluate_clustering(
+                    inlier_embeddings,
+                    labels,
+                    count,
+                    args.min_cluster_size,
+                    args.max_cluster_share,
+                )
+            )
 
         selected_k = choose_selected_k(args.selected_k, cluster_counts, evaluations)
-        print(f"結果Excelに採用するクラスタ数: k={selected_k}")
+        evaluation_by_k = {item.n_clusters: item for item in evaluations}
+        if selected_k is None:
+            print(
+                "採用候補なし: 最小クラスタ件数または最大クラスタ比率の条件を"
+                "満たす候補がありません。"
+            )
+            print(
+                "この実行ではclustered Excelを新規作成しません。出力先に既存の"
+                "clustered Excelがある場合、それは以前の実行結果です。"
+            )
+        else:
+            selected_evaluation = evaluation_by_k[selected_k]
+            if not selected_evaluation.is_valid_candidate:
+                print(
+                    f"注意: 手動選択したk={selected_k}は自動採用条件を満たしません: "
+                    f"{selected_evaluation.rejection_reason}"
+                )
+            print(f"結果Excelに採用するクラスタ数: k={selected_k}")
         coordinates = create_umap(
             embeddings, args.random_state, args.umap_neighbors
         )
@@ -453,28 +796,57 @@ def main() -> int:
             issues,
             all_labels,
             coordinates,
+            outlier_mask,
+            outlier_scores,
         )
-        write_cluster_summary(
-            output_dir / "cluster_summary.xlsx",
+        write_outliers_csv(
+            output_dir / "outlier_issues.csv",
             issues,
-            embeddings,
-            all_labels[selected_k],
-            selected_k,
+            outlier_mask,
+            outlier_scores,
+        )
+        write_cluster_review(
+            output_dir / "cluster_review.xlsx",
+            inlier_issues,
+            inlier_embeddings,
+            inlier_labels_by_k,
+            evaluations,
             args.representatives,
         )
-        result_path = output_dir / f"{input_path.stem}_clustered_k{selected_k}.xlsx"
-        append_clusters_to_excel(
-            input_path,
-            result_path,
-            sheet_name,
-            issues,
-            all_labels[selected_k],
-        )
+        if selected_k is None:
+            write_no_candidate_summary(
+                output_dir / "cluster_summary.xlsx",
+                evaluations,
+                args.min_cluster_size,
+                args.max_cluster_share,
+            )
+        else:
+            write_cluster_summary(
+                output_dir / "cluster_summary.xlsx",
+                inlier_issues,
+                inlier_embeddings,
+                inlier_labels_by_k[selected_k],
+                selected_k,
+                args.representatives,
+            )
+            result_path = (
+                output_dir / f"{input_path.stem}_clustered_k{selected_k}.xlsx"
+            )
+            append_clusters_to_excel(
+                input_path,
+                result_path,
+                sheet_name,
+                issues,
+                all_labels[selected_k],
+                outlier_mask,
+                outlier_scores,
+            )
         plot_comparison(
             output_dir / "umap_cluster_comparison.png",
             coordinates,
             all_labels,
             evaluations,
+            outlier_mask,
         )
         metadata = {
             "created_at_utc": datetime.now(timezone.utc).isoformat(),
@@ -487,6 +859,20 @@ def main() -> int:
             "linkage": "average",
             "cluster_counts": cluster_counts,
             "selected_k": selected_k,
+            "selection_status": (
+                "selected" if selected_k is not None else "no_valid_candidate"
+            ),
+            "min_cluster_size": args.min_cluster_size,
+            "max_cluster_share": args.max_cluster_share,
+            "outlier_method": args.outlier_method,
+            "outlier_contamination": (
+                args.outlier_contamination if args.outlier_method != "none" else None
+            ),
+            "outlier_neighbors": (
+                args.outlier_neighbors if args.outlier_method != "none" else None
+            ),
+            "n_outliers": int(outlier_mask.sum()),
+            "n_clustered": int(inlier_mask.sum()),
             "random_state": args.random_state,
         }
         (output_dir / "run_metadata.json").write_text(

@@ -60,13 +60,16 @@ class CoreTests(unittest.TestCase):
             ]
         )
         labels = cluster_issues.fit_clusters(embeddings, 3)
-        evaluation = cluster_issues.evaluate_clustering(embeddings, labels, 3)
+        evaluation = cluster_issues.evaluate_clustering(
+            embeddings, labels, 3, min_cluster_size=2, max_cluster_share=0.5
+        )
         representatives = cluster_issues.representative_indices(
             embeddings, labels, 1
         )
 
         self.assertEqual(len(set(labels)), 3)
         self.assertGreater(evaluation.silhouette_cosine, 0.8)
+        self.assertTrue(evaluation.is_valid_candidate)
         self.assertEqual(set(representatives), set(labels))
         self.assertTrue(all(len(values) == 1 for values in representatives.values()))
 
@@ -99,9 +102,49 @@ class CoreTests(unittest.TestCase):
             self.assertEqual(sheet["A2"].value, 1)
             self.assertEqual(sheet["C1"].value, "cluster")
             self.assertEqual(sheet["D1"].value, "cluster_name")
+            self.assertEqual(sheet["E1"].value, "is_outlier")
+            self.assertEqual(sheet["F1"].value, "outlier_score")
             self.assertEqual(sheet["C2"].value, 1)
             self.assertEqual(sheet["C3"].value, 0)
             result.close()
+
+    def test_candidate_constraints_and_selection(self):
+        embeddings = np.array(
+            [
+                [1.0, 0.0],
+                [0.9, 0.1],
+                [0.8, 0.2],
+                [0.7, 0.3],
+                [0.0, 1.0],
+            ]
+        )
+        labels = np.array([0, 0, 0, 0, 1])
+        rejected = cluster_issues.evaluate_clustering(
+            embeddings,
+            labels,
+            2,
+            min_cluster_size=2,
+            max_cluster_share=0.7,
+        )
+
+        self.assertFalse(rejected.is_valid_candidate)
+        self.assertIn("smallest_cluster<2", rejected.rejection_reason)
+        self.assertIn("largest_cluster_share>0.70", rejected.rejection_reason)
+        self.assertIsNone(
+            cluster_issues.choose_selected_k("auto", [2], [rejected])
+        )
+        self.assertEqual(
+            cluster_issues.choose_selected_k("2", [2], [rejected]), 2
+        )
+
+    def test_detect_outliers_can_be_disabled(self):
+        embeddings = np.eye(4)
+        mask, scores = cluster_issues.detect_outliers(
+            embeddings, "none", contamination=0.03, n_neighbors=20
+        )
+
+        self.assertFalse(mask.any())
+        self.assertTrue(np.isnan(scores).all())
 
     def test_apply_cluster_names(self):
         with tempfile.TemporaryDirectory() as directory:
