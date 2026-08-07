@@ -11871,6 +11871,546 @@
       "trendScore": 9.4,
       "createdAt": "2026-08-07T09:51:11+09:00",
       "updatedAt": "2026-08-07T09:51:11+09:00"
+    },
+    {
+      "id": "https://qiita.com/kinamocchi_tech/items/c5036af1088f378abcfa",
+      "title": "NVIDIAはもうGPU会社じゃない？AIエコシステム支配の全貌 - Qiita",
+      "originalTitle": "NVIDIAはもうGPU会社じゃない？AIエコシステム支配の全貌",
+      "summary": "NVIDIAはGPU会社からAIエコシステム支配の会社へと変貌を遂げている。自律型AIエージェントのOSであるOpen Agent Platformを発表し、GPUビジネスを何倍にも膨らませる仕掛けとなっている。NVIDIAの大転換は、GPU、CUDA、NIM、エージェントプラットフォームの4段階に分けられ、データセンターはファイル保管庫からトークン生成工場へと変化している。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/kinamocchi_tech/items/c5036af1088f378abcfa",
+      "originalUrl": "https://qiita.com/kinamocchi_tech/items/c5036af1088f378abcfa",
+      "finalUrl": "https://qiita.com/kinamocchi_tech/items/c5036af1088f378abcfa",
+      "publishedAt": "2026-08-08T05:11:49+09:00",
+      "collectedAt": "2026-08-08T05:25:14+09:00",
+      "scrapedAt": "2026-08-08T05:25:14+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "NVIDIA",
+        "AIエコシステム",
+        "Open Agent Platform"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "f054047c9c79bc66ce3bd99bdf682cda07252d68646b858b96afff5a14b6b01c",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-08T05:25:14+09:00",
+      "updatedAt": "2026-08-08T05:25:14+09:00"
+    },
+    {
+      "id": "https://qiita.com/tomada/items/399c6964ea48b6c9e93e",
+      "title": "Claude Code /code-review の effort は low で足りる？low/high を3回ずつ実測した検出率の差 - Qiita",
+      "originalTitle": "Claude Code /code-review の effort は low で足りる？low/high を3回ずつ実測した検出率の差",
+      "summary": "Claude Code の /code-review の effort レベルを low と high で比較検討した。低い effort レベルで致命的・重大な欠陥はすべて検出できたが、軽微な欠陥は high の方が多く検出できた。ただし、high の方が所要時間が長かった。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/tomada/items/399c6964ea48b6c9e93e",
+      "originalUrl": "https://qiita.com/tomada/items/399c6964ea48b6c9e93e",
+      "finalUrl": "https://qiita.com/tomada/items/399c6964ea48b6c9e93e",
+      "publishedAt": "2026-08-08T00:48:16+09:00",
+      "collectedAt": "2026-08-08T05:25:20+09:00",
+      "scrapedAt": "2026-08-08T05:25:20+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Claude Code",
+        "code-review",
+        "effort"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "f2e1bd777337ea403ab2f33e8071bfb058d29d7219688d8dba56cd598f3984ab",
+      "trendScore": 10.73,
+      "createdAt": "2026-08-08T05:25:20+09:00",
+      "updatedAt": "2026-08-08T05:25:20+09:00"
+    },
+    {
+      "id": "https://qiita.com/lemonIN/items/036a162f897238704e5d",
+      "title": "インプレッションファクトリー：放置系バズ工場 - Qiita",
+      "originalTitle": "インプレッションファクトリー：放置系バズ工場",
+      "summary": "インプレッションファクトリーは、プレイヤーがAI搭載の「インプレッション生成マシン」のオーナーとなり、SNS上で自動的に投稿を生成・拡散させてバズと炎上をコントロールする放置シミュレーションゲームです。マシンは24時間365日稼働し、予測不能な投稿でSNSを賑わせ、インプレッションを稼ぎます。ゲームの目的は、世界一の影響力を持つSNSアカウントを築き上げ、インプレッションの絶対王者となることです。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lemonIN/items/036a162f897238704e5d",
+      "originalUrl": "https://qiita.com/lemonIN/items/036a162f897238704e5d",
+      "finalUrl": "https://qiita.com/lemonIN/items/036a162f897238704e5d",
+      "publishedAt": "2026-08-08T00:15:31+09:00",
+      "collectedAt": "2026-08-08T05:25:26+09:00",
+      "scrapedAt": "2026-08-08T05:25:26+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "インプレッションファクトリー",
+        "AI",
+        "SNS"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "3cb902a1db89cad0ae6c2c143668078cba57d50cfe99b4c8ce592f105bb3e680",
+      "trendScore": 10.69,
+      "createdAt": "2026-08-08T05:25:26+09:00",
+      "updatedAt": "2026-08-08T05:25:26+09:00"
+    },
+    {
+      "id": "https://qiita.com/sugarfree/items/9fbaa0ad9bf7434e848b",
+      "title": "【技術解説】【完全ガイド】Pythonによる金融データ分析の実践手法：API取得から機械学習モデル予測まで - Qiita",
+      "originalTitle": "【技術解説】【完全ガイド】Pythonによる金融データ分析の実践手法：API取得から機械学習モデル予測まで",
+      "summary": "Pythonを用いた金融データ分析の実践手法について解説している。データ取得から機械学習モデル予測まで、ライブラリの使用方法やデータ分析のフローについて説明している。金融データ分析のライフサイクル全体を効率的に構築するために、Pythonの豊富なライブラリとAPIエコシステムを活用することが重要であると述べられている。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/sugarfree/items/9fbaa0ad9bf7434e848b",
+      "originalUrl": "https://qiita.com/sugarfree/items/9fbaa0ad9bf7434e848b",
+      "finalUrl": "https://qiita.com/sugarfree/items/9fbaa0ad9bf7434e848b",
+      "publishedAt": "2026-08-07T11:01:19+09:00",
+      "collectedAt": "2026-08-08T05:25:32+09:00",
+      "scrapedAt": "2026-08-08T05:25:32+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Python",
+        "金融データ分析",
+        "機械学習"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "94730fda726d2e312119631a2a765c9b860ea4ffc6f3e56f37dcae0aca9e0fad",
+      "trendScore": 9.9,
+      "createdAt": "2026-08-08T05:25:32+09:00",
+      "updatedAt": "2026-08-08T05:25:32+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5",
+      "title": "SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施｜デジタル庁",
+      "originalTitle": "SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施",
+      "summary": "デジタル庁は、警察庁、金融庁、消費者庁、総務省、法務省、経済産業省と合同で、SNS等を提供する大規模事業者に対して、SNS等におけるなりすまし詐欺広告への対策強化について、文書により要請を実施しました。なりすまし詐欺広告は、ディープフェイクを用いて著名人の肖像や音声を無断で利用した広告を含む詐欺広告で、投資詐欺等の被害が拡大しています。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5",
+      "originalUrl": "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5",
+      "finalUrl": "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5",
+      "publishedAt": "2026-08-07T15:00:00+09:00",
+      "collectedAt": "2026-08-08T05:25:39+09:00",
+      "scrapedAt": "2026-08-08T05:25:39+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "SNS",
+        "なりすまし詐欺",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "c586b3951803739f34be8542967600cfe1c4e48ef4cff82388215c73e89c12fb",
+      "trendScore": 10.14,
+      "createdAt": "2026-08-08T05:25:39+09:00",
+      "updatedAt": "2026-08-08T05:25:39+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
+      "title": "職員の個人情報の漏えいについて｜デジタル庁",
+      "originalTitle": "職員の個人情報の漏えいについて",
+      "summary": "デジタル庁の国家資格等情報連携・活用システムの運用において、各資格管理団体の職員の個人情報の漏えいが発生した。漏えいした情報には氏名やユーザーIDなどが含まれており、150名の個人情報が記載されていた。原因は作業手順書の曖昧な記載による作業誤りで、再発防止のための対応を講じる予定である。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
+      "originalUrl": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
+      "finalUrl": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
+      "publishedAt": "2026-08-07T15:00:00+09:00",
+      "collectedAt": "2026-08-08T05:25:44+09:00",
+      "scrapedAt": "2026-08-08T05:25:44+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "個人情報漏えい",
+        "国家資格等情報連携・活用システム"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "b6cfcd3dcd8db1bc7a53cb5c37ab5005e772304414d34bb4baf718bc35600bce",
+      "trendScore": 10.14,
+      "createdAt": "2026-08-08T05:25:44+09:00",
+      "updatedAt": "2026-08-08T05:25:44+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/local_governments/specification",
+      "title": "データ要件・連携要件の標準仕様｜デジタル庁",
+      "originalTitle": "地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました",
+      "summary": "デジタル庁は、制度所管省庁等と協力して、基幹業務システムのデータ要件・連携要件の標準仕様について作成しています。地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降の版数のものを更新しました。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/local_governments/specification",
+      "originalUrl": "https://www.digital.go.jp/policies/local_governments/specification",
+      "finalUrl": "https://www.digital.go.jp/policies/local_governments/specification",
+      "publishedAt": "2026-08-07T15:00:00+09:00",
+      "collectedAt": "2026-08-08T05:25:50+09:00",
+      "scrapedAt": "2026-08-08T05:25:50+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "基幹業務システム",
+        "標準仕様"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "b276862d9a7032aecfa539cf7cee2448c67c2e45aea68d950aafe4e75f36fe85",
+      "trendScore": 10.14,
+      "createdAt": "2026-08-08T05:25:50+09:00",
+      "updatedAt": "2026-08-08T05:25:50+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo17_hh_000214.html",
+      "title": "国土交通省｜報道資料｜交通運輸技術開発推進制度の令和８年度新規研究課題を決定<br>～交通運輸分野におけるイノベーションを推進～",
+      "originalTitle": "��ʉ^�A�Z�p�J�����i���x�̗ߘa�W�N�x�V�K�����ۑ������`��ʉ^�A����ɂ�����C�m�x�[�V�����𐄐i�`",
+      "summary": "国土交通省は、交通分野におけるイノベーションを促進するため、交通運輸技術開発推進制度により、革新的な技術の開発を推進しています。船舶の自動運航に資する技術の研究など、新規研究課題6件を採択しました。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo17_hh_000214.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo17_hh_000214.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo17_hh_000214.html",
+      "publishedAt": "2026-08-07T05:00:00+09:00",
+      "collectedAt": "2026-08-08T05:25:56+09:00",
+      "scrapedAt": "2026-08-08T05:25:56+09:00",
+      "lastVerifiedAt": "2026-08-08T05:25:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "交通運輸",
+        "イノベーション",
+        "国土交通省"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "7dd71ce2b3f2cf6528e3f7b5bbf4b46ef427f84297b16b7afd8dff1a1481e81d",
+      "trendScore": 9.55,
+      "createdAt": "2026-08-08T05:25:56+09:00",
+      "updatedAt": "2026-08-08T05:25:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000990.000051499.html",
+      "title": "【ヒュンメル×メーカーズシャツ鎌倉】ストレスフリーな高機能シャツを発表！",
+      "originalTitle": "【ヒュンメル×メーカーズシャツ鎌倉】ストレスフリーな高機能シャツを発表！",
+      "summary": "ヒュンメルとメーカーズシャツ鎌倉のコラボレーションにより、ストレスフリーな高機能シャツが発表された。ストレッチシャツとポロシャツの2種類が用意され、ヒュンメル公式オンラインストアで8月7日から予約受付が開始される。ストレッチシャツは希少な80番手超長綿を使用し、シルクのような光沢感と滑らかな肌触りを実現。ポロシャツは胸にヒュンメルロゴ刺繍が入った適度にドレス感のあるベーシックなボタンダウン仕様で、優れた伸縮性と吸汗速乾性を備える。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000990.000051499.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000990.000051499.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000990.000051499.html",
+      "publishedAt": "2026-08-08T05:10:02+09:00",
+      "collectedAt": "2026-08-08T05:26:03+09:00",
+      "scrapedAt": "2026-08-08T05:26:03+09:00",
+      "lastVerifiedAt": "2026-08-08T05:26:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "ヒュンメル",
+        "メーカーズシャツ鎌倉",
+        "コラボレーション"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "4efc7e7b6f70b5a1ae0fed28864ef49a2bdb44af9a8e51f5681c2716e95e1bef",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-08T05:26:03+09:00",
+      "updatedAt": "2026-08-08T05:26:03+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000053.000020365.html",
+      "title": "西武園ゆうえんちを“まるごと貸し切り”！木製メダルが選手を迎える、都心近郊では珍しい「アクアスロン大会」開催",
+      "originalTitle": "西武園ゆうえんちを“まるごと貸し切り”！木製メダルが選手を迎える、都心近郊では珍しい「アクアスロン大会」開催",
+      "summary": "西武園ゆうえんちをまるごと貸し切りで開催されたアクアスロン大会では、スイムとランの2種目で競い、親子ランも実施された。大会では木製メダルが選手を迎え、トライアスロンの名門チーム「トーシンパートナーズチームケンズ」が主催した。大会は無事に終了し、完走率は98.3％だった。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000053.000020365.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000053.000020365.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000053.000020365.html",
+      "publishedAt": "2026-08-08T05:10:02+09:00",
+      "collectedAt": "2026-08-08T05:26:08+09:00",
+      "scrapedAt": "2026-08-08T05:26:08+09:00",
+      "lastVerifiedAt": "2026-08-08T05:26:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "アクアスロン",
+        "西武園ゆうえんち",
+        "トライアスロン"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "68318d9768a95c44cb90525c1639023532caf43e24ae2530e0ed50fcdec872a7",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-08T05:26:08+09:00",
+      "updatedAt": "2026-08-08T05:26:08+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000003915.000004829.html",
+      "title": "『NISSANあ、安部礼司-BEYOND THE AVERAGE-』カリスマベビーシッターに執行役員、サボテン役まで!? 渡辺美里がラジオドラマに登場！",
+      "originalTitle": "『NISSANあ、安部礼司-BEYOND THE AVERAGE-』カリスマベビーシッターに執行役員、サボテン役まで!? 渡辺美里がラジオドラマに登場！",
+      "summary": "ラジオドラマ『NISSAN あ、安部礼司～BEYOND THE AVERAGE～』の8月9日の放送回に、渡辺美里が登場する。渡辺はカリスマベビーシッター「ミサトさん」や執行役員、サボテン役などさまざまな役柄で出演し、ドラマを盛り上げる。番組最後にはニューアルバムへの思いや還暦を迎えての心境についてトークを繰り広げる。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000003915.000004829.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000003915.000004829.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000003915.000004829.html",
+      "publishedAt": "2026-08-08T05:10:02+09:00",
+      "collectedAt": "2026-08-08T05:26:15+09:00",
+      "scrapedAt": "2026-08-08T05:26:15+09:00",
+      "lastVerifiedAt": "2026-08-08T05:26:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "ラジオドラマ",
+        "渡辺美里",
+        "NISSAN あ、安部礼司～BEYOND THE AVERAGE～"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "4ba644e381a6aa275807a91b2d8acb71fe503e6440d66bc884345a3c59ec4027",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-08T05:26:15+09:00",
+      "updatedAt": "2026-08-08T05:26:15+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999785",
+      "title": "三条市立大学 文部科学大臣賞を受賞した「産学連携実習」のメンター研修会を実施 122企業・1団体から総勢217人のメンター・企業担当者が参加",
+      "originalTitle": "三条市立大学　文部科学大臣賞を受賞した「産学連携実習」のメンター研修会を実施　122企業・1団体から総勢217人のメンター・企業担当者が参加",
+      "summary": "三条市立大学は、文部科学大臣賞を受賞した「産学連携実習」のメンター研修会を実施した。122企業・1団体から217人のメンター・企業担当者が参加し、実習の受け入れにあたって指導方法の共有や情報交換を行った。同大学の産学連携実習は、学生が企業へ赴き、「企画」「開発」「生産」の各領域を体験するEBLを核とした実践教育となっている。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999785",
+      "originalUrl": "https://univ-journal.jp/999785/",
+      "finalUrl": "https://univ-journal.jp/999785",
+      "publishedAt": "2026-08-07T11:00:58+09:00",
+      "collectedAt": "2026-08-08T05:26:25+09:00",
+      "scrapedAt": "2026-08-08T05:26:25+09:00",
+      "lastVerifiedAt": "2026-08-08T05:26:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "産学連携",
+        "実習",
+        "人材育成"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "63c55274f5c39dac50c4e9babc601807ec47fb8cc6c6192cd35c08ec60ed7753",
+      "trendScore": 9.9,
+      "createdAt": "2026-08-08T05:26:25+09:00",
+      "updatedAt": "2026-08-08T05:26:25+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000049",
+      "title": "東京大学 探究STEAM支援教員による中高生向けキャンパスツアーを8/13（木）開催",
+      "originalTitle": "東京大学　探究STEAM支援教員による中高生向けキャンパスツアーを8/13（木）開催",
+      "summary": "東京大学は、中高生向けのキャンパスツアー「東大・探究／STEAMツアー」を8月13日に開催する。東京大学の本郷・弥生キャンパスを歩きながら、日本の近代大学の歴史や最先端の学術研究について学ぶ。参加は中高生だけでなく、保護者や学校教員も同行可能。参加費は無料だが、昼食代や東大グッズの購入費用は各自負担。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000049",
+      "originalUrl": "https://univ-journal.jp/1000049/",
+      "finalUrl": "https://univ-journal.jp/1000049",
+      "publishedAt": "2026-08-07T09:00:39+09:00",
+      "collectedAt": "2026-08-08T05:26:32+09:00",
+      "scrapedAt": "2026-08-08T05:26:32+09:00",
+      "lastVerifiedAt": "2026-08-08T05:26:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "東京大学",
+        "中高生",
+        "キャンパスツアー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "5e3fd234828ddaade4f93e11571917a268f46c3a6a4dd7ae613201eeb9bd0c8b",
+      "trendScore": 9.78,
+      "createdAt": "2026-08-08T05:26:32+09:00",
+      "updatedAt": "2026-08-08T05:26:32+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/952483",
+      "title": "ほぼ100歳でも現役､欧州｢レトロ路面電車｣事情 日本では多くの都市から消えた｢街のシンボル｣健在",
+      "originalTitle": "ほぼ100歳でも現役､欧州｢レトロ路面電車｣事情　日本では多くの都市から消えた｢街のシンボル｣健在 | ビジネス | 東洋経済オンライン",
+      "summary": "ヨーロッパでは近代的な路面電車が活躍する一方で、社会主義時代に造られた車両や100年近く前の古い車両が走り続けている都市もある。ミラノを象徴する路面電車「ヴェントット」は2028年で誕生100周年を迎えるレトロ車両である。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/952483",
+      "originalUrl": "https://toyokeizai.net/articles/-/952483?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/952483",
+      "publishedAt": "2026-08-08T04:30:00+09:00",
+      "collectedAt": "2026-08-08T05:26:37+09:00",
+      "scrapedAt": "2026-08-08T05:26:37+09:00",
+      "lastVerifiedAt": "2026-08-08T05:26:37+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "路面電車",
+        "レトロ",
+        "ヨーロッパ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "22b19d4ff21297eafe0adf60d8eac33630bd5d0b797087746a72fe05b3488096",
+      "trendScore": 10.94,
+      "createdAt": "2026-08-08T05:26:37+09:00",
+      "updatedAt": "2026-08-08T05:26:37+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/953502",
+      "title": "｢妻の一言が私をミャンマーへ導いた｣外交官人生･元駐ミャンマー大使が語るスーチー氏や軍政､日本人の知られざる歴史",
+      "originalTitle": "｢妻の一言が私をミャンマーへ導いた｣外交官人生･元駐ミャンマー大使が語るスーチー氏や軍政､日本人の知られざる歴史 | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "2021年のミャンマーでのクーデターは民主化の歩みを大きく揺るがす出来事でした。元駐ミャンマー大使の丸山市郎氏は自身の体験と両国関係の核心について語ります。丸山市郎氏は妻の一言がミャンマーへ導いたと語っています。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/953502",
+      "originalUrl": "https://toyokeizai.net/articles/-/953502?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/953502",
+      "publishedAt": "2026-08-07T13:00:00+09:00",
+      "collectedAt": "2026-08-08T05:26:43+09:00",
+      "scrapedAt": "2026-08-08T05:26:43+09:00",
+      "lastVerifiedAt": "2026-08-08T05:26:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "ミャンマー",
+        "クーデター",
+        "民主化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "385c3ed00b34d025fdcf961ec82ffcdb80e88271bf539c3c7530b4acfbb36283",
+      "trendScore": 10.02,
+      "createdAt": "2026-08-08T05:26:43+09:00",
+      "updatedAt": "2026-08-08T05:26:43+09:00"
     }
   ],
   "sources": [
@@ -11883,8 +12423,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-07T09:49:40+09:00",
-      "lastSuccessAt": "2026-08-07T09:49:40+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:13+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:13+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11896,8 +12436,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-07T09:49:53+09:00",
-      "lastSuccessAt": "2026-08-07T09:49:54+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:26+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11909,8 +12449,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-07T09:49:59+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:00+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:32+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11935,8 +12475,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-07T09:50:00+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:00+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:33+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11948,8 +12488,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-07T09:50:00+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:00+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:33+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11961,8 +12501,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-07T09:50:05+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:06+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:50+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11974,8 +12514,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-07T09:50:06+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:06+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:51+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -11987,8 +12527,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-07T09:50:07+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:07+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:53+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12091,8 +12631,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-07T09:50:23+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:23+09:00",
+      "lastFetchedAt": "2026-08-08T05:25:56+09:00",
+      "lastSuccessAt": "2026-08-08T05:25:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12130,8 +12670,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-07T09:50:47+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:47+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:15+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12143,8 +12683,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-07T09:50:47+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:47+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:15+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12156,8 +12696,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-07T09:50:47+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:48+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:16+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12169,8 +12709,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-07T09:50:48+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:48+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:17+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12182,8 +12722,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-07T09:50:48+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:49+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:17+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12195,8 +12735,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-07T09:50:49+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:49+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:18+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12221,8 +12761,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-07T09:50:49+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:49+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:19+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12286,8 +12826,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-07T09:50:53+09:00",
-      "lastSuccessAt": "2026-08-07T09:50:55+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:21+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12299,8 +12839,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-06T05:53:06+09:00",
-      "lastSuccessAt": "2026-08-06T05:53:07+09:00",
+      "lastFetchedAt": "2026-08-08T05:26:34+09:00",
+      "lastSuccessAt": "2026-08-08T05:26:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -12461,6 +13001,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260808-0525",
+      "scheduledAt": "2026-08-08T05:25:13+09:00",
+      "startedAt": "2026-08-08T05:25:13+09:00",
+      "finishedAt": "2026-08-08T05:26:43+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 58,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260807-0949",
       "scheduledAt": "2026-08-07T09:49:40+09:00",
@@ -13027,9 +13582,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-07T09:51:11+09:00",
-    "lastSuccessAt": "2026-08-07T09:51:11+09:00",
-    "nextScheduledAt": "2026-08-08T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-08T05:26:43+09:00",
+    "lastSuccessAt": "2026-08-08T05:26:43+09:00",
+    "nextScheduledAt": "2026-08-09T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
