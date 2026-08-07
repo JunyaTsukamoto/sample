@@ -119,3 +119,39 @@ python cluster_issues.py \
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+## Gemma 4による探索的分類
+
+階層クラスタリングとは別に、ローカルのOllamaで `gemma4:latest` を使い、固定した暫定分類体系へ分類できます。分類体系は `taxonomy.json` にあり、13の主分類、小分類、最大2件の副分類を定義しています。これは正解ラベルの自動確定ではなく、研究者が分類体系を修正するための一次コーディングです。
+
+Ollamaを導入後、モデルを取得します（約9.6GB）。
+
+```bash
+ollama pull gemma4
+```
+
+分類を実行します。
+
+```bash
+.venv/bin/python llm_classify.py \
+  "/Users/tj/Downloads/防災訓練_課題一覧_v2.xlsx" \
+  --output outputs_llm/gemma4_classifications.jsonl \
+  --batch-size 12
+```
+
+出力は1課題1行のJSON Lines形式です。各行に以下を記録します。
+
+- Excel行番号と元の課題文
+- 主分類コード・名称・小分類
+- 最大2件の副分類コード・名称
+- 信頼度、要確認フラグ、判断根拠
+- 医療語や無線などに対する簡易監査警告
+
+途中で停止しても、同じコマンドを再実行すると保存済み行を読み飛ばして再開します。初めからやり直す場合だけ `--overwrite` を付けてください。`--limit 20` や `--rows 20 55 408` で少数件の試行もできます。
+
+### 解釈と品質管理
+
+- `confidence` はモデルの自己評価であり、正解確率ではありません。
+- `review_required=true`、監査警告あり、希少カテゴリ、複数テーマの文を優先して人手確認してください。
+- `taxonomy.json` を研究目的に合わせて改訂した場合、分類体系の版と出力を一緒に保存してください。
+- 再現性のため温度0、seed 42を指定していますが、ローカル推論環境の違いで出力が完全一致しない場合があります。

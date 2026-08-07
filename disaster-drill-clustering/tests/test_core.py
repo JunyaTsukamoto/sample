@@ -3,6 +3,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 import numpy as np
 from openpyxl import Workbook, load_workbook
@@ -24,6 +25,14 @@ apply_cluster_names = importlib.util.module_from_spec(NAMES_SPEC)
 sys.modules[NAMES_SPEC.name] = apply_cluster_names
 assert NAMES_SPEC.loader is not None
 NAMES_SPEC.loader.exec_module(apply_cluster_names)
+
+LLM_SPEC = importlib.util.spec_from_file_location(
+    "llm_classify", PROJECT_ROOT / "llm_classify.py"
+)
+llm_classify = importlib.util.module_from_spec(LLM_SPEC)
+sys.modules[LLM_SPEC.name] = llm_classify
+assert LLM_SPEC.loader is not None
+LLM_SPEC.loader.exec_module(llm_classify)
 
 
 class CoreTests(unittest.TestCase):
@@ -177,6 +186,81 @@ class CoreTests(unittest.TestCase):
             self.assertEqual(sheet["C2"].value, "情報共有")
             self.assertEqual(sheet["C3"].value, "避難誘導")
             result.close()
+
+    def test_llm_validation_adds_names_and_review_guardrail(self):
+        taxonomy = {
+            "categories": [
+                {"code": "C09", "name": "医療・保健・福祉"},
+                {"code": "C10", "name": "資機材・施設・システム"},
+                {"code": "C13", "name": "その他・複合・判断困難"},
+            ]
+        }
+        issues = [
+            llm_classify.Issue(55, "使える施設をトリアージ的に選ぶ訓練が不足")
+        ]
+        raw = [{
+            "excel_row": 55,
+            "primary_code": "C09",
+            "primary_subcategory": "救護・トリアージ",
+            "secondary_codes": ["C13"],
+            "issue_summary": "施設選定訓練の不足",
+            "confidence": 0.85,
+            "review_required": False,
+            "rationale": "トリアージという語があるため",
+        }]
+
+        result = llm_classify.validate_batch(raw, issues, taxonomy)[0]
+
+        self.assertEqual(result["primary_category"], "医療・保健・福祉")
+        self.assertTrue(result["review_required"])
+        self.assertTrue(result["rule_warnings"])
+
+    def test_llm_low_confidence_requires_review(self):
+        taxonomy = {"categories": [{"code": "C13", "name": "その他"}]}
+        issues = [llm_classify.Issue(2, "情報が不足している")]
+        raw = [{
+            "excel_row": 2,
+            "primary_code": "C13",
+            "primary_subcategory": "情報不足",
+            "secondary_codes": [],
+            "issue_summary": "情報不足",
+            "confidence": 0.70,
+            "review_required": False,
+            "rationale": "文脈が不足",
+        }]
+
+        self.assertTrue(llm_classify.validate_batch(raw, issues, taxonomy)[0]["review_required"])
+
+    def test_llm_failed_large_batch_is_split(self):
+        taxonomy = {"categories": [{"code": "C13", "name": "その他"}]}
+        issues = [llm_classify.Issue(row, f"課題{row}") for row in range(2, 6)]
+
+        def fake_call(endpoint, model, prompt, group, schema, timeout):
+            selected = group[:1] if len(group) > 2 else group
+            return [{
+                "excel_row": issue.excel_row,
+                "primary_code": "C13",
+                "primary_subcategory": "情報不足",
+                "secondary_codes": [],
+                "confidence": 0.7,
+                "review_required": True,
+                "rationale": "情報不足",
+            } for issue in selected]
+
+        with mock.patch.object(llm_classify, "call_ollama", side_effect=fake_call), \
+             mock.patch.object(llm_classify.time, "sleep"):
+            results = llm_classify.classify_group(
+                issues,
+                endpoint="http://localhost",
+                model="gemma4",
+                prompt="prompt",
+                schema={},
+                taxonomy=taxonomy,
+                timeout=1,
+                retries=2,
+            )
+
+        self.assertEqual([item["excel_row"] for item in results], [2, 3, 4, 5])
 
 
 if __name__ == "__main__":
