@@ -3,4 +3,5 @@ __pycache__/
 *.py[cod]
 outputs/
 outputs_llm/
+outputs_phrase_analysis/
 .DS_Store
