@@ -13413,12 +13413,12 @@
         "環境"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.9,
       "contentHash": "ee83e0aa3ee262e8be165b921e00e3da221ccff500b9a3c958f77caa1a92adf7",
       "trendScore": 7.65,
       "createdAt": "2026-08-10T05:17:40+09:00",
-      "updatedAt": "2026-08-10T05:17:40+09:00"
+      "updatedAt": "2026-08-10T20:29:26.926Z"
     },
     {
       "id": "https://www.kyoto-u.ac.jp/ja/event/2026-08-07",
@@ -13449,12 +13449,552 @@
         "研究者交流"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.9,
       "contentHash": "4c5f01f6108d75484107a520a5a08738bc1c78f9577c851f9cb8e65228473fc8",
       "trendScore": 7.65,
       "createdAt": "2026-08-10T05:17:46+09:00",
-      "updatedAt": "2026-08-10T05:17:46+09:00"
+      "updatedAt": "2026-08-10T20:29:26.926Z"
+    },
+    {
+      "id": "https://qiita.com/mediaandtechnologyautomotive/items/f8dc47cb89ab37eff9b6",
+      "title": "3Dデジタルアセット市場の成長要因と技術トレンド：AR・VR・クラウドが変える3Dコンテンツ制作 - Qiita",
+      "originalTitle": "3Dデジタルアセット市場の成長要因と技術トレンド：AR・VR・クラウドが変える3Dコンテンツ制作",
+      "summary": "3Dデジタルアセット市場は、2032年までに12.7%の年平均成長率で成長すると予測されています。ARやVRの利用拡大が市場拡大の大きな要因の一つです。クラウドコンピューティングの進歩によって、3Dコンテンツの制作が変わり、リアルタイムコラボレーションや3Dアセットのオンライン共有が可能になっています。ソフトウェアセグメントが市場全体の55%を占め、最大のシェアとなっています。AIの統合によって、3Dモデルの生成や編集、アニメーション制作、レンダリングワークフローなどの一部の",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/mediaandtechnologyautomotive/items/f8dc47cb89ab37eff9b6",
+      "originalUrl": "https://qiita.com/mediaandtechnologyautomotive/items/f8dc47cb89ab37eff9b6",
+      "finalUrl": "https://qiita.com/mediaandtechnologyautomotive/items/f8dc47cb89ab37eff9b6",
+      "publishedAt": "2026-08-11T05:11:33+09:00",
+      "collectedAt": "2026-08-11T05:28:02+09:00",
+      "scrapedAt": "2026-08-11T05:28:02+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "3Dデジタルアセット",
+        "AR",
+        "クラウドコンピューティング"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "ca846f7f3a4baa84cbd29ce85090704b6b8ecfb889620fbc0dd0dfb18c7ee22b",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-11T05:28:02+09:00",
+      "updatedAt": "2026-08-11T05:28:02+09:00"
+    },
+    {
+      "id": "https://qiita.com/singula/items/370cdc923186e1473a48",
+      "title": "AIに仕事を奪われる不安から始めるハーネス作成入門 第21回 ハーネス作成をポートフォリオ化する方法 - Qiita",
+      "originalTitle": "AIに仕事を奪われる不安から始めるハーネス作成入門 第21回 ハーネス作成をポートフォリオ化する方法",
+      "summary": "ハーネス作成入門の第21回では、ハーネス作成をポートフォリオ化する方法について説明している。ハーネスを作る過程で得た技術や知見を「見える化」するために、ポートフォリオを作成することが重要である。ポートフォリオの3層構造として、コード層、解説層、概要層を意識することで、整理しやすくなり、GitHubのREADMEとQiita記事に展開することができる。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/singula/items/370cdc923186e1473a48",
+      "originalUrl": "https://qiita.com/singula/items/370cdc923186e1473a48",
+      "finalUrl": "https://qiita.com/singula/items/370cdc923186e1473a48",
+      "publishedAt": "2026-08-11T05:10:48+09:00",
+      "collectedAt": "2026-08-11T05:28:08+09:00",
+      "scrapedAt": "2026-08-11T05:28:08+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ハーネス作成",
+        "ポートフォリオ",
+        "GitHub"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "11b2948c339b16fd1f7456d98998177aa0ec63cc51070288c5f3812aafe896cb",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-11T05:28:08+09:00",
+      "updatedAt": "2026-08-11T05:28:08+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/8e8cbd75973075aa8f55",
+      "title": "表に順番を書いたら、電卓が動いた ── 二十年追いかけたRPAが、Excelの上で完成した話 - Qiita",
+      "originalTitle": "表に順番を書いたら、電卓が動いた ── 二十年追いかけたRPAが、Excelの上で完成した話",
+      "summary": "二十年かけて開発されたRPAが、Excelの上で完成した。Windowsに最初から入っている仕組みとExcelを使って、電卓の計算を自動化することができた。表に順番を書いて実行すると、電卓が計算をして結果を返す。自動化ソフトが行う5つの動作を分解して、部品を拾う・押す・入れる・読む・順番に流すことができた。AIのClaudeと一緒にやれたことが大きかった。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/8e8cbd75973075aa8f55",
+      "originalUrl": "https://qiita.com/shu15511551/items/8e8cbd75973075aa8f55",
+      "finalUrl": "https://qiita.com/shu15511551/items/8e8cbd75973075aa8f55",
+      "publishedAt": "2026-08-11T04:15:08+09:00",
+      "collectedAt": "2026-08-11T05:28:14+09:00",
+      "scrapedAt": "2026-08-11T05:28:14+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "RPA",
+        "Excel",
+        "自動化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5a957fcec61c0f26912907269ca62bc8c7dcfd6b77327d1caea27c625d481f63",
+      "trendScore": 10.93,
+      "createdAt": "2026-08-11T05:28:14+09:00",
+      "updatedAt": "2026-08-11T05:28:14+09:00"
+    },
+    {
+      "id": "https://qiita.com/nakatada-lab/items/47a30ce06b93937da777",
+      "title": "Transformerは「大きくする」だけでいいのか ――再帰Transformerの推論制御から、学習効率化、そして通常Transformerの観測へ - Qiita",
+      "originalTitle": "Transformerは「大きくする」だけでいいのか ――再帰Transformerの推論制御から、学習効率化、そして通常Transformerの観測へ",
+      "summary": "現在の大規模言語モデルはTransformerを基盤としており、高い性能を実現しています。しかし、モデルが大規模になるにつれて、計算コストや学習時間も大きくなっています。再帰Transformerは同じ計算ブロックを繰り返すため、計算が進むにつれてモデルの状態がどのように変化するのかを観測しやすいという特徴があります。この研究では、推論時の計算制御から学習過程の観測・制御へ展開し、学習効率化ロジックの発見につなげました。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/nakatada-lab/items/47a30ce06b93937da777",
+      "originalUrl": "https://qiita.com/nakatada-lab/items/47a30ce06b93937da777",
+      "finalUrl": "https://qiita.com/nakatada-lab/items/47a30ce06b93937da777",
+      "publishedAt": "2026-08-10T21:42:19+09:00",
+      "collectedAt": "2026-08-11T05:28:19+09:00",
+      "scrapedAt": "2026-08-11T05:28:19+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:19+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Transformer",
+        "再帰Transformer",
+        "学習効率化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "52502a9228be19a3ca7632d03fd4dfd8a81a916838c43d7d99a2d682a6dba632",
+      "trendScore": 10.54,
+      "createdAt": "2026-08-11T05:28:19+09:00",
+      "updatedAt": "2026-08-11T05:28:19+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
+      "title": "第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました｜デジタル庁",
+      "originalTitle": "第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました",
+      "summary": "デジタル大臣奨励賞が第2回U18 AIチャンピオンシップで交付された。デジタル大臣奨励賞は、デジタル社会の実現に向けた人材育成につながる民間団体等の取組を支援することを目的としている。全国から237件の応募があり、6チームが決勝に出場した。肌に悩む男子高校生のためのAI肌分析サービス「SkinA+」の開発について発表した星晴登さんにデジタル大臣奨励賞が授与された。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
+      "originalUrl": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
+      "finalUrl": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
+      "publishedAt": "2026-08-10T15:00:00+09:00",
+      "collectedAt": "2026-08-11T05:28:26+09:00",
+      "scrapedAt": "2026-08-11T05:28:26+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "U18 AIチャンピオンシップ",
+        "デジタル大臣奨励賞",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "e49a8b9234067818ce2e2242d60a4332ce024e6c450fca92d20a70dc3d5d048a",
+      "trendScore": 10.14,
+      "createdAt": "2026-08-11T05:28:26+09:00",
+      "updatedAt": "2026-08-11T05:28:26+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test",
+      "title": "自治体標準オープンデータセット（正式版）｜デジタル庁",
+      "originalTitle": "自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました",
+      "summary": "デジタル庁は、地方公共団体がオープンデータを公開する際に従うべきルールやフォーマットをまとめた「自治体標準オープンデータセット（正式版）」を公開しています。このデータセットには、公共施設一覧や文化財一覧、地域・年齢別人口などの項目が含まれています。地方公共団体は、オープンデータを更新する際にこのデータセットの適用を推奨しています。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test",
+      "originalUrl": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test",
+      "finalUrl": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test",
+      "publishedAt": "2026-08-10T15:00:00+09:00",
+      "collectedAt": "2026-08-11T05:28:32+09:00",
+      "scrapedAt": "2026-08-11T05:28:32+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "オープンデータ",
+        "デジタル庁",
+        "地方公共団体"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "f8ec56393c9aee1ac408951cf1354b4e68208884ff6bf096d9a3cfa9b104f3d2",
+      "trendScore": 10.14,
+      "createdAt": "2026-08-11T05:28:32+09:00",
+      "updatedAt": "2026-08-11T05:28:32+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/joho04_hh_001385.html",
+      "title": "国土交通省｜報道資料｜建設工事受注動態統計調査報告（令和８年６月分）",
+      "originalTitle": "���ݍH���󒍓��ԓ��v�����񍐁i�ߘa�W�N�U�����j",
+      "summary": "国土交通省は、令和8年6月分の建設工事受注動態統計調査報告を発表した。調査は約1万2千の建設業者を対象に行われ、公共機関・民間等からの毎月の受注額を発注者別、業種別、工事種類別、地域別に把握することを目的としている。調査結果は、e-Statや添付資料として公開されている。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/joho04_hh_001385.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/joho04_hh_001385.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/joho04_hh_001385.html",
+      "publishedAt": "2026-08-10T05:00:00+09:00",
+      "collectedAt": "2026-08-11T05:28:38+09:00",
+      "scrapedAt": "2026-08-11T05:28:38+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "建設工事",
+        "受注動態",
+        "統計調査"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "ef51c3fc4202d2b7c9df645cc9a56a48ad4c48698faddd6b6a330c5b0cc0781c",
+      "trendScore": 9.54,
+      "createdAt": "2026-08-11T05:28:38+09:00",
+      "updatedAt": "2026-08-11T05:28:38+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/port07_hh_000269.html",
+      "title": "国土交通省｜報道資料｜熊本地震に伴い八代海沿岸地域では浸水や冠水にご注意ください<br>～８月１３日前後の満潮時間帯を中心に潮位が非常に高くなります～",
+      "originalTitle": "�F�{�n�k�ɔ�������C���ݒn��ł͐Z���⊥���ɂ����ӂ��������`�W���P�R���O��̖������ԑт𒆐S�ɒ��ʂ����ɍ����Ȃ�܂��`",
+      "summary": "熊本地震により八代海沿岸地域では浸水や冠水のおそれがあります。八代市周辺の沿岸では8月11日から16日にかけての大潮の時期に、浸水や冠水のおそれがあります。被災地において、堤外地等で支援や復旧活動をされる際には、十分にご注意ください。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/port07_hh_000269.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/port07_hh_000269.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/port07_hh_000269.html",
+      "publishedAt": "2026-08-10T05:00:00+09:00",
+      "collectedAt": "2026-08-11T05:28:44+09:00",
+      "scrapedAt": "2026-08-11T05:28:44+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "熊本地震",
+        "浸水",
+        "八代海"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "786d9d4a720f50c792292fe3f20a4855fe4ad1ccf9b6ec21fc7a519e2842b3cd",
+      "trendScore": 9.54,
+      "createdAt": "2026-08-11T05:28:44+09:00",
+      "updatedAt": "2026-08-11T05:28:44+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000108.000092002.html",
+      "title": "【小中学生対象】地球温暖化を考え、表現する「Scratchプログラミングコンテスト」応募作品募集中！",
+      "originalTitle": "【小中学生対象】地球温暖化を考え、表現する「Scratchプログラミングコンテスト」応募作品募集中！",
+      "summary": "信濃毎日新聞社は、小中学生対象の「Scratchプログラミングコンテスト～りんごが育つ地球を取り戻せ！～」の作品を募集しています。地球温暖化について考え、Scratchでゲームを作り表現するコンテストで、最優秀作品には賞金5万円が贈呈されます。応募は9月30日までです。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000108.000092002.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000108.000092002.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000108.000092002.html",
+      "publishedAt": "2026-08-11T05:10:02+09:00",
+      "collectedAt": "2026-08-11T05:28:50+09:00",
+      "scrapedAt": "2026-08-11T05:28:50+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "Scratch",
+        "プログラミング",
+        "地球温暖化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "51adbf414ccb09a8ed9af14e98189ac815924cfbc0eea10db029151bb5dba212",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-11T05:28:50+09:00",
+      "updatedAt": "2026-08-11T05:28:50+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000234.000099719.html",
+      "title": "埼玉県と連携した支援チームにふじみ野市職員を派遣",
+      "originalTitle": "埼玉県と連携した支援チームにふじみ野市職員を派遣",
+      "summary": "埼玉県と連携した支援チームにふじみ野市職員を派遣するため、激励式を開催した。熊本地震の被災自治体を支援するために、ふじみ野市職員2名が8月11日から18日まで熊本県熊本市に派遣される。派遣職員は避難所運営支援業務などを行う。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000234.000099719.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000234.000099719.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000234.000099719.html",
+      "publishedAt": "2026-08-11T05:10:02+09:00",
+      "collectedAt": "2026-08-11T05:28:55+09:00",
+      "scrapedAt": "2026-08-11T05:28:55+09:00",
+      "lastVerifiedAt": "2026-08-11T05:28:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "熊本地震",
+        "災害派遣",
+        "ふじみ野市"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "9ef2bdde75e411fd7eefa8da8a95b993b39bc5a393b6343a2775ec82470477d4",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-11T05:28:55+09:00",
+      "updatedAt": "2026-08-11T05:28:55+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000188.000161189.html",
+      "title": "まつげパーマ専門店「ケイトステージラッシュ福山駅前店」、Hot Pepper Beautyのクチコミ250件を突破 2026年8月時点で266件（サロン平均★4.80）に",
+      "originalTitle": "まつげパーマ専門店「ケイトステージラッシュ福山駅前店」、Hot Pepper Beautyのクチコミ250件を突破　2026年8月時点で266件（サロン平均★4.80）に",
+      "summary": "まつげパーマ専門店「ケイトステージラッシュ福山駅前店」は、Hot Pepper Beautyのクチコミが2026年8月時点で266件（サロン平均★4.80）に達し、250件を突破しました。Googleマップのクチコミも63件（★4.9）を数えます。店舗はJR福山駅から徒歩3分という通いやすさが、リピート来店とクチコミの積み重ねを支えています。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000188.000161189.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000188.000161189.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000188.000161189.html",
+      "publishedAt": "2026-08-11T05:10:02+09:00",
+      "collectedAt": "2026-08-11T05:29:02+09:00",
+      "scrapedAt": "2026-08-11T05:29:02+09:00",
+      "lastVerifiedAt": "2026-08-11T05:29:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "まつげパーマ",
+        "クチコミ",
+        "福山"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "fd71200c8bca60891abff05901fc098bd4a9baaa2cb0a180d9087f999d03c1c4",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-11T05:29:02+09:00",
+      "updatedAt": "2026-08-11T05:29:02+09:00"
+    },
+    {
+      "id": "https://www.itmedia.co.jp/business/articles/2608/10/news064.html",
+      "title": "�X�V���[���u���M�v��a�H���Ƃɏ��n�@5�N�O�ɋg��Ƃ��甃���A��]�����Ɍo�c�������W��",
+      "originalTitle": "スシローが「京樽」を和食さとに譲渡　5年前に吉野家から買収、回転ずしに経営資源を集中",
+      "summary": "FacebookのHRシステムを導入した会社では、従業員の評価や育て方が変わり、会社の文化も変化した。従業員の評価は、OKRという目標管理システムで行われ、従業員の成長を促すために、フィードバックを重視している。会社の文化も、従業員の成長と幸福を重視するようになった。",
+      "summarySource": "llm",
+      "source": "ITmedia ビジネス",
+      "sourceId": "src-itmedia-biz",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/10/news064.html",
+      "originalUrl": "https://www.itmedia.co.jp/business/articles/2608/10/news064.html",
+      "finalUrl": "https://www.itmedia.co.jp/business/articles/2608/10/news064.html",
+      "publishedAt": "2026-08-10T10:54:00+09:00",
+      "collectedAt": "2026-08-11T05:29:08+09:00",
+      "scrapedAt": "2026-08-11T05:29:08+09:00",
+      "lastVerifiedAt": "2026-08-11T05:29:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "Facebook",
+        "HR",
+        "OKR"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "ec19e1e57cf4ec61491890e604fa8256cd60dec3457b56be557f85008a8187e1",
+      "trendScore": 9.89,
+      "createdAt": "2026-08-11T05:29:08+09:00",
+      "updatedAt": "2026-08-11T05:29:08+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026998937",
+      "title": "伝統ある理系が大きく進化。地球の未来に貢献する成長分野の人材を育成～甲南大学～ - 大学ジャーナルオンライン",
+      "originalTitle": "伝統ある理系が大きく進化。地球の未来に貢献する成長分野の人材を育成～甲南大学～",
+      "summary": "甲南大学は「進化型理系」の取り組みを進めており、理工学部に新設された「環境・エネルギー工学科」をはじめとする理系3学部の学びを発展させている。環境問題やエネルギー技術に取り組む学科であり、学科の枠を超えた分野横断型のカリキュラムを特徴としている。また、理系棟の新設も予定されており、環境・エネルギー工学科の専有フロアと共用フロアがあり、他の理系学部・学科が学ぶ他の建物とつながることで、学生がつながり、互いが融合する知の交差点としての役割を果たすことが期待されている。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026998937",
+      "originalUrl": "https://univ-journal.jp/column/2026998937/",
+      "finalUrl": "https://univ-journal.jp/column/2026998937",
+      "publishedAt": "2026-08-10T07:00:19+09:00",
+      "collectedAt": "2026-08-11T05:29:15+09:00",
+      "scrapedAt": "2026-08-11T05:29:15+09:00",
+      "lastVerifiedAt": "2026-08-11T05:29:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "甲南大学",
+        "進化型理系",
+        "環境・エネルギー工学科"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "f3ccb715c2acd62c622652cb60f4a7e67ba8bab0de6a6b79319054b74735d804",
+      "trendScore": 9.66,
+      "createdAt": "2026-08-11T05:29:15+09:00",
+      "updatedAt": "2026-08-11T05:29:15+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000154",
+      "title": "高速道路での逆走発生過程を連続的に可視化 大阪大学が自動車保険加入者の車両走行データ利用で実現",
+      "originalTitle": "高速道路での逆走発生過程を連続的に可視化　大阪大学が自動車保険加入者の車両走行データ利用で実現",
+      "summary": "大阪大学の研究グループは、自動車保険加入者の車両走行データを利用して、高速道路での逆走発生過程を連続的に可視化することに成功した。高速道路の任意の時間・空間範囲で逆走発生過程を再現することが可能になり、逆走対策の立案に役立つと期待される。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000154",
+      "originalUrl": "https://univ-journal.jp/1000154/",
+      "finalUrl": "https://univ-journal.jp/1000154",
+      "publishedAt": "2026-08-09T17:00:47+09:00",
+      "collectedAt": "2026-08-11T05:29:20+09:00",
+      "scrapedAt": "2026-08-11T05:29:20+09:00",
+      "lastVerifiedAt": "2026-08-11T05:29:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "高速道路",
+        "逆走",
+        "可視化"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "5342a4a0305a02e419533b929bade6014bf1b833cd7e8a0b024e04275e332b7b",
+      "trendScore": 8.83,
+      "createdAt": "2026-08-11T05:29:20+09:00",
+      "updatedAt": "2026-08-11T05:29:20+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/954029",
+      "title": "全国からファンが訪問｢水島臨海鉄道｣集客の秘訣 少ない社員数でイベント､クラファン…どう実現？",
+      "originalTitle": "全国からファンが訪問｢水島臨海鉄道｣集客の秘訣　少ない社員数でイベント､クラファン…どう実現？ | ビジネス | 東洋経済オンライン",
+      "summary": "岡山県倉敷市を走る水島臨海鉄道は、全国の鉄道ファンから注目を集めている。SNSやクラウドファンディング、斬新なイベント企画の舞台裏には、現場の若手社員の熱意や柔軟なアイデアがあります。水島臨海鉄道は、少ない社員数でイベントやクラウドファンディングを実現させている。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/954029",
+      "originalUrl": "https://toyokeizai.net/articles/-/954029?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/954029",
+      "publishedAt": "2026-08-11T04:30:00+09:00",
+      "collectedAt": "2026-08-11T05:29:26+09:00",
+      "scrapedAt": "2026-08-11T05:29:26+09:00",
+      "lastVerifiedAt": "2026-08-11T05:29:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "水島臨海鉄道",
+        "鉄道ファン",
+        "クラウドファンディング"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "77d9cc7793cf5caaedda6dbbecebcf9c1e1f5d67a47b7829755dd74fe82ffeb2",
+      "trendScore": 10.94,
+      "createdAt": "2026-08-11T05:29:26+09:00",
+      "updatedAt": "2026-08-11T05:29:26+09:00"
     }
   ],
   "sources": [
@@ -13467,8 +14007,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-10T05:16:14+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:16+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:00+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13480,8 +14020,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-10T05:16:30+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:30+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:14+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13493,8 +14033,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-10T05:16:35+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:37+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:19+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13519,8 +14059,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-10T05:16:37+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:39+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:20+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13532,8 +14072,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-10T05:16:39+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:40+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:21+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13545,8 +14085,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-10T05:16:40+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:41+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:32+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13558,8 +14098,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-10T05:16:41+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:42+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:32+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13571,8 +14111,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-10T05:16:43+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:44+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:35+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:36+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13675,8 +14215,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-10T05:16:44+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:45+09:00",
+      "lastFetchedAt": "2026-08-11T05:28:44+09:00",
+      "lastSuccessAt": "2026-08-11T05:28:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13714,8 +14254,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-10T05:16:58+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:59+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:02+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13727,8 +14267,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-10T05:16:59+09:00",
-      "lastSuccessAt": "2026-08-10T05:16:59+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:02+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13740,8 +14280,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-10T05:16:59+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:01+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:03+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13753,8 +14293,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-10T05:17:01+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:01+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:04+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13766,8 +14306,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-10T05:17:01+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:02+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:04+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13779,8 +14319,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-10T05:17:02+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:03+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:05+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13805,8 +14345,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-10T05:17:03+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:04+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:05+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13870,8 +14410,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-10T05:17:06+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:08+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:09+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -13883,8 +14423,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-10T05:17:22+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:23+09:00",
+      "lastFetchedAt": "2026-08-11T05:29:20+09:00",
+      "lastSuccessAt": "2026-08-11T05:29:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14045,6 +14585,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260811-0528",
+      "scheduledAt": "2026-08-11T05:28:00+09:00",
+      "startedAt": "2026-08-11T05:28:00+09:00",
+      "finishedAt": "2026-08-11T05:29:26+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 74,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260810-0516",
       "scheduledAt": "2026-08-10T05:16:14+09:00",
@@ -14673,10 +15228,10 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-10T05:17:52+09:00",
-    "lastSuccessAt": "2026-08-10T05:17:52+09:00",
-    "nextScheduledAt": "2026-08-11T05:00:00+09:00",
-    "lastJobStatus": "partial_success"
+    "lastCollectionAt": "2026-08-11T05:29:26+09:00",
+    "lastSuccessAt": "2026-08-11T05:29:26+09:00",
+    "nextScheduledAt": "2026-08-12T05:00:00+09:00",
+    "lastJobStatus": "success"
   },
   "preferences": {
     "categories": {
