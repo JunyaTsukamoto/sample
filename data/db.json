@@ -13995,6 +13995,510 @@
       "trendScore": 10.94,
       "createdAt": "2026-08-11T05:29:26+09:00",
       "updatedAt": "2026-08-11T05:29:26+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/c9fd497368a99fa9f7a9",
+      "title": "VBAマネージャーがすごすぎて、AIの感覚が追いついていないんじゃないか事件の話 - Qiita",
+      "originalTitle": "VBAマネージャーがすごすぎて、AIの感覚が追いついていないんじゃないか事件の話",
+      "summary": "VBAマネージャーが作成した道具のことを、作った本人が正しく見積もれていない話をします。会話するだけでマクロが直る、フォームも作れる、という道具を作って公開しています。実際に動いています。ところが、その道具を毎日使っているAIが、いまだに「人が手で作ったら何分かかるか」で物事を見積もっていました。二日のあいだに、同じ型の間違いを二度見ました。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/c9fd497368a99fa9f7a9",
+      "originalUrl": "https://qiita.com/shu15511551/items/c9fd497368a99fa9f7a9",
+      "finalUrl": "https://qiita.com/shu15511551/items/c9fd497368a99fa9f7a9",
+      "publishedAt": "2026-08-12T05:15:13+09:00",
+      "collectedAt": "2026-08-12T05:29:52+09:00",
+      "scrapedAt": "2026-08-12T05:29:52+09:00",
+      "lastVerifiedAt": "2026-08-12T05:29:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "VBAマネージャー",
+        "AI",
+        "Excel"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a62ee5872224640509f3e689ffa606863ceddcf28f2653970ddc254e3805fe4c",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-12T05:29:52+09:00",
+      "updatedAt": "2026-08-12T05:29:52+09:00"
+    },
+    {
+      "id": "https://qiita.com/berrylove/items/fb248172bcff7d7af223",
+      "title": "テストが本番相当のデータを3回壊した話 — 疑うべきは『他人』より『自分』だった - Qiita",
+      "originalTitle": "テストが本番相当のデータを3回壊した話 — 疑うべきは『他人』より『自分』だった",
+      "summary": "テストコードが本番相当のデータを3回壊した事故について、原因にたどり着くまでの調査プロセスを説明する。最初の仮説は外れていて、正しい原因にたどり着けたのは「疑わしきは自分を疑う」という地味な裏取りのおかげでした。原因はテストコード側にあり、書き込み先を決めるグローバル定数をテスト用の場所へ差し替えていなかったため、正規の出力先パスへ合成データ1件分の内容が上書きされていた。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/berrylove/items/fb248172bcff7d7af223",
+      "originalUrl": "https://qiita.com/berrylove/items/fb248172bcff7d7af223",
+      "finalUrl": "https://qiita.com/berrylove/items/fb248172bcff7d7af223",
+      "publishedAt": "2026-08-12T04:09:31+09:00",
+      "collectedAt": "2026-08-12T05:29:58+09:00",
+      "scrapedAt": "2026-08-12T05:29:58+09:00",
+      "lastVerifiedAt": "2026-08-12T05:29:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "テストコード",
+        "デバッグ",
+        "個人開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "bd9941a2b56cd279c91f36573aef6f8b264eb7b87379b5fac6cd0291ae228c4a",
+      "trendScore": 10.92,
+      "createdAt": "2026-08-12T05:29:58+09:00",
+      "updatedAt": "2026-08-12T05:29:58+09:00"
+    },
+    {
+      "id": "https://qiita.com/ilovevideoeditor/items/843787f5c0e9843695dc",
+      "title": "Building a Reliable AI Video Pipeline with VideoJSON and MCP - Qiita",
+      "originalTitle": "Building a Reliable AI Video Pipeline with VideoJSON and MCP",
+      "summary": "AIビデオパイプラインを構築する際の課題として、AIエージェントがストーリーボードを生成するのは容易だが、毎回同じ正しいビデオを生成することは別のエンジニアリングの問題であることが挙げられる。そこで、タイミングを明示的にし、すべてのアセットを検証し、テキストを読みやすくし、再試行に耐えられるようにする必要がある。CreativeBrief、ScenePlan、VideoJSONを使用して、創造的な意図と実行を分離することで、決定的なレンダリング契約を実現することができる。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/ilovevideoeditor/items/843787f5c0e9843695dc",
+      "originalUrl": "https://qiita.com/ilovevideoeditor/items/843787f5c0e9843695dc",
+      "finalUrl": "https://qiita.com/ilovevideoeditor/items/843787f5c0e9843695dc",
+      "publishedAt": "2026-08-12T03:47:11+09:00",
+      "collectedAt": "2026-08-12T05:30:04+09:00",
+      "scrapedAt": "2026-08-12T05:30:04+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI",
+        "ビデオパイプライン",
+        "VideoJSON"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "44a9528d2aa343819876007b48662a60d1dc8f91e56f4234e95e0b94d1c768a6",
+      "trendScore": 10.9,
+      "createdAt": "2026-08-12T05:30:04+09:00",
+      "updatedAt": "2026-08-12T05:30:04+09:00"
+    },
+    {
+      "id": "https://qiita.com/Sudeepbhivajikedar/items/c0b88b51118fc3c5a672",
+      "title": "感情コンピューティングとは？感情AI・機械学習・クラウド活用から市場動向まで - Qiita",
+      "originalTitle": "感情コンピューティングとは？感情AI・機械学習・クラウド活用から市場動向まで",
+      "summary": "感情コンピューティングは、人間の感情をコンピューターが認識・解釈し、その状態に応じた反応を行うための技術分野です。人工知能（AI）、機械学習（ML）、自然言語処理、音声認識、画像認識など、複数の技術を組み合わせて実現されます。感情コンピューティングでは、ユーザーから取得したさまざまな情報を分析し、感情状態を推定します。感情AIは、感情コンピューティングを構成する重要な技術の一つです。感情コンピューティングは、カスタマーサポート、教育・eラーニング、ヘルスケア関連サービス、自動",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/Sudeepbhivajikedar/items/c0b88b51118fc3c5a672",
+      "originalUrl": "https://qiita.com/Sudeepbhivajikedar/items/c0b88b51118fc3c5a672",
+      "finalUrl": "https://qiita.com/Sudeepbhivajikedar/items/c0b88b51118fc3c5a672",
+      "publishedAt": "2026-08-12T01:35:32+09:00",
+      "collectedAt": "2026-08-12T05:30:10+09:00",
+      "scrapedAt": "2026-08-12T05:30:10+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:10+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "感情コンピューティング",
+        "感情AI",
+        "機械学習"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a1d36293f15497c39c40709c36cfccb63ab0b5347b3bf60b53c23806264925d9",
+      "trendScore": 10.77,
+      "createdAt": "2026-08-12T05:30:10+09:00",
+      "updatedAt": "2026-08-12T05:30:10+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000169.000012798.html",
+      "title": "【福利厚生にカタログギフトを活用・導入事例紹介①】",
+      "originalTitle": "【福利厚生にカタログギフトを活用・導入事例紹介１.】",
+      "summary": "訪問看護企業のRecovery International株式会社は、設立10周年を機に「社内アワード」を新設し、5年勤続社員にカタログギフトを贈呈している。受け取った社員は、好きな体験を選べるギフトを喜んでおり、家族や友人と共有することができている。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000169.000012798.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000169.000012798.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000169.000012798.html",
+      "publishedAt": "2026-08-12T05:10:02+09:00",
+      "collectedAt": "2026-08-12T05:30:18+09:00",
+      "scrapedAt": "2026-08-12T05:30:18+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:18+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "福利厚生",
+        "カタログギフト",
+        "社内アワード"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "10f671171abc41fdc907e5529b17c5fe0c730081635e0dc0668b1a97a8104443",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-12T05:30:18+09:00",
+      "updatedAt": "2026-08-12T05:30:18+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000103.000055597.html",
+      "title": "建設業のDX理解度32%の課題打破へ。株式会社No.1、クラウド業務管理「lagoona」の導入成果を公開〜ティオ社にて2年間で事務作業3割削減・アナログ脱却を実証〜",
+      "originalTitle": "建設業のDX理解度32%の課題打破へ。株式会社No.1、クラウド業務管理「lagoona」の導入成果を公開～ティオ社にて2年間で事務作業3割削減・アナログ脱却を実証～",
+      "summary": "建設業のDX理解度は32%と低いが、株式会社No.1のクラウド業務管理「lagoona」を導入したティオ社では、2年間で事務作業が3割削減され、アナログ業務から脱却した。情報の可視化と若手の成長支援が実現し、働き方改革が進んだ。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000103.000055597.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000103.000055597.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000103.000055597.html",
+      "publishedAt": "2026-08-12T05:10:02+09:00",
+      "collectedAt": "2026-08-12T05:30:24+09:00",
+      "scrapedAt": "2026-08-12T05:30:24+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:24+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "DX",
+        "建設業",
+        "クラウド業務管理"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "cbde8c8aa60079e2d12606debc842491064109cbf85eb6ba6625fa7851fe7c38",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-12T05:30:24+09:00",
+      "updatedAt": "2026-08-12T05:30:24+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000183",
+      "title": "方言支援ツールで熊本地震救援活動を支援 福岡女学院大学が作成",
+      "originalTitle": "方言支援ツールで熊本地震救援活動を支援　福岡女学院大学が作成",
+      "summary": "福岡女学院大学が熊本地震の救援活動を支援するために方言支援ツールを作成した。このツールは、熊本県内の方言を記録し、救援活動で熊本入りした医療・福祉スタッフやボランティアらに役立ててもらうことを目的としている。ツールには、身体や心情、動作を表す言葉などが記録されており、熱中症に関する言葉の文例集も加えられている。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000183",
+      "originalUrl": "https://univ-journal.jp/1000183/",
+      "finalUrl": "https://univ-journal.jp/1000183",
+      "publishedAt": "2026-08-11T11:00:28+09:00",
+      "collectedAt": "2026-08-12T05:30:38+09:00",
+      "scrapedAt": "2026-08-12T05:30:38+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "方言支援ツール",
+        "熊本地震",
+        "福岡女学院大学"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "046766831335f1e1e7120d9fcf7a3ffca2a6b852580fba96db6eba9727b2d396",
+      "trendScore": 9.9,
+      "createdAt": "2026-08-12T05:30:38+09:00",
+      "updatedAt": "2026-08-12T05:30:38+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261000110",
+      "title": "2027年度入試 新学部や入試方式の変更が志望動向に影響する 慶應、上智、青学、中央、立命館大学など - 大学ジャーナルオンライン",
+      "originalTitle": "2027年度入試　新学部や入試方式の変更が志望動向に影響する　慶應、上智、青学、中央、立命館大学など",
+      "summary": "2027年度入試では、多くの大学が新学部を設置したり、入試の仕組みを変更する予定です。特に難関大の新学部設置や入試科目の変更は、近隣の他大学にも影響が及びます。慶應義塾大学、上智大学、青山学院大学、中央大学、立命館大学などが注目されます。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261000110",
+      "originalUrl": "https://univ-journal.jp/column/20261000110/",
+      "finalUrl": "https://univ-journal.jp/column/20261000110",
+      "publishedAt": "2026-08-11T07:00:42+09:00",
+      "collectedAt": "2026-08-12T05:30:44+09:00",
+      "scrapedAt": "2026-08-12T05:30:44+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "大学入試",
+        "新学部",
+        "入試方式"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d7e716172d636f022d1f02fcae9b3b7e1571c9420172131311009fd9a81ff787",
+      "trendScore": 9.66,
+      "createdAt": "2026-08-12T05:30:44+09:00",
+      "updatedAt": "2026-08-12T05:30:44+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000157",
+      "title": "重症のPMS・PMDDにエクオールが有効な可能性 近畿大学が厳密な臨床試験で確認",
+      "originalTitle": "重症のPMS・PMDDにエクオールが有効な可能性　近畿大学が厳密な臨床試験で確認",
+      "summary": "近畿大学東洋医学研究所の研究グループは、月経前症候群（PMS）および月経前不快気分障害（PMDD）に対するエクオール含有サプリメントの有効性を確認した。エクオールは大豆イソフラボンから腸内細菌によって産生され、女性ホルモン調節作用がある。研究では、エクオールを産生できない女性119人を対象に、エクオール含有食品またはプラセボを3カ月間摂取してもらう無作為化二重盲検プラセボ対照比較試験を実施した。結果、重症のPMS・PMDDに対してエクオールが有効である可能性が示唆された。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000157",
+      "originalUrl": "https://univ-journal.jp/1000157/",
+      "finalUrl": "https://univ-journal.jp/1000157",
+      "publishedAt": "2026-08-10T17:00:08+09:00",
+      "collectedAt": "2026-08-12T05:30:50+09:00",
+      "scrapedAt": "2026-08-12T05:30:50+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "PMS",
+        "PMDD",
+        "エクオール"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "4b97358f637ad38e39aab1e31acf81b2d059d88b566b513b2fd9ce2df573ef43",
+      "trendScore": 8.83,
+      "createdAt": "2026-08-12T05:30:50+09:00",
+      "updatedAt": "2026-08-12T05:30:50+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/954538",
+      "title": "【人材育成のプロ・坂井風太】DeNAを辞めるきっかけになった本／「不安」は社員に伝染する／リーダーは「哲学」に学べ／レビューがない本は“お宝”／書店で選んだ「14冊」【達人に密着！本の選び方】",
+      "originalTitle": "【人材育成のプロ・坂井風太】DeNAを辞めるきっかけになった本／「不安」は社員に伝染する／リーダーは「哲学」に学べ／レビューがない本は“お宝”／書店で選んだ「14冊」【達人に密着！本の選び方】 | ビジネス | 東洋経済オンライン",
+      "summary": "人材育成のプロである坂井風太は、DeNAを辞めるきっかけになった本について話している。リーダーは「哲学」に学ぶことが重要であり、「不安」は社員に伝染することがある。坂井さんは書店で選んだ14冊の本についても紹介している。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/954538",
+      "originalUrl": "https://toyokeizai.net/articles/-/954538?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/954538",
+      "publishedAt": "2026-08-11T19:00:00+09:00",
+      "collectedAt": "2026-08-12T05:30:56+09:00",
+      "scrapedAt": "2026-08-12T05:30:56+09:00",
+      "lastVerifiedAt": "2026-08-12T05:30:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "人材育成",
+        "リーダーシップ",
+        "本"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "41d4b1dc3d618237e25454331d77270aca804c2c56f3a489156afc29aaa0602c",
+      "trendScore": 10.37,
+      "createdAt": "2026-08-12T05:30:56+09:00",
+      "updatedAt": "2026-08-12T05:30:56+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/954516",
+      "title": "中国で高級品消費を巡る価値観が大きく変化､｢ブランドバッグ｣よりも｢スキンケア製品｣への支出が優先される背景事情",
+      "originalTitle": "中国で高級品消費を巡る価値観が大きく変化､｢ブランドバッグ｣よりも｢スキンケア製品｣への支出が優先される背景事情 | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "中国の消費者心理の変化により、高級品市場に新たな潮流が生まれています。中国では、高級品消費の価値観が大きく変化しており、ブランドバッグよりもスキンケア製品への支出が優先される傾向にあります。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/954516",
+      "originalUrl": "https://toyokeizai.net/articles/-/954516?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/954516",
+      "publishedAt": "2026-08-11T12:10:00+09:00",
+      "collectedAt": "2026-08-12T05:31:02+09:00",
+      "scrapedAt": "2026-08-12T05:31:02+09:00",
+      "lastVerifiedAt": "2026-08-12T05:31:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "中国",
+        "高級品",
+        "消費者心理"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "7663ceb8e9faf5d6685f28a8f8b02e4a170f7b48e1cb6ae3cfbe04dc01405521",
+      "trendScore": 9.97,
+      "createdAt": "2026-08-12T05:31:02+09:00",
+      "updatedAt": "2026-08-12T05:31:02+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/953767",
+      "title": "商談やプレゼンで｢緊張がバレる人｣の共通点 非言語コミュニケーションの専門家が教える\"表情コントロールの裏ワザ\"",
+      "originalTitle": "商談やプレゼンで｢緊張がバレる人｣の共通点　非言語コミュニケーションの専門家が教える\"表情コントロールの裏ワザ\" | ライフ | 東洋経済オンライン",
+      "summary": "商談やプレゼンで緊張が表に出てしまう人は、顔の上半分に本心が出やすいことが原因である。非言語コミュニケーションの専門家は、表情コントロールの方法を紹介している。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/953767",
+      "originalUrl": "https://toyokeizai.net/articles/-/953767?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/953767",
+      "publishedAt": "2026-08-11T12:00:00+09:00",
+      "collectedAt": "2026-08-12T05:31:08+09:00",
+      "scrapedAt": "2026-08-12T05:31:08+09:00",
+      "lastVerifiedAt": "2026-08-12T05:31:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "非言語コミュニケーション",
+        "表情コントロール",
+        "プレゼン"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "21434d9ca99bef3fe9ecbf5c7a5492b583df33e569045ce9b55fb32d61552cd3",
+      "trendScore": 9.96,
+      "createdAt": "2026-08-12T05:31:08+09:00",
+      "updatedAt": "2026-08-12T05:31:08+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/396751",
+      "title": "正義マン、うざっ！「プライドが高い人」の典型的な特徴【マンガ】",
+      "originalTitle": "正義マン、うざっ！「プライドが高い人」の典型的な特徴【マンガ】 - マネーの拳で学ぶ起業経営リアル塾",
+      "summary": "外資系ファンドの日本代表が投資先社長を「断頭台に送る」と言ったワケ。プライドの高い福沢は「投資家こそが唯一の善。正義は常に我々にあるのです」と豪語する。ファンドにとって、企業経営者は「恩知らず」なのか。企業側の理屈とファンドをはじめとする株主の理屈は、時に相反することがある。日本企業にも強く突きつけられている課題と言える。",
+      "summarySource": "llm",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/396751",
+      "originalUrl": "https://diamond.jp/articles/-/396751",
+      "finalUrl": "https://diamond.jp/articles/-/396751",
+      "publishedAt": "2026-08-12T05:30:00+09:00",
+      "collectedAt": "2026-08-12T05:31:14+09:00",
+      "scrapedAt": "2026-08-12T05:31:14+09:00",
+      "lastVerifiedAt": "2026-08-12T05:31:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "マネーの拳",
+        "起業",
+        "経営"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "d004872052e3e0f69f3367c2eb3c427ff8c617f6af87ba5ce56ee86e7dbf982f",
+      "trendScore": 11,
+      "createdAt": "2026-08-12T05:31:14+09:00",
+      "updatedAt": "2026-08-12T05:31:14+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/382323",
+      "title": "【キーエンス】年収の浮沈で「損をした世代」は？平均年収2178万円の超高給企業でも若手が勝ち組、シニア世代が負け組《20年間の年収推移を5世代別に独自試算・2026年版》",
+      "originalTitle": "【キーエンス】年収の浮沈で「損をした世代」は？平均年収2178万円の超高給企業でも若手が勝ち組、シニア世代が負け組《20年間の年収推移を5世代別に独自試算・2026年版》 - 5世代格差の残酷！主要100社26年版「20年間年収推移」 氷河期、バブル…どの世代が損をした？",
+      "summary": "キーエンスは、工場の自動化や品質向上を支える機器を手掛ける会社で、2026年4～6月期の純利益が前年同期比51％増の1391億円に達した。平均年収も2178万円と、5年連続で2000万円を超えた。しかし、年齢別に長期で年収を比べた場合、若手の社員が勝ち組となる一方、シニア世代が割を食う構図となった。",
+      "summarySource": "llm",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/382323",
+      "originalUrl": "https://diamond.jp/articles/-/382323",
+      "finalUrl": "https://diamond.jp/articles/-/382323",
+      "publishedAt": "2026-08-12T04:50:00+09:00",
+      "collectedAt": "2026-08-12T05:31:20+09:00",
+      "scrapedAt": "2026-08-12T05:31:20+09:00",
+      "lastVerifiedAt": "2026-08-12T05:31:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "キーエンス",
+        "年収格差",
+        "世代別年収"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "5d5a7a9c0e61b6674e3017fa99a3a4172e326d3e23a7f609a076ae8c2ebcf0b5",
+      "trendScore": 10.96,
+      "createdAt": "2026-08-12T05:31:20+09:00",
+      "updatedAt": "2026-08-12T05:31:20+09:00"
     }
   ],
   "sources": [
@@ -14007,8 +14511,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-11T05:28:00+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:00+09:00",
+      "lastFetchedAt": "2026-08-12T05:29:49+09:00",
+      "lastSuccessAt": "2026-08-12T05:29:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14020,8 +14524,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-11T05:28:14+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:14+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:04+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14033,8 +14537,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-11T05:28:19+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:20+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:10+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14059,8 +14563,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-11T05:28:20+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:21+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:10+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14072,8 +14576,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-11T05:28:21+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:21+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:11+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14085,8 +14589,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-11T05:28:32+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:32+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:11+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14098,8 +14602,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-11T05:28:32+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:33+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:12+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14111,8 +14615,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-11T05:28:35+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:36+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:14+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14215,8 +14719,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-11T05:28:44+09:00",
-      "lastSuccessAt": "2026-08-11T05:28:44+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:16+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14254,8 +14758,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-11T05:29:02+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:02+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:24+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14267,8 +14771,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-11T05:29:02+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:03+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:25+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14280,8 +14784,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-11T05:29:03+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:04+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:25+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14293,8 +14797,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-11T05:29:04+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:04+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:27+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14306,8 +14810,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-11T05:29:04+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:05+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:27+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14319,8 +14823,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-11T05:29:05+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:05+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:28+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14345,8 +14849,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-11T05:29:05+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:06+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:29+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14410,8 +14914,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-11T05:29:09+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:11+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:34+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14423,8 +14927,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-11T05:29:20+09:00",
-      "lastSuccessAt": "2026-08-11T05:29:22+09:00",
+      "lastFetchedAt": "2026-08-12T05:30:50+09:00",
+      "lastSuccessAt": "2026-08-12T05:30:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14436,8 +14940,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-10T05:17:34+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:35+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:08+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14449,8 +14953,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-10T05:17:35+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:36+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:20+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14462,9 +14966,9 @@
       "category": "社会×データ",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-10T05:17:36+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:22+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "bk-itmedia-enterprise",
@@ -14475,8 +14979,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-10T05:17:36+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:37+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:22+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14488,8 +14992,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-10T05:17:37+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:37+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:23+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14501,8 +15005,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-08-10T05:17:37+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:38+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:23+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14514,8 +15018,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-10T05:17:46+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:47+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:24+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14527,8 +15031,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-10T05:17:47+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:48+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:24+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14540,8 +15044,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-10T05:17:48+09:00",
-      "lastSuccessAt": "2026-08-10T05:17:48+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:25+09:00",
+      "lastSuccessAt": "2026-08-12T05:31:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -14553,9 +15057,9 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-10T05:17:48+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:25+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "bk-fsa",
@@ -14566,9 +15070,9 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-08-10T05:17:49+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:26+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     },
     {
       "id": "bk-jpo",
@@ -14579,12 +15083,44 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-08-10T05:17:50+09:00",
+      "lastFetchedAt": "2026-08-12T05:31:27+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 2
+      "consecutiveFailures": 3
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260812-0529",
+      "scheduledAt": "2026-08-12T05:29:49+09:00",
+      "startedAt": "2026-08-12T05:29:49+09:00",
+      "finishedAt": "2026-08-12T05:31:28+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 26,
+      "sourcesFailed": 4,
+      "candidatesFound": 160,
+      "duplicatesRemoved": 10,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 14,
+      "errors": [
+        {
+          "sourceId": "bk-jst",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-zdnet",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-fsa",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-jpo",
+          "message": "フィード取得失敗: Status code 403"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260811-0528",
       "scheduledAt": "2026-08-11T05:28:00+09:00",
@@ -15228,10 +15764,10 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-11T05:29:26+09:00",
-    "lastSuccessAt": "2026-08-11T05:29:26+09:00",
-    "nextScheduledAt": "2026-08-12T05:00:00+09:00",
-    "lastJobStatus": "success"
+    "lastCollectionAt": "2026-08-12T05:31:28+09:00",
+    "lastSuccessAt": "2026-08-12T05:31:28+09:00",
+    "nextScheduledAt": "2026-08-13T05:00:00+09:00",
+    "lastJobStatus": "partial_success"
   },
   "preferences": {
     "categories": {
