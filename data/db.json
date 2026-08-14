@@ -14514,11 +14514,11 @@
       "publishedAt": "2026-08-13T04:10:36+09:00",
       "collectedAt": "2026-08-13T05:28:02+09:00",
       "scrapedAt": "2026-08-13T05:28:02+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:02+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:34+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -14529,12 +14529,12 @@
         "数学"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "082499073c0899ec51fcbc23af12f789e29139e7490db53a05d5ce9ea888d06d",
       "trendScore": 10.92,
       "createdAt": "2026-08-13T05:28:02+09:00",
-      "updatedAt": "2026-08-13T05:28:02+09:00"
+      "updatedAt": "2026-08-14T09:09:34+09:00"
     },
     {
       "id": "https://qiita.com/kazuharu2022/items/8bcbe11f1cb79c79165b",
@@ -14550,11 +14550,11 @@
       "publishedAt": "2026-08-13T02:39:52+09:00",
       "collectedAt": "2026-08-13T05:28:08+09:00",
       "scrapedAt": "2026-08-13T05:28:08+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:08+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:34+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -14565,12 +14565,12 @@
         "Machine Learning"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "af94f724458c54140f1f5bb7e9b5768916f618adf3ee6f507a690d91a00ed1a6",
       "trendScore": 10.83,
       "createdAt": "2026-08-13T05:28:08+09:00",
-      "updatedAt": "2026-08-13T05:28:08+09:00"
+      "updatedAt": "2026-08-14T09:09:34+09:00"
     },
     {
       "id": "https://qiita.com/berrylove/items/e5df42c20e0b23b07f71",
@@ -14586,11 +14586,11 @@
       "publishedAt": "2026-08-13T02:35:01+09:00",
       "collectedAt": "2026-08-13T05:28:14+09:00",
       "scrapedAt": "2026-08-13T05:28:14+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:14+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:34+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -14601,12 +14601,12 @@
         "AI統治"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "452ed1f8a038525b8407fb35c8091b7b7cdf55180d50d27a5bc6479f4688191e",
       "trendScore": 10.83,
       "createdAt": "2026-08-13T05:28:14+09:00",
-      "updatedAt": "2026-08-13T05:28:14+09:00"
+      "updatedAt": "2026-08-14T09:09:34+09:00"
     },
     {
       "id": "https://qiita.com/k2-gc/items/013439fe4b87b2647d0b",
@@ -14622,11 +14622,11 @@
       "publishedAt": "2026-08-12T23:23:11+09:00",
       "collectedAt": "2026-08-13T05:28:20+09:00",
       "scrapedAt": "2026-08-13T05:28:20+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:20+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:35+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -14637,12 +14637,12 @@
         "機械学習"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "6e4e97affca1dc5165e78cb62cdc0528a0d2a4f1639e936c94010435e63858a9",
       "trendScore": 10.64,
       "createdAt": "2026-08-13T05:28:20+09:00",
-      "updatedAt": "2026-08-13T05:28:20+09:00"
+      "updatedAt": "2026-08-14T09:09:35+09:00"
     },
     {
       "id": "https://www.digital.go.jp/policies/gov-system-user-satisfaction-evaluation",
@@ -14658,11 +14658,11 @@
       "publishedAt": "2026-08-12T15:00:00+09:00",
       "collectedAt": "2026-08-13T05:28:26+09:00",
       "scrapedAt": "2026-08-13T05:28:26+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:26+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:35+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "制度",
       "categories": [
         "制度"
@@ -14673,12 +14673,12 @@
         "デジタル庁"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "c49e1d4113f2e965630330bafc101ec5a39caa83db4c45653043c91d8c9d8aee",
       "trendScore": 10.14,
       "createdAt": "2026-08-13T05:28:26+09:00",
-      "updatedAt": "2026-08-13T05:28:26+09:00"
+      "updatedAt": "2026-08-14T09:09:35+09:00"
     },
     {
       "id": "https://www.digital.go.jp/archives",
@@ -14694,11 +14694,11 @@
       "publishedAt": "2026-08-12T15:00:00+09:00",
       "collectedAt": "2026-08-13T05:28:32+09:00",
       "scrapedAt": "2026-08-13T05:28:32+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:32+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:35+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "制度",
       "categories": [
         "制度"
@@ -14709,12 +14709,12 @@
         "行政文書"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "7209cb6b4df4f0bb1bac07d605167c39fafdc063dd299fa4685b7389a51722f9",
       "trendScore": 10.14,
       "createdAt": "2026-08-13T05:28:32+09:00",
-      "updatedAt": "2026-08-13T05:28:32+09:00"
+      "updatedAt": "2026-08-14T09:09:35+09:00"
     },
     {
       "id": "https://www.digital.go.jp/news/e6e5abe2-c5b1-4dc4-b683-465b518e6c91",
@@ -14730,11 +14730,11 @@
       "publishedAt": "2026-08-12T15:00:00+09:00",
       "collectedAt": "2026-08-13T05:28:38+09:00",
       "scrapedAt": "2026-08-13T05:28:38+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:38+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:35+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "制度",
       "categories": [
         "制度"
@@ -14745,12 +14745,12 @@
         "人に優しいデジタル化"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "ecf62c24ff4f69c6a8e582efa120cd1a45fc80b474084ec57a3d4d8d9becfae1",
       "trendScore": 10.14,
       "createdAt": "2026-08-13T05:28:38+09:00",
-      "updatedAt": "2026-08-13T05:28:38+09:00"
+      "updatedAt": "2026-08-14T09:09:35+09:00"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000003187.000047877.html",
@@ -14766,11 +14766,11 @@
       "publishedAt": "2026-08-13T05:10:02+09:00",
       "collectedAt": "2026-08-13T05:28:44+09:00",
       "scrapedAt": "2026-08-13T05:28:44+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:44+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:35+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "学術",
       "categories": [
         "学術"
@@ -14781,12 +14781,12 @@
         "少年ABCの完璧な選択"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "f72f3520ad895c0f4784fe5b62bacf923e0fba87de634bfc4a1190eb044958b6",
       "trendScore": 10.98,
       "createdAt": "2026-08-13T05:28:44+09:00",
-      "updatedAt": "2026-08-13T05:28:44+09:00"
+      "updatedAt": "2026-08-14T09:09:35+09:00"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000469.000009999.html",
@@ -14802,11 +14802,11 @@
       "publishedAt": "2026-08-13T05:10:02+09:00",
       "collectedAt": "2026-08-13T05:28:50+09:00",
       "scrapedAt": "2026-08-13T05:28:50+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:50+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:35+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -14817,12 +14817,12 @@
         "Oracle Cloud Infrastructure"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "60b88a4e8c2c0284d8029869bf344f5a5e9d3e4f782326891792ecb9d509e687",
       "trendScore": 10.98,
       "createdAt": "2026-08-13T05:28:50+09:00",
-      "updatedAt": "2026-08-13T05:28:50+09:00"
+      "updatedAt": "2026-08-14T09:09:35+09:00"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000149.000122970.html",
@@ -14838,11 +14838,11 @@
       "publishedAt": "2026-08-13T05:10:02+09:00",
       "collectedAt": "2026-08-13T05:28:56+09:00",
       "scrapedAt": "2026-08-13T05:28:56+09:00",
-      "lastVerifiedAt": "2026-08-13T05:28:56+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:35+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "社会×データ",
       "categories": [
         "社会×データ"
@@ -14853,12 +14853,12 @@
         "BitStar"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "5fd8ba537ada299dbb47475f915c73a139d2aa9a114b457f9a3be5afba098bfd",
       "trendScore": 10.98,
       "createdAt": "2026-08-13T05:28:56+09:00",
-      "updatedAt": "2026-08-13T05:28:56+09:00"
+      "updatedAt": "2026-08-14T09:09:35+09:00"
     },
     {
       "id": "https://www.itmedia.co.jp/business/articles/2608/12/news106.html",
@@ -14874,11 +14874,11 @@
       "publishedAt": "2026-08-12T21:20:00+09:00",
       "collectedAt": "2026-08-13T05:29:02+09:00",
       "scrapedAt": "2026-08-13T05:29:02+09:00",
-      "lastVerifiedAt": "2026-08-13T05:29:02+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:36+09:00",
       "httpStatus": 200,
       "contentType": "text/html",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -14889,12 +14889,12 @@
         "CX"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "f3e4208a28bb29da56dbfa6bb66ce348afddfac2ac48d592c63608b55fc1f6c7",
       "trendScore": 10.51,
       "createdAt": "2026-08-13T05:29:02+09:00",
-      "updatedAt": "2026-08-13T05:29:02+09:00"
+      "updatedAt": "2026-08-14T09:09:36+09:00"
     },
     {
       "id": "https://univ-journal.jp/1000186",
@@ -14910,11 +14910,11 @@
       "publishedAt": "2026-08-12T11:00:55+09:00",
       "collectedAt": "2026-08-13T05:29:09+09:00",
       "scrapedAt": "2026-08-13T05:29:09+09:00",
-      "lastVerifiedAt": "2026-08-13T05:29:09+09:00",
-      "httpStatus": 200,
+      "lastVerifiedAt": "2026-08-14T09:09:36+09:00",
+      "httpStatus": 403,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "想定外のHTTP 403",
       "category": "新事業",
       "categories": [
         "新事業"
@@ -14925,12 +14925,12 @@
         "環境に優しい"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "ce1f53b00a3a4b4636c3b25171a98306b8fe49cd0c1f1f8c8ef5d72bb1dc3527",
       "trendScore": 9.9,
       "createdAt": "2026-08-13T05:29:09+09:00",
-      "updatedAt": "2026-08-13T05:29:09+09:00"
+      "updatedAt": "2026-08-14T09:09:36+09:00"
     },
     {
       "id": "https://univ-journal.jp/column/2026998946",
@@ -14946,11 +14946,11 @@
       "publishedAt": "2026-08-12T07:00:27+09:00",
       "collectedAt": "2026-08-13T05:29:15+09:00",
       "scrapedAt": "2026-08-13T05:29:15+09:00",
-      "lastVerifiedAt": "2026-08-13T05:29:15+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:37+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "制度",
       "categories": [
         "制度"
@@ -14961,12 +14961,12 @@
         "国公立併願型"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "5024587d1a5fcb4f1cecd36a4dac2249402047e34df0077a0ba55086c6074a3d",
       "trendScore": 9.66,
       "createdAt": "2026-08-13T05:29:15+09:00",
-      "updatedAt": "2026-08-13T05:29:15+09:00"
+      "updatedAt": "2026-08-14T09:09:37+09:00"
     },
     {
       "id": "https://univ-journal.jp/1000160",
@@ -14982,11 +14982,11 @@
       "publishedAt": "2026-08-11T17:00:25+09:00",
       "collectedAt": "2026-08-13T05:29:21+09:00",
       "scrapedAt": "2026-08-13T05:29:21+09:00",
-      "lastVerifiedAt": "2026-08-13T05:29:21+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:39+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "学術",
       "categories": [
         "学術"
@@ -14997,12 +14997,12 @@
         "九州大学"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "d08487c5462d46918f0fa89deac359b7a2e179a27960ef871b24e9b4059abea4",
       "trendScore": 8.83,
       "createdAt": "2026-08-13T05:29:21+09:00",
-      "updatedAt": "2026-08-13T05:29:21+09:00"
+      "updatedAt": "2026-08-14T09:09:39+09:00"
     },
     {
       "id": "https://toyokeizai.net/articles/-/953944",
@@ -15018,11 +15018,11 @@
       "publishedAt": "2026-08-13T05:00:00+09:00",
       "collectedAt": "2026-08-13T05:29:26+09:00",
       "scrapedAt": "2026-08-13T05:29:26+09:00",
-      "lastVerifiedAt": "2026-08-13T05:29:26+09:00",
+      "lastVerifiedAt": "2026-08-14T09:09:39+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "制度",
       "categories": [
         "制度"
@@ -15033,12 +15033,12 @@
         "介護事業"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "fff85ab8bf13b1c81a06ff1c7a759536277a409c8eadeab9eeb3301be6343417",
       "trendScore": 10.97,
       "createdAt": "2026-08-13T05:29:26+09:00",
-      "updatedAt": "2026-08-13T05:29:26+09:00"
+      "updatedAt": "2026-08-14T09:09:39+09:00"
     },
     {
       "id": "https://qiita.com/o_ob/items/8bfc685a03aaa2522d19",
