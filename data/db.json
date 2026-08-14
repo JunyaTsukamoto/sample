@@ -15579,6 +15579,546 @@
       "trendScore": 10.5,
       "createdAt": "2026-08-14T05:27:50+09:00",
       "updatedAt": "2026-08-14T05:27:50+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/e30e0b288d37719cbcd2",
+      "title": "Gemini 3.7 Flash登場、Googleの高速・低コストAIモデル最新版を解説 - Qiita",
+      "originalTitle": "Gemini 3.7 Flash登場、Googleの高速・低コストAIモデル最新版を解説",
+      "summary": "GoogleがGeminiシリーズの新モデル「Gemini 3.7 Flash」を発表した。Gemini Flashは速度とコスト効率を重視したモデルラインで、チャットボットやリアルタイム処理、大量リクエストを捌くAPIバックエンドなどで採用されることが多い。3.7へのアップデートは「高精度化」よりも「実用性・効率の底上げ」を志向したリリースである可能性が高い。開発者は既存のFlashモデル利用箇所の棚卸し、コスト・レイテンシの再評価、段階的な移行検証を行うことをおすすめする",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/e30e0b288d37719cbcd2",
+      "originalUrl": "https://qiita.com/picnic/items/e30e0b288d37719cbcd2",
+      "finalUrl": "https://qiita.com/picnic/items/e30e0b288d37719cbcd2",
+      "publishedAt": "2026-08-15T04:12:18+09:00",
+      "collectedAt": "2026-08-15T05:18:19+09:00",
+      "scrapedAt": "2026-08-15T05:18:19+09:00",
+      "lastVerifiedAt": "2026-08-15T05:18:19+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Gemini",
+        "Google",
+        "AIモデル"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "471ca0d18b409db4949f95aa9e462ffd1dd5e623775b0ee03d5b1d2b93e26c59",
+      "trendScore": 10.93,
+      "createdAt": "2026-08-15T05:18:19+09:00",
+      "updatedAt": "2026-08-15T05:18:19+09:00"
+    },
+    {
+      "id": "https://qiita.com/Nandar-09/items/4df5137a6148ff1fd556",
+      "title": "AIで食品ロスを削減する「FoodRescue AI」を開発しました。 - Qiita",
+      "originalTitle": "AIで食品ロスを削減する「FoodRescue AI」を開発しました。",
+      "summary": "FoodRescue AIは、店舗の商品在庫や平均販売数、販売終了までの時間、天気などの情報から売れ残りを予測し、AIが販売戦略を提案するシステムです。商品情報の入力、売れ残り予測、割引率の提案、AIによる販売戦略の提案などが可能です。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Nandar-09/items/4df5137a6148ff1fd556",
+      "originalUrl": "https://qiita.com/Nandar-09/items/4df5137a6148ff1fd556",
+      "finalUrl": "https://qiita.com/Nandar-09/items/4df5137a6148ff1fd556",
+      "publishedAt": "2026-08-15T04:03:29+09:00",
+      "collectedAt": "2026-08-15T05:18:25+09:00",
+      "scrapedAt": "2026-08-15T05:18:25+09:00",
+      "lastVerifiedAt": "2026-08-15T05:18:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "食品ロス",
+        "AI",
+        "販売戦略"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "e4fa6f7d685c895b6091e2f6cbd53ee7ec2b7ebeff0856db32d07d4f9e01d495",
+      "trendScore": 10.93,
+      "createdAt": "2026-08-15T05:18:25+09:00",
+      "updatedAt": "2026-08-15T05:18:25+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/e887477efbf1e8c4dbf3",
+      "title": "お盆休みは、Excelの道具の手入れをしています ── 郵便番号まわりが見違えた話 - Qiita",
+      "originalTitle": "お盆休みは、Excelの道具の手入れをしています ── 郵便番号まわりが見違えた話",
+      "summary": "お盆休みに、Excelの道具の手入れをしています。管理フォームが増え、郵便番号まわりを作り直しました。自作の郵便番号データを住所のセルから一瞬で引けるようになりました。検索マクロは初回だけ読み込んでメモリに置く方式になりました。データの更新はボタン一発になりました。",
+      "summarySource": "llm",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/e887477efbf1e8c4dbf3",
+      "originalUrl": "https://qiita.com/shu15511551/items/e887477efbf1e8c4dbf3",
+      "finalUrl": "https://qiita.com/shu15511551/items/e887477efbf1e8c4dbf3",
+      "publishedAt": "2026-08-15T04:01:41+09:00",
+      "collectedAt": "2026-08-15T05:18:31+09:00",
+      "scrapedAt": "2026-08-15T05:18:31+09:00",
+      "lastVerifiedAt": "2026-08-15T05:18:31+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "Excel",
+        "VBA",
+        "郵便番号"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5d63afbade4e94b9222c6104afe6465cd4626521b37b4b95c955080bb9108fc2",
+      "trendScore": 10.92,
+      "createdAt": "2026-08-15T05:18:31+09:00",
+      "updatedAt": "2026-08-15T05:18:31+09:00"
+    },
+    {
+      "id": "https://qiita.com/io0323/items/cf840c2857c8df39ec99",
+      "title": "【書評】 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition - Qiita",
+      "originalTitle": "【書評】 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition",
+      "summary": "本書は、機械学習の基礎からニューラルネットワークと深層学習までを網羅したものである。scikit-learn、Keras、TensorFlowを使用した実践的な機械学習の方法が紹介されている。対象読者は、設計やアーキテクチャに関心のあるエンジニアを想定しており、機械学習アルゴリズムのカタログではなく、システムをどう設計し、どう運用に載せるかという観点から本書を整理している。",
+      "summarySource": "llm",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/io0323/items/cf840c2857c8df39ec99",
+      "originalUrl": "https://qiita.com/io0323/items/cf840c2857c8df39ec99",
+      "finalUrl": "https://qiita.com/io0323/items/cf840c2857c8df39ec99",
+      "publishedAt": "2026-08-15T00:01:58+09:00",
+      "collectedAt": "2026-08-15T05:18:37+09:00",
+      "scrapedAt": "2026-08-15T05:18:37+09:00",
+      "lastVerifiedAt": "2026-08-15T05:18:37+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "機械学習",
+        "scikit-learn",
+        "TensorFlow"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "4260ca5a0e4b37eb988819c997611cff3e42f9b354bf4d3aae668e9bd8c14b28",
+      "trendScore": 10.69,
+      "createdAt": "2026-08-15T05:18:37+09:00",
+      "updatedAt": "2026-08-15T05:18:37+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/electronic_invoice/84d11031-69a3-4c12-abd9-00ebdc23f290",
+      "title": "民間事業者の取組（政府調達編）―財務省｜デジタル庁",
+      "originalTitle": "JP PINTの「民間事業者の取組（政府調達編）―財務省」を更新しました",
+      "summary": "デジタル庁は、民間事業者の取組について紹介している。財務省の取り組みとして、NECと富士通がデジタルインボイスの「自分ごと」化に取り組んでいることが紹介されている。Peppolが活用されている。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/electronic_invoice/84d11031-69a3-4c12-abd9-00ebdc23f290",
+      "originalUrl": "https://www.digital.go.jp/policies/electronic_invoice/84d11031-69a3-4c12-abd9-00ebdc23f290",
+      "finalUrl": "https://www.digital.go.jp/policies/electronic_invoice/84d11031-69a3-4c12-abd9-00ebdc23f290",
+      "publishedAt": "2026-08-14T15:00:00+09:00",
+      "collectedAt": "2026-08-15T05:18:43+09:00",
+      "scrapedAt": "2026-08-15T05:18:43+09:00",
+      "lastVerifiedAt": "2026-08-15T05:18:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "デジタル庁",
+        "政府調達",
+        "Peppol"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "88a801aa33933b99ef631d3c5dd99b97be694351df5e0c62c42861b152830251",
+      "trendScore": 10.15,
+      "createdAt": "2026-08-15T05:18:43+09:00",
+      "updatedAt": "2026-08-15T05:18:43+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
+      "title": "電子処方箋の導入状況に関するダッシュボード｜デジタル庁",
+      "originalTitle": "電子処方箋の導入状況に関するダッシュボードを更新しました",
+      "summary": "デジタル庁は、電子処方箋の導入状況に関するダッシュボードを更新した。電子処方箋は、医師や歯科医師が処方した薬の情報を電子処方箋管理サービスを通して薬剤師に伝達し、薬剤師からも調剤した薬の情報を登録・管理できる仕組みである。電子処方箋の導入が進むことで、全国の医療機関・薬局で薬の情報を安全に共有でき、安心・安全な医療の享受につながる。",
+      "summarySource": "llm",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
+      "originalUrl": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
+      "finalUrl": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
+      "publishedAt": "2026-08-14T15:00:00+09:00",
+      "collectedAt": "2026-08-15T05:18:49+09:00",
+      "scrapedAt": "2026-08-15T05:18:49+09:00",
+      "lastVerifiedAt": "2026-08-15T05:18:49+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "電子処方箋",
+        "医療",
+        "デジタル庁"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "40fd5d129625e345faefba3532d18768503f8224813a1b16e5d53c34057077d1",
+      "trendScore": 10.15,
+      "createdAt": "2026-08-15T05:18:49+09:00",
+      "updatedAt": "2026-08-15T05:18:49+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo10_hh_000386.html",
+      "title": "国土交通省｜報道資料｜モビリティとインフラを活用したエネルギーの自律性向上に向けた議論を行います<br>～社会資本整備審議会環境部会・交通政策審議会交通体系分科会環境部会 エネルギー・経済安全保障小委員会第２回合同会議を開催～",
+      "originalTitle": "���r���e�B�ƃC���t�������p�����G�l���M�[�̎���������Ɍ������c�_���s���܂��`�Љ�{�����R�c�������E��ʐ����R�c���ʑ̌n���ȉ������ �G�l���M�[�E�o�ψ��S�ۏᏬ�ψ����Q�񍇓���c���J�Á`",
+      "summary": "国土交通省は、モビリティとインフラを活用してエネルギーの自律性向上を図る「モビリティ・エネリンク構想」について、社会資本整備審議会環境部会・交通政策審議会交通体系分科会環境部会エネルギー・経済安全保障小委員会第２回合同会議を開催する。会議では、経済産業省・資源エネルギー庁、環境省、水素バリューチェーン推進協議会（JH2A）などの関係機関から意見をいただく。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo10_hh_000386.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo10_hh_000386.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo10_hh_000386.html",
+      "publishedAt": "2026-08-14T05:00:00+09:00",
+      "collectedAt": "2026-08-15T05:18:55+09:00",
+      "scrapedAt": "2026-08-15T05:18:55+09:00",
+      "lastVerifiedAt": "2026-08-15T05:18:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "エネルギー",
+        "モビリティ",
+        "インフラ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "c382265b92ad4bfe7aa03e68785b9cf96fa0ef7d80562c6f05f01c77382d9ae7",
+      "trendScore": 9.55,
+      "createdAt": "2026-08-15T05:18:55+09:00",
+      "updatedAt": "2026-08-15T05:18:55+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000753.html",
+      "title": "国土交通省｜報道資料｜令和８年熊本地震 水道施設の復旧状況について<br>～８月末までの復旧を目指し作業中！～",
+      "originalTitle": "�ߘa�W�N�F�{�n�k�@�����{�݂̕����󋵂ɂ��ā`�W�����܂ł̕�����ڎw����ƒ��I�`",
+      "summary": "令和8年熊本地震で被災した水道施設について、8月末までの断水解消を目指し、全国の自治体及び工事業者により、点検・応急復旧作業を進めています。8月14日時点の水道施設の復旧状況について、国土交通省が発表しました。",
+      "summarySource": "llm",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000753.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000753.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000753.html",
+      "publishedAt": "2026-08-14T05:00:00+09:00",
+      "collectedAt": "2026-08-15T05:19:01+09:00",
+      "scrapedAt": "2026-08-15T05:19:01+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "熊本地震",
+        "水道施設",
+        "復旧状況"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "577b5258642461605cd203e627fabead7ae2f3959e95498be11140b7a1ec77e0",
+      "trendScore": 9.55,
+      "createdAt": "2026-08-15T05:19:01+09:00",
+      "updatedAt": "2026-08-15T05:19:01+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000170.000090916.html",
+      "title": "縦型ショートドラマ『たまごの復讐』｜芸能界の闇、みーつけたっ♡——清純派”女優の卵”が仕掛ける痛快リベンジ劇、アプリ「POPCORN」で配信開始",
+      "originalTitle": "縦型ショートドラマ『たまごの復讐』｜芸能界の闇、みーつけたっ(ハート)--清純派”女優の卵”が仕掛ける痛快リベンジ劇、アプリ「POPCORN」で配信開始",
+      "summary": "縦型ショートドラマ『たまごの復讐』がアプリ「POPCORN」で配信開始。清純派の女優の卵が、芸能界の闇に復讐を仕掛ける痛快なリベンジ劇。坂巻有紗が演じるヒロインの二面性が魅力。全23話でテンポよく畳みかける展開が楽しめる。",
+      "summarySource": "llm",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000170.000090916.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000170.000090916.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000170.000090916.html",
+      "publishedAt": "2026-08-15T05:10:02+09:00",
+      "collectedAt": "2026-08-15T05:19:07+09:00",
+      "scrapedAt": "2026-08-15T05:19:07+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "縦型ショートドラマ",
+        "POPCORN",
+        "リベンジエンターテインメント"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "3354d21ba8b5b5bcb22d06f2be122a48d6e3c787486eba93810e690dc6c6667e",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-15T05:19:07+09:00",
+      "updatedAt": "2026-08-15T05:19:07+09:00"
+    },
+    {
+      "id": "https://www.itmedia.co.jp/business/articles/2608/14/news077.html",
+      "title": "�u�G�A�R��2027�N���v�ŉ��i���g��H�@��������8���~�ȉ��ōU��",
+      "originalTitle": "「エアコン2027年問題」で価格差拡大？　中国勢が8万円以下で攻勢",
+      "summary": "ITmediaビジネスによると、Facebookの元社員が2027年に新しいメタバースプラットフォームを立ち上げる計画である。同プラットフォームは、CXとHRの分野に特化し、AI技術を活用する。現在、同社は従業員を募集中である。",
+      "summarySource": "llm",
+      "source": "ITmedia ビジネス",
+      "sourceId": "src-itmedia-biz",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/14/news077.html",
+      "originalUrl": "https://www.itmedia.co.jp/business/articles/2608/14/news077.html",
+      "finalUrl": "https://www.itmedia.co.jp/business/articles/2608/14/news077.html",
+      "publishedAt": "2026-08-14T17:16:00+09:00",
+      "collectedAt": "2026-08-15T05:19:13+09:00",
+      "scrapedAt": "2026-08-15T05:19:13+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "メタバース",
+        "AI",
+        "Facebook"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "aa92763860f8ddab5a0cb3abe3e250c42c07e23f809effdd355c84c19b69eeff",
+      "trendScore": 10.28,
+      "createdAt": "2026-08-15T05:19:13+09:00",
+      "updatedAt": "2026-08-15T05:19:13+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000180",
+      "title": "国際医療福祉大学 初の附属校として「国際医療福祉大学附属明光中学校・高等学校」を2027年4月開設",
+      "originalTitle": "国際医療福祉大学　初の附属校として「国際医療福祉大学附属明光中学校・高等学校」を2027年4月開設",
+      "summary": "国際医療福祉大学は、2027年4月に初の附属校「国際医療福祉大学附属明光中学校・高等学校」を開設する。同校は、現在カトリック系の女子中学校・高校を運営する学校法人明光学園を吸収合併して設立される。附属校では、共学のAcademicコース、Coreコース、Creative Artsコース（音楽）、Creative Artsコース（美術）を設ける。国際医療福祉大学および福岡国際音楽大学の教育資源を活用したカリキュラムで、中・高・大の「学びの連続」を進め、特別推薦枠を設定する。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000180",
+      "originalUrl": "https://univ-journal.jp/1000180/",
+      "finalUrl": "https://univ-journal.jp/1000180",
+      "publishedAt": "2026-08-14T11:00:14+09:00",
+      "collectedAt": "2026-08-15T05:19:19+09:00",
+      "scrapedAt": "2026-08-15T05:19:19+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:19+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "国際医療福祉大学",
+        "附属校",
+        "共学"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "c88f29d27f1257b05d9a388529bf92d316947551bd21844f6cc410cc3085daa9",
+      "trendScore": 9.91,
+      "createdAt": "2026-08-15T05:19:19+09:00",
+      "updatedAt": "2026-08-15T05:19:19+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261000033",
+      "title": "日本の高校生も感銘 スタンフォード大学のハートフルネス授業 - 大学ジャーナルオンライン",
+      "originalTitle": "日本の高校生も感銘　スタンフォード大学のハートフルネス授業",
+      "summary": "スタンフォード大学の心理学者、スティーブン・重松氏は、正解主義からの脱却を主張している。既存の教育システムは、既成の正解をいかに速く、正確に導き出すかを競わせているが、これは自ら問いを立てる力の放棄につながる。真の学びとは、単に知識を詰め込むことではなく、不確実な世界で自分なりに意味を紡ぎ出すことである。謙虚さの共有が重要であり、教員自身が自分も正解を持たないと謙虚に認めることで、教室から不必要なヒエラルキーが消え、学生たちの中から間違えたら恥ずかしいという強烈な恐れが消え去",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261000033",
+      "originalUrl": "https://univ-journal.jp/column/20261000033/",
+      "finalUrl": "https://univ-journal.jp/column/20261000033",
+      "publishedAt": "2026-08-14T07:00:26+09:00",
+      "collectedAt": "2026-08-15T05:19:25+09:00",
+      "scrapedAt": "2026-08-15T05:19:25+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "正解主義",
+        "謙虚さ",
+        "教育"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "57ff9342dc4b3fe47cdd8685f9eb192f0bd97ddab42d33dae856849e41c7e8c9",
+      "trendScore": 9.67,
+      "createdAt": "2026-08-15T05:19:25+09:00",
+      "updatedAt": "2026-08-15T05:19:25+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000166",
+      "title": "iPS細胞由来の人工心筋を加圧トレーニングで成熟させる新技術を開発",
+      "originalTitle": "iPS細胞由来の人工心筋を加圧トレーニングで成熟させる新技術を開発",
+      "summary": "iPS細胞から作った人工心筋組織を、加圧トレーニングで鍛えることで、心筋組織を成熟させることに成功した。実際の心臓が経験する環境を模倣した「高圧・短時間・間欠的」な圧力刺激が最も効果的で、心筋組織特有の構造が形成され、エネルギー産生能が向上した。さらに、加圧トレーニングによって成熟した組織をラットに移植したところ、心機能の改善が認められた。",
+      "summarySource": "llm",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000166",
+      "originalUrl": "https://univ-journal.jp/1000166/",
+      "finalUrl": "https://univ-journal.jp/1000166",
+      "publishedAt": "2026-08-13T17:00:08+09:00",
+      "collectedAt": "2026-08-15T05:19:31+09:00",
+      "scrapedAt": "2026-08-15T05:19:31+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:31+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "iPS細胞",
+        "人工心筋",
+        "加圧トレーニング"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "11c120bc8752963232e536119bef13640257b41f23ae42bd26dd14398343d137",
+      "trendScore": 8.84,
+      "createdAt": "2026-08-15T05:19:31+09:00",
+      "updatedAt": "2026-08-15T05:19:31+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/954518",
+      "title": "《島全体が別荘地》バブル遺産350軒､廃墟化も進む｢日本のエーゲ海｣で｢営業せずに取引の9割を握る｣大阪の不動産屋の正体",
+      "originalTitle": "《島全体が別荘地》バブル遺産350軒､廃墟化も進む｢日本のエーゲ海｣で｢営業せずに取引の9割を握る｣大阪の不動産屋の正体 | ライフ | 東洋経済オンライン",
+      "summary": "瀬戸内海の小さな島、鴻島は島全体が別荘地で、かつて1億円を超えた豪華別荘が今は200万円で手に入る。350軒のバブル時代の遺産が残り、廃墟化も進んでいる。大阪の不動産屋が営業せずに取引の9割を握っているという。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/954518",
+      "originalUrl": "https://toyokeizai.net/articles/-/954518?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/954518",
+      "publishedAt": "2026-08-15T05:15:00+09:00",
+      "collectedAt": "2026-08-15T05:19:37+09:00",
+      "scrapedAt": "2026-08-15T05:19:37+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:37+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "瀬戸内海",
+        "鴻島",
+        "別荘地"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "fc233b4415381a4009eae97967496654bfe77e763143ace38cab9882a0558ff3",
+      "trendScore": 11,
+      "createdAt": "2026-08-15T05:19:37+09:00",
+      "updatedAt": "2026-08-15T05:19:37+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/954517",
+      "title": "｢1億円の家｣が200万円で…《バブルが置き去った廃墟島》自販機もポストもない｢52人の島｣に別荘350軒､歩いて見えた現実",
+      "originalTitle": "｢1億円の家｣が200万円で…《バブルが置き去った廃墟島》自販機もポストもない｢52人の島｣に別荘350軒､歩いて見えた現実 | ライフ | 東洋経済オンライン",
+      "summary": "瀬戸内海の鴻島は人口わずか52人で、自販機やポストもありません。バブル時代に1億円を超えた別荘が200万円台で売買されています。国内外から注目が集まる理由を探るために、島に上陸し、リアルな姿を調査しました。",
+      "summarySource": "llm",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/954517",
+      "originalUrl": "https://toyokeizai.net/articles/-/954517?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/954517",
+      "publishedAt": "2026-08-15T05:15:00+09:00",
+      "collectedAt": "2026-08-15T05:19:43+09:00",
+      "scrapedAt": "2026-08-15T05:19:43+09:00",
+      "lastVerifiedAt": "2026-08-15T05:19:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "瀬戸内海",
+        "バブル",
+        "廃墟島"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "a1adc17a36c65998db30de95180f595ef45157af98f5f5e9357212529528f54e",
+      "trendScore": 11,
+      "createdAt": "2026-08-15T05:19:43+09:00",
+      "updatedAt": "2026-08-15T05:19:43+09:00"
     }
   ],
   "sources": [
@@ -15591,8 +16131,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-14T05:26:21+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:22+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:17+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15604,8 +16144,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-14T05:26:35+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:36+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:31+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15617,8 +16157,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-14T05:26:41+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:42+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:37+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15643,8 +16183,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-14T05:26:42+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:43+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:38+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15656,8 +16196,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-14T05:26:43+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:43+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:39+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15669,8 +16209,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-14T05:26:47+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:48+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:49+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15682,8 +16222,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-14T05:26:48+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:48+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:50+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15695,8 +16235,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-14T05:26:49+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:50+09:00",
+      "lastFetchedAt": "2026-08-15T05:18:51+09:00",
+      "lastSuccessAt": "2026-08-15T05:18:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15799,8 +16339,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-14T05:26:59+09:00",
-      "lastSuccessAt": "2026-08-14T05:26:59+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:01+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15838,8 +16378,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-14T05:27:17+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:18+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:08+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15851,8 +16391,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-14T05:27:18+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:18+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:08+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15864,8 +16404,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-14T05:27:18+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:19+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:09+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15877,8 +16417,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-14T05:27:19+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:19+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:10+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15890,8 +16430,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-14T05:27:19+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:20+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:10+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15903,8 +16443,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-14T05:27:20+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:20+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:11+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15929,8 +16469,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-14T05:27:20+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:21+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:11+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -15994,8 +16534,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-14T05:27:22+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:24+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:14+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -16007,8 +16547,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-14T05:27:38+09:00",
-      "lastSuccessAt": "2026-08-14T05:27:39+09:00",
+      "lastFetchedAt": "2026-08-15T05:19:31+09:00",
+      "lastSuccessAt": "2026-08-15T05:19:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -16169,6 +16709,21 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260815-0518",
+      "scheduledAt": "2026-08-15T05:18:17+09:00",
+      "startedAt": "2026-08-15T05:18:17+09:00",
+      "finishedAt": "2026-08-15T05:19:43+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 57,
+      "duplicatesRemoved": 6,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": []
+    },
     {
       "jobId": "collection-20260814-0526",
       "scheduledAt": "2026-08-14T05:26:21+09:00",
@@ -16874,9 +17429,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-14T05:27:50+09:00",
-    "lastSuccessAt": "2026-08-14T05:27:50+09:00",
-    "nextScheduledAt": "2026-08-15T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-15T05:19:43+09:00",
+    "lastSuccessAt": "2026-08-15T05:19:43+09:00",
+    "nextScheduledAt": "2026-08-16T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
