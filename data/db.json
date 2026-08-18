@@ -17714,6 +17714,520 @@
       "trendScore": 10.99,
       "createdAt": "2026-08-18T05:12:08+09:00",
       "updatedAt": "2026-08-18T05:12:08+09:00"
+    },
+    {
+      "id": "https://qiita.com/aabxppht890/items/a9f96d57be514c76dcd1",
+      "title": "自作MCPサーバを使ったPRレビュースキルを作ってみた〜第2回: Pythonで自作MCPサーバを実装する - Qiita",
+      "originalTitle": "自作MCPサーバを使ったPRレビュースキルを作ってみた〜第2回: Pythonで自作MCPサーバを実装する",
+      "summary": "@ aabxppht890 ( つめつめ ) 自作MCPサーバを使ったPRレビュースキルを作ってみた〜第2回: Pythonで自作MCPサーバを実装する AI MCPサーバー レビュー エンジニア 0 Last updated at 2026-08-18 Posted at 2026-08-18 第2回: Pythonで自作MCPサーバを実装する 前回は、MCPサーバを「AIエージェントと外部サー…",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/aabxppht890/items/a9f96d57be514c76dcd1",
+      "originalUrl": "https://qiita.com/aabxppht890/items/a9f96d57be514c76dcd1",
+      "finalUrl": "https://qiita.com/aabxppht890/items/a9f96d57be514c76dcd1",
+      "publishedAt": "2026-08-19T02:22:02+09:00",
+      "collectedAt": "2026-08-19T05:08:46+09:00",
+      "scrapedAt": "2026-08-19T05:08:46+09:00",
+      "lastVerifiedAt": "2026-08-19T05:08:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a92702a027fafa903feb5f218c74fe2803b1ee9924734a97d030e34afeace27e",
+      "trendScore": 10.83,
+      "createdAt": "2026-08-19T05:08:46+09:00",
+      "updatedAt": "2026-08-19T05:08:46+09:00"
+    },
+    {
+      "id": "https://qiita.com/lucyfounder65/items/0717eb081d3423af1753",
+      "title": "AI画像生成・編集SaaS「CraftVis」を作っています - Qiita",
+      "originalTitle": "AI画像生成・編集SaaS「CraftVis」を作っています",
+      "summary": "@ lucyfounder65 AI画像生成・編集SaaS「CraftVis」を作っています AI Next.js TypeScript SaaS 0 Posted at 2026-08-18 AI画像生成・編集SaaS「CraftVis」を作っています 個人で CraftVis というAI画像生成・編集サービスを開発しています。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lucyfounder65/items/0717eb081d3423af1753",
+      "originalUrl": "https://qiita.com/lucyfounder65/items/0717eb081d3423af1753",
+      "finalUrl": "https://qiita.com/lucyfounder65/items/0717eb081d3423af1753",
+      "publishedAt": "2026-08-19T01:12:42+09:00",
+      "collectedAt": "2026-08-19T05:08:52+09:00",
+      "scrapedAt": "2026-08-19T05:08:52+09:00",
+      "lastVerifiedAt": "2026-08-19T05:08:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "053f3526537c9568398e0c04a878a1db4aedb824591b056440180f44c75bf135",
+      "trendScore": 10.77,
+      "createdAt": "2026-08-19T05:08:52+09:00",
+      "updatedAt": "2026-08-19T05:08:52+09:00"
+    },
+    {
+      "id": "https://qiita.com/nobunora/items/32b102a82532018475fa",
+      "title": "AIで洪水(内水)を無料情報を使ってシミュレーションしてみた - Qiita",
+      "originalTitle": "AIで洪水(内水)を無料情報を使ってシミュレーションしてみた",
+      "summary": "@ nobunora AIで洪水(内水)を無料情報を使ってシミュレーションしてみた AI 洪水解析 DEM 国土地理院 ChatGPT 0 Last updated at 2026-08-18 Posted at 2026-08-18 1m DEMとLocal-Inertial法で都市洪水を2次元シミュレーションする 1m DEM変換スクリプトとシミュレーターはこちら https://github.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/nobunora/items/32b102a82532018475fa",
+      "originalUrl": "https://qiita.com/nobunora/items/32b102a82532018475fa",
+      "finalUrl": "https://qiita.com/nobunora/items/32b102a82532018475fa",
+      "publishedAt": "2026-08-19T00:35:37+09:00",
+      "collectedAt": "2026-08-19T05:08:58+09:00",
+      "scrapedAt": "2026-08-19T05:08:58+09:00",
+      "lastVerifiedAt": "2026-08-19T05:08:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "13a26a36f649ea2335b995d0266d7c4b19132652280a964a52f983300ecf46b0",
+      "trendScore": 10.73,
+      "createdAt": "2026-08-19T05:08:58+09:00",
+      "updatedAt": "2026-08-19T05:08:58+09:00"
+    },
+    {
+      "id": "https://qiita.com/akiralab/items/4b117bedcd3adcf5791b",
+      "title": "因果推論 Day 8／全30回 マッチング、LaLondeデータで「似た人」を探す - Qiita",
+      "originalTitle": "因果推論 Day 8／全30回　マッチング、LaLondeデータで「似た人」を探す",
+      "summary": "@ akiralab ( Akira Kawai ) 因果推論 Day 8／全30回 マッチング、LaLondeデータで「似た人」を探す 因果推論 統計 Python 機械学習 0 Last updated at 2026-08-18 Posted at 2026-08-18 この連載について 因果推論を「本を読んだ」で終わらせず、 自分の言葉で説明でき、コードで再現できる状態 まで落とす30日連載です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/akiralab/items/4b117bedcd3adcf5791b",
+      "originalUrl": "https://qiita.com/akiralab/items/4b117bedcd3adcf5791b",
+      "finalUrl": "https://qiita.com/akiralab/items/4b117bedcd3adcf5791b",
+      "publishedAt": "2026-08-19T01:21:45+09:00",
+      "collectedAt": "2026-08-19T05:08:59+09:00",
+      "scrapedAt": "2026-08-19T05:08:59+09:00",
+      "lastVerifiedAt": "2026-08-19T05:08:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "704f87e0b3f09768bdc0c4417895132a6c78c9a3a974f60d236a5cbcb5a5039c",
+      "trendScore": 10.77,
+      "createdAt": "2026-08-19T05:08:59+09:00",
+      "updatedAt": "2026-08-19T05:08:59+09:00"
+    },
+    {
+      "id": "https://qiita.com/io0323/items/123c495c40fdd46a9e60",
+      "title": "【書評】 Machine Learning Engineering in Action - Qiita",
+      "originalTitle": "【書評】 Machine Learning Engineering in Action",
+      "summary": "@ io0323 【書評】 Machine Learning Engineering in Action 機械学習 MLOps 設計 アーキテクチャ 書評 0 Posted at 2026-08-18 はじめに 「精度は出たのに、そのモデルは本番に行かなかった」 機械学習の案件に関わったことがある方なら、一度は見た光景ではないでしょうか。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/io0323/items/123c495c40fdd46a9e60",
+      "originalUrl": "https://qiita.com/io0323/items/123c495c40fdd46a9e60",
+      "finalUrl": "https://qiita.com/io0323/items/123c495c40fdd46a9e60",
+      "publishedAt": "2026-08-19T00:00:36+09:00",
+      "collectedAt": "2026-08-19T05:08:59+09:00",
+      "scrapedAt": "2026-08-19T05:08:59+09:00",
+      "lastVerifiedAt": "2026-08-19T05:08:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "データサイエンス",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "354418e822bd35e2ad350b3353693e10d25c64fc73a105a74439c24a6e37c3e6",
+      "trendScore": 10.69,
+      "createdAt": "2026-08-19T05:08:59+09:00",
+      "updatedAt": "2026-08-19T05:08:59+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/local_governments/character-specification",
+      "title": "地方公共団体情報システムにおける文字の標準化｜デジタル庁",
+      "originalTitle": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
+      "summary": "地方公共団体情報システムにおける文字の標準化 最終更新日: 2026年8月18日 地方公共団体の基幹業務システムの統一・標準化の取り組みの一環として、文字の標準化を進めています。その中で、 外字 を標準化し、データ管理やシステム間の情報連携を容易にすることで、行政事務の効率化と住民サービスの向上を目指します。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/local_governments/character-specification",
+      "originalUrl": "https://www.digital.go.jp/policies/local_governments/character-specification",
+      "finalUrl": "https://www.digital.go.jp/policies/local_governments/character-specification",
+      "publishedAt": "2026-08-18T15:00:00+09:00",
+      "collectedAt": "2026-08-19T05:09:01+09:00",
+      "scrapedAt": "2026-08-19T05:09:01+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ガイドライン",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "bdf3e23dba66c86c941768a70b712231b51f1c80da96332783c9b36f5db0ca73",
+      "trendScore": 10.16,
+      "createdAt": "2026-08-19T05:09:01+09:00",
+      "updatedAt": "2026-08-19T05:09:01+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3",
+      "title": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）｜デジタル庁",
+      "originalTitle": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の議事録を掲載しました",
+      "summary": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回） 最終更新日: 2026年8月18日 概要 日時： 2026年7月22日（水）9時30分から10時30分 場所： オンライン 議事次第 1.",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3",
+      "originalUrl": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3",
+      "finalUrl": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3",
+      "publishedAt": "2026-08-18T15:00:00+09:00",
+      "collectedAt": "2026-08-19T05:09:01+09:00",
+      "scrapedAt": "2026-08-19T05:09:01+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "3a41440927788df92ecbaba329f08d555ecda334004df778fa2c46813e90a84d",
+      "trendScore": 10.16,
+      "createdAt": "2026-08-19T05:09:01+09:00",
+      "updatedAt": "2026-08-19T05:09:01+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000752.html",
+      "title": "国土交通省｜報道資料｜下水道管路のマネジメントに関する技術的事項の議論を行います<br>～第７回下水道管路マネジメントのための技術基準等検討会を開催～",
+      "originalTitle": "�������ǘH�̃}�l�W�����g�Ɋւ���Z�p�I�����̋c�_���s���܂��`��V�񉺐����ǘH�}�l�W�����g�̂��߂̋Z�p�����������J�Á`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 下水道管路のマネジメントに関する技術的事項の議論を行います ～第７回下水道管路マネジメントのための技術基準等検討会を開催～ 下水道管路のマネジメントに関する技術的事項の議論を行います ～第７回下水道管路マネジメントのための技術基準等検討会を開催～ 令和8年8月18日 「下水道等に起因する大規模な道路陥没事故を踏まえた対策検討委員会」での提言を踏まえ、下…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000752.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000752.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000752.html",
+      "publishedAt": "2026-08-18T05:00:00+09:00",
+      "collectedAt": "2026-08-19T05:09:04+09:00",
+      "scrapedAt": "2026-08-19T05:09:04+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "f1b5165f24497498c379bf1ef621195c2ad753a96e5b44d3f753fabc5509d7d0",
+      "trendScore": 9.56,
+      "createdAt": "2026-08-19T05:09:04+09:00",
+      "updatedAt": "2026-08-19T05:09:04+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/house05_hh_001143.html",
+      "title": "国土交通省｜報道資料｜令和８年熊本地震における建築物構造被害の原因分析を行う委員会（第１回）を開催します",
+      "originalTitle": "�ߘa�W�N�F�{�n�k�ɂ����錚�z���\\����Q�̌������͂��s���ψ���i��P��j���J�Â��܂�",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 令和８年熊本地震における建築物構造被害の原因分析を行う委員会（第１回）を開催します 令和８年熊本地震における建築物構造被害の原因分析を行う委員会（第１回）を開催します 令和8年8月18日 国土交通省及び国立研究開発法人建築研究所は、令和８年８月31日に令和８年熊本地震における建築物構造被害の原因分析を行う委員会（第１回）を開催します。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/house05_hh_001143.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/house05_hh_001143.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/house05_hh_001143.html",
+      "publishedAt": "2026-08-18T05:00:00+09:00",
+      "collectedAt": "2026-08-19T05:09:04+09:00",
+      "scrapedAt": "2026-08-19T05:09:04+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "研究開発",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "d0c8f84279dd0a281cc0717a3535553f97cd097cd82fadbab340275c1b5c4958",
+      "trendScore": 9.56,
+      "createdAt": "2026-08-19T05:09:04+09:00",
+      "updatedAt": "2026-08-19T05:09:04+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/jidosha08_hh_005812.html",
+      "title": "国土交通省｜報道資料｜オートバイの「希望ナンバー制」の申込開始日を決定！<br>～本年10月19日（月）より申込受付を開始します～",
+      "originalTitle": "�I�[�g�o�C�́u��]�i���o�[���v�̐\\���J�n��������I�`�{�N10��19���i���j���\\����t���J�n���܂��`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > オートバイの「希望ナンバー制」の申込開始日を決定！～本年10月19日（月）より申込受付を開始します～ オートバイの「希望ナンバー制」の申込開始日を決定！～本年10月19日（月）より申込受付を開始します～ 令和8年8月18日 国土交通省は、小型二輪自動車、軽二輪自動車の「希望ナンバー制」を導入し、本年10月19日(月)から申込受付を開始します。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/jidosha08_hh_005812.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/jidosha08_hh_005812.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/jidosha08_hh_005812.html",
+      "publishedAt": "2026-08-18T05:00:00+09:00",
+      "collectedAt": "2026-08-19T05:09:04+09:00",
+      "scrapedAt": "2026-08-19T05:09:04+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "18a8d66f83baad315049a66381fbdebf2a2a00155734aad96324c8490e6fa574",
+      "trendScore": 9.56,
+      "createdAt": "2026-08-19T05:09:04+09:00",
+      "updatedAt": "2026-08-19T05:09:04+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000010.000171620.html",
+      "title": "「HASAMI PORCELAIN」より新作『Round Glass Cup』を発売",
+      "originalTitle": "「HASAMI PORCELAIN」より新作『Round Glass Cup』を発売",
+      "summary": "「HASAMI PORCELAIN」より新作『Round Glass Cup』を発売 東京西海株式会社 2026年8月18日 16時33分 いいね！数を読み込み中です 東京西海株式会社（本社所在地：東京都世田谷区／代表取締役：児玉賢太郎）が展開するテーブルウェアブランド「HASAMI PORCELAIN」（ハサミポーセリン）は、2026年8月21日（金）に『Round Glass Cup』を発売いたします。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000171620.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000010.000171620.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000010.000171620.html",
+      "publishedAt": "2026-08-19T04:40:02+09:00",
+      "collectedAt": "2026-08-19T05:09:05+09:00",
+      "scrapedAt": "2026-08-19T05:09:05+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1004783dfd614a4674cf59093bb39972a5c05ae2f20e34cf28150a69a0c82655",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-19T05:09:05+09:00",
+      "updatedAt": "2026-08-19T05:09:05+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000003813.000064643.html",
+      "title": "杉谷拳士、中田翔の才能に衝撃「自分が野球やってるのがバカバカしく思えた」 「あいつうるさいぞ」周囲の声に自分らしさを見失った過去を告白 絶望から救った栗山監督の言葉とは…",
+      "originalTitle": "杉谷拳士、中田翔の才能に衝撃「自分が野球やってるのがバカバカしく思えた」　「あいつうるさいぞ」周囲の声に自分らしさを見失った過去を告白　絶望から救った栗山監督の言葉とは…",
+      "summary": "杉谷拳士、中田翔の才能に衝撃「自分が野球やってるのがバカバカしく思えた」 「あいつうるさいぞ」周囲の声に自分らしさを見失った過去を告白 絶望から救った栗山監督の言葉とは… 『ABEMAエンタメ』独自企画「Re:MAKE 〜拝啓、あの頃の君へ〜」最新話無料配信中 ABEMA 2026年8月18日 16時30分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000003813.000064643.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000003813.000064643.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000003813.000064643.html",
+      "publishedAt": "2026-08-19T04:40:02+09:00",
+      "collectedAt": "2026-08-19T05:09:05+09:00",
+      "scrapedAt": "2026-08-19T05:09:05+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "692969b2c031ccb06b6da502d26c41559119ecf3015016a313c962602275c154",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-19T05:09:05+09:00",
+      "updatedAt": "2026-08-19T05:09:05+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000626.000016205.html",
+      "title": "東京証券取引所 スタンダード市場への上場承認に関するお知らせ",
+      "originalTitle": "東京証券取引所 スタンダード市場への上場承認に関するお知らせ",
+      "summary": "東京証券取引所 スタンダード市場への上場承認に関するお知らせ akippa株式会社 2026年8月18日 16時30分 いいね！数を読み込み中です 駐車場マーケットプレイス「アキッパ」を運営するakippa株式会社（代表取締役社長 CEO：金谷元気）は、本日、株式会社東京証券取引所（以下、「東京証券取引所」）より、当社株式の東京証券取引所 スタンダード市場への新規上場が承認されましたのでお知らせいたします。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000626.000016205.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000626.000016205.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000626.000016205.html",
+      "publishedAt": "2026-08-19T04:40:02+09:00",
+      "collectedAt": "2026-08-19T05:09:05+09:00",
+      "scrapedAt": "2026-08-19T05:09:05+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "41f8e0b3421ea92c543af26e1ef26f9f3aac40b6156282539f9279e276061275",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-19T05:09:05+09:00",
+      "updatedAt": "2026-08-19T05:09:05+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/999988",
+      "title": "昭和女子大学 2028年4月「食理学部（仮称）」への再編を構想中 新たに設置する「生命科学科」を含む4学科体制へ",
+      "originalTitle": "昭和女子大学　2028年4月「食理学部（仮称）」への再編を構想中　新たに設置する「生命科学科」を含む4学科体制へ",
+      "summary": "TOP > トピックス > 学部新設 > 昭和女子大学 2028年4月「食理学部（仮称）」への再編を構想中 新たに設置する「生命科学科」を含む4学科体制へ 2026年8月18日 昭和女子大学 2028年4月「食理学部（仮称）」への再編を構想中 新たに設置する「生命科学科」を含む4学科体制へ 大学ジャーナルオンライン編集部 2028年4月新設 学部再編 昭和女子大学 ※現在構想中であり、設置計画及び…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/999988",
+      "originalUrl": "https://univ-journal.jp/999988/",
+      "finalUrl": "https://univ-journal.jp/999988",
+      "publishedAt": "2026-08-18T11:00:47+09:00",
+      "collectedAt": "2026-08-19T05:09:13+09:00",
+      "scrapedAt": "2026-08-19T05:09:13+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "12d020e8436caa2a412d20518fb33a47d79543be2ddcb6def65cfd5dcf8bf08a",
+      "trendScore": 9.92,
+      "createdAt": "2026-08-19T05:09:13+09:00",
+      "updatedAt": "2026-08-19T05:09:13+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/2026999770",
+      "title": "もっと多くの人に「栄養学」を 複雑だけど面白い「栄養学」の可能性～日本栄養大学～ - 大学ジャーナルオンライン",
+      "originalTitle": "もっと多くの人に「栄養学」を　複雑だけど面白い「栄養学」の可能性～日本栄養大学～",
+      "summary": "TOP > コラム > インタビュー > もっと多くの人に「栄養学」を 複雑だけど面白い「栄養学」の可能性～日本栄養大学～ 2026年8月18日 もっと多くの人に「栄養学」を 複雑だけど面白い「栄養学」の可能性～日本栄養大学～ 大学ジャーナルオンライン編集部 日本栄養大学 「食により人間の健康の維持・改善を図る」という建学の精神を掲げ、栄養学を生活に活かす「実践栄養学」の教育・研究に取り組んできた女子栄養大学。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/2026999770",
+      "originalUrl": "https://univ-journal.jp/column/2026999770/",
+      "finalUrl": "https://univ-journal.jp/column/2026999770",
+      "publishedAt": "2026-08-18T07:00:34+09:00",
+      "collectedAt": "2026-08-19T05:09:13+09:00",
+      "scrapedAt": "2026-08-19T05:09:13+09:00",
+      "lastVerifiedAt": "2026-08-19T05:09:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "0a78bfd0c8432cd5256ae0da4385813f044f1f7e851b6cf4b604530c731cd800",
+      "trendScore": 9.68,
+      "createdAt": "2026-08-19T05:09:13+09:00",
+      "updatedAt": "2026-08-19T05:09:13+09:00"
     }
   ],
   "sources": [
@@ -17726,8 +18240,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-18T05:11:24+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:29+09:00",
+      "lastFetchedAt": "2026-08-19T05:08:45+09:00",
+      "lastSuccessAt": "2026-08-19T05:08:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17739,8 +18253,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-18T05:11:41+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:41+09:00",
+      "lastFetchedAt": "2026-08-19T05:08:58+09:00",
+      "lastSuccessAt": "2026-08-19T05:08:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17752,8 +18266,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-18T05:11:43+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:44+09:00",
+      "lastFetchedAt": "2026-08-19T05:08:59+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17778,8 +18292,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-18T05:11:44+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:45+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:00+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17791,8 +18305,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-18T05:11:45+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:45+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:00+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17804,8 +18318,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-18T05:11:45+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:45+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:01+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17817,8 +18331,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-18T05:11:45+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:46+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:01+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17830,8 +18344,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-18T05:11:48+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:48+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:03+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17934,8 +18448,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-18T05:11:49+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:50+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:04+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17973,8 +18487,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-18T05:11:50+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:51+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:05+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17986,8 +18500,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-18T05:11:51+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:51+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:06+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -17999,8 +18513,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-18T05:11:51+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:55+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:06+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -18012,8 +18526,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-18T05:11:55+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:55+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:07+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -18025,8 +18539,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-18T05:11:55+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:56+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:07+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -18038,8 +18552,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-18T05:11:56+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:57+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:08+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -18064,8 +18578,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-18T05:11:57+09:00",
-      "lastSuccessAt": "2026-08-18T05:11:57+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:08+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -18129,8 +18643,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-18T05:11:59+09:00",
-      "lastSuccessAt": "2026-08-18T05:12:01+09:00",
+      "lastFetchedAt": "2026-08-19T05:09:11+09:00",
+      "lastSuccessAt": "2026-08-19T05:09:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -18304,6 +18818,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260819-0508",
+      "scheduledAt": "2026-08-19T05:08:45+09:00",
+      "startedAt": "2026-08-19T05:08:45+09:00",
+      "finishedAt": "2026-08-19T05:09:13+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 17,
+      "sourcesFailed": 0,
+      "candidatesFound": 54,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260818-0511",
       "scheduledAt": "2026-08-18T05:11:24+09:00",
@@ -19078,9 +19611,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-18T05:12:08+09:00",
-    "lastSuccessAt": "2026-08-18T05:12:08+09:00",
-    "nextScheduledAt": "2026-08-19T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-19T05:09:13+09:00",
+    "lastSuccessAt": "2026-08-19T05:09:13+09:00",
+    "nextScheduledAt": "2026-08-20T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
