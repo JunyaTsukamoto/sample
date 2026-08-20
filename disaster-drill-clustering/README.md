@@ -189,3 +189,24 @@ ollama pull gemma4
 - `--context-chars 35`: KWICの左右に残す文字数
 - `--text-column 課題`: 分析する文章列
 - `--category-column AI主分類名`: 比較単位の列
+
+## AI主分類コード別の共起ネットワーク
+
+`analyze_cooccurrence_networks.py` は、「AI主分類コード」ごとに「課題」列の内容語（名詞・固有名詞・動詞・形容詞）を抽出し、同じ課題セルに現れた語を共起として集計します。各語は一つの課題内で一回として数えるため、長い文章での同語反復には影響されません。動詞・形容詞はGiNZAの基本形を使い、サ変動詞は「検討する」、可能・否定は「共有できない」「分からない」、形容動詞の否定は「明確でない」のような集計形へ復元します。時制・進行相は頻度を分散させないため統合します。
+
+```bash
+.venv/bin/python analyze_cooccurrence_networks.py \
+  "/Users/tj/Downloads/災害訓練ScR/課題分析/防災訓練_課題一覧_v4_gemma4分類.xlsx" \
+  --output-dir outputs_cooccurrence
+```
+
+出力:
+
+- `network_C01.png` など: 主分類コードごとの共起ネットワーク画像
+- `network_C01.graphml` など: Gephi等で再編集できるネットワークデータ
+- `00_category_summary.csv`: 分類ごとの課題数、表示ノード数・エッジ数
+- `01_node_statistics.csv`: 語の出現課題数、分類内割合
+- `02_edge_statistics.csv`: 共起課題数、Jaccard係数、PMI、該当Excel行
+- `analysis_metadata.json`: 閾値、共起単位、形態素品詞、レイアウトseed
+
+既定では、2課題以上に出現する語と2課題以上で共起する組だけを採用し、画像は上位35語・70辺までに制限します。低頻度分類を探索するときは `--min-cooccurrence 1 --min-document-frequency 1`、混雑を抑えるときは `--max-nodes 25 --max-edges 40` のように変更できます。円の大きさは語の出現課題数、円の色はネットワーク構造から算出したコミュニティ、線の太さと濃さは共起課題数を表します。円の面積は課題数に完全比例させず平方根で圧縮し、高頻度語だけが過度に大きくならないようにしています。線で接続されていない語群は別の連結成分ですが、画像内では各成分の内部構造を保ちながら、重ならない間隔で詰めて配置します。

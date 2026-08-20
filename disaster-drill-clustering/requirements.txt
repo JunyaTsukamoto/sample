@@ -10,3 +10,4 @@ numba>=0.62,<0.63; sys_platform == "darwin" and platform_machine == "x86_64"
 spacy>=3.7,<3.8
 ginza>=5.2,<6
 ja-ginza>=5.2,<6
+networkx>=3.2,<4

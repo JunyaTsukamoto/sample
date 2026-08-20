@@ -4,4 +4,5 @@ __pycache__/
 outputs/
 outputs_llm/
 outputs_phrase_analysis/
+outputs_cooccurrence/
 .DS_Store
