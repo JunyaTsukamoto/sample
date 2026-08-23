@@ -19797,11 +19797,11 @@
       "publishedAt": "2026-08-23T04:27:00+09:00",
       "collectedAt": "2026-08-23T05:07:47+09:00",
       "scrapedAt": "2026-08-23T05:07:47+09:00",
-      "lastVerifiedAt": "2026-08-23T05:07:47+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:04+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -19811,12 +19811,12 @@
         "AI"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "d29dfccefc45344be96fedb6a83fb832cda656446f1438e44adfca3eb6871a46",
       "trendScore": 10.96,
       "createdAt": "2026-08-23T05:07:47+09:00",
-      "updatedAt": "2026-08-23T05:07:47+09:00"
+      "updatedAt": "2026-08-24T08:48:04+09:00"
     },
     {
       "id": "https://qiita.com/shu15511551/items/507cb22dd29a786159a9",
@@ -19832,11 +19832,11 @@
       "publishedAt": "2026-08-23T03:28:49+09:00",
       "collectedAt": "2026-08-23T05:07:53+09:00",
       "scrapedAt": "2026-08-23T05:07:53+09:00",
-      "lastVerifiedAt": "2026-08-23T05:07:53+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:05+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -19845,12 +19845,12 @@
         "AI"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "5c568de2896ff367896d6b7f493c196412145d1a839446a1289d8e794ad0450d",
       "trendScore": 10.9,
       "createdAt": "2026-08-23T05:07:53+09:00",
-      "updatedAt": "2026-08-23T05:07:53+09:00"
+      "updatedAt": "2026-08-24T08:48:05+09:00"
     },
     {
       "id": "https://qiita.com/8alfalfa8/items/d86836cf050feae96b4b",
@@ -19866,11 +19866,11 @@
       "publishedAt": "2026-08-23T01:22:04+09:00",
       "collectedAt": "2026-08-23T05:07:59+09:00",
       "scrapedAt": "2026-08-23T05:07:59+09:00",
-      "lastVerifiedAt": "2026-08-23T05:07:59+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:05+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -19880,12 +19880,12 @@
         "セキュリティ"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "0e26297a71516eda2078222183c170fd0e21b4966f7a2931001afa92f6900dce",
       "trendScore": 10.78,
       "createdAt": "2026-08-23T05:07:59+09:00",
-      "updatedAt": "2026-08-23T05:07:59+09:00"
+      "updatedAt": "2026-08-24T08:48:05+09:00"
     },
     {
       "id": "https://qiita.com/sugarfree/items/e779169cdeb60fd44193",
@@ -19901,11 +19901,11 @@
       "publishedAt": "2026-08-22T11:00:21+09:00",
       "collectedAt": "2026-08-23T05:08:00+09:00",
       "scrapedAt": "2026-08-23T05:08:00+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:00+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:05+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "社会×データ",
       "categories": [
         "社会×データ"
@@ -19915,12 +19915,12 @@
         "社会×データ"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "4801d6762050286236686c26199164661acbf5af20c6b67354b6390447e83288",
       "trendScore": 9.92,
       "createdAt": "2026-08-23T05:08:00+09:00",
-      "updatedAt": "2026-08-23T05:08:00+09:00"
+      "updatedAt": "2026-08-24T08:48:05+09:00"
     },
     {
       "id": "https://qiita.com/yumeo/items/6fb2c95b9d3b4fdaeec8",
@@ -19936,11 +19936,11 @@
       "publishedAt": "2026-08-21T23:48:22+09:00",
       "collectedAt": "2026-08-23T05:08:01+09:00",
       "scrapedAt": "2026-08-23T05:08:01+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:01+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:06+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "AI",
       "categories": [
         "AI"
@@ -19950,12 +19950,12 @@
         "データサイエンス"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.7,
       "contentHash": "dbff007e9d70a3ee24bc1190a0fc159b0510c1796ed1feeff169fde8a7705cab",
       "trendScore": 9.25,
       "createdAt": "2026-08-23T05:08:01+09:00",
-      "updatedAt": "2026-08-23T05:08:01+09:00"
+      "updatedAt": "2026-08-24T08:48:06+09:00"
     },
     {
       "id": "https://www.digital.go.jp/policies/electronic_invoice",
@@ -19971,11 +19971,11 @@
       "publishedAt": "2026-08-21T15:00:00+09:00",
       "collectedAt": "2026-08-23T05:08:02+09:00",
       "scrapedAt": "2026-08-23T05:08:02+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:02+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:07+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "制度",
       "categories": [
         "制度"
@@ -19984,12 +19984,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "ae3030913016e16b52dd6ac025d1e6540ef411200a477941c373ca0543b52a2a",
       "trendScore": 8.73,
       "createdAt": "2026-08-23T05:08:02+09:00",
-      "updatedAt": "2026-08-23T05:08:02+09:00"
+      "updatedAt": "2026-08-24T08:48:07+09:00"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo05_hh_000001_00270.html",
@@ -20109,11 +20109,11 @@
       "publishedAt": "2026-08-23T04:40:02+09:00",
       "collectedAt": "2026-08-23T05:08:08+09:00",
       "scrapedAt": "2026-08-23T05:08:08+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:08+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:07+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "新事業",
       "categories": [
         "新事業"
@@ -20123,12 +20123,12 @@
         "新事業"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "46db6c9118cc750c6004db918734320a097bd782a5d7f6409e88139d64bffe80",
       "trendScore": 10.97,
       "createdAt": "2026-08-23T05:08:08+09:00",
-      "updatedAt": "2026-08-23T05:08:08+09:00"
+      "updatedAt": "2026-08-24T08:48:07+09:00"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000202.000017594.html",
@@ -20144,11 +20144,11 @@
       "publishedAt": "2026-08-23T04:40:02+09:00",
       "collectedAt": "2026-08-23T05:08:08+09:00",
       "scrapedAt": "2026-08-23T05:08:08+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:08+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:07+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "社会×データ",
       "categories": [
         "社会×データ"
@@ -20157,12 +20157,12 @@
         "社会×データ"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "719d05a2c72f8e8e1f2e92d58e3952ab8ffcfe6b65ea4e1e5c9401dc490c57bf",
       "trendScore": 10.97,
       "createdAt": "2026-08-23T05:08:08+09:00",
-      "updatedAt": "2026-08-23T05:08:08+09:00"
+      "updatedAt": "2026-08-24T08:48:07+09:00"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000540.000046400.html",
@@ -20178,11 +20178,11 @@
       "publishedAt": "2026-08-23T04:40:02+09:00",
       "collectedAt": "2026-08-23T05:08:08+09:00",
       "scrapedAt": "2026-08-23T05:08:08+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:08+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:07+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=utf-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "新事業",
       "categories": [
         "新事業"
@@ -20191,12 +20191,12 @@
         "新事業"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.6,
       "contentHash": "c6b7afad1786cb1bc358bdfd2d107512d8c43af4ef431e36a2c0fde0000132de",
       "trendScore": 10.97,
       "createdAt": "2026-08-23T05:08:08+09:00",
-      "updatedAt": "2026-08-23T05:08:08+09:00"
+      "updatedAt": "2026-08-24T08:48:07+09:00"
     },
     {
       "id": "https://univ-journal.jp/1000321",
@@ -20212,11 +20212,11 @@
       "publishedAt": "2026-08-22T11:00:05+09:00",
       "collectedAt": "2026-08-23T05:08:19+09:00",
       "scrapedAt": "2026-08-23T05:08:19+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:19+09:00",
-      "httpStatus": 200,
+      "lastVerifiedAt": "2026-08-24T08:48:07+09:00",
+      "httpStatus": 403,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "想定外のHTTP 403",
       "category": "学術",
       "categories": [
         "学術"
@@ -20225,12 +20225,12 @@
         "学術"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "51908485d669bb4b47fea0cb7d6fd5b0a312ca8769d06822fe9b8cdf79a6df72",
       "trendScore": 9.92,
       "createdAt": "2026-08-23T05:08:19+09:00",
-      "updatedAt": "2026-08-23T05:08:19+09:00"
+      "updatedAt": "2026-08-24T08:48:07+09:00"
     },
     {
       "id": "https://univ-journal.jp/column/20261000196",
@@ -20246,11 +20246,11 @@
       "publishedAt": "2026-08-22T07:00:43+09:00",
       "collectedAt": "2026-08-23T05:08:21+09:00",
       "scrapedAt": "2026-08-23T05:08:21+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:21+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:09+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "学術",
       "categories": [
         "学術"
@@ -20259,12 +20259,12 @@
         "学術"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "2f2b2c725b560e0a2ec24204ca6af375f3e3b637d1cb6a4a0e2a7a21fbfba108",
       "trendScore": 9.68,
       "createdAt": "2026-08-23T05:08:21+09:00",
-      "updatedAt": "2026-08-23T05:08:21+09:00"
+      "updatedAt": "2026-08-24T08:48:09+09:00"
     },
     {
       "id": "https://univ-journal.jp/1000426",
@@ -20280,11 +20280,11 @@
       "publishedAt": "2026-08-21T17:00:08+09:00",
       "collectedAt": "2026-08-23T05:08:22+09:00",
       "scrapedAt": "2026-08-23T05:08:22+09:00",
-      "lastVerifiedAt": "2026-08-23T05:08:22+09:00",
+      "lastVerifiedAt": "2026-08-24T08:48:11+09:00",
       "httpStatus": 200,
       "contentType": "text/html; charset=UTF-8",
-      "linkStatus": "valid",
-      "validationError": null,
+      "linkStatus": "broken",
+      "validationError": "トップページに到達",
       "category": "学術",
       "categories": [
         "学術"
@@ -20293,12 +20293,12 @@
         "学術"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.75,
       "contentHash": "81fe882d29c63899ef5f33ff2291973343a807cc6ee1844df68f75f14c008be5",
       "trendScore": 8.85,
       "createdAt": "2026-08-23T05:08:22+09:00",
-      "updatedAt": "2026-08-23T05:08:22+09:00"
+      "updatedAt": "2026-08-24T08:48:11+09:00"
     },
     {
       "id": "https://qiita.com/YujiNaramoto/items/b3cbc1e2c581aa50aced",
