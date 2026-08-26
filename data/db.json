@@ -21818,6 +21818,521 @@
       "trendScore": 10.99,
       "createdAt": "2026-08-26T05:13:37+09:00",
       "updatedAt": "2026-08-26T05:13:37+09:00"
+    },
+    {
+      "id": "https://qiita.com/syun136_616/items/1263da73560e28787f62",
+      "title": "WebFetchの権限が許可されていないため、参考URLの内容を取得できませんでした。権限を許可いただくか、記事の主題（何のトレンド技術についての記事か）を教え - Qiita",
+      "originalTitle": "WebFetchの権限が許可されていないため、参考URLの内容を取得できませんでした。権限を許可いただくか、記事の主題（何のトレンド技術についての記事か）を教え",
+      "summary": "@ syun136_616 ( 駿 西嶋 ) WebFetchの権限が許可されていないため、参考URLの内容を取得できませんでした。権限を許可いただくか、記事の主題（何のトレンド技術についての記事か）を教え AI 記事作成 ポエム 生成AI 0 Posted at 2026-08-26 WebFetchの権限が許可されていないため、参考URLの内容を取得できませんでした。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/syun136_616/items/1263da73560e28787f62",
+      "originalUrl": "https://qiita.com/syun136_616/items/1263da73560e28787f62",
+      "finalUrl": "https://qiita.com/syun136_616/items/1263da73560e28787f62",
+      "publishedAt": "2026-08-27T07:30:28+09:00",
+      "collectedAt": "2026-08-27T07:32:03+09:00",
+      "scrapedAt": "2026-08-27T07:32:03+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5b820a58b0874b3ba32c033962235b0497b9a36fb958f3a2ea55fb9d342c191d",
+      "trendScore": 11,
+      "createdAt": "2026-08-27T07:32:03+09:00",
+      "updatedAt": "2026-08-27T07:32:03+09:00"
+    },
+    {
+      "id": "https://qiita.com/Hideki_Tamae/items/0af2a05936edc1e4f1f0",
+      "title": "Agent・Orchestration・Harness・Loop・Context・Evals、6つの関係を1つの具体例で整理する - Qiita",
+      "originalTitle": "Agent・Orchestration・Harness・Loop・Context・Evals、6つの関係を1つの具体例で整理する",
+      "summary": "@ Hideki_Tamae ( 田前 秀樹 ) Agent・Orchestration・Harness・Loop・Context・Evals、6つの関係を1つの具体例で整理する AI AIエージェント agenticai LLM promptengineering 0 Posted at 2026-08-26 はじめに AIエージェント界隈は、この1〜2年で言葉が増えすぎました。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Hideki_Tamae/items/0af2a05936edc1e4f1f0",
+      "originalUrl": "https://qiita.com/Hideki_Tamae/items/0af2a05936edc1e4f1f0",
+      "finalUrl": "https://qiita.com/Hideki_Tamae/items/0af2a05936edc1e4f1f0",
+      "publishedAt": "2026-08-27T07:08:32+09:00",
+      "collectedAt": "2026-08-27T07:32:09+09:00",
+      "scrapedAt": "2026-08-27T07:32:09+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:09+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "13e811196e2642be58caf8acc7f26d98a5cb8624394b8fbc01423ce9bffd94e5",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-27T07:32:09+09:00",
+      "updatedAt": "2026-08-27T07:32:09+09:00"
+    },
+    {
+      "id": "https://qiita.com/yuanyurenzht/items/5d494154a64b415b71f2",
+      "title": "研究論文のグラフィカルアブストラクトを効率的に作る方法 - Qiita",
+      "originalTitle": "研究論文のグラフィカルアブストラクトを効率的に作る方法",
+      "summary": "@ yuanyurenzht ( liber sand ) 研究論文のグラフィカルアブストラクトを効率的に作る方法 論文 研究 AI graphical-abstract 科学コミュニケーション 0 Posted at 2026-08-26 研究論文のグラフィカルアブストラクト（図解要旨）は、読者に論文の要点を一目で伝える重要な要素です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/yuanyurenzht/items/5d494154a64b415b71f2",
+      "originalUrl": "https://qiita.com/yuanyurenzht/items/5d494154a64b415b71f2",
+      "finalUrl": "https://qiita.com/yuanyurenzht/items/5d494154a64b415b71f2",
+      "publishedAt": "2026-08-27T07:06:08+09:00",
+      "collectedAt": "2026-08-27T07:32:15+09:00",
+      "scrapedAt": "2026-08-27T07:32:15+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "98578f335fd459a571f5076873277e5bd6bf1a35ee578cae324c84cfbad52fd7",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-27T07:32:15+09:00",
+      "updatedAt": "2026-08-27T07:32:15+09:00"
+    },
+    {
+      "id": "https://qiita.com/GeneLab_999/items/5f6fedad9eee99d0fa5a",
+      "title": "Attentionってなんだ？ ── Q/K/Vの出どころで決まる名前 - Qiita",
+      "originalTitle": "Attentionってなんだ？ ── Q/K/Vの出どころで決まる名前",
+      "summary": "@ GeneLab_999 Attentionってなんだ？── Q/K/Vの出どころで決まる名前 AI ChatGPT LLM 機械学習 Python 0 Posted at 2026-08-26 Self-Attention の記事を書いたとき、実はAttentionそのものの歴史や、Self-Attention以外のAttentionにはほとんど触れなかった。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/GeneLab_999/items/5f6fedad9eee99d0fa5a",
+      "originalUrl": "https://qiita.com/GeneLab_999/items/5f6fedad9eee99d0fa5a",
+      "finalUrl": "https://qiita.com/GeneLab_999/items/5f6fedad9eee99d0fa5a",
+      "publishedAt": "2026-08-26T12:14:31+09:00",
+      "collectedAt": "2026-08-27T07:32:15+09:00",
+      "scrapedAt": "2026-08-27T07:32:15+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "e52192446071b5046b61f3172da3d084368d4782a04541c4183b865315659fd3",
+      "trendScore": 9.85,
+      "createdAt": "2026-08-27T07:32:15+09:00",
+      "updatedAt": "2026-08-27T07:32:15+09:00"
+    },
+    {
+      "id": "https://qiita.com/sugarfree/items/8f56d812e68b6a88d666",
+      "title": "【技術解説】【完全ガイド】yfinanceを使ったPythonでの金融データ取得と活用法 - Qiita",
+      "originalTitle": "【技術解説】【完全ガイド】yfinanceを使ったPythonでの金融データ取得と活用法",
+      "summary": "@ sugarfree 【技術解説】【完全ガイド】yfinanceを使ったPythonでの金融データ取得と活用法 Python 自動売買 機械学習 0 Posted at 2026-08-26 yfinanceを用いた金融データ取得と活用法 Pythonを用いて金融データを扱う際、 yfinance ライブラリは非常に便利です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/sugarfree/items/8f56d812e68b6a88d666",
+      "originalUrl": "https://qiita.com/sugarfree/items/8f56d812e68b6a88d666",
+      "finalUrl": "https://qiita.com/sugarfree/items/8f56d812e68b6a88d666",
+      "publishedAt": "2026-08-26T11:00:19+09:00",
+      "collectedAt": "2026-08-27T07:32:16+09:00",
+      "scrapedAt": "2026-08-27T07:32:16+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:16+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "c6be0430f73e8d32b10192a6832fe144f81fbdabf2b208106f02248abd361132",
+      "trendScore": 9.78,
+      "createdAt": "2026-08-27T07:32:16+09:00",
+      "updatedAt": "2026-08-27T07:32:16+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/resources/procedures-survey-results",
+      "title": "行政手続等の棚卸調査結果等｜デジタル庁",
+      "originalTitle": "行政手続等の棚卸結果（令和7年度調査）を掲載しました",
+      "summary": "行政手続等の棚卸調査結果等 最終更新日: 2026年8月26日 情報通信技術を活用した行政の推進等に関する法律（平成14年法律第151号）第25条第2項に基づき、行政手続等の棚卸結果等をとりまとめました。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/resources/procedures-survey-results",
+      "originalUrl": "https://www.digital.go.jp/resources/procedures-survey-results",
+      "finalUrl": "https://www.digital.go.jp/resources/procedures-survey-results",
+      "publishedAt": "2026-08-26T15:00:00+09:00",
+      "collectedAt": "2026-08-27T07:32:17+09:00",
+      "scrapedAt": "2026-08-27T07:32:17+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "365aeb4d23afc15506944e0307ceaed7d376d2e4d6bfaef0215e08d268248eaf",
+      "trendScore": 10.02,
+      "createdAt": "2026-08-27T07:32:17+09:00",
+      "updatedAt": "2026-08-27T07:32:17+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
+      "title": "地方自治体の事務の共同処理に関するダッシュボード｜デジタル庁",
+      "originalTitle": "地方自治体の事務の共同処理に関するダッシュボードを開設しました",
+      "summary": "地方自治体の事務の共同処理に関するダッシュボード 本ダッシュボードを改善・向上するためのアンケートを実施しています。下記フォームよりご意見をお寄せください。地方自治体の事務の共同処理に関するダッシュボードについてのご意見フォーム（所要時間1分） 目次 事務の共同処理制度 事務分類別の共同処理状況 総括表 全国比較 他団体との比較 処理方式別の共同処理状況 処理方式の内訳 都道府県の地図 事務の一覧 留意事項 お問い合わせ先 1.",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
+      "originalUrl": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
+      "finalUrl": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
+      "publishedAt": "2026-08-26T15:00:00+09:00",
+      "collectedAt": "2026-08-27T07:32:17+09:00",
+      "scrapedAt": "2026-08-27T07:32:17+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "c8b65fbfc5bf5aabec2a75529c7c4b02b62236a50ec6b926288213f89fe7df1f",
+      "trendScore": 10.02,
+      "createdAt": "2026-08-27T07:32:17+09:00",
+      "updatedAt": "2026-08-27T07:32:17+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000352.html",
+      "title": "国土交通省｜報道資料｜「レベル５大雨特別警報が発表されたときにとるべき行動」及び「レベル５大雨特別警報が発表されたときの車運転の注意点」について",
+      "originalTitle": "�u���x���T��J���ʌx�񂪔��\\���ꂽ�Ƃ��ɂƂ�ׂ��s���v�y�сu���x���T��J���ʌx�񂪔��\\���ꂽ�Ƃ��̎ԉ^�]�̒��ӓ_�v�ɂ���",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 「レベル５大雨特別警報が発表されたときにとるべき行動」及び「レベル５大雨特別警報が発表されたときの車運転の注意点」について 「レベル５大雨特別警報が発表されたときにとるべき行動」及び「レベル５大雨特別警報が発表されたときの車運転の注意点」について 令和8年8月26日 同時発表：内閣府（防災担当）、警察庁、消防庁 令和８年８月千葉豪雨を踏まえ、「レベル５…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000352.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo06_hh_000352.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000352.html",
+      "publishedAt": "2026-08-26T05:00:00+09:00",
+      "collectedAt": "2026-08-27T07:32:20+09:00",
+      "scrapedAt": "2026-08-27T07:32:20+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "edcb35be2469367bb837b8e7b1c0bfd1a60adbf0c7855cc52d7676d6305554f9",
+      "trendScore": 9.42,
+      "createdAt": "2026-08-27T07:32:20+09:00",
+      "updatedAt": "2026-08-27T07:32:20+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/road01_hh_002135.html",
+      "title": "国土交通省｜報道資料｜橋梁等の2025年度（令和７年度）点検結果をとりまとめ<br>～道路メンテナンス年報（３巡目２年目）の公表～",
+      "originalTitle": "��������2025�N�x�i�ߘa�V�N�x�j�_�����ʂ��Ƃ�܂Ƃ߁`���H�����e�i���X�N��i�R���ڂQ�N�ځj�̌��\\�`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 橋梁等の2025年度（令和７年度）点検結果をとりまとめ ～道路メンテナンス年報（３巡目２年目）の公表～ 橋梁等の2025年度（令和７年度）点検結果をとりまとめ ～道路メンテナンス年報（３巡目２年目）の公表～ 令和8年8月26日 2013 年度の道路法改正等を受け、2014 年度より道路管理者は全ての橋梁、 トンネル、道路附属物等について、５年に１度の点検が義務付けられていま す。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/road01_hh_002135.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/road01_hh_002135.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/road01_hh_002135.html",
+      "publishedAt": "2026-08-26T05:00:00+09:00",
+      "collectedAt": "2026-08-27T07:32:20+09:00",
+      "scrapedAt": "2026-08-27T07:32:20+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ガイドライン",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "08c7fa68d8bf71449b125ed9c39a9c4aad622a67f7ae5cbd50c2e50303c194ba",
+      "trendScore": 9.42,
+      "createdAt": "2026-08-27T07:32:20+09:00",
+      "updatedAt": "2026-08-27T07:32:20+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000639.000021123.html",
+      "title": "「Forever Love」 YOSHIKI feat. JOSH GROBAN世界配信開始 YOSHIKI 名義では「Red Swan」以来、約8年ぶりとなる楽曲リリース",
+      "originalTitle": "「Forever Love」 YOSHIKI feat. JOSH GROBAN世界配信開始　 YOSHIKI 名義では「Red Swan」以来、約8年ぶりとなる楽曲リリース",
+      "summary": "「Forever Love」 YOSHIKI feat.JOSH GROBAN世界配信開始 YOSHIKI 名義では「Red Swan」以来、約8年ぶりとなる楽曲リリース ディナーショー通算100回を迎える期間に、リリース記念として『 YOSHIKI CHANNEL』 4日連続・全6番組スペシャル生放送が決定 連日登場する豪華ゲストを発表 YOSHIKI PR事務局 2026年8月26日 18時53分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000639.000021123.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000639.000021123.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000639.000021123.html",
+      "publishedAt": "2026-08-27T07:10:02+09:00",
+      "collectedAt": "2026-08-27T07:32:20+09:00",
+      "scrapedAt": "2026-08-27T07:32:20+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "4b410875ad60fcd0e6011e6d2cd9d41361050127bebec27a0f4c47b2ff395150",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-27T07:32:20+09:00",
+      "updatedAt": "2026-08-27T07:32:20+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000038.000060206.html",
+      "title": "「CLANE × Maison MIHARA YASUHIRO」初のコラボレーションアイテム。シューズとグラフィックTシャツの全4型を発売。",
+      "originalTitle": "「CLANE × Maison MIHARA YASUHIRO」初のコラボレーションアイテム。シューズとグラフィックTシャツの全4型を発売。",
+      "summary": "「CLANE × Maison MIHARA YASUHIRO」初のコラボレーションアイテム。シューズとグラフィックTシャツの全4型を発売。CLANE DESIGN株式会社 2026年8月26日 15時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000038.000060206.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000038.000060206.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000038.000060206.html",
+      "publishedAt": "2026-08-27T07:10:02+09:00",
+      "collectedAt": "2026-08-27T07:32:21+09:00",
+      "scrapedAt": "2026-08-27T07:32:21+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1fd49816924dbe047263147db3edc107a4a9b1f6c9312aaf7a18a1f33042fa8f",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-27T07:32:21+09:00",
+      "updatedAt": "2026-08-27T07:32:21+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000446.000059114.html",
+      "title": "エルメ、「2026年版 マーケティング・集客 生成AIカオスマップ」に掲載",
+      "originalTitle": "エルメ、「2026年版 マーケティング・集客 生成AIカオスマップ」に掲載",
+      "summary": "エルメ、「2026年版 マーケティング・集客 生成AIカオスマップ」に掲載 LINE公式アカウント拡張ツール「L Message（エルメ）」が、「2026年版 マーケティング・集客 生成AIカオスマップ」のMA・CRMカテゴリー「LINE運用」に掲載されました。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000446.000059114.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000446.000059114.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000446.000059114.html",
+      "publishedAt": "2026-08-27T07:10:02+09:00",
+      "collectedAt": "2026-08-27T07:32:21+09:00",
+      "scrapedAt": "2026-08-27T07:32:21+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "生成AI",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "5212d8784a073ddc67faab81852b4a8ded513feeac137afeb7ddc708ce62aa52",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-27T07:32:21+09:00",
+      "updatedAt": "2026-08-27T07:32:21+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001268",
+      "title": "川崎市が最短2030年度に「高専」の新設構想 産官が共同で資金を提供し新たな学校法人を設置",
+      "originalTitle": "川崎市が最短2030年度に「高専」の新設構想　産官が共同で資金を提供し新たな学校法人を設置",
+      "summary": "TOP > トピックス > 川崎市が最短2030年度に「高専」の新設構想 産官が共同で資金を提供し新たな学校法人を設置 2026年8月26日 川崎市が最短2030年度に「高専」の新設構想 産官が共同で資金を提供し新たな学校法人を設置 大学ジャーナルオンライン編集部 高専 開学 高等専門学校 川崎市の教育委員会は2026年8月21日、高等専門学校（高専）の新設に向けた検討状況を公表し、最短で2030年度の開校を目指す方針を示した。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001268",
+      "originalUrl": "https://univ-journal.jp/1001268/",
+      "finalUrl": "https://univ-journal.jp/1001268",
+      "publishedAt": "2026-08-26T17:00:51+09:00",
+      "collectedAt": "2026-08-27T07:32:29+09:00",
+      "scrapedAt": "2026-08-27T07:32:29+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "18df846ab7cee6423dc47cb7eebfc5b7346449a02c60bc5c213f4e7571018fb7",
+      "trendScore": 10.14,
+      "createdAt": "2026-08-27T07:32:29+09:00",
+      "updatedAt": "2026-08-27T07:32:29+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000224",
+      "title": "佛教大学 文学部新学科や経営学部など新設構想 2028年度から「教育改革5カ年計画」を始動",
+      "originalTitle": "佛教大学　文学部新学科や経営学部など新設構想　2028年度から「教育改革5カ年計画」を始動",
+      "summary": "TOP > トピックス > 佛教大学 文学部新学科や経営学部など新設構想 2028年度から「教育改革5カ年計画」を始動 2026年8月26日 佛教大学 文学部新学科や経営学部など新設構想 2028年度から「教育改革5カ年計画」を始動 大学ジャーナルオンライン編集部 佛教大学 佛教大学（京都市北区）は、2028年度から2032年度の5年間で進める大規模な教育改革に向け、新たな教育改革ブランディング「B.",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000224",
+      "originalUrl": "https://univ-journal.jp/1000224/",
+      "finalUrl": "https://univ-journal.jp/1000224",
+      "publishedAt": "2026-08-26T11:00:28+09:00",
+      "collectedAt": "2026-08-27T07:32:31+09:00",
+      "scrapedAt": "2026-08-27T07:32:31+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:31+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "73afc76acc03861f65343a393863b0698a1fd28842a04685f55da9df621de96d",
+      "trendScore": 9.78,
+      "createdAt": "2026-08-27T07:32:31+09:00",
+      "updatedAt": "2026-08-27T07:32:31+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/955697",
+      "title": "｢この二人が本当の両親だ｣とわかったとき､絶望した――群ようこが\"親を他人\"と思って生きるようになった少女時代",
+      "originalTitle": "｢この二人が本当の両親だ｣とわかったとき､絶望した――群ようこが\"親を他人\"と思って生きるようになった少女時代 | ライフ | 東洋経済オンライン",
+      "summary": "ライフ ｢この二人が本当の両親だ｣とわかったとき､絶望した――群ようこが\"親を他人\"と思って生きるようになった少女時代 9分で読める 公開日時：2026/08/27 07:30 「やっぱりこれが私の本当の家なのか」と気づいたとき……（写真：LadadikArt／PIXTA） 群 ようこ 作家、随筆家 フォロー 作家の群ようこさんが､家庭の中で感じた絶望､現実と理想のはざまで揺れた少女時代を振り返ります。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/955697",
+      "originalUrl": "https://toyokeizai.net/articles/-/955697?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/955697",
+      "publishedAt": "2026-08-27T07:30:00+09:00",
+      "collectedAt": "2026-08-27T07:32:33+09:00",
+      "scrapedAt": "2026-08-27T07:32:33+09:00",
+      "lastVerifiedAt": "2026-08-27T07:32:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "841832ee73ea29ef6b8a0de5da80f08f3017a77f36e72e3e2969357e63ec1495",
+      "trendScore": 11,
+      "createdAt": "2026-08-27T07:32:33+09:00",
+      "updatedAt": "2026-08-27T07:32:33+09:00"
     }
   ],
   "sources": [
@@ -21830,8 +22345,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-26T05:13:06+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:06+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:02+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -21843,8 +22358,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-26T05:13:19+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:19+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:15+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -21856,8 +22371,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-26T05:13:19+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:20+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:16+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -21882,8 +22397,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-26T05:13:20+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:21+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:16+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -21895,8 +22410,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-26T05:13:21+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:21+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:16+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -21908,8 +22423,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-26T05:13:21+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:21+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:17+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -21921,8 +22436,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-26T05:13:21+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:22+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:17+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -21934,8 +22449,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-26T05:13:24+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:24+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:19+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22038,8 +22553,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-26T05:13:26+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:26+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:20+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22077,8 +22592,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-26T05:13:26+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:27+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:21+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22090,8 +22605,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-26T05:13:27+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:27+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:21+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22103,8 +22618,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-26T05:13:27+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:29+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:22+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22116,8 +22631,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-26T05:13:29+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:29+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:23+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22129,8 +22644,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-26T05:13:29+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:29+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:24+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22142,8 +22657,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-26T05:13:29+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:30+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:24+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22168,8 +22683,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-26T05:13:30+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:30+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:25+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22233,8 +22748,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-26T05:13:32+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:33+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:26+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22246,8 +22761,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-26T05:13:35+09:00",
-      "lastSuccessAt": "2026-08-26T05:13:36+09:00",
+      "lastFetchedAt": "2026-08-27T07:32:31+09:00",
+      "lastSuccessAt": "2026-08-27T07:32:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -22421,6 +22936,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260827-0732",
+      "scheduledAt": "2026-08-27T07:32:02+09:00",
+      "startedAt": "2026-08-27T07:32:02+09:00",
+      "finishedAt": "2026-08-27T07:32:33+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 54,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260826-0513",
       "scheduledAt": "2026-08-26T05:13:06+09:00",
@@ -23367,9 +23901,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-26T05:13:37+09:00",
-    "lastSuccessAt": "2026-08-26T05:13:37+09:00",
-    "nextScheduledAt": "2026-08-27T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-27T07:32:33+09:00",
+    "lastSuccessAt": "2026-08-27T07:32:33+09:00",
+    "nextScheduledAt": "2026-08-28T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
