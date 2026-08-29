@@ -23363,6 +23363,523 @@
       "trendScore": 9.9,
       "createdAt": "2026-08-29T11:29:35+09:00",
       "updatedAt": "2026-08-29T11:29:35+09:00"
+    },
+    {
+      "id": "https://qiita.com/quotidia/items/34a04ea5610e74af46b0",
+      "title": "ChatGPT以降の英語ページの3分の1超にAI執筆の兆候。Pew実測、2つの数字の読み方 - Qiita",
+      "originalTitle": "ChatGPT以降の英語ページの3分の1超にAI執筆の兆候。Pew実測、2つの数字の読み方",
+      "summary": "@ quotidia ChatGPT以降の英語ページの3分の1超にAI執筆の兆候。Pew実測、2つの数字の読み方 AI ChatGPT 生成AI LLM 調査 0 Posted at 2026-08-29 本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/quotidia/items/34a04ea5610e74af46b0",
+      "originalUrl": "https://qiita.com/quotidia/items/34a04ea5610e74af46b0",
+      "finalUrl": "https://qiita.com/quotidia/items/34a04ea5610e74af46b0",
+      "publishedAt": "2026-08-30T06:01:06+09:00",
+      "collectedAt": "2026-08-30T07:02:46+09:00",
+      "scrapedAt": "2026-08-30T07:02:46+09:00",
+      "lastVerifiedAt": "2026-08-30T07:02:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "57ed105d9c49f4dcf0437d62aac438837419ba0cb7721afffe86e0b17c1ac53d",
+      "trendScore": 10.94,
+      "createdAt": "2026-08-30T07:02:46+09:00",
+      "updatedAt": "2026-08-30T07:02:46+09:00"
+    },
+    {
+      "id": "https://qiita.com/nak3761/items/c620408df51ed1cdca4c",
+      "title": "AIは毎回すべてを忘れる。だからドキュメントの書き方が変わった — 3週間の個人開発で分かったこと - Qiita",
+      "originalTitle": "AIは毎回すべてを忘れる。だからドキュメントの書き方が変わった — 3週間の個人開発で分かったこと",
+      "summary": "@ nak3761 AIは毎回すべてを忘れる。だからドキュメントの書き方が変わった — 3週間の個人開発で分かったこと Claude ClaudeCode AI ドキュメント 生成AI 0 Last updated at 2026-08-29 Posted at 2026-08-29 この記事は、 最初の節以降はすべてClaude (Opus 5) が書いています 。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/nak3761/items/c620408df51ed1cdca4c",
+      "originalUrl": "https://qiita.com/nak3761/items/c620408df51ed1cdca4c",
+      "finalUrl": "https://qiita.com/nak3761/items/c620408df51ed1cdca4c",
+      "publishedAt": "2026-08-30T02:57:16+09:00",
+      "collectedAt": "2026-08-30T07:02:52+09:00",
+      "scrapedAt": "2026-08-30T07:02:52+09:00",
+      "lastVerifiedAt": "2026-08-30T07:02:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "738fca47ca196199b4df55e7f2e49f53a746c6a6fe8f20f2fd44535d92087624",
+      "trendScore": 10.76,
+      "createdAt": "2026-08-30T07:02:52+09:00",
+      "updatedAt": "2026-08-30T07:02:52+09:00"
+    },
+    {
+      "id": "https://qiita.com/lemonIN/items/81e1821c586654071792",
+      "title": "ココロノダンジョン ～感情の羅針盤～ - Qiita",
+      "originalTitle": "ココロノダンジョン ～感情の羅針盤～",
+      "summary": "@ lemonIN ( _ _ ) ココロノダンジョン ～感情の羅針盤～ Unity ゲーム開発 AI 0 Posted at 2026-08-29 ココロノダンジョン ～感情の羅針盤～ 概要 プレイヤーは**「心の探求者」 となり、自身のネガティブな感情が具現化した 「ココロノダンジョン」**を探索するスマホ向けローグライクです。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lemonIN/items/81e1821c586654071792",
+      "originalUrl": "https://qiita.com/lemonIN/items/81e1821c586654071792",
+      "finalUrl": "https://qiita.com/lemonIN/items/81e1821c586654071792",
+      "publishedAt": "2026-08-30T02:45:52+09:00",
+      "collectedAt": "2026-08-30T07:02:58+09:00",
+      "scrapedAt": "2026-08-30T07:02:58+09:00",
+      "lastVerifiedAt": "2026-08-30T07:02:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "9dd7d1d9c1909affca9a7cd18e697b38fc1f100815fc433ed1410016bad1b26c",
+      "trendScore": 10.74,
+      "createdAt": "2026-08-30T07:02:58+09:00",
+      "updatedAt": "2026-08-30T07:02:58+09:00"
+    },
+    {
+      "id": "https://qiita.com/akiralab/items/69d3a6953794a0a7c102",
+      "title": "因果推論 Day 17／全30回 操作変数法、観測できない交絡を外生のてこで外す - Qiita",
+      "originalTitle": "因果推論 Day 17／全30回　操作変数法、観測できない交絡を外生のてこで外す",
+      "summary": "@ akiralab ( Akira Kawai ) 因果推論 Day 17／全30回 操作変数法、観測できない交絡を外生のてこで外す 因果推論 統計 Python 機械学習 0 Posted at 2026-08-29 この連載について 因果推論を「本を読んだ」で終わらせず、 自分の言葉で説明でき、コードで再現できる状態 まで落とす30日連載です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/akiralab/items/69d3a6953794a0a7c102",
+      "originalUrl": "https://qiita.com/akiralab/items/69d3a6953794a0a7c102",
+      "finalUrl": "https://qiita.com/akiralab/items/69d3a6953794a0a7c102",
+      "publishedAt": "2026-08-30T00:16:26+09:00",
+      "collectedAt": "2026-08-30T07:02:59+09:00",
+      "scrapedAt": "2026-08-30T07:02:59+09:00",
+      "lastVerifiedAt": "2026-08-30T07:02:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "2fc2fa70bd008dc2e209d6b6993ce05a2f591e18079cd5a185d8abbaf7f7e344",
+      "trendScore": 10.6,
+      "createdAt": "2026-08-30T07:02:59+09:00",
+      "updatedAt": "2026-08-30T07:02:59+09:00"
+    },
+    {
+      "id": "https://qiita.com/sakura__mochi/items/f9df0f847f40f98c464d",
+      "title": "【Survey】Neural Ordinary Differential Equations - Qiita",
+      "originalTitle": "【Survey】Neural Ordinary Differential Equations",
+      "summary": "@ sakura__mochi 【Survey】Neural Ordinary Differential Equations 機械学習 論文 0 Posted at 2026-08-29 本記事では、 Neural Ordinary Differential Equations で紹介されているNeural ODEについて解説します。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/sakura__mochi/items/f9df0f847f40f98c464d",
+      "originalUrl": "https://qiita.com/sakura__mochi/items/f9df0f847f40f98c464d",
+      "finalUrl": "https://qiita.com/sakura__mochi/items/f9df0f847f40f98c464d",
+      "publishedAt": "2026-08-29T20:48:57+09:00",
+      "collectedAt": "2026-08-30T07:02:59+09:00",
+      "scrapedAt": "2026-08-30T07:02:59+09:00",
+      "lastVerifiedAt": "2026-08-30T07:02:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "9eb98c49787c900e22d0bc9151d4befd3e051e94f300d4625553564adcc3d1fc",
+      "trendScore": 10.39,
+      "createdAt": "2026-08-30T07:02:59+09:00",
+      "updatedAt": "2026-08-30T07:02:59+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo04_hh_000320.html",
+      "title": "国土交通省｜報道資料｜福井県にレベル５大雨特別警報発表",
+      "originalTitle": "���䌧�Ƀ��x���T��J���ʌx�񔭕\\",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 福井県にレベル５大雨特別警報発表 福井県にレベル５大雨特別警報発表 令和8年8月30日 福井県福井市、大野市、勝山市にレベル５大雨特別警報を発表しました。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo04_hh_000320.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo04_hh_000320.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo04_hh_000320.html",
+      "publishedAt": "2026-08-30T05:00:00+09:00",
+      "collectedAt": "2026-08-30T07:03:05+09:00",
+      "scrapedAt": "2026-08-30T07:03:05+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "cb559d39fed37ea846883578a2d57c2afcb032e12f27a69cff75242890c50ed2",
+      "trendScore": 10.88,
+      "createdAt": "2026-08-30T07:03:05+09:00",
+      "updatedAt": "2026-08-30T07:03:05+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/toshi07_hh_000301.html",
+      "title": "国土交通省｜報道資料｜「駅前広場計画指針」の改定に向けた検討を始めます<br>～第１回 駅前広場計画指針検討会を開催～",
+      "originalTitle": "�u�w�O�L��v��w�j�v�̉���Ɍ������������n�߂܂��`��P�� �w�O�L��v��w�j��������J�Á`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 「駅前広場計画指針」の改定に向けた検討を始めます ～第１回 駅前広場計画指針検討会を開催～ 「駅前広場計画指針」の改定に向けた検討を始めます ～第１回 駅前広場計画指針検討会を開催～ 令和8年8月28日 駅前広場をとりまく社会情勢の変化や都市政策の状況を踏まえ、「駅前広場計画指針」の改定に向けた検討を行うため、「駅前広場計画指針検討会」を設置し、令和８…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/toshi07_hh_000301.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/toshi07_hh_000301.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/toshi07_hh_000301.html",
+      "publishedAt": "2026-08-28T05:00:00+09:00",
+      "collectedAt": "2026-08-30T07:03:06+09:00",
+      "scrapedAt": "2026-08-30T07:03:06+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "eefd404608c6b4986cad5366179b540d25d2b64bdc07d379453db77efa56c14f",
+      "trendScore": 8.02,
+      "createdAt": "2026-08-30T07:03:06+09:00",
+      "updatedAt": "2026-08-30T07:03:06+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000761.html",
+      "title": "国土交通省｜報道資料｜令和８年熊本地震における水道施設の応急復旧完了のお知らせ",
+      "originalTitle": "�ߘa�W�N�F�{�n�k�ɂ����鐅���{�݂̉��}���������̂��m�点",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 令和８年熊本地震における水道施設の応急復旧完了のお知らせ 令和８年熊本地震における水道施設の応急復旧完了のお知らせ 令和8年8月28日 令和８年７月28日（火）に発生した令和８年熊本地震により被災した水道本管について、８月28日（金）にすべての応急復旧が完了しました。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000761.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000761.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000761.html",
+      "publishedAt": "2026-08-28T05:00:00+09:00",
+      "collectedAt": "2026-08-30T07:03:06+09:00",
+      "scrapedAt": "2026-08-30T07:03:06+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "1d5be63a8acb41de48682bb870222cdbcd8cc848caceee272ae505531d99c9d3",
+      "trendScore": 8.02,
+      "createdAt": "2026-08-30T07:03:06+09:00",
+      "updatedAt": "2026-08-30T07:03:06+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000322.000088950.html",
+      "title": "けんだいSPORTS FESTIVAL inはまだ を10月4日（日）に開催します",
+      "originalTitle": "けんだいSPORTS FESTIVAL inはまだ　を10月4日（日）に開催します",
+      "summary": "けんだいSPORTS FESTIVAL inはまだ を10月4日（日）に開催します 公立大学法人島根県立大学 2026年8月28日 12時26分 いいね！数を読み込み中です けんだいSPORTS FESTIVAL inはまだ 開催日時：2026年10月4日（日）9時20分～12時30分 会場：島根県立大学浜田キャンパス体育館（浜田市野原町2433-2） 主催者：島根県立大学松江キャンパス 協力：ス…",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000322.000088950.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000322.000088950.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000322.000088950.html",
+      "publishedAt": "2026-08-30T06:40:02+09:00",
+      "collectedAt": "2026-08-30T07:03:07+09:00",
+      "scrapedAt": "2026-08-30T07:03:07+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "dd308a6809aa6d211f95ec0b671a952c24da00e03034d73cc6a5e8f760d09916",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-30T07:03:07+09:00",
+      "updatedAt": "2026-08-30T07:03:07+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000409.000158730.html",
+      "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第44弾、ギオルギ・ガンバシゼ――ジョージア産ブドウの半分以上を処理する、酒精企業の20%出資者",
+      "originalTitle": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第44弾、ギオルギ・ガンバシゼ――ジョージア産ブドウの半分以上を処理する、酒精企業の20%出資者",
+      "summary": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第44弾、ギオルギ・ガンバシゼ――ジョージア産ブドウの半分以上を処理する、酒精企業の20%出資者 経営権を持たない20%出資者という立場と、秋の収穫期に能力を集中させる輸出立地の中核インフラから、酒精・蒸留酒産業の中長期的な企業価値を読み解く 少数株ドットコム株式会社 2026年8月27日 16時30分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000409.000158730.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000409.000158730.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000409.000158730.html",
+      "publishedAt": "2026-08-30T06:40:02+09:00",
+      "collectedAt": "2026-08-30T07:03:08+09:00",
+      "scrapedAt": "2026-08-30T07:03:08+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "半導体",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "f7ae99e1bba7a8036e67e44789435efdf1ac6d6ee7edc9ec14079dcf72d6f3db",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-30T07:03:08+09:00",
+      "updatedAt": "2026-08-30T07:03:08+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000064.000098115.html",
+      "title": "不動産投資型クラファン【DARWIN funding】開発型47号ファンドを９月1日（火）9時より募集開始いたします！！",
+      "originalTitle": "不動産投資型クラファン【DARWIN funding】開発型47号ファンドを９月1日（火）9時より募集開始いたします！！",
+      "summary": "不動産投資型クラファン【DARWIN funding】開発型47号ファンドを９月1日（火）9時より募集開始いたします！ダーウィンアセットパートナーズ株式会社 2026年8月27日 16時30分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000064.000098115.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000064.000098115.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000064.000098115.html",
+      "publishedAt": "2026-08-30T06:40:02+09:00",
+      "collectedAt": "2026-08-30T07:03:08+09:00",
+      "scrapedAt": "2026-08-30T07:03:08+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "c133b0ce014372f57b51a0d6e6576eb91fc31048473a2aeb5f801f3d00c8082c",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-30T07:03:08+09:00",
+      "updatedAt": "2026-08-30T07:03:08+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001385",
+      "title": "都市圏の大規模私大を中心に支援する「大規模文理横断転換枠」 1件最大80億円に倍増 文系ダブルメジャーも支援対象 文科省が2027年度概算要求",
+      "originalTitle": "都市圏の大規模私大を中心に支援する「大規模文理横断転換枠」　1件最大80億円に倍増　文系ダブルメジャーも支援対象　文科省が2027年度概算要求",
+      "summary": "TOP > トピックス > 都市圏の大規模私大を中心に支援する「大規模文理横断転換枠」 1件最大80億円に倍増 文系ダブルメジャーも支援対象 文科省が2027年度概算要求 2026年8月29日 都市圏の大規模私大を中心に支援する「大規模文理横断転換枠」 1件最大80億円に倍増 文系ダブルメジャーも支援対象 文科省が2027年度概算要求 大学ジャーナルオンライン編集部 文部科学省 大規模文理横断転換…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001385",
+      "originalUrl": "https://univ-journal.jp/1001385/",
+      "finalUrl": "https://univ-journal.jp/1001385",
+      "publishedAt": "2026-08-29T17:00:22+09:00",
+      "collectedAt": "2026-08-30T07:03:17+09:00",
+      "scrapedAt": "2026-08-30T07:03:17+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "研究開発",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "9283facf4cac0cd77a80e83532e395aeb3ea3564baf1e81c5297e4c77fbcbffd",
+      "trendScore": 10.16,
+      "createdAt": "2026-08-30T07:03:17+09:00",
+      "updatedAt": "2026-08-30T07:03:17+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001303",
+      "title": "玉川学園と北海道森町が包括連携協定を締結 地域振興および地域で活躍する人材育成に貢献",
+      "originalTitle": "玉川学園と北海道森町が包括連携協定を締結　 地域振興および地域で活躍する人材育成に貢献",
+      "summary": "TOP > 地方創生 > 地域活性 > 玉川学園と北海道森町が包括連携協定を締結 地域振興および地域で活躍する人材育成に貢献 2026年8月29日 玉川学園と北海道森町が包括連携協定を締結 地域振興および地域で活躍する人材育成に貢献 大学ジャーナルオンライン編集部 協定締結 玉川大学 2026年8月20日、学校法人玉川学園と北海道茅部郡森町は連携協定を締結した。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001303",
+      "originalUrl": "https://univ-journal.jp/1001303/",
+      "finalUrl": "https://univ-journal.jp/1001303",
+      "publishedAt": "2026-08-29T11:00:28+09:00",
+      "collectedAt": "2026-08-30T07:03:18+09:00",
+      "scrapedAt": "2026-08-30T07:03:18+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:18+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "DX",
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "ab329a06c08b3e93482badb72d372174ddad95ff0166d51bbb64e7c73ebe839c",
+      "trendScore": 9.81,
+      "createdAt": "2026-08-30T07:03:18+09:00",
+      "updatedAt": "2026-08-30T07:03:18+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956051",
+      "title": "開業時に社長が｢採算が合うのか｣と漏らしていた⋯ゆめタウンとの戦いに敗北｢島根の旧ジャスコ｣に見る\"都市の変容\"",
+      "originalTitle": "開業時に社長が｢採算が合うのか｣と漏らしていた⋯ゆめタウンとの戦いに敗北｢島根の旧ジャスコ｣に見る\"都市の変容\" | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #廃墟モールの経済学 開業時に社長が｢採算が合うのか｣と漏らしていた⋯ゆめタウンとの戦いに敗北｢島根の旧ジャスコ｣に見る\"都市の変容\" 7分で読める 公開日時：2026/08/30 06:45 「平田ショッピングセンターViVA」衰退の根底にあった街の変化とは？",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956051",
+      "originalUrl": "https://toyokeizai.net/articles/-/956051?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956051",
+      "publishedAt": "2026-08-30T06:45:00+09:00",
+      "collectedAt": "2026-08-30T07:03:20+09:00",
+      "scrapedAt": "2026-08-30T07:03:20+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "00229c192f4dcb021c140e4b7a1db19fba606ed539857e6a6ad19463641dff02",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-30T07:03:20+09:00",
+      "updatedAt": "2026-08-30T07:03:20+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956050",
+      "title": "｢開業わずか2年で近隣にゆめタウンがオープン｣｢核テナントのスーパー撤退でジリ貧に｣⋯島根の｢廃墟モール｣盛衰の訳",
+      "originalTitle": "｢開業わずか2年で近隣にゆめタウンがオープン｣｢核テナントのスーパー撤退でジリ貧に｣⋯島根の｢廃墟モール｣盛衰の訳 | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #廃墟モールの経済学 ｢開業わずか2年で近隣にゆめタウンがオープン｣｢核テナントのスーパー撤退でジリ貧に｣⋯島根の｢廃墟モール｣盛衰の訳 7分で読める 公開日時：2026/08/30 06:45 旧ジャスコの「平田ショッピングセンターViVA」が衰退した理由とは？",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956050",
+      "originalUrl": "https://toyokeizai.net/articles/-/956050?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956050",
+      "publishedAt": "2026-08-30T06:45:00+09:00",
+      "collectedAt": "2026-08-30T07:03:20+09:00",
+      "scrapedAt": "2026-08-30T07:03:20+09:00",
+      "lastVerifiedAt": "2026-08-30T07:03:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "1c18590c0e7465e6798b711acebf28939fe20a00f4ac94b604000df07e75307e",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-30T07:03:20+09:00",
+      "updatedAt": "2026-08-30T07:03:20+09:00"
     }
   ],
   "sources": [
@@ -23375,8 +23892,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-29T11:29:04+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:05+09:00",
+      "lastFetchedAt": "2026-08-30T07:02:45+09:00",
+      "lastSuccessAt": "2026-08-30T07:02:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23388,8 +23905,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-29T11:29:17+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:18+09:00",
+      "lastFetchedAt": "2026-08-30T07:02:58+09:00",
+      "lastSuccessAt": "2026-08-30T07:02:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23401,8 +23918,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-29T11:29:19+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:20+09:00",
+      "lastFetchedAt": "2026-08-30T07:02:59+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23427,8 +23944,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-29T11:29:20+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:20+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:00+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23440,8 +23957,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-29T11:29:20+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:20+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:00+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23453,8 +23970,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-29T11:29:20+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:21+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:01+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23466,8 +23983,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-29T11:29:21+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:22+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:01+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23479,8 +23996,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-29T11:29:22+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:23+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:03+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23583,8 +24100,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-29T11:29:24+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:24+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:06+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23622,8 +24139,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-29T11:29:25+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:25+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:08+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23635,8 +24152,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-29T11:29:25+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:25+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:08+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23648,8 +24165,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-29T11:29:25+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:27+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:09+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23661,8 +24178,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-29T11:29:27+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:28+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:10+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23674,8 +24191,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-29T11:29:28+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:29+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:11+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23687,8 +24204,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-29T11:29:29+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:29+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:11+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23713,8 +24230,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-29T11:29:29+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:29+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:12+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23778,8 +24295,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-29T11:29:30+09:00",
-      "lastSuccessAt": "2026-08-29T11:29:32+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:14+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23791,8 +24308,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-27T07:32:31+09:00",
-      "lastSuccessAt": "2026-08-27T07:32:32+09:00",
+      "lastFetchedAt": "2026-08-30T07:03:18+09:00",
+      "lastSuccessAt": "2026-08-30T07:03:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23966,6 +24483,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260830-0702",
+      "scheduledAt": "2026-08-30T07:02:45+09:00",
+      "startedAt": "2026-08-30T07:02:45+09:00",
+      "finishedAt": "2026-08-30T07:03:20+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 60,
+      "duplicatesRemoved": 8,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260829-1129",
       "scheduledAt": "2026-08-29T11:29:04+09:00",
@@ -24969,9 +25505,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-29T11:29:35+09:00",
-    "lastSuccessAt": "2026-08-29T11:29:35+09:00",
-    "nextScheduledAt": "2026-08-30T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-30T07:03:20+09:00",
+    "lastSuccessAt": "2026-08-30T07:03:20+09:00",
+    "nextScheduledAt": "2026-08-31T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
