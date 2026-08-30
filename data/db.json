@@ -23186,12 +23186,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "dee45d0ef2ab5c30a797cab75c02993f87cc2d0121e40874df5ff393a8bbb5b4",
       "trendScore": 9.19,
       "createdAt": "2026-08-29T11:29:24+09:00",
-      "updatedAt": "2026-08-29T11:29:24+09:00"
+      "updatedAt": "2026-08-30T22:10:15.913Z"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000004.000120035.html",
@@ -23599,12 +23599,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "eefd404608c6b4986cad5366179b540d25d2b64bdc07d379453db77efa56c14f",
       "trendScore": 8.02,
       "createdAt": "2026-08-30T07:03:06+09:00",
-      "updatedAt": "2026-08-30T07:03:06+09:00"
+      "updatedAt": "2026-08-30T22:10:15.913Z"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000761.html",
@@ -23633,12 +23633,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "1d5be63a8acb41de48682bb870222cdbcd8cc848caceee272ae505531d99c9d3",
       "trendScore": 8.02,
       "createdAt": "2026-08-30T07:03:06+09:00",
-      "updatedAt": "2026-08-30T07:03:06+09:00"
+      "updatedAt": "2026-08-30T22:10:15.913Z"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000322.000088950.html",
@@ -23880,6 +23880,523 @@
       "trendScore": 10.98,
       "createdAt": "2026-08-30T07:03:20+09:00",
       "updatedAt": "2026-08-30T07:03:20+09:00"
+    },
+    {
+      "id": "https://qiita.com/kz2021019/items/3be68c0d2c7b6e9fd40b",
+      "title": "「AI生成物は著作権フリー」は危険：公開・納品前に確認したい実務ポイント - Qiita",
+      "originalTitle": "「AI生成物は著作権フリー」は危険：公開・納品前に確認したい実務ポイント",
+      "summary": "@ kz2021019 ( Kazz ) 「AI生成物は著作権フリー」は危険：公開・納品前に確認したい実務ポイント 生成AI 著作権 AI 初心者 デジタルスキル標準 0 Posted at 2026-08-30 「AIが作った画像だから自由に使える」「人が書いていないから著作権侵害にならない」。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/kz2021019/items/3be68c0d2c7b6e9fd40b",
+      "originalUrl": "https://qiita.com/kz2021019/items/3be68c0d2c7b6e9fd40b",
+      "finalUrl": "https://qiita.com/kz2021019/items/3be68c0d2c7b6e9fd40b",
+      "publishedAt": "2026-08-31T06:47:02+09:00",
+      "collectedAt": "2026-08-31T07:09:40+09:00",
+      "scrapedAt": "2026-08-31T07:09:40+09:00",
+      "lastVerifiedAt": "2026-08-31T07:09:40+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "生成AI",
+        "DX"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "3b2eebd48cb4253b2392edbc21dd6da6e8c2106572798d04fee20971fa9f47e5",
+      "trendScore": 10.98,
+      "createdAt": "2026-08-31T07:09:40+09:00",
+      "updatedAt": "2026-08-31T07:09:40+09:00"
+    },
+    {
+      "id": "https://qiita.com/quotidia/items/6fe20763df0f6f029fb2",
+      "title": "人型ロボットの100mは1年で21.50秒から8.64秒へ。北京の運動会、ゴールの先はマットと消火器 - Qiita",
+      "originalTitle": "人型ロボットの100mは1年で21.50秒から8.64秒へ。北京の運動会、ゴールの先はマットと消火器",
+      "summary": "@ quotidia 人型ロボットの100mは1年で21.北京の運動会、ゴールの先はマットと消火器 AI ChatGPT 生成AI LLM ヒューマノイド 0 Posted at 2026-08-30 本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/quotidia/items/6fe20763df0f6f029fb2",
+      "originalUrl": "https://qiita.com/quotidia/items/6fe20763df0f6f029fb2",
+      "finalUrl": "https://qiita.com/quotidia/items/6fe20763df0f6f029fb2",
+      "publishedAt": "2026-08-31T06:01:08+09:00",
+      "collectedAt": "2026-08-31T07:09:46+09:00",
+      "scrapedAt": "2026-08-31T07:09:46+09:00",
+      "lastVerifiedAt": "2026-08-31T07:09:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "0f776b90ab13ee40e7d155b05e3ecd86911758de9eeebfe3a6880b61071d01b5",
+      "trendScore": 10.93,
+      "createdAt": "2026-08-31T07:09:46+09:00",
+      "updatedAt": "2026-08-31T07:09:46+09:00"
+    },
+    {
+      "id": "https://qiita.com/Yoshiteru11600/items/5340f0e2b48297ab9e18",
+      "title": "初学者向けにRDBMSの方言を学習できるWEBアプリを開発した - Qiita",
+      "originalTitle": "初学者向けにRDBMSの方言を学習できるWEBアプリを開発した",
+      "summary": "@ Yoshiteru11600 初学者向けにRDBMSの方言を学習できるWEBアプリを開発した RDBMS Webアプリケーション AI 0 Last updated at 2026-08-30 Posted at 2026-08-30 この記事はこんな読者に向けて書かれています。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Yoshiteru11600/items/5340f0e2b48297ab9e18",
+      "originalUrl": "https://qiita.com/Yoshiteru11600/items/5340f0e2b48297ab9e18",
+      "finalUrl": "https://qiita.com/Yoshiteru11600/items/5340f0e2b48297ab9e18",
+      "publishedAt": "2026-08-31T04:22:13+09:00",
+      "collectedAt": "2026-08-31T07:09:52+09:00",
+      "scrapedAt": "2026-08-31T07:09:52+09:00",
+      "lastVerifiedAt": "2026-08-31T07:09:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "02696ad5fc4de49c7b001bbf537122d81876c70cc31863c531bac45c5e0282c9",
+      "trendScore": 10.83,
+      "createdAt": "2026-08-31T07:09:52+09:00",
+      "updatedAt": "2026-08-31T07:09:52+09:00"
+    },
+    {
+      "id": "https://qiita.com/sugarfree/items/f50b49a733624a964fef",
+      "title": "【技術解説】【完全ガイド】楽天証券の自動売買をPythonで実現する方法と注意点 - Qiita",
+      "originalTitle": "【技術解説】【完全ガイド】楽天証券の自動売買をPythonで実現する方法と注意点",
+      "summary": "@ sugarfree 【技術解説】【完全ガイド】楽天証券の自動売買をPythonで実現する方法と注意点 Python 自動売買 機械学習 0 Posted at 2026-08-30 楽天証券の自動売買をPythonで実現する方法 この記事では、楽天証券のAPIを利用してPythonで自動売買システムを構築する方法を解説します。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/sugarfree/items/f50b49a733624a964fef",
+      "originalUrl": "https://qiita.com/sugarfree/items/f50b49a733624a964fef",
+      "finalUrl": "https://qiita.com/sugarfree/items/f50b49a733624a964fef",
+      "publishedAt": "2026-08-30T11:00:14+09:00",
+      "collectedAt": "2026-08-31T07:09:53+09:00",
+      "scrapedAt": "2026-08-31T07:09:53+09:00",
+      "lastVerifiedAt": "2026-08-31T07:09:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "af781762f60bae9a5b564c478b0cef749f58e405595eac75abfcc78dc20b6313",
+      "trendScore": 9.8,
+      "createdAt": "2026-08-31T07:09:53+09:00",
+      "updatedAt": "2026-08-31T07:09:53+09:00"
+    },
+    {
+      "id": "https://qiita.com/koukyo/items/3ac2eaca7ed3cab83a15",
+      "title": "ML実務力を段階的に鍛える技術書4選 - Qiita",
+      "originalTitle": "ML実務力を段階的に鍛える技術書4選",
+      "summary": "@ koukyo ML実務力を段階的に鍛える技術書4選 機械学習 Python データサイエンス MLOps 書籍 0 Posted at 2026-08-30 はじめに 自分がデータサイエンスを学び始めた頃、最大の失敗は「とりあえず有名な本を全部買う」ことだった。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/koukyo/items/3ac2eaca7ed3cab83a15",
+      "originalUrl": "https://qiita.com/koukyo/items/3ac2eaca7ed3cab83a15",
+      "finalUrl": "https://qiita.com/koukyo/items/3ac2eaca7ed3cab83a15",
+      "publishedAt": "2026-08-30T09:07:23+09:00",
+      "collectedAt": "2026-08-31T07:09:53+09:00",
+      "scrapedAt": "2026-08-31T07:09:53+09:00",
+      "lastVerifiedAt": "2026-08-31T07:09:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "データサイエンス",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "fa08ee9bfdbcf475440e7be066f0bf8fdfad849d9c29f1218c60c82c69b3fa45",
+      "trendScore": 9.69,
+      "createdAt": "2026-08-31T07:09:53+09:00",
+      "updatedAt": "2026-08-31T07:09:53+09:00"
+    },
+    {
+      "id": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
+      "originalTitle": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
+      "summary": "&times; JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中 2026年8月31日 --> JetBrainsは、ローカルで動作するAIコーディングエージェント「 Junie Local 」の 提供開始を発表しました 。",
+      "summarySource": "extractive",
+      "source": "Publickey",
+      "sourceId": "src-publickey",
+      "url": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "originalUrl": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "finalUrl": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
+      "publishedAt": "2026-08-31T00:07:47+09:00",
+      "collectedAt": "2026-08-31T07:09:56+09:00",
+      "scrapedAt": "2026-08-31T07:09:56+09:00",
+      "lastVerifiedAt": "2026-08-31T07:09:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "量子",
+        "セキュリティ",
+        "プライバシー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.85,
+      "contentHash": "9a85b6c78529cf04ac21ef471d9b406e59eb88cbcd800d0cad785b5fc6a5f4bb",
+      "trendScore": 10.58,
+      "createdAt": "2026-08-31T07:09:56+09:00",
+      "updatedAt": "2026-08-31T07:09:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000176.000021425.html",
+      "title": "採用倍率8.98倍の超人手不足時代を打ち破る！令和の虎・榊󠄀原清一が株式会社スリーサイズ主催SNS戦略セミナーに登壇。「17万回再生で来院0人」の事例から紐解く“バズと来院・採用の間”の設計図とは？",
+      "originalTitle": "採用倍率8.98倍の超人手不足時代を打ち破る！令和の虎・榊󠄀原清一が株式会社スリーサイズ主催SNS戦略セミナーに登壇。「17万回再生で来院0人」の事例から紐解く“バズと来院・採用の間”の設計図とは？",
+      "summary": "98倍の超人手不足時代を打ち破る！令和の虎・榊󠄀原清一が株式会社スリーサイズ主催SNS戦略セミナーに登壇。「17万回再生で来院0人」の事例から紐解く“バズと来院・採用の間”の設計図とは？店舗型ビジネス・治療院業界における「一次情報×複数プラットフォーム連携」のSNSマーケティング本質を徹底解説！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000176.000021425.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000176.000021425.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000176.000021425.html",
+      "publishedAt": "2026-08-31T06:40:02+09:00",
+      "collectedAt": "2026-08-31T07:10:01+09:00",
+      "scrapedAt": "2026-08-31T07:10:01+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "74e0a453c4f232ead7e35472bdd384d48e8baf1a6b03fb3225b76a162625661f",
+      "trendScore": 10.97,
+      "createdAt": "2026-08-31T07:10:01+09:00",
+      "updatedAt": "2026-08-31T07:10:01+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000456",
+      "title": "体外受精を繰り返しても卵子や胚が育たない不妊女性 藤田医科大学が遺伝学的背景を解明",
+      "originalTitle": "体外受精を繰り返しても卵子や胚が育たない不妊女性　藤田医科大学が遺伝学的背景を解明",
+      "summary": "TOP > 研究成果 > 体外受精を繰り返しても卵子や胚が育たない不妊女性 藤田医科大学が遺伝学的背景を解明 2026年8月30日 体外受精を繰り返しても卵子や胚が育たない不妊女性 藤田医科大学が遺伝学的背景を解明 大学ジャーナルオンライン編集部 体外受精 生殖補助医療 藤田医科大学 生殖補助医療の技術が近年大きく進歩する一方で、体外受精を繰り返しても卵子の成熟、受精、あるいは初期胚の発育が繰り返し停止する症例がある。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000456",
+      "originalUrl": "https://univ-journal.jp/1000456/",
+      "finalUrl": "https://univ-journal.jp/1000456",
+      "publishedAt": "2026-08-30T17:00:18+09:00",
+      "collectedAt": "2026-08-31T07:10:09+09:00",
+      "scrapedAt": "2026-08-31T07:10:09+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:09+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "308c583598661d46d994ef16429b4b7e9f79bc479db6c868f0cb0a753e5f94d2",
+      "trendScore": 10.16,
+      "createdAt": "2026-08-31T07:10:09+09:00",
+      "updatedAt": "2026-08-31T07:10:09+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001388",
+      "title": "秋田県立大学 アース製薬・日本除菌脱臭サービス協会と浸水住宅の復旧で共同研究",
+      "originalTitle": "秋田県立大学　アース製薬・日本除菌脱臭サービス協会と浸水住宅の復旧で共同研究",
+      "summary": "TOP > 研究成果 > 共同研究 > 秋田県立大学 アース製薬・日本除菌脱臭サービス協会と浸水住宅の復旧で共同研究 2026年8月30日 秋田県立大学 アース製薬・日本除菌脱臭サービス協会と浸水住宅の復旧で共同研究 大学ジャーナルオンライン編集部 水害 秋田県立大学 アース製薬は革新的酸化制御技術を応用したカビ除去で浸水被害を受けた住宅を復旧させる共同研究をスタートさせることを決め、秋田県立大学…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001388",
+      "originalUrl": "https://univ-journal.jp/1001388/",
+      "finalUrl": "https://univ-journal.jp/1001388",
+      "publishedAt": "2026-08-30T11:00:11+09:00",
+      "collectedAt": "2026-08-31T07:10:10+09:00",
+      "scrapedAt": "2026-08-31T07:10:10+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:10+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "a0b22d1dc2ceb0b253750e902d2e9967566836f549dd07495c522b2748cc5512",
+      "trendScore": 9.8,
+      "createdAt": "2026-08-31T07:10:10+09:00",
+      "updatedAt": "2026-08-31T07:10:10+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000327",
+      "title": "AI英語論文執筆支援ツール 長岡技術科学大学が試験導入",
+      "originalTitle": "AI英語論文執筆支援ツール　長岡技術科学大学が試験導入",
+      "summary": "TOP > トピックス > AI英語論文執筆支援ツール 長岡技術科学大学が試験導入 2026年8月30日 AI英語論文執筆支援ツール 長岡技術科学大学が試験導入 大学ジャーナルオンライン編集部 論文 長岡技術科学大学 研究者支援サービスのカクタスコミュニケーションズが開発したAI英語論文執筆支援ツール「Paperpal」が、長岡技術科学大学（新潟県長岡市）に8月から2027年3月までの8カ月間、試験導入されることが決まった。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000327",
+      "originalUrl": "https://univ-journal.jp/1000327/",
+      "finalUrl": "https://univ-journal.jp/1000327",
+      "publishedAt": "2026-08-30T09:00:51+09:00",
+      "collectedAt": "2026-08-31T07:10:10+09:00",
+      "scrapedAt": "2026-08-31T07:10:10+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:10+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "423ba878ee9e2249c2509b4b916d9415c60833783145dbcc6e27ae3b3397ac83",
+      "trendScore": 9.68,
+      "createdAt": "2026-08-31T07:10:10+09:00",
+      "updatedAt": "2026-08-31T07:10:10+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/955154",
+      "title": "｢道頓堀から\"大阪人\"が消えた｣ インバウンド急増の陰で進む｢芝居の街｣の終焉…大阪屈指の歓楽街に今起こっていること",
+      "originalTitle": "｢道頓堀から\"大阪人\"が消えた｣ インバウンド急増の陰で進む｢芝居の街｣の終焉…大阪屈指の歓楽街に今起こっていること | ライフ | 東洋経済オンライン",
+      "summary": "ライフ ｢道頓堀から\"大阪人\"が消えた｣ インバウンド急増の陰で進む｢芝居の街｣の終焉…大阪屈指の歓楽街に今起こっていること 10分で読める 公開日時：2026/08/31 07:00 道頓堀を歩くと、日本語よりも外国語のほうが多く聞こえてくる（写真：筆者撮影） 歯黒 猛夫 ライター、出版コーディネーター フォロー ｢芝居の街｣として栄えた､大阪･道頓堀。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/955154",
+      "originalUrl": "https://toyokeizai.net/articles/-/955154?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/955154",
+      "publishedAt": "2026-08-31T07:00:00+09:00",
+      "collectedAt": "2026-08-31T07:10:13+09:00",
+      "scrapedAt": "2026-08-31T07:10:13+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "a372870bb9a62a696920301174c8ea436c0bdcdce96f6e150ea70729fe783aee",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-31T07:10:13+09:00",
+      "updatedAt": "2026-08-31T07:10:13+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956055",
+      "title": "なぜ今､油そばではなく｢油うどん｣なのか…東京を代表するラーメン店主が阿佐ケ谷で始動｢異色のうどん店｣が凄すぎた",
+      "originalTitle": "なぜ今､油そばではなく｢油うどん｣なのか…東京を代表するラーメン店主が阿佐ケ谷で始動｢異色のうどん店｣が凄すぎた | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #井手隊長のラーメン見聞録 なぜ今､油そばではなく｢油うどん｣なのか…東京を代表するラーメン店主が阿佐ケ谷で始動｢異色のうどん店｣が凄すぎた 11分で読める 公開日時：2026/08/31 06:30 うどんとラーメンの要素を掛け合わせた「油うどん」の実力とは？",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956055",
+      "originalUrl": "https://toyokeizai.net/articles/-/956055?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956055",
+      "publishedAt": "2026-08-31T06:30:00+09:00",
+      "collectedAt": "2026-08-31T07:10:13+09:00",
+      "scrapedAt": "2026-08-31T07:10:13+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "7a24c6041a930d472d84a395e2fc59837e707f28209fdbbefdb69e56fb36e464",
+      "trendScore": 10.96,
+      "createdAt": "2026-08-31T07:10:13+09:00",
+      "updatedAt": "2026-08-31T07:10:13+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956126",
+      "title": "9月､戦後ドイツの転機が訪れる…〈右派ポピュリズムAfD〉ついに州政権奪取か､もはや阻止しきれない既成政党",
+      "originalTitle": "9月､戦後ドイツの転機が訪れる…〈右派ポピュリズムAfD〉ついに州政権奪取か､もはや阻止しきれない既成政党 | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス #ドイツの選択 AfD 9月､戦後ドイツの転機が訪れる…〈右派ポピュリズムAfD〉ついに州政権奪取か､もはや阻止しきれない既成政党 6分で読める 公開日時：2026/08/31 06:00 会員登録で読める （写真：ロイター／アフロ） 三好 範英 ジャーナリスト フォロー ドイツの右派ポピュリズム政党AfDが歴史的な支持拡大を見せ､旧東ドイツ州で初の州首相誕生も現実味を帯びてきました。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956126",
+      "originalUrl": "https://toyokeizai.net/articles/-/956126?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956126",
+      "publishedAt": "2026-08-31T06:00:00+09:00",
+      "collectedAt": "2026-08-31T07:10:13+09:00",
+      "scrapedAt": "2026-08-31T07:10:13+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "54b066d9f68ec142d9ad275e456f097243997ccc0f79f7eb803493f145f3eaf3",
+      "trendScore": 10.93,
+      "createdAt": "2026-08-31T07:10:13+09:00",
+      "updatedAt": "2026-08-31T07:10:13+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/397954",
+      "title": "40代なのに昇進しない人は、別に無能なわけではない",
+      "originalTitle": "40代なのに昇進しない人は、別に無能なわけではない - 天才になれなかった全ての人へ 自分だけの武器が見つかる才能論",
+      "summary": "40代になり、同期や後輩が次々と昇進していく。それなのに、自分だけ役職が変わらない。不安になる人もいるだろう。しかし、昇進しないことと、能力がないことは同じではない。漫画家・かっぴー氏の書籍 『天才になれなかった全ての人へ 自分だけの武器が見つかる才能論』 で紹介されている「カード思考」から考えると、評価されない理由は、本人の能力とは別のところにあるかもしれない。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/397954",
+      "originalUrl": "https://diamond.jp/articles/-/397954",
+      "finalUrl": "https://diamond.jp/articles/-/397954",
+      "publishedAt": "2026-08-31T07:00:00+09:00",
+      "collectedAt": "2026-08-31T07:10:15+09:00",
+      "scrapedAt": "2026-08-31T07:10:15+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "d4fb09ead5f8838d4da12b0976fc67e72fe54ad630977de0eb11d8c719ca21bf",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-31T07:10:15+09:00",
+      "updatedAt": "2026-08-31T07:10:15+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/393968",
+      "title": "年収が高い外食企業ランキング2025【トップ5】吉野家HDが5位、1位は？",
+      "originalTitle": "年収が高い外食企業ランキング2025【トップ5】吉野家HDが5位、1位は？ - 注目ランキング",
+      "summary": "写真はイメージです Photo:PIXTA 1位は平均年収816.7万円 前年から1割アップ！今回は、上場企業の有価証券報告書に記載された平均年収のデータを使って、「年収が高い外食企業ランキング2025」を作成した。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/393968",
+      "originalUrl": "https://diamond.jp/articles/-/393968",
+      "finalUrl": "https://diamond.jp/articles/-/393968",
+      "publishedAt": "2026-08-31T07:00:00+09:00",
+      "collectedAt": "2026-08-31T07:10:15+09:00",
+      "scrapedAt": "2026-08-31T07:10:15+09:00",
+      "lastVerifiedAt": "2026-08-31T07:10:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "e23bba9ae251d2815e62d59a7b129318ba7fa84abb318889167924abb562e7eb",
+      "trendScore": 10.99,
+      "createdAt": "2026-08-31T07:10:15+09:00",
+      "updatedAt": "2026-08-31T07:10:15+09:00"
     }
   ],
   "sources": [
@@ -23892,8 +24409,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-30T07:02:45+09:00",
-      "lastSuccessAt": "2026-08-30T07:02:46+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:39+09:00",
+      "lastSuccessAt": "2026-08-31T07:09:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23905,8 +24422,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-30T07:02:58+09:00",
-      "lastSuccessAt": "2026-08-30T07:02:58+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:52+09:00",
+      "lastSuccessAt": "2026-08-31T07:09:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23918,8 +24435,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-30T07:02:59+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:00+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:55+09:00",
+      "lastSuccessAt": "2026-08-31T07:09:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23944,8 +24461,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-30T07:03:00+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:00+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:56+09:00",
+      "lastSuccessAt": "2026-08-31T07:09:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23957,8 +24474,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-30T07:03:00+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:00+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:56+09:00",
+      "lastSuccessAt": "2026-08-31T07:09:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23970,8 +24487,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-30T07:03:01+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:01+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:57+09:00",
+      "lastSuccessAt": "2026-08-31T07:09:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23983,8 +24500,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-30T07:03:01+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:02+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:57+09:00",
+      "lastSuccessAt": "2026-08-31T07:09:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -23996,8 +24513,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-08-30T07:03:03+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:04+09:00",
+      "lastFetchedAt": "2026-08-31T07:09:59+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24100,8 +24617,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-08-30T07:03:06+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:07+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:00+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24139,8 +24656,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-08-30T07:03:08+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:08+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:01+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24152,8 +24669,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-30T07:03:08+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:09+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:01+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24165,8 +24682,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-30T07:03:09+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:10+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:02+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24178,8 +24695,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-08-30T07:03:10+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:11+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:04+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24191,8 +24708,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-30T07:03:11+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:11+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:04+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24204,8 +24721,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-30T07:03:11+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:12+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:04+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24230,8 +24747,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-30T07:03:12+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:12+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:05+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24295,8 +24812,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-08-30T07:03:14+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:16+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:07+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24308,8 +24825,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-30T07:03:18+09:00",
-      "lastSuccessAt": "2026-08-30T07:03:19+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:10+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24321,8 +24838,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-08-24T05:08:02+09:00",
-      "lastSuccessAt": "2026-08-24T05:08:02+09:00",
+      "lastFetchedAt": "2026-08-31T07:10:13+09:00",
+      "lastSuccessAt": "2026-08-31T07:10:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24483,6 +25000,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260831-0709",
+      "scheduledAt": "2026-08-31T07:09:39+09:00",
+      "startedAt": "2026-08-31T07:09:39+09:00",
+      "finishedAt": "2026-08-31T07:10:15+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 19,
+      "sourcesFailed": 0,
+      "candidatesFound": 100,
+      "duplicatesRemoved": 11,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260830-0702",
       "scheduledAt": "2026-08-30T07:02:45+09:00",
@@ -25505,9 +26041,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-08-30T07:03:20+09:00",
-    "lastSuccessAt": "2026-08-30T07:03:20+09:00",
-    "nextScheduledAt": "2026-08-31T05:00:00+09:00",
+    "lastCollectionAt": "2026-08-31T07:10:15+09:00",
+    "lastSuccessAt": "2026-08-31T07:10:15+09:00",
+    "nextScheduledAt": "2026-09-01T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
