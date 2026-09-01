@@ -24913,6 +24913,527 @@
       "trendScore": 10.32,
       "createdAt": "2026-09-01T08:27:51+09:00",
       "updatedAt": "2026-09-01T08:27:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/moha0918_/items/74317aca2bd592a109a6",
+      "title": "Claude Code v2.1.257｜auto モードの自動承認が縮む｜毎日Changelog解説 - Qiita",
+      "originalTitle": "Claude Code v2.1.257｜auto モードの自動承認が縮む｜毎日Changelog解説",
+      "summary": "@ moha0918_ Claude Code v2.257｜auto モードの自動承認が縮む｜毎日Changelog解説 ClaudeCode Claude AI 生成AI Security 0 Posted at 2026-09-01 Claude Codeの 公式Changelog をリリースから最速で翻訳・解説しています。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/moha0918_/items/74317aca2bd592a109a6",
+      "originalUrl": "https://qiita.com/moha0918_/items/74317aca2bd592a109a6",
+      "finalUrl": "https://qiita.com/moha0918_/items/74317aca2bd592a109a6",
+      "publishedAt": "2026-09-02T07:05:47+09:00",
+      "collectedAt": "2026-09-02T07:07:37+09:00",
+      "scrapedAt": "2026-09-02T07:07:37+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:37+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "f6ab718871527036f4a23e5ac979e8cc4928e03c13a60abec5e10e5a5f60cc06",
+      "trendScore": 11,
+      "createdAt": "2026-09-02T07:07:37+09:00",
+      "updatedAt": "2026-09-02T07:07:37+09:00"
+    },
+    {
+      "id": "https://qiita.com/ishisaka/items/b7db8cc8484302299a5e",
+      "title": "プログラミング雑記 2026年9月2日 - Qiita",
+      "originalTitle": "プログラミング雑記 2026年9月2日",
+      "summary": "@ ishisaka ( Tadahiro ishisaka ) プログラミング雑記 2026年9月2日 プログラミング Cloud AI エンジニア 0 Posted at 2026-09-01 今日もネットの海から拾ってきた、個人的に気になった技術ニュースや記事を厳選してお届けします。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/ishisaka/items/b7db8cc8484302299a5e",
+      "originalUrl": "https://qiita.com/ishisaka/items/b7db8cc8484302299a5e",
+      "finalUrl": "https://qiita.com/ishisaka/items/b7db8cc8484302299a5e",
+      "publishedAt": "2026-09-02T06:58:12+09:00",
+      "collectedAt": "2026-09-02T07:07:43+09:00",
+      "scrapedAt": "2026-09-02T07:07:43+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "生成AI",
+        "セキュリティ",
+        "プライバシー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "455ffc4b82a753dab6becfbb6297f9f5b83097816b93b81fe9ef4265f7fe8999",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-02T07:07:43+09:00",
+      "updatedAt": "2026-09-02T07:07:43+09:00"
+    },
+    {
+      "id": "https://qiita.com/shahin0809/items/aa9ca5194843559806be",
+      "title": "AI-901（Microsoft Azure AI Fundamentals）合格体験記 — AI-900からの差分と3時間で受かった勉強法 - Qiita",
+      "originalTitle": "AI-901（Microsoft Azure AI Fundamentals）合格体験記 — AI-900からの差分と3時間で受かった勉強法",
+      "summary": "@ shahin0809 ( ロホマン シャヒン ) in Microsoft Student Ambassadors AI-901（Microsoft Azure AI Fundamentals）合格体験記 — AI-900からの差分と3時間で受かった勉強法 AI Azure MicrosoftLearn 勉強法 資格 0 Last updated at 2026-09-01 Posted at…",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shahin0809/items/aa9ca5194843559806be",
+      "originalUrl": "https://qiita.com/shahin0809/items/aa9ca5194843559806be",
+      "finalUrl": "https://qiita.com/shahin0809/items/aa9ca5194843559806be",
+      "publishedAt": "2026-09-02T06:45:21+09:00",
+      "collectedAt": "2026-09-02T07:07:49+09:00",
+      "scrapedAt": "2026-09-02T07:07:49+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:49+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "c53f02373e9c1a741a96e8737bbdcd52d67cdf62782ac98e79a84109dae6f841",
+      "trendScore": 10.98,
+      "createdAt": "2026-09-02T07:07:49+09:00",
+      "updatedAt": "2026-09-02T07:07:49+09:00"
+    },
+    {
+      "id": "https://qiita.com/Yuliia/items/4b9aae9e380f5a99ec78",
+      "title": "MACE機械学習ポテンシャルとAFIR(人工力誘起反応)法で反応経路を自 動探索する - Qiita",
+      "originalTitle": "MACE機械学習ポテンシャルとAFIR(人工力誘起反応)法で反応経路を自 動探索する",
+      "summary": "@ Yuliia ( Yuliia Martynenko ) in Mat3ra.com MACE機械学習ポテンシャルとAFIR(人工力誘起反応)法で反応経路を自 動探索する 材料科学 計算化学 機械学習 DFT MACE 0 Posted at 2026-09-01 はじめに 化学反応の遷移状態を求めるには、通常、反応物と生成物の構造をあらかじめ仮定し、経験に基づいて反応座標を設定する必要があります。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/Yuliia/items/4b9aae9e380f5a99ec78",
+      "originalUrl": "https://qiita.com/Yuliia/items/4b9aae9e380f5a99ec78",
+      "finalUrl": "https://qiita.com/Yuliia/items/4b9aae9e380f5a99ec78",
+      "publishedAt": "2026-09-02T02:42:34+09:00",
+      "collectedAt": "2026-09-02T07:07:51+09:00",
+      "scrapedAt": "2026-09-02T07:07:51+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "量子",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "7fb7bf0e906e8d5410f2ac7f4826f4b7beaa4f2198667d76b38655a79ee28a9a",
+      "trendScore": 10.74,
+      "createdAt": "2026-09-02T07:07:51+09:00",
+      "updatedAt": "2026-09-02T07:07:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/akiralab/items/72bfe140cbbfbdd36c18",
+      "title": "因果推論 Day 19／全30回 合成コントロール法、存在しない対照群を合成する - Qiita",
+      "originalTitle": "因果推論 Day 19／全30回　合成コントロール法、存在しない対照群を合成する",
+      "summary": "@ akiralab ( Akira Kawai ) 因果推論 Day 19／全30回 合成コントロール法、存在しない対照群を合成する 因果推論 統計 Python 機械学習 0 Posted at 2026-09-01 この連載について 因果推論を「本を読んだ」で終わらせず、 自分の言葉で説明でき、コードで再現できる状態 まで落とす30日連載です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/akiralab/items/72bfe140cbbfbdd36c18",
+      "originalUrl": "https://qiita.com/akiralab/items/72bfe140cbbfbdd36c18",
+      "finalUrl": "https://qiita.com/akiralab/items/72bfe140cbbfbdd36c18",
+      "publishedAt": "2026-09-01T23:40:32+09:00",
+      "collectedAt": "2026-09-02T07:07:51+09:00",
+      "scrapedAt": "2026-09-02T07:07:51+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "規制",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "8ddef29d66b8ea8e955728b90f9a3112b95f8b73a9ee01b3c7fc1edb1c6b62db",
+      "trendScore": 10.56,
+      "createdAt": "2026-09-02T07:07:51+09:00",
+      "updatedAt": "2026-09-02T07:07:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/yoshisen/items/1747ef0ecac076833d25",
+      "title": "機械学習入門 第4回：決定木を「質問を重ねる分類器」として理解する - Qiita",
+      "originalTitle": "機械学習入門 第4回：決定木を「質問を重ねる分類器」として理解する",
+      "summary": "flag 現実世界を動かす技術をシェアしよう！～身近なものづくりから最先端テクノロジーまで大募集！～ @ yoshisen ( shigun ) 機械学習入門 第4回：決定木を「質問を重ねる分類器」として理解する 機械学習 決定木 0 Posted at 2026-09-01 前回は、ロジスティック回帰を使って、線形スコアを確率に変換し、しきい値で分類する方法を見ました。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/yoshisen/items/1747ef0ecac076833d25",
+      "originalUrl": "https://qiita.com/yoshisen/items/1747ef0ecac076833d25",
+      "finalUrl": "https://qiita.com/yoshisen/items/1747ef0ecac076833d25",
+      "publishedAt": "2026-09-01T17:51:33+09:00",
+      "collectedAt": "2026-09-02T07:07:52+09:00",
+      "scrapedAt": "2026-09-02T07:07:52+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "fa40c65c2afd40ecf793bfab6a2aa6990aa7a4475fd1051470d6b11a180ad814",
+      "trendScore": 10.21,
+      "createdAt": "2026-09-02T07:07:52+09:00",
+      "updatedAt": "2026-09-02T07:07:52+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
+      "title": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）｜デジタル庁",
+      "originalTitle": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました",
+      "summary": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催） 概要 本有識者会議の概要は、 令和8年（2026年）政策評価・行政事業レビュー 開催要綱 をご覧ください。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
+      "originalUrl": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
+      "finalUrl": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
+      "publishedAt": "2026-09-01T15:00:00+09:00",
+      "collectedAt": "2026-09-02T07:07:54+09:00",
+      "scrapedAt": "2026-09-02T07:07:54+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "生成AI",
+        "DX"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "f36082ce1eaf1a936630faa86b49a87b013a16dcc3c4fb6ada9413a2dfba964d",
+      "trendScore": 10.04,
+      "createdAt": "2026-09-02T07:07:54+09:00",
+      "updatedAt": "2026-09-02T07:07:54+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/assessment/project-review/2026",
+      "title": "令和8年（2026年）政策評価・行政事業レビュー｜デジタル庁",
+      "originalTitle": "令和8年（2026年）政策評価・行政事業レビューの「行政事業レビューシート」を掲載しました",
+      "summary": "令和8年（2026年）政策評価・行政事業レビュー 最終更新日: 2026年9月1日 令和8年（2026年）の行政事業レビューの詳細は順次掲載します。なお、行政事業レビューについての詳細は、 行政事業レビューホームページ（内閣官房） をご覧ください。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/assessment/project-review/2026",
+      "originalUrl": "https://www.digital.go.jp/policies/assessment/project-review/2026",
+      "finalUrl": "https://www.digital.go.jp/policies/assessment/project-review/2026",
+      "publishedAt": "2026-09-01T15:00:00+09:00",
+      "collectedAt": "2026-09-02T07:07:54+09:00",
+      "scrapedAt": "2026-09-02T07:07:54+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "生成AI",
+        "量子",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "ca5a4457493b175fb062078d84c7cdc2f4755444d72cc9fcf770f7beae6d7a8d",
+      "trendScore": 10.04,
+      "createdAt": "2026-09-02T07:07:54+09:00",
+      "updatedAt": "2026-09-02T07:07:54+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd",
+      "title": "ISMAPクラウドサービスリスト等を更新しました｜デジタル庁",
+      "originalTitle": "ISMAPクラウドサービスリスト等を更新しました",
+      "summary": "ISMAPクラウドサービスリスト等を更新しました 公開日: 2026年9月1日 2026年8月31日（月）、政府情報システムのためのセキュリティ評価制度（ISMAP）についてクラウドサービスリスト等を更新しました。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd",
+      "originalUrl": "https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd",
+      "finalUrl": "https://www.digital.go.jp/news/f0132bd5-af62-4dad-99b5-4c688bb3e6bd",
+      "publishedAt": "2026-09-01T15:00:00+09:00",
+      "collectedAt": "2026-09-02T07:07:54+09:00",
+      "scrapedAt": "2026-09-02T07:07:54+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "セキュリティ",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "468a3ec25d7586683934433b9407fbb1269f35bb7ceb308696dbbe62347fc600",
+      "trendScore": 10.04,
+      "createdAt": "2026-09-02T07:07:54+09:00",
+      "updatedAt": "2026-09-02T07:07:54+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000365.000041268.html",
+      "title": "株式会社クックアンドライフ社の株式取得（子会社化）に関するお知らせ",
+      "originalTitle": "株式会社クックアンドライフ社の株式取得（子会社化）に関するお知らせ",
+      "summary": "株式会社クックアンドライフ社の株式取得（子会社化）に関するお知らせ ～約50年続く月刊料理情報誌「おあじはいかが」等を展開。クックアンドライフ社の歴史と信頼を受け継ぎ、Nadiaグループ全体で食産業への貢献を加速～ Nadia株式会社 2026年9月1日 18時40分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000365.000041268.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000365.000041268.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000365.000041268.html",
+      "publishedAt": "2026-09-02T06:40:02+09:00",
+      "collectedAt": "2026-09-02T07:07:56+09:00",
+      "scrapedAt": "2026-09-02T07:07:56+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "M&A",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "8b57618c7ba2833f5191fa5c0903702fd6f2eeb8c041db280f5dc873e5ae36d9",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-02T07:07:56+09:00",
+      "updatedAt": "2026-09-02T07:07:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000301.000087317.html",
+      "title": "鹿島アントラーズ、公式YouTubeで初の人形劇コンテンツを開始！新番組『いやどうも しかおファミリー』が本日より配信スタート",
+      "originalTitle": "鹿島アントラーズ、公式YouTubeで初の人形劇コンテンツを開始！新番組『いやどうも しかおファミリー』が本日より配信スタート",
+      "summary": "鹿島アントラーズ、公式YouTubeで初の人形劇コンテンツを開始！新番組『いやどうも しかおファミリー』が本日より配信スタート 株式会社鹿島アントラーズFC 2026年9月1日 18時30分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000301.000087317.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000301.000087317.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000301.000087317.html",
+      "publishedAt": "2026-09-02T06:40:02+09:00",
+      "collectedAt": "2026-09-02T07:07:56+09:00",
+      "scrapedAt": "2026-09-02T07:07:56+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "b2bd4188761000feaa48705070643b86e48ae29ecf10194a8be39f45fa0b0b80",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-02T07:07:56+09:00",
+      "updatedAt": "2026-09-02T07:07:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000001.000189592.html",
+      "title": "Utopai Studios、韓国・日本での事業拡大を受けUtopai Eastを完全統合し、APAC事業を一本化",
+      "originalTitle": "Utopai Studios、韓国・日本での事業拡大を受けUtopai Eastを完全統合し、APAC事業を一本化",
+      "summary": "Utopai Studios、韓国・日本での事業拡大を受けUtopai Eastを完全統合し、APAC事業を一本化 UTOPAI STUDIOS, INC.2026年9月1日 18時30分 いいね！数を読み込み中です Utopai Studios（ユートパイ・スタジオ）は、Utopai East（ユートパイ・イースト）を完全統合し、韓国の制作拠点、日本の開発事業、地域パートナーシップ、18件以上の…",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000189592.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000189592.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000189592.html",
+      "publishedAt": "2026-09-02T06:40:02+09:00",
+      "collectedAt": "2026-09-02T07:07:56+09:00",
+      "scrapedAt": "2026-09-02T07:07:56+09:00",
+      "lastVerifiedAt": "2026-09-02T07:07:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "8ab358a1c9c167587f720f4c4dc0324afbace779ee891f3c724be106d1dd78c1",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-02T07:07:56+09:00",
+      "updatedAt": "2026-09-02T07:07:56+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000506",
+      "title": "入院中の慢性がん関連痛は集団レベルでは1日を通して比較的安定 畿央大学が観察研究",
+      "originalTitle": "入院中の慢性がん関連痛は集団レベルでは1日を通して比較的安定　畿央大学が観察研究",
+      "summary": "TOP > 研究成果 > 医療 > 入院中の慢性がん関連痛は集団レベルでは1日を通して比較的安定 畿央大学が観察研究 2026年9月1日 入院中の慢性がん関連痛は集団レベルでは1日を通して比較的安定 畿央大学が観察研究 大学ジャーナルオンライン編集部 がん 慢性疼痛 畿央大学 畿央大学大学院の杉野達也氏（博士後期課程）と森岡周教授らは、慢性がん関連痛を有する入院患者の痛みを評価した結果、集団レベル…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000506",
+      "originalUrl": "https://univ-journal.jp/1000506/",
+      "finalUrl": "https://univ-journal.jp/1000506",
+      "publishedAt": "2026-09-01T17:00:26+09:00",
+      "collectedAt": "2026-09-02T07:08:05+09:00",
+      "scrapedAt": "2026-09-02T07:08:05+09:00",
+      "lastVerifiedAt": "2026-09-02T07:08:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "91240b929663d5ceff285c4fea888d8b689f4a894af87d07c1c35efe5b418291",
+      "trendScore": 10.16,
+      "createdAt": "2026-09-02T07:08:05+09:00",
+      "updatedAt": "2026-09-02T07:08:05+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001274",
+      "title": "三条市立大学 「トキめき燕三条ビジネスコンテスト2026」参加者募集中",
+      "originalTitle": "三条市立大学　「トキめき燕三条ビジネスコンテスト2026」参加者募集中",
+      "summary": "TOP > トピックス > 三条市立大学 「トキめき燕三条ビジネスコンテスト2026」参加者募集中 2026年9月1日 三条市立大学 「トキめき燕三条ビジネスコンテスト2026」参加者募集中 大学ジャーナルオンライン編集部 ビジネスコンテスト 三条市立大学 三条市立大学は「トキめき燕三条ビジネスコンテスト2026」を開催する。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001274",
+      "originalUrl": "https://univ-journal.jp/1001274/",
+      "finalUrl": "https://univ-journal.jp/1001274",
+      "publishedAt": "2026-09-01T11:00:10+09:00",
+      "collectedAt": "2026-09-02T07:08:06+09:00",
+      "scrapedAt": "2026-09-02T07:08:06+09:00",
+      "lastVerifiedAt": "2026-09-02T07:08:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "489e92458ed74772ca9b7bc6ce51781ba6c25729e0a9e45d6f8f638195299b1a",
+      "trendScore": 9.8,
+      "createdAt": "2026-09-02T07:08:06+09:00",
+      "updatedAt": "2026-09-02T07:08:06+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1000311",
+      "title": "家族歴の多さや初経の遅れが思春期特発性側弯症の重症化と関連 藤田医科大学と慶應義塾大学",
+      "originalTitle": "家族歴の多さや初経の遅れが思春期特発性側弯症の重症化と関連　藤田医科大学と慶應義塾大学",
+      "summary": "TOP > 研究成果 > 医療 > 家族歴の多さや初経の遅れが思春期特発性側弯症の重症化と関連 藤田医科大学と慶應義塾大学 2026年9月1日 家族歴の多さや初経の遅れが思春期特発性側弯症の重症化と関連 藤田医科大学と慶應義塾大学 大学ジャーナルオンライン編集部 慶應義塾大学 藤田医科大学 思春期特発性側弯症（AIS）の重症化に、「家族歴」と「初経年齢の遅さ」が関与する可能性があることを、藤田医科…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1000311",
+      "originalUrl": "https://univ-journal.jp/1000311/",
+      "finalUrl": "https://univ-journal.jp/1000311",
+      "publishedAt": "2026-09-01T09:00:24+09:00",
+      "collectedAt": "2026-09-02T07:08:06+09:00",
+      "scrapedAt": "2026-09-02T07:08:06+09:00",
+      "lastVerifiedAt": "2026-09-02T07:08:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "9d0d211a2e5b2c22b459476a35bd3d4e4dab36e07e7958612c7ddfb83e12f4a0",
+      "trendScore": 9.68,
+      "createdAt": "2026-09-02T07:08:06+09:00",
+      "updatedAt": "2026-09-02T07:08:06+09:00"
     }
   ],
   "sources": [
@@ -24925,8 +25446,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-01T08:27:13+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:13+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:36+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24938,8 +25459,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-01T08:27:26+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:26+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:49+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24951,8 +25472,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-01T08:27:26+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:27+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:52+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24977,8 +25498,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-01T08:27:27+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:27+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:52+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -24990,8 +25511,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-01T08:27:27+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:27+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:53+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25003,8 +25524,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-01T08:27:27+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:28+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:54+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25016,8 +25537,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-01T08:27:28+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:29+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:54+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25029,8 +25550,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-01T08:27:30+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:31+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:55+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25133,8 +25654,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-01T08:27:32+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:32+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:55+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25172,8 +25693,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-01T08:27:32+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:33+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:56+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25185,8 +25706,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-01T08:27:33+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:33+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:57+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25198,8 +25719,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-01T08:27:33+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:35+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:57+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25211,8 +25732,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-01T08:27:35+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:35+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:59+09:00",
+      "lastSuccessAt": "2026-09-02T07:07:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25224,8 +25745,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-01T08:27:35+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:36+09:00",
+      "lastFetchedAt": "2026-09-02T07:07:59+09:00",
+      "lastSuccessAt": "2026-09-02T07:08:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25237,8 +25758,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-01T08:27:36+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:37+09:00",
+      "lastFetchedAt": "2026-09-02T07:08:00+09:00",
+      "lastSuccessAt": "2026-09-02T07:08:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25263,8 +25784,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-01T08:27:37+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:37+09:00",
+      "lastFetchedAt": "2026-09-02T07:08:00+09:00",
+      "lastSuccessAt": "2026-09-02T07:08:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25328,8 +25849,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-01T08:27:39+09:00",
-      "lastSuccessAt": "2026-09-01T08:27:41+09:00",
+      "lastFetchedAt": "2026-09-02T07:08:03+09:00",
+      "lastSuccessAt": "2026-09-02T07:08:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -25516,6 +26037,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260902-0707",
+      "scheduledAt": "2026-09-02T07:07:36+09:00",
+      "startedAt": "2026-09-02T07:07:36+09:00",
+      "finishedAt": "2026-09-02T07:08:06+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 17,
+      "sourcesFailed": 0,
+      "candidatesFound": 23,
+      "duplicatesRemoved": 1,
+      "invalidUrlsRemoved": 2,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260901-0827",
       "scheduledAt": "2026-09-01T08:27:13+09:00",
@@ -26576,9 +27116,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-09-01T08:27:51+09:00",
-    "lastSuccessAt": "2026-09-01T08:27:51+09:00",
-    "nextScheduledAt": "2026-09-02T05:00:00+09:00",
+    "lastCollectionAt": "2026-09-02T07:08:06+09:00",
+    "lastSuccessAt": "2026-09-02T07:08:06+09:00",
+    "nextScheduledAt": "2026-09-03T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
