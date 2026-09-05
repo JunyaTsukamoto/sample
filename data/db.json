@@ -26984,6 +26984,524 @@
       "trendScore": 9.58,
       "createdAt": "2026-09-05T06:53:44+09:00",
       "updatedAt": "2026-09-05T06:53:44+09:00"
+    },
+    {
+      "id": "https://qiita.com/h-nabata/items/70d7d6ed64e91fce8675",
+      "title": "【ローカルLLM】続・精選問題による国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti） - Qiita",
+      "originalTitle": "【ローカルLLM】続・精選問題による国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）",
+      "summary": "@ h-nabata 【ローカルLLM】続・精選問題による国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti） ローカルLLM LLM LLM-jp Qwen3.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/h-nabata/items/70d7d6ed64e91fce8675",
+      "originalUrl": "https://qiita.com/h-nabata/items/70d7d6ed64e91fce8675",
+      "finalUrl": "https://qiita.com/h-nabata/items/70d7d6ed64e91fce8675",
+      "publishedAt": "2026-09-06T04:35:56+09:00",
+      "collectedAt": "2026-09-06T06:44:16+09:00",
+      "scrapedAt": "2026-09-06T06:44:16+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:16+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "ChatGPT",
+        "ロボット"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "1da4aadb34aa787c1d1fc0ecd8cbaaf37204fe3437a23b9cae274b02a799476d",
+      "trendScore": 10.87,
+      "createdAt": "2026-09-06T06:44:16+09:00",
+      "updatedAt": "2026-09-06T06:44:16+09:00"
+    },
+    {
+      "id": "https://qiita.com/etale_cohomology/items/3b332aa9c22ebe838c5c",
+      "title": "【Arend 連載（最終回）】AIによる数学定理証明プロジェクト は Lean 4 を採用した ── Arend 言語仕様の設計判断は、それでも学ぶ意義はあるか - Qiita",
+      "originalTitle": "【Arend 連載（最終回）】AIによる数学定理証明プロジェクト は Lean 4 を採用した ── Arend 言語仕様の設計判断は、それでも学ぶ意義はあるか",
+      "summary": "@ etale_cohomology ( Etale Cohomology ) 【Arend 連載（最終回）】AIによる数学定理証明プロジェクト は Lean 4 を採用した ── Arend 言語仕様の設計判断は、それでも学ぶ意義はあるか Arend lean4 数学 定理証明 AI 0 Posted at 2026-09-05 Executive Summary 本記事の主題 LLMを搭載した…",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/etale_cohomology/items/3b332aa9c22ebe838c5c",
+      "originalUrl": "https://qiita.com/etale_cohomology/items/3b332aa9c22ebe838c5c",
+      "finalUrl": "https://qiita.com/etale_cohomology/items/3b332aa9c22ebe838c5c",
+      "publishedAt": "2026-09-06T03:59:51+09:00",
+      "collectedAt": "2026-09-06T06:44:22+09:00",
+      "scrapedAt": "2026-09-06T06:44:22+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:22+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "LLM",
+        "研究開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "b63e7998d1b826ba7559d4a197d555686755fd2ff5c44f014570de6b07278ed7",
+      "trendScore": 10.84,
+      "createdAt": "2026-09-06T06:44:22+09:00",
+      "updatedAt": "2026-09-06T06:44:22+09:00"
+    },
+    {
+      "id": "https://qiita.com/notfolder/items/c88f1be667a36ec069b7",
+      "title": "AIと企画を「議論」する方法：AIを使った個人開発のゲームの面白さとモチベーションをClaudeと構造解析 - Qiita",
+      "originalTitle": "AIと企画を「議論」する方法：AIを使った個人開発のゲームの面白さとモチベーションをClaudeと構造解析",
+      "summary": "@ notfolder AIと企画を「議論」する方法：AIを使った個人開発のゲームの面白さとモチベーションをClaudeと構造解析 AI Claude ゲーム開発 個人開発 プロンプトエンジニアリング 0 Last updated at 2026-09-05 Posted at 2026-09-05 この記事は、AI と一緒にゲームを企画・開発する試みの 第二弾 です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/notfolder/items/c88f1be667a36ec069b7",
+      "originalUrl": "https://qiita.com/notfolder/items/c88f1be667a36ec069b7",
+      "finalUrl": "https://qiita.com/notfolder/items/c88f1be667a36ec069b7",
+      "publishedAt": "2026-09-06T03:26:51+09:00",
+      "collectedAt": "2026-09-06T06:44:28+09:00",
+      "scrapedAt": "2026-09-06T06:44:28+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:28+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "94e326297bbdd4e476a4a6598066b62d933d1f4e2369f2e2e305da456fbb3988",
+      "trendScore": 10.8,
+      "createdAt": "2026-09-06T06:44:28+09:00",
+      "updatedAt": "2026-09-06T06:44:28+09:00"
+    },
+    {
+      "id": "https://qiita.com/shota-droid21/items/25577231762457a0f618",
+      "title": "CLIPのゼロショットでは当たらない「自分の分類軸」を、線形プローブで作る - Qiita",
+      "originalTitle": "CLIPのゼロショットでは当たらない「自分の分類軸」を、線形プローブで作る",
+      "summary": "@ shota-droid21 ( Shota Kobayashi ) CLIPのゼロショットでは当たらない「自分の分類軸」を、線形プローブで作る clip 機械学習 DeepLearning PyTorch 画像分類 0 Posted at 2026-09-05 画像分類をやろうとして CLIP のゼロショットを試し、「思ったより当たらないな」で止まった人向けの話です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/shota-droid21/items/25577231762457a0f618",
+      "originalUrl": "https://qiita.com/shota-droid21/items/25577231762457a0f618",
+      "finalUrl": "https://qiita.com/shota-droid21/items/25577231762457a0f618",
+      "publishedAt": "2026-09-06T02:25:12+09:00",
+      "collectedAt": "2026-09-06T06:44:28+09:00",
+      "scrapedAt": "2026-09-06T06:44:28+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:28+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "4bc00f13edfb2508ac1e71f155c362344d196a1cfa8e38504cbdfe0e42933e04",
+      "trendScore": 10.74,
+      "createdAt": "2026-09-06T06:44:28+09:00",
+      "updatedAt": "2026-09-06T06:44:28+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/139c9f297be67c28566f",
+      "title": "OpenAIが「GPT-6 Astra」を発表、コーディング・サイバーセキュリティで最先端性能を主張 - Qiita",
+      "originalTitle": "OpenAIが「GPT-6 Astra」を発表、コーディング・サイバーセキュリティで最先端性能を主張",
+      "summary": "@ picnic OpenAIが「GPT-6 Astra」を発表、コーディング・サイバーセキュリティで最先端性能を主張 OpenAI ChatGPT AI LLM 機械学習 0 Posted at 2026-09-05 はじめに 2026年9月3日、OpenAI は新世代モデル「 GPT-6 Astra 」を公式ブログで発表しました。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/picnic/items/139c9f297be67c28566f",
+      "originalUrl": "https://qiita.com/picnic/items/139c9f297be67c28566f",
+      "finalUrl": "https://qiita.com/picnic/items/139c9f297be67c28566f",
+      "publishedAt": "2026-09-05T23:01:19+09:00",
+      "collectedAt": "2026-09-06T06:44:29+09:00",
+      "scrapedAt": "2026-09-06T06:44:29+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "ee80c5801df2102b6fa9bd17668ae57433a2218f75994fe92b6816334b5536bd",
+      "trendScore": 10.54,
+      "createdAt": "2026-09-06T06:44:29+09:00",
+      "updatedAt": "2026-09-06T06:44:29+09:00"
+    },
+    {
+      "id": "https://qiita.com/tadanok/items/4503a8b9b73cf8fd00fe",
+      "title": "【AIの取扱説明書 第1章】AIは流暢に間違える ― 生成AIと付き合うために知っておきたい3つの特性 - Qiita",
+      "originalTitle": "【AIの取扱説明書 第1章】AIは流暢に間違える ― 生成AIと付き合うために知っておきたい3つの特性",
+      "summary": "@ tadanok ( Tadanobu Kurashina ) 【AIの取扱説明書 第1章】AIは流暢に間違える ― 生成AIと付き合うために知っておきたい3つの特性 生成AI LLM AI 機械学習 プロンプト 0 Posted at 2026-09-05 「AIが自信ありげに答えているから、きっと正しい」 そんなふうに感じたことはないでしょうか。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/tadanok/items/4503a8b9b73cf8fd00fe",
+      "originalUrl": "https://qiita.com/tadanok/items/4503a8b9b73cf8fd00fe",
+      "finalUrl": "https://qiita.com/tadanok/items/4503a8b9b73cf8fd00fe",
+      "publishedAt": "2026-09-05T17:31:09+09:00",
+      "collectedAt": "2026-09-06T06:44:29+09:00",
+      "scrapedAt": "2026-09-06T06:44:29+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "ae9d5bb19ac5f46bb6215d3859ee84fed430467966aa8cb631be0aa69400e9ce",
+      "trendScore": 10.21,
+      "createdAt": "2026-09-06T06:44:29+09:00",
+      "updatedAt": "2026-09-06T06:44:29+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo12_hh_000538.html",
+      "title": "国土交通省｜報道資料｜「令和８年度『交通空白』解消パイロット・プロジェクト（第２弾）」の事業採択について<br>～「交通空白」解消は成長投資～",
+      "originalTitle": "�u�ߘa�W�N�x�w��ʋ󔒁x�����p�C���b�g�E�v���W�F�N�g�i��Q�e�j�v�̎��ƍ̑��ɂ��ā`�u��ʋ󔒁v�����͐��������`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 「令和８年度『交通空白』解消パイロット・プロジェクト（第２弾）」の事業採択について ～「交通空白」解消は成長投資～ 「令和８年度『交通空白』解消パイロット・プロジェクト（第２弾）」の事業採択について ～「交通空白」解消は成長投資～ 令和8年9月4日 国土交通省では、「『交通空白』解消・官民連携プラットフォーム」を設置し、官民関 係者の幅広い連携をもとに…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo12_hh_000538.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo12_hh_000538.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo12_hh_000538.html",
+      "publishedAt": "2026-09-04T05:00:00+09:00",
+      "collectedAt": "2026-09-06T06:44:34+09:00",
+      "scrapedAt": "2026-09-06T06:44:34+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:34+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "3019e8a1fb3e4d87adf0ef64803fabc5e61947fb10ea529bd21ab46e7d18945c",
+      "trendScore": 8.04,
+      "createdAt": "2026-09-06T06:44:34+09:00",
+      "updatedAt": "2026-09-06T06:44:34+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000281.html",
+      "title": "国土交通省｜報道資料｜ 地域生活圏形成リーディング事業【人材育成】の支援対象となる取組を採択しました<br>～「地域生活圏」の形成に資する人材育成の取組を支援します！～",
+      "originalTitle": "�n�搶�����`�����[�f�B���O���Ɓy�l�ވ琬�z�̎x���ΏۂƂȂ��g���̑����܂����`�u�n�搶�����v�̌`���Ɏ�����l�ވ琬�̎�g���x�����܂��I�`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 地域生活圏形成リーディング事業【人材育成】の支援対象となる取組を採択しました ～「地域生活圏」の形成に資する人材育成の取組を支援します！～ 地域生活圏形成リーディング事業【人材育成】の支援対象となる取組を採択しました ～「地域生活圏」の形成に資する人材育成の取組を支援します！",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000281.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000281.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000281.html",
+      "publishedAt": "2026-09-04T05:00:00+09:00",
+      "collectedAt": "2026-09-06T06:44:35+09:00",
+      "scrapedAt": "2026-09-06T06:44:35+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:35+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "9326287ef68343c8d503681490d94f59d4452fbf5265e03b6148866a77abe543",
+      "trendScore": 8.04,
+      "createdAt": "2026-09-06T06:44:35+09:00",
+      "updatedAt": "2026-09-06T06:44:35+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/kokudoseisaku09_hh_000190.html",
+      "title": "国土交通省｜報道資料｜”地域活性化へ”官民連携基盤整備の支援事業を決定～<br>民間と自治体が連携して取り組むインフラ整備の事業化検討を支援します～",
+      "originalTitle": "�h�n�抈�����ցh�����A�g��Ր����̎x�����Ƃ�����`���ԂƎ����̂��A�g���Ď��g�ރC���t�������̎��Ɖ��������x�����܂��`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > ”地域活性化へ”官民連携基盤整備の支援事業を決定～ 民間と自治体が連携して取り組むインフラ整備の事業化検討を支援します～ ”地域活性化へ”官民連携基盤整備の支援事業を決定～ 民間と自治体が連携して取り組むインフラ整備の事業化検討を支援します～ 令和8年9月4日 国土交通省は、「官民連携による地域活性化のための基盤整備推進支援事業（官民連携基盤整備推進調…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/kokudoseisaku09_hh_000190.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/kokudoseisaku09_hh_000190.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/kokudoseisaku09_hh_000190.html",
+      "publishedAt": "2026-09-04T05:00:00+09:00",
+      "collectedAt": "2026-09-06T06:44:35+09:00",
+      "scrapedAt": "2026-09-06T06:44:35+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:35+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "b8fbe8d7c244cac8840fa0fcbc3c6b2abfdf8449d78a1b23add783bf2261810f",
+      "trendScore": 8.04,
+      "createdAt": "2026-09-06T06:44:35+09:00",
+      "updatedAt": "2026-09-06T06:44:35+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000148.000047991.html",
+      "title": "国内ビットコイン取引量 10 年連続 No.１ の bitFlyer、2026 年上半期も首位に",
+      "originalTitle": "国内ビットコイン取引量 10 年連続 No.１ の bitFlyer、2026 年上半期も首位に",
+      "summary": "国内ビットコイン取引量 10 年連続 No.１ の bitFlyer、2026 年上半期も首位に 上半期ビットコイン取引量 No.1*¹ 達成を記念し、Amazon ギフトカード 10 万円分が当たるキャンペーンも実施 株式会社bitFlyer 2026年9月4日 12時08分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000148.000047991.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000148.000047991.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000148.000047991.html",
+      "publishedAt": "2026-09-06T06:10:02+09:00",
+      "collectedAt": "2026-09-06T06:44:36+09:00",
+      "scrapedAt": "2026-09-06T06:44:36+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:36+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "セキュリティ",
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "5d18a44a918da95b27e4a74c1b04f5b411b155000a25657077e84bdc43b62a4a",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-06T06:44:36+09:00",
+      "updatedAt": "2026-09-06T06:44:36+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000769.000013377.html",
+      "title": "スカルプＤシリーズ史上初※1、ホットシャンプーが誕生 温感泡で、目覚める頭皮※2 過酷な夏でダメージを受けた“秋バテ頭皮”をじんわりほぐす「スカルプD スカルプシャンプー ホット」新発売",
+      "originalTitle": "スカルプＤシリーズ史上初※1、ホットシャンプーが誕生　温感泡で、目覚める頭皮※2　過酷な夏でダメージを受けた“秋バテ頭皮”をじんわりほぐす「スカルプD　スカルプシャンプー　ホット」新発売",
+      "summary": "スカルプＤシリーズ史上初※1、ホットシャンプーが誕生 温感泡で、目覚める頭皮※2 過酷な夏でダメージを受けた“秋バテ頭皮”をじんわりほぐす「スカルプD スカルプシャンプー ホット」新発売 10月7日(水)より数量限定販売開始 アンファー株式会社 2026年9月4日 12時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000769.000013377.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000769.000013377.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000769.000013377.html",
+      "publishedAt": "2026-09-06T06:10:02+09:00",
+      "collectedAt": "2026-09-06T06:44:36+09:00",
+      "scrapedAt": "2026-09-06T06:44:36+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:36+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "ヘルスケア",
+        "研究開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "6d3aea0d5d76fabafcef15ce837f7b9433aa39af3e6ff7f175e4082d3fdbda8e",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-06T06:44:36+09:00",
+      "updatedAt": "2026-09-06T06:44:36+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000280.000084182.html",
+      "title": "野村AM、日系企業向けの自然関連協働エンゲージメントにおける共同リードインベスターに就任",
+      "originalTitle": "野村AM、日系企業向けの自然関連協働エンゲージメントにおける共同リードインベスターに就任",
+      "summary": "野村AM、日系企業向けの自然関連協働エンゲージメントにおける共同リードインベスターに就任 ～責任投資原則（PRI）の自然関連イニシアティブ「Spring」～ 野村アセットマネジメント株式会社 2026年9月4日 12時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000280.000084182.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000280.000084182.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000280.000084182.html",
+      "publishedAt": "2026-09-06T06:10:02+09:00",
+      "collectedAt": "2026-09-06T06:44:36+09:00",
+      "scrapedAt": "2026-09-06T06:44:36+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:36+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "c14efc83d248a99d09e643398161fc729face7de1f010edbff5dd42aec46710a",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-06T06:44:36+09:00",
+      "updatedAt": "2026-09-06T06:44:36+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956733?display=b",
+      "title": "会社四季報｢秋号｣超先取りランキング④減配なし高配当利回り100､5％超の配当利回りが11社､4％台が42社",
+      "originalTitle": "会社四季報｢秋号｣超先取りランキング④減配なし高配当利回り100､5％超の配当利回りが11社､4％台が42社 | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス #乱気流相場で「勝ち抜く株」 会社四季報｢秋号｣超先取りランキング④減配なし高配当利回り100､5％超の配当利回りが11社､4％台が42社 2分で読める 公開日時：2026/09/06 06:30 有料会員限定 （写真：Yotsuba / PIXTA） 田口 遥 東洋経済 記者 フォロー 1 /2 PAGES INDEX 減配なし高配当利回りランキング100（1～50位） 減配なし高配当…",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956733?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/956733?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956733?display=b",
+      "publishedAt": "2026-09-06T06:30:00+09:00",
+      "collectedAt": "2026-09-06T06:44:44+09:00",
+      "scrapedAt": "2026-09-06T06:44:44+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "0a3633f947ce71fe2751bd165859bf0f30820b609583f04a9700a9f0d2c5bc82",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-06T06:44:44+09:00",
+      "updatedAt": "2026-09-06T06:44:44+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956963?display=b",
+      "title": "知的財産にタダ乗りするAI企業､トークン･エコノミーの｢泥棒｣取り締まりは音楽業界の仕組みにヒントがある",
+      "originalTitle": "知的財産にタダ乗りするAI企業､トークン･エコノミーの｢泥棒｣取り締まりは音楽業界の仕組みにヒントがある | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "政治・経済・投資 #グローバルアイ 知的財産にタダ乗りするAI企業､トークン･エコノミーの｢泥棒｣取り締まりは音楽業界の仕組みにヒントがある 5分で読める 公開日時：2026/09/06 06:20 有料会員限定 ネット掲示板で有名なレディットは、投稿コンテンツをAIの訓練用に有料で使わせるライセンス契約をグーグルやオープンAIと結んだ（写真：ブルームバーグ） ヤニーブ・ベナムー ジュネーブ大学（…",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956963?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/956963?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956963?display=b",
+      "publishedAt": "2026-09-06T06:20:00+09:00",
+      "collectedAt": "2026-09-06T06:44:44+09:00",
+      "scrapedAt": "2026-09-06T06:44:44+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "8ade269c680870f3405b4757db8e1c2dcd64875ea4b7d4d7e2f95c5267f8235c",
+      "trendScore": 10.98,
+      "createdAt": "2026-09-06T06:44:44+09:00",
+      "updatedAt": "2026-09-06T06:44:44+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956522",
+      "title": "｢宝くじを買うより現実的｣ 借金400万円を抱えホストになった30代男性が語る\"危うい持論\"と\"行政の支援のまずさ\"",
+      "originalTitle": "｢宝くじを買うより現実的｣　借金400万円を抱えホストになった30代男性が語る\"危うい持論\"と\"行政の支援のまずさ\" | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #大人の貧困 「雇用の谷間」でもがくミドルエイジ ｢宝くじを買うより現実的｣ 借金400万円を抱えホストになった30代男性が語る\"危うい持論\"と\"行政の支援のまずさ\" 9分で読める 公開日時：2026/09/06 06:15 「自分は社会人経験があったので昼間の仕事に戻ることができました」と語るハジメさん（写真：編集部撮影） 藤田 和恵 ジャーナリスト フォロー 彼女との同棲生活で膨らんだ借金は400万円。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956522",
+      "originalUrl": "https://toyokeizai.net/articles/-/956522?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956522",
+      "publishedAt": "2026-09-06T06:15:00+09:00",
+      "collectedAt": "2026-09-06T06:44:45+09:00",
+      "scrapedAt": "2026-09-06T06:44:45+09:00",
+      "lastVerifiedAt": "2026-09-06T06:44:45+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "23496a0f53547d38b72c517fa217fc2a25bacdb087bc0705f60061f111bed577",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-06T06:44:45+09:00",
+      "updatedAt": "2026-09-06T06:44:45+09:00"
     }
   ],
   "sources": [
@@ -26996,8 +27514,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-05T06:53:09+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:09+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:15+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27009,8 +27527,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-05T06:53:22+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:22+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:28+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27022,8 +27540,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-05T06:53:24+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:25+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:29+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:30+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27048,8 +27566,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-05T06:53:25+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:25+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:30+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27061,8 +27579,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-05T06:53:25+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:25+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:31+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27074,8 +27592,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-05T06:53:25+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:26+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:31+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27087,8 +27605,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-05T06:53:26+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:27+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:31+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27100,8 +27618,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-05T06:53:28+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:29+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:33+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:34+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27204,8 +27722,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-05T06:53:30+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:30+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:35+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27243,8 +27761,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-05T06:53:31+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:32+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:36+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:36+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27256,8 +27774,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-05T06:53:32+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:32+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:36+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27269,8 +27787,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-05T06:53:32+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:34+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:37+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27282,8 +27800,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-05T06:53:34+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:35+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:38+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27295,8 +27813,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-05T06:53:35+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:36+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:38+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27308,8 +27826,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-05T06:53:36+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:36+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:38+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27334,8 +27852,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-05T06:53:36+09:00",
-      "lastSuccessAt": "2026-09-05T06:53:37+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:39+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27399,9 +27917,9 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-05T06:53:39+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:40+09:00",
       "lastSuccessAt": "2026-09-05T06:53:41+09:00",
-      "consecutiveFailures": 0
+      "consecutiveFailures": 1
     },
     {
       "id": "src-toyokeizai",
@@ -27412,8 +27930,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-04T06:57:08+09:00",
-      "lastSuccessAt": "2026-09-04T06:57:09+09:00",
+      "lastFetchedAt": "2026-09-06T06:44:42+09:00",
+      "lastSuccessAt": "2026-09-06T06:44:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -27587,6 +28105,29 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260906-0644",
+      "scheduledAt": "2026-09-06T06:44:15+09:00",
+      "startedAt": "2026-09-06T06:44:15+09:00",
+      "finishedAt": "2026-09-06T06:44:45+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 17,
+      "sourcesFailed": 1,
+      "candidatesFound": 57,
+      "duplicatesRemoved": 6,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        },
+        {
+          "sourceId": "src-univ-journal",
+          "message": "フィード取得失敗: Unexpected close tag\nLine: 124\nColumn: 100\nChar: >"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260905-0653",
       "scheduledAt": "2026-09-05T06:53:09+09:00",
@@ -28723,10 +29264,10 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-09-05T06:53:45+09:00",
-    "lastSuccessAt": "2026-09-05T06:53:45+09:00",
-    "nextScheduledAt": "2026-09-06T05:00:00+09:00",
-    "lastJobStatus": "success"
+    "lastCollectionAt": "2026-09-06T06:44:45+09:00",
+    "lastSuccessAt": "2026-09-06T06:44:45+09:00",
+    "nextScheduledAt": "2026-09-07T05:00:00+09:00",
+    "lastJobStatus": "partial_success"
   },
   "preferences": {
     "categories": {
