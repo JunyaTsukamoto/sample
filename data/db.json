@@ -30798,12 +30798,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "44c9b181e18f0c423a943c7a66dfd3b7688fff535969a68b4045686c8150921d",
       "trendScore": 8.04,
       "createdAt": "2026-09-13T06:43:34+09:00",
-      "updatedAt": "2026-09-13T06:43:34+09:00"
+      "updatedAt": "2026-09-13T21:50:21.400Z"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000059.000170473.html",
@@ -31043,6 +31043,492 @@
       "trendScore": 10.96,
       "createdAt": "2026-09-13T06:43:52+09:00",
       "updatedAt": "2026-09-13T06:43:52+09:00"
+    },
+    {
+      "id": "https://qiita.com/quotidia/items/f7625ed40822e7513489",
+      "title": "デザイン業の倒産が2026年上半期に40件、前年同期比166.6%増で14年ぶり高水準。生成AIの普及だけが理由ではない - Qiita",
+      "originalTitle": "デザイン業の倒産が2026年上半期に40件、前年同期比166.6%増で14年ぶり高水準。生成AIの普及だけが理由ではない",
+      "summary": "@ quotidia デザイン業の倒産が2026年上半期に40件、前年同期比166.6%増で14年ぶり高水準。生成AIの普及だけが理由ではない AI ChatGPT 生成AI LLM Design 0 Posted at 2026-09-13 本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/quotidia/items/f7625ed40822e7513489",
+      "originalUrl": "https://qiita.com/quotidia/items/f7625ed40822e7513489",
+      "finalUrl": "https://qiita.com/quotidia/items/f7625ed40822e7513489",
+      "publishedAt": "2026-09-14T06:01:11+09:00",
+      "collectedAt": "2026-09-14T06:49:39+09:00",
+      "scrapedAt": "2026-09-14T06:49:39+09:00",
+      "lastVerifiedAt": "2026-09-14T06:49:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "6adbe091d13dff5f1d482804d9cc59627996642ce4a74fb4a625830d724518ba",
+      "trendScore": 10.95,
+      "createdAt": "2026-09-14T06:49:39+09:00",
+      "updatedAt": "2026-09-14T06:49:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/52e66d142ade46b95f64",
+      "title": "VBAマネージャーのAIエージェント化、速さを追いかけてきたけれど、AntigravityのGeminiで解決した話 - Qiita",
+      "originalTitle": "VBAマネージャーのAIエージェント化、速さを追いかけてきたけれど、AntigravityのGeminiで解決した話",
+      "summary": "@ shu15511551 ( shu ) VBAマネージャーのAIエージェント化、速さを追いかけてきたけれど、AntigravityのGeminiで解決した話 Python ExcelVBA AI ClaudeCode AIエージェント 0 Posted at 2026-09-13 はじめに 前回はこう書いて締めました。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/52e66d142ade46b95f64",
+      "originalUrl": "https://qiita.com/shu15511551/items/52e66d142ade46b95f64",
+      "finalUrl": "https://qiita.com/shu15511551/items/52e66d142ade46b95f64",
+      "publishedAt": "2026-09-14T05:55:12+09:00",
+      "collectedAt": "2026-09-14T06:49:45+09:00",
+      "scrapedAt": "2026-09-14T06:49:45+09:00",
+      "lastVerifiedAt": "2026-09-14T06:49:45+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "687a161d18d99590c3c5511da63f9335475d86ec9e8bcf5548c5411a19dd08b6",
+      "trendScore": 10.95,
+      "createdAt": "2026-09-14T06:49:45+09:00",
+      "updatedAt": "2026-09-14T06:49:45+09:00"
+    },
+    {
+      "id": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5",
+      "title": "写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた - Qiita",
+      "originalTitle": "写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた",
+      "summary": "@ songchong ( SONG ) 写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？AI製品36件の規約とプライバシーポリシーを形式別に調べてみた AI ChatGPT 生成AI LLM Security 12 Last updated at 2026-09-13 Posted at 2026-09-13 「会議の録音を AI に入れていいか」と聞かれたとき、 規約のどこを読めば答えられるのか。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5",
+      "originalUrl": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5",
+      "finalUrl": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5",
+      "publishedAt": "2026-09-14T04:32:07+09:00",
+      "collectedAt": "2026-09-14T06:49:51+09:00",
+      "scrapedAt": "2026-09-14T06:49:51+09:00",
+      "lastVerifiedAt": "2026-09-14T06:49:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a56ed5ed54c2b4dd3d29c43a2adac31b94be57a50a890e1865176847535ecbbc",
+      "trendScore": 10.86,
+      "createdAt": "2026-09-14T06:49:51+09:00",
+      "updatedAt": "2026-09-14T06:49:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/Kazeneko/items/0b1550a9fbfbea486b96",
+      "title": "Kaggleのバッジとメダルの違い — 公式Progressionページまとめ - Qiita",
+      "originalTitle": "Kaggleのバッジとメダルの違い — 公式Progressionページまとめ",
+      "summary": "@ Kazeneko Kaggleのバッジとメダルの違い — 公式Progressionページまとめ Kaggle データサイエンス 機械学習 バッジ 0 Posted at 2026-09-13 はじめに Kaggle のプロフィールに出てくる バッジ と メダル 、名前は似ているのに意味が違う 「進捗の公式説明ってどこ？",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/Kazeneko/items/0b1550a9fbfbea486b96",
+      "originalUrl": "https://qiita.com/Kazeneko/items/0b1550a9fbfbea486b96",
+      "finalUrl": "https://qiita.com/Kazeneko/items/0b1550a9fbfbea486b96",
+      "publishedAt": "2026-09-13T23:52:56+09:00",
+      "collectedAt": "2026-09-14T06:49:51+09:00",
+      "scrapedAt": "2026-09-14T06:49:51+09:00",
+      "lastVerifiedAt": "2026-09-14T06:49:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "データサイエンス",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "4dcee12c3fb2b10df95691affff6611000021c89a156db593510b61a1225160a",
+      "trendScore": 10.59,
+      "createdAt": "2026-09-14T06:49:51+09:00",
+      "updatedAt": "2026-09-14T06:49:51+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000001.000190875.html",
+      "title": "「予測市場: 未来を知り、未来に備える」を出版しました",
+      "originalTitle": "「予測市場: 未来を知り、未来に備える」を出版しました",
+      "summary": "「予測市場: 未来を知り、未来に備える」を出版しました 「未来を知る市場」と「未来に備える市場」の二つの側面から解説。2026年9月4日にKindle版を発売 株式会社Atlas Support 2026年9月12日 13時13分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000190875.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000190875.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000190875.html",
+      "publishedAt": "2026-09-14T06:40:02+09:00",
+      "collectedAt": "2026-09-14T06:49:58+09:00",
+      "scrapedAt": "2026-09-14T06:49:58+09:00",
+      "lastVerifiedAt": "2026-09-14T06:49:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "資金調達",
+        "規制"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "2568dd4682ae02a5af7a192eae32db8d28f997987e85f819e5d80ed136443bc9",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-14T06:49:58+09:00",
+      "updatedAt": "2026-09-14T06:49:58+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000353.000033850.html",
+      "title": "次の運用機会はオンチェーンにある。「The Great Rotation \"大転換\" ― 日本は世界のオンチェーン利回りをどう獲るか」を10月2日に開催",
+      "originalTitle": "次の運用機会はオンチェーンにある。「The Great Rotation　\"大転換\" ― 日本は世界のオンチェーン利回りをどう獲るか」を10月2日に開催",
+      "summary": "次の運用機会はオンチェーンにある。「The Great Rotation \"大転換\" ― 日本は世界のオン\u0000チェーン利回りをどう獲るか」を10月2日に開催 機関投資家・金融機関・ファンド・Web3事業者のリーダーが集う、クローズド戦略カンファレンス 株式会社CoinPost 2026年9月11日 13時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000353.000033850.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000353.000033850.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000353.000033850.html",
+      "publishedAt": "2026-09-14T06:40:02+09:00",
+      "collectedAt": "2026-09-14T06:49:58+09:00",
+      "scrapedAt": "2026-09-14T06:49:58+09:00",
+      "lastVerifiedAt": "2026-09-14T06:49:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "DX",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "77fc94d9898778031e8febac3859158fa41e8edf27fb603586085b52e323d383",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-14T06:49:58+09:00",
+      "updatedAt": "2026-09-14T06:49:58+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000417.000002981.html",
+      "title": "日本リウマチ学会と日本ベーリンガーインゲルハイム、自己免疫疾患に併発する間質性肺疾患の研究推進に向けた研究助成プログラムを開始",
+      "originalTitle": "日本リウマチ学会と日本ベーリンガーインゲルハイム、自己免疫疾患に併発する間質性肺疾患の研究推進に向けた研究助成プログラムを開始",
+      "summary": "日本リウマチ学会と日本ベーリンガーインゲルハイム、自己免疫疾患に併発する間質性肺疾患の研究推進に向けた研究助成プログラムを開始 日本ベーリンガーインゲルハイム 2026年9月10日 11時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000417.000002981.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000417.000002981.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000417.000002981.html",
+      "publishedAt": "2026-09-14T06:40:02+09:00",
+      "collectedAt": "2026-09-14T06:49:58+09:00",
+      "scrapedAt": "2026-09-14T06:49:58+09:00",
+      "lastVerifiedAt": "2026-09-14T06:49:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ガイドライン",
+        "研究開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1183876d5b986ce55b7798b84c58b127685884f527b7d9a82d564f28bf69b8b2",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-14T06:49:58+09:00",
+      "updatedAt": "2026-09-14T06:49:58+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001587",
+      "title": "全国305大学・大学教授1,000名による研究室紹介と学問の講義動画 オンライン進学イベント「夢ナビライブ」10/3・4開催",
+      "originalTitle": "全国305大学・大学教授1,000名による研究室紹介と学問の講義動画　オンライン進学イベント「夢ナビライブ」10/3・4開催",
+      "summary": "TOP > 大学入試 > 全国305大学・大学教授1,000名による研究室紹介と学問の講義動画 オンライン進学イベント「夢ナビライブ」10/3・4開催 2026年9月13日 全国305大学・大学教授1,000名による研究室紹介と学問の講義動画 オンライン進学イベント「夢ナビライブ」10/3・4開催 大学ジャーナルオンライン編集部 2027年度入試 オンラインイベント 2026年10月3日（土）、4…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001587",
+      "originalUrl": "https://univ-journal.jp/1001587/",
+      "finalUrl": "https://univ-journal.jp/1001587",
+      "publishedAt": "2026-09-13T11:00:09+09:00",
+      "collectedAt": "2026-09-14T06:50:07+09:00",
+      "scrapedAt": "2026-09-14T06:50:07+09:00",
+      "lastVerifiedAt": "2026-09-14T06:50:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "285b413a2a04cf1d937289a6545d3024020ba7a6fe28310269db71e59b41058c",
+      "trendScore": 9.82,
+      "createdAt": "2026-09-14T06:50:07+09:00",
+      "updatedAt": "2026-09-14T06:50:07+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001715",
+      "title": "私立大学の釧路短期大学が「釧路公立大学短期大学部」に移行 2027年4月から新たに学生を受け入れる",
+      "originalTitle": "私立大学の釧路短期大学が「釧路公立大学短期大学部」に移行　2027年4月から新たに学生を受け入れる",
+      "summary": "TOP > トピックス > 私立大学の釧路短期大学が「釧路公立大学短期大学部」に移行 2027年4月から新たに学生を受け入れる 2026年9月13日 私立大学の釧路短期大学が「釧路公立大学短期大学部」に移行 2027年4月から新たに学生を受け入れる 大学ジャーナルオンライン編集部 2027年4月新設 公立化 短期大学 釧路短期大学 2025年4月に学生募集を停止した学校法人緑ケ岡学園が設置する私立…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001715",
+      "originalUrl": "https://univ-journal.jp/1001715/",
+      "finalUrl": "https://univ-journal.jp/1001715",
+      "publishedAt": "2026-09-13T07:00:29+09:00",
+      "collectedAt": "2026-09-14T06:50:07+09:00",
+      "scrapedAt": "2026-09-14T06:50:07+09:00",
+      "lastVerifiedAt": "2026-09-14T06:50:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "71b2d1ac144c331840fc534f4d7aed1d142e26d2794f2dd327a962e0821ef8d3",
+      "trendScore": 9.58,
+      "createdAt": "2026-09-14T06:50:07+09:00",
+      "updatedAt": "2026-09-14T06:50:07+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001719",
+      "title": "アトピー性皮膚炎を発端に症状が全身に拡大する「アトピーマーチ」のメカニズム 東京理科大学などが解明",
+      "originalTitle": "アトピー性皮膚炎を発端に症状が全身に拡大する「アトピーマーチ」のメカニズム　東京理科大学などが解明",
+      "summary": "TOP > 研究成果 > 共同研究 > アトピー性皮膚炎を発端に症状が全身に拡大する「アトピーマーチ」のメカニズム 東京理科大学などが解明 2026年9月12日 アトピー性皮膚炎を発端に症状が全身に拡大する「アトピーマーチ」のメカニズム 東京理科大学などが解明 大学ジャーナルオンライン編集部 アトピーマーチ アトピー性皮膚炎 アレルギー 海外の大学 鹿児島大学 慶應義塾大学 東京理科大学 京都大学…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001719",
+      "originalUrl": "https://univ-journal.jp/1001719/",
+      "finalUrl": "https://univ-journal.jp/1001719",
+      "publishedAt": "2026-09-12T17:00:59+09:00",
+      "collectedAt": "2026-09-14T06:50:07+09:00",
+      "scrapedAt": "2026-09-14T06:50:07+09:00",
+      "lastVerifiedAt": "2026-09-14T06:50:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "ee4e772aeca3d5fab3f957f6fc260448bcabe4a07cf47e4f7c35336f5c783868",
+      "trendScore": 8.75,
+      "createdAt": "2026-09-14T06:50:07+09:00",
+      "updatedAt": "2026-09-14T06:50:07+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/956181?display=b",
+      "title": "TCFD､TNFDそしてTISFD､次々に登場するサステナビリティ開示フレームワークへの対応で｢世界最多｣を競う日本企業の課題",
+      "originalTitle": "TCFD､TNFDそしてTISFD､次々に登場するサステナビリティ開示フレームワークへの対応で｢世界最多｣を競う日本企業の課題 | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス #サステナビリティの重要テーマ TCFD､TNFDそしてTISFD､次々に登場するサステナビリティ開示フレームワークへの対応で｢世界最多｣を競う日本企業の課題 12分で読める 公開日時：2026/09/14 06:40 有料会員限定 気候変動に関するTCFDに続き、TNFD、TISFDなど次々とフレームワークが登場（写真：metamorworks ／PIXTA） 松山 将之 武蔵野大学経…",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/956181?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/956181?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/956181?display=b",
+      "publishedAt": "2026-09-14T06:40:00+09:00",
+      "collectedAt": "2026-09-14T06:50:10+09:00",
+      "scrapedAt": "2026-09-14T06:50:10+09:00",
+      "lastVerifiedAt": "2026-09-14T06:50:10+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "気候変動",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "f1dfa756f967a06037d662d98b76ffd23a532b27c2c77f7f8e1bc78c595b649f",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-14T06:50:10+09:00",
+      "updatedAt": "2026-09-14T06:50:10+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/957172?display=b",
+      "title": "〈インタビュー前編〉アパグループ元谷一志CEOが明かす｢国内自社ブランド10万室｣への道筋",
+      "originalTitle": "〈インタビュー前編〉アパグループ元谷一志CEOが明かす｢国内自社ブランド10万室｣への道筋 | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス #アパグループ ホテル覇権の盤面 〈インタビュー前編〉アパグループ元谷一志CEOが明かす｢国内自社ブランド10万室｣への道筋 8分で読める 公開日時：2026/09/14 06:05 有料会員限定 アパホテルをリブランドした「the b 金沢片町」（金沢市）を視察する元谷社長兼CEO（編集部撮影） 具志堅 聡 東洋経済 記者 フォロー 1 /2 PAGES INDEX ブランドを使い分け…",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/957172?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/957172?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/957172?display=b",
+      "publishedAt": "2026-09-14T06:05:00+09:00",
+      "collectedAt": "2026-09-14T06:50:11+09:00",
+      "scrapedAt": "2026-09-14T06:50:11+09:00",
+      "lastVerifiedAt": "2026-09-14T06:50:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "M&A",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "835e541d3de5de7e77f3b44fb8fbac7f81dd939186848a03bce56ac02795548c",
+      "trendScore": 10.96,
+      "createdAt": "2026-09-14T06:50:11+09:00",
+      "updatedAt": "2026-09-14T06:50:11+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/957932",
+      "title": "〈オルツ粉飾決算裁判〉｢社長が右を向けば（社員も）右を向く組織だった｣…財務責任者の日置友輔被告が語った真相",
+      "originalTitle": "〈オルツ粉飾決算裁判〉｢社長が右を向けば（社員も）右を向く組織だった｣…財務責任者の日置友輔被告が語った真相 | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス #ダイジェスト版 〈オルツ粉飾決算裁判〉｢社長が右を向けば（社員も）右を向く組織だった｣…財務責任者の日置友輔被告が語った真相 2分で読める 公開日時：2026/09/14 06:00 2024年10月の上場セレモニーにて （写真：オルツ提供） 倉沢 美左 東洋経済 編集委員 フォロー 急成長スタートアップ｢オルツ｣で発覚した前代未聞の粉飾決算事件。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/957932",
+      "originalUrl": "https://toyokeizai.net/articles/-/957932?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/957932",
+      "publishedAt": "2026-09-14T06:00:00+09:00",
+      "collectedAt": "2026-09-14T06:50:12+09:00",
+      "scrapedAt": "2026-09-14T06:50:12+09:00",
+      "lastVerifiedAt": "2026-09-14T06:50:12+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "a5b9f46f56ab177f076e05cc6c6682681bf857d94f3ef8b0bc62cce494f2df0c",
+      "trendScore": 10.95,
+      "createdAt": "2026-09-14T06:50:12+09:00",
+      "updatedAt": "2026-09-14T06:50:12+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/399039",
+      "title": "仕事のムダに「気づいていない人」の致命的な特徴・ワースト1",
+      "originalTitle": "仕事のムダに「気づいていない人」の致命的な特徴・ワースト1 - 「今日も仕事が終わらなかった」はなぜ起きるのか？　仕事が3倍速くなる計画・実行・中断の技術",
+      "summary": "仕事の「ムダ」と聞くと、何を思い浮かべるでしょうか。必要のない会議、長すぎるメール、使われない資料づくり。もちろん、こうした作業を減らすことも大切です。しかし、もっと大きなムダが日々の仕事の中で発生している可能性があります。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/399039",
+      "originalUrl": "https://diamond.jp/articles/-/399039",
+      "finalUrl": "https://diamond.jp/articles/-/399039",
+      "publishedAt": "2026-09-14T06:45:00+09:00",
+      "collectedAt": "2026-09-14T06:50:13+09:00",
+      "scrapedAt": "2026-09-14T06:50:13+09:00",
+      "lastVerifiedAt": "2026-09-14T06:50:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "66103d21c22ca0631a45a2c323b92f2608cd6ddd5ea8ba7f2d2911cd75f8a85c",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-14T06:50:13+09:00",
+      "updatedAt": "2026-09-14T06:50:13+09:00"
     }
   ],
   "sources": [
@@ -31055,8 +31541,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-13T06:43:12+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:13+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:37+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31068,8 +31554,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-13T06:43:25+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:26+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:51+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31081,8 +31567,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-13T06:43:26+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:27+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:51+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31107,8 +31593,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-13T06:43:27+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:28+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:52+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31120,8 +31606,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-13T06:43:28+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:28+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:53+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31133,8 +31619,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-13T06:43:29+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:29+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:54+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31146,8 +31632,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-13T06:43:29+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:30+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:54+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31159,8 +31645,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-13T06:43:31+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:32+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:56+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31263,8 +31749,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-13T06:43:34+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:35+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:56+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31302,8 +31788,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-13T06:43:35+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:35+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:58+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31315,8 +31801,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-13T06:43:35+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:36+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:59+09:00",
+      "lastSuccessAt": "2026-09-14T06:49:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31328,8 +31814,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-13T06:43:36+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:37+09:00",
+      "lastFetchedAt": "2026-09-14T06:49:59+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31341,8 +31827,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-13T06:43:37+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:37+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:00+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31354,8 +31840,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-13T06:43:37+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:38+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:01+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31367,8 +31853,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-13T06:43:38+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:39+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:02+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:02+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31393,8 +31879,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-13T06:43:39+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:39+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:02+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31458,8 +31944,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-13T06:43:41+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:43+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:04+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31471,8 +31957,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-13T06:43:48+09:00",
-      "lastSuccessAt": "2026-09-13T06:43:49+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:07+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31484,8 +31970,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-10T07:01:45+09:00",
-      "lastSuccessAt": "2026-09-10T07:01:46+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:12+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:13+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31497,8 +31983,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-10T07:01:46+09:00",
-      "lastSuccessAt": "2026-09-10T07:01:47+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:13+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31523,8 +32009,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-10T07:01:47+09:00",
-      "lastSuccessAt": "2026-09-10T07:01:47+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:14+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31536,8 +32022,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-10T07:01:47+09:00",
-      "lastSuccessAt": "2026-09-10T07:01:47+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:15+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31549,8 +32035,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-09-10T07:01:47+09:00",
-      "lastSuccessAt": "2026-09-10T07:01:48+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:15+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31562,8 +32048,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-07T06:47:37+09:00",
-      "lastSuccessAt": "2026-09-07T06:47:37+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:16+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31575,8 +32061,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-07T06:47:37+09:00",
-      "lastSuccessAt": "2026-09-07T06:47:38+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:16+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31588,8 +32074,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-07T06:47:38+09:00",
-      "lastSuccessAt": "2026-09-07T06:47:38+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:17+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -31599,11 +32085,11 @@
       "feedUrl": "https://japan.zdnet.com/rss/index.rdf",
       "type": "rss",
       "category": "AI",
-      "enabled": true,
+      "enabled": false,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-07T06:47:38+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:18+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 5
+      "consecutiveFailures": 6
     },
     {
       "id": "bk-fsa",
@@ -31612,11 +32098,11 @@
       "feedUrl": "https://www.fsa.go.jp/fsaJPN.rdf",
       "type": "rss",
       "category": "制度",
-      "enabled": true,
+      "enabled": false,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-09-07T06:47:39+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:18+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 5
+      "consecutiveFailures": 6
     },
     {
       "id": "bk-jpo",
@@ -31625,11 +32111,11 @@
       "feedUrl": "https://www.jpo.go.jp/news.rdf",
       "type": "rss",
       "category": "制度",
-      "enabled": true,
+      "enabled": false,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-09-07T06:47:39+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:19+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 5
+      "consecutiveFailures": 6
     },
     {
       "id": "bk-mynavi",
@@ -31640,12 +32126,82 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-07T06:47:41+09:00",
-      "lastSuccessAt": "2026-09-07T06:47:41+09:00",
+      "lastFetchedAt": "2026-09-14T06:50:20+09:00",
+      "lastSuccessAt": "2026-09-14T06:50:21+09:00",
+      "consecutiveFailures": 0
+    },
+    {
+      "id": "bk-gizmodo",
+      "name": "ギズモード・ジャパン",
+      "baseUrl": "https://www.gizmodo.jp/",
+      "feedUrl": "https://www.gizmodo.jp/index.xml",
+      "type": "rss",
+      "category": "AI",
+      "enabled": true,
+      "reliabilityScore": 0.7,
+      "lastFetchedAt": null,
+      "lastSuccessAt": null,
+      "consecutiveFailures": 0
+    },
+    {
+      "id": "bk-lifehacker",
+      "name": "ライフハッカー・ジャパン",
+      "baseUrl": "https://www.lifehacker.jp/",
+      "feedUrl": "https://www.lifehacker.jp/feed/index.xml",
+      "type": "rss",
+      "category": "新事業",
+      "enabled": true,
+      "reliabilityScore": 0.65,
+      "lastFetchedAt": null,
+      "lastSuccessAt": null,
+      "consecutiveFailures": 0
+    },
+    {
+      "id": "bk-osaka-u",
+      "name": "大阪大学 研究情報",
+      "baseUrl": "https://www.osaka-u.ac.jp/",
+      "feedUrl": "https://resou.osaka-u.ac.jp/ja/rss.xml",
+      "type": "rss",
+      "category": "学術",
+      "enabled": true,
+      "reliabilityScore": 0.9,
+      "lastFetchedAt": null,
+      "lastSuccessAt": null,
       "consecutiveFailures": 0
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260914-0649",
+      "scheduledAt": "2026-09-14T06:49:37+09:00",
+      "startedAt": "2026-09-14T06:49:37+09:00",
+      "finishedAt": "2026-09-14T06:50:21+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 27,
+      "sourcesFailed": 3,
+      "candidatesFound": 114,
+      "duplicatesRemoved": 5,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 14,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        },
+        {
+          "sourceId": "bk-zdnet",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-fsa",
+          "message": "フィード取得失敗: Status code 404"
+        },
+        {
+          "sourceId": "bk-jpo",
+          "message": "フィード取得失敗: Status code 403"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260913-0643",
       "scheduledAt": "2026-09-13T06:43:12+09:00",
@@ -32966,10 +33522,10 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-09-13T06:43:52+09:00",
-    "lastSuccessAt": "2026-09-13T06:43:52+09:00",
-    "nextScheduledAt": "2026-09-14T05:00:00+09:00",
-    "lastJobStatus": "success"
+    "lastCollectionAt": "2026-09-14T06:50:21+09:00",
+    "lastSuccessAt": "2026-09-14T06:50:21+09:00",
+    "nextScheduledAt": "2026-09-15T05:00:00+09:00",
+    "lastJobStatus": "partial_success"
   },
   "preferences": {
     "categories": {
