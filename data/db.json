@@ -34123,6 +34123,525 @@
       "trendScore": 10.98,
       "createdAt": "2026-09-19T06:58:51+09:00",
       "updatedAt": "2026-09-19T06:58:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/quotidia/items/ec24c2da21232d2af6f9",
+      "title": "OpenAI×OATSの高齢者向け無料ChatGPT講座、米10地域・対象1,000人・55歳以上のメッセージ割合6%→10%近く - Qiita",
+      "originalTitle": "OpenAI×OATSの高齢者向け無料ChatGPT講座、米10地域・対象1,000人・55歳以上のメッセージ割合6%→10%近く",
+      "summary": "@ quotidia OpenAI×OATSの高齢者向け無料ChatGPT講座、米10地域・対象1,000人・55歳以上のメッセージ割合6%→10%近く AI ChatGPT 生成AI LLM 高齢者 0 Posted at 2026-09-19 本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/quotidia/items/ec24c2da21232d2af6f9",
+      "originalUrl": "https://qiita.com/quotidia/items/ec24c2da21232d2af6f9",
+      "finalUrl": "https://qiita.com/quotidia/items/ec24c2da21232d2af6f9",
+      "publishedAt": "2026-09-20T06:01:05+09:00",
+      "collectedAt": "2026-09-20T06:48:35+09:00",
+      "scrapedAt": "2026-09-20T06:48:35+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:35+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "8353a71bd6161b7281b1dd75744867e7b99e6fc0df22cd4e0cedcb2a6d5bc93b",
+      "trendScore": 10.95,
+      "createdAt": "2026-09-20T06:48:35+09:00",
+      "updatedAt": "2026-09-20T06:48:35+09:00"
+    },
+    {
+      "id": "https://qiita.com/Xim2jp/items/8d2ab099438d6986c838",
+      "title": "Jevは「確度付きIF文」— テキストを生成しないAIモデルの使いどころ - Qiita",
+      "originalTitle": "Jevは「確度付きIF文」— テキストを生成しないAIモデルの使いどころ",
+      "summary": "@ Xim2jp Jevは「確度付きIF文」— テキストを生成しないAIモデルの使いどころ AI LLM Jev TypeSafeAI 機械学習 0 Posted at 2026-09-19 2026年9月にTypeSafe AIが公開した「Jev（ジェヴ）」、話題になっているけれど「結局何に使うの？",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Xim2jp/items/8d2ab099438d6986c838",
+      "originalUrl": "https://qiita.com/Xim2jp/items/8d2ab099438d6986c838",
+      "finalUrl": "https://qiita.com/Xim2jp/items/8d2ab099438d6986c838",
+      "publishedAt": "2026-09-20T05:16:21+09:00",
+      "collectedAt": "2026-09-20T06:48:41+09:00",
+      "scrapedAt": "2026-09-20T06:48:41+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "9072172bdea0ceafadf5c09fb9caf75c684920098fbfd1088d373f017c4cf1f7",
+      "trendScore": 10.91,
+      "createdAt": "2026-09-20T06:48:41+09:00",
+      "updatedAt": "2026-09-20T06:48:41+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/39aca2761663998efb75",
+      "title": "VBAマネージャーのAIエージェント化、「秀エクセルマネージャー」を少し修正した話 - Qiita",
+      "originalTitle": "VBAマネージャーのAIエージェント化、「秀エクセルマネージャー」を少し修正した話",
+      "summary": "@ shu15511551 ( shu ) VBAマネージャーのAIエージェント化、「秀エクセルマネージャー」を少し修正した話 Python ExcelVBA AI ClaudeCode AIエージェント 0 Posted at 2026-09-19 はじめに 九月十九日の未明に、「秀エクセルマネージャー」を開発中のまま公開した、という記事を書きました。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/39aca2761663998efb75",
+      "originalUrl": "https://qiita.com/shu15511551/items/39aca2761663998efb75",
+      "finalUrl": "https://qiita.com/shu15511551/items/39aca2761663998efb75",
+      "publishedAt": "2026-09-20T03:19:40+09:00",
+      "collectedAt": "2026-09-20T06:48:47+09:00",
+      "scrapedAt": "2026-09-20T06:48:47+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5b8573ccc8943a4f1f37838a6f615bf07108d48bd437bd917dc7ea11b48a21f9",
+      "trendScore": 10.79,
+      "createdAt": "2026-09-20T06:48:47+09:00",
+      "updatedAt": "2026-09-20T06:48:47+09:00"
+    },
+    {
+      "id": "https://qiita.com/emi_ndk/items/cad4b87c1c4ffd4333ca",
+      "title": "分類するだけなのに、なぜAIに作文させる？Jevが文章生成を捨てた理由 - Qiita",
+      "originalTitle": "分類するだけなのに、なぜAIに作文させる？Jevが文章生成を捨てた理由",
+      "summary": "@ emi_ndk ( Babushka Ai ) 分類するだけなのに、なぜAIに作文させる？Jevが文章生成を捨てた理由 AI 機械学習 LLM 統計学 確率 0 Last updated at 2026-09-19 Posted at 2026-09-19 問い合わせを3つの部署に振り分ける。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/emi_ndk/items/cad4b87c1c4ffd4333ca",
+      "originalUrl": "https://qiita.com/emi_ndk/items/cad4b87c1c4ffd4333ca",
+      "finalUrl": "https://qiita.com/emi_ndk/items/cad4b87c1c4ffd4333ca",
+      "publishedAt": "2026-09-20T00:30:31+09:00",
+      "collectedAt": "2026-09-20T06:48:48+09:00",
+      "scrapedAt": "2026-09-20T06:48:48+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:48+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "dc8d30b9d3ca741be95641a8dc8a51f7149634a2d1d1bd3975bd2e960001e85f",
+      "trendScore": 10.62,
+      "createdAt": "2026-09-20T06:48:48+09:00",
+      "updatedAt": "2026-09-20T06:48:48+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo12_hh_000547.html",
+      "title": "国土交通省｜報道資料｜改正地域交通法の施行に向け関係法令・ガイドラインを整備します<br>～「交通空白」解消は成長投資～",
+      "originalTitle": "�����n���ʖ@�̎{�s�Ɍ����֌W�@�߁E�K�C�h���C���𐮔����܂��`�u��ʋ󔒁v�����͐��������`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 改正地域交通法の施行に向け関係法令・ガイドラインを整備します ～「交通空白」解消は成長投資～ 改正地域交通法の施行に向け関係法令・ガイドラインを整備します ～「交通空白」解消は成長投資～ 令和8年9月18日 本年６月10 日に公布された「地域公共交通の活性化及び再生に関する法律の一部を改正する法律」が10 月16 日に施行されます。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo12_hh_000547.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo12_hh_000547.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo12_hh_000547.html",
+      "publishedAt": "2026-09-18T05:00:00+09:00",
+      "collectedAt": "2026-09-20T06:48:54+09:00",
+      "scrapedAt": "2026-09-20T06:48:54+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ガイドライン",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "dd859a319cc4c898aef28f42cf1fcc757ec58c899f212a2f2bba44fe9f3c6a7b",
+      "trendScore": 8.03,
+      "createdAt": "2026-09-20T06:48:54+09:00",
+      "updatedAt": "2026-09-20T06:48:54+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo09_hh_000440.html",
+      "title": "国土交通省｜報道資料｜障害当事者参画によるバリアフリー施策等の評価を行います<br>～第16回「移動等円滑化評価会議」の開催～",
+      "originalTitle": "��Q�����ҎQ��ɂ��o���A�t���[�{�����̕]�����s���܂��`��16��u�ړ����~�����]����c�v�̊J�Á`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 障害当事者参画によるバリアフリー施策等の評価を行います ～第16回「移動等円滑化評価会議」の開催～ 障害当事者参画によるバリアフリー施策等の評価を行います ～第16回「移動等円滑化評価会議」の開催～ 令和8年9月18日 障害当事者等が参画し、移動等円滑化の進展状況を評価するための「移動等円滑化評価会議」を開催し、バリアフリー施策のさらなるスパイラルアップに取り組んでまいります。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo09_hh_000440.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo09_hh_000440.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo09_hh_000440.html",
+      "publishedAt": "2026-09-18T05:00:00+09:00",
+      "collectedAt": "2026-09-20T06:48:55+09:00",
+      "scrapedAt": "2026-09-20T06:48:55+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "eef004207b5db2649857e23d5008d786b5090a8bb0db7a3e943bbcd152f37295",
+      "trendScore": 8.03,
+      "createdAt": "2026-09-20T06:48:55+09:00",
+      "updatedAt": "2026-09-20T06:48:55+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/joho01_hh_000098.html",
+      "title": "国土交通省｜報道資料｜第21回「統計品質改善会議」の開催について<br>～「第2期国土交通省統計改革プラン」のフォローアップを行います～",
+      "originalTitle": "��21��u���v�i�����P��c�v�̊J�Âɂ��ā`�u��2�����y��ʏȓ��v���v�v�����v�̃t�H���[�A�b�v���s���܂��`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 第21回「統計品質改善会議」の開催について ～「第2期国土交通省統計改革プラン」のフォローアップを行います～ 第21回「統計品質改善会議」の開催について ～「第2期国土交通省統計改革プラン」のフォローアップを行います～ 令和8年9月18日 国土交通省では、「国土交通省統計改革プラン」に基づき、令和４年８月10日に「統計品質改善会議」を設置しており、同会…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/joho01_hh_000098.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/joho01_hh_000098.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/joho01_hh_000098.html",
+      "publishedAt": "2026-09-18T05:00:00+09:00",
+      "collectedAt": "2026-09-20T06:48:55+09:00",
+      "scrapedAt": "2026-09-20T06:48:55+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "aa00cd54361420ce70181709b41bef3edaca9d45449188f588984926186ff018",
+      "trendScore": 8.03,
+      "createdAt": "2026-09-20T06:48:55+09:00",
+      "updatedAt": "2026-09-20T06:48:55+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000004.000185517.html",
+      "title": "【恒和システム】大学生向けオープンカンパニーを開催 就活生はエントリー先を決める前に「自分を知ること」が重要",
+      "originalTitle": "【恒和システム】大学生向けオープンカンパニーを開催　就活生はエントリー先を決める前に「自分を知ること」が重要",
+      "summary": "【恒和システム】大学生向けオープンカンパニーを開催 就活生はエントリー先を\u0000\u0000決める前に「自分を知ること」が重要 大手・中小・ベンチャーの違いなどを理解しながら、「自分に合う仕事・働き方」を考える第一歩に 恒和システム株式会社 2026年9月16日 09時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000185517.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000004.000185517.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000004.000185517.html",
+      "publishedAt": "2026-09-20T06:40:02+09:00",
+      "collectedAt": "2026-09-20T06:48:56+09:00",
+      "scrapedAt": "2026-09-20T06:48:56+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "セキュリティ",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1213dce72a0737bcd1d966ac4ab444a6da743f02669ef4b4a49e36c65e6dce24",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-20T06:48:56+09:00",
+      "updatedAt": "2026-09-20T06:48:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000003.000121181.html",
+      "title": "アーモンドクリニック院長・中山樹医師が国際美容医学会「IMCAS China 2026」（上海）で2演題を口演発表",
+      "originalTitle": "アーモンドクリニック院長・中山樹医師が国際美容医学会「IMCAS China 2026」（上海）で2演題を口演発表",
+      "summary": "アーモンドクリニック院長・中山樹医師が国際美容医学会「IMCAS China 2026」（上海）で2演題を口\u0000\u0000演発表 日本のオンライン自由診療の市場分析と、切らない二重整形で患者満足度97.3%を達成した診察モデルを世界へ発信 ALMOND CLINIC 2026年9月18日 17時30分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000121181.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000003.000121181.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000003.000121181.html",
+      "publishedAt": "2026-09-20T05:40:02+09:00",
+      "collectedAt": "2026-09-20T06:48:56+09:00",
+      "scrapedAt": "2026-09-20T06:48:56+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "規制",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "c70af93c80aecc39984e50a7fcb6280ad0d7a22031463ff4d98c3f276d35eac0",
+      "trendScore": 10.93,
+      "createdAt": "2026-09-20T06:48:56+09:00",
+      "updatedAt": "2026-09-20T06:48:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000010.000151467.html",
+      "title": "子どもは、「知る」前に「好き」になる。知識じゃない、好奇心が勝つどうぶつゲーム【LineUP Kids①どうぶつえん】発売！",
+      "originalTitle": "子どもは、「知る」前に「好き」になる。知識じゃない、好奇心が勝つどうぶつゲーム【LineUP Kids１.どうぶつえん】発売！",
+      "summary": "子どもは、「知る」前に「好き」になる。知識じゃない、好奇心が勝つどうぶつゲーム【LineUP Kids①どうぶつえん】発売！《キッズデザイン賞受賞》どうぶつのカードを並べるたびに、「へえ〜！キッズも遊べる新シリーズ「いきものキッズ」第1弾、2026年9月18日（金）発売 infoplay（インフォプレイ） 2026年9月18日 17時10分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000151467.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000010.000151467.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000010.000151467.html",
+      "publishedAt": "2026-09-20T05:40:02+09:00",
+      "collectedAt": "2026-09-20T06:48:56+09:00",
+      "scrapedAt": "2026-09-20T06:48:56+09:00",
+      "lastVerifiedAt": "2026-09-20T06:48:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "bcf2b7e4e52c4c8d74e4dd0cef5fca1ae235ff10460b0099a46f4d4446659878",
+      "trendScore": 10.93,
+      "createdAt": "2026-09-20T06:48:56+09:00",
+      "updatedAt": "2026-09-20T06:48:56+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001810",
+      "title": "京都先端科学大学と京都外国語大学 専門性×国際性を併せ持つ人材育成に向け包括交流協定を締結",
+      "originalTitle": "京都先端科学大学と京都外国語大学　専門性×国際性を併せ持つ人材育成に向け包括交流協定を締結",
+      "summary": "TOP > トピックス > 京都先端科学大学と京都外国語大学 専門性×国際性を併せ持つ人材育成に向け包括交流協定を締結 2026年9月19日 京都先端科学大学と京都外国語大学 専門性×国際性を併せ持つ人材育成に向け包括交流協定を締結 大学ジャーナルオンライン編集部 包括交流協定 京都先端科学大学 京都外国語大学 京都先端科学大学（京都市右京区）と京都外国語大学（京都市右京区）は、包括交流協定を締結…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001810",
+      "originalUrl": "https://univ-journal.jp/1001810/",
+      "finalUrl": "https://univ-journal.jp/1001810",
+      "publishedAt": "2026-09-19T11:00:46+09:00",
+      "collectedAt": "2026-09-20T06:49:05+09:00",
+      "scrapedAt": "2026-09-20T06:49:05+09:00",
+      "lastVerifiedAt": "2026-09-20T06:49:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "db3c4144b40da5739befb55b0fee24becb37ea67d2d9befa613db165233d64d1",
+      "trendScore": 9.82,
+      "createdAt": "2026-09-20T06:49:05+09:00",
+      "updatedAt": "2026-09-20T06:49:05+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001812",
+      "title": "東京科学大学とマサチューセッツ工科大学 教育モデル・探索的研究プロジェクト・シードファンドを3本柱に新たな連携",
+      "originalTitle": "東京科学大学とマサチューセッツ工科大学　教育モデル・探索的研究プロジェクト・シードファンドを3本柱に新たな連携",
+      "summary": "TOP > トピックス > 東京科学大学とマサチューセッツ工科大学 教育モデル・探索的研究プロジェクト・シードファンドを3本柱に新たな連携 2026年9月19日 東京科学大学とマサチューセッツ工科大学 教育モデル・探索的研究プロジェクト・シードファンドを3本柱に新たな連携 大学ジャーナルオンライン編集部 東京科学大学 海外の大学 2026年9月1日、東京科学大学とマサチューセッツ工科大学（Mass…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001812",
+      "originalUrl": "https://univ-journal.jp/1001812/",
+      "finalUrl": "https://univ-journal.jp/1001812",
+      "publishedAt": "2026-09-19T07:00:54+09:00",
+      "collectedAt": "2026-09-20T06:49:07+09:00",
+      "scrapedAt": "2026-09-20T06:49:07+09:00",
+      "lastVerifiedAt": "2026-09-20T06:49:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "f703d93ecccc52e2a3eb1549f058c15d91c2e2cf1d353efd2d4b985b83061df7",
+      "trendScore": 9.58,
+      "createdAt": "2026-09-20T06:49:07+09:00",
+      "updatedAt": "2026-09-20T06:49:07+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261001499",
+      "title": "三条市立大学が2027年度から拡張する新カリキュラムの全貌 「ものづくり」×「デジタル」で、次世代の担い手を育てる - 大学ジャーナルオンライン",
+      "originalTitle": "三条市立大学が2027年度から拡張する新カリキュラムの全貌　「ものづくり」×「デジタル」で、次世代の担い手を育てる",
+      "summary": "TOP > コラム > 三条市立大学が2027年度から拡張する新カリキュラムの全貌 「ものづくり」×「デジタル」で、次世代の担い手を育てる 2026年9月19日 三条市立大学が2027年度から拡張する新カリキュラムの全貌 「ものづくり」×「デジタル」で、次世代の担い手を育てる 大学ジャーナルオンライン編集部 三条市立大学 新潟県・燕三条地域は、300年の歴史を持つ「ものづくり産業の集積地」として知られている。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261001499",
+      "originalUrl": "https://univ-journal.jp/column/20261001499/",
+      "finalUrl": "https://univ-journal.jp/column/20261001499",
+      "publishedAt": "2026-09-19T07:00:34+09:00",
+      "collectedAt": "2026-09-20T06:49:07+09:00",
+      "scrapedAt": "2026-09-20T06:49:07+09:00",
+      "lastVerifiedAt": "2026-09-20T06:49:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "生成AI",
+        "ロボット",
+        "データサイエンス"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "5bc4ed95f545a12e00b10b71f37cb1afd332cbf6ed309f45e05d9d3d767782f4",
+      "trendScore": 9.58,
+      "createdAt": "2026-09-20T06:49:07+09:00",
+      "updatedAt": "2026-09-20T06:49:07+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/958574",
+      "title": "中国｢一帯一路｣がヨーロッパで暗礁､インドもなびかず…米中首脳会談を前に外交マラソンを始めた習近平の次の一手は",
+      "originalTitle": "中国｢一帯一路｣がヨーロッパで暗礁､インドもなびかず…米中首脳会談を前に外交マラソンを始めた習近平の次の一手は | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "政治・経済・投資 #ホットイシュー 中国｢一帯一路｣がヨーロッパで暗礁､インドもなびかず…米中首脳会談を前に外交マラソンを始めた習近平の次の一手は 15分で読める 公開日時：2026/09/20 06:00 会員登録で読める 2026年8～9月、キルギスでの上海協力機構首脳会議に中国の習近平国家主席が出席した （写真：Anadolu／Getty Images） 安部 雅延 国際ジャーナリスト（フラ…",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/958574",
+      "originalUrl": "https://toyokeizai.net/articles/-/958574?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/958574",
+      "publishedAt": "2026-09-20T06:00:00+09:00",
+      "collectedAt": "2026-09-20T06:49:09+09:00",
+      "scrapedAt": "2026-09-20T06:49:09+09:00",
+      "lastVerifiedAt": "2026-09-20T06:49:09+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "78a51094f661f060c42c8cc555e086eaa7de393c3e1f2e9cc94d51cc74057e73",
+      "trendScore": 10.95,
+      "createdAt": "2026-09-20T06:49:09+09:00",
+      "updatedAt": "2026-09-20T06:49:09+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/397677",
+      "title": "「ケンカしても後腐れのない人」の共通点・ベスト1",
+      "originalTitle": "「ケンカしても後腐れのない人」の共通点・ベスト1 - 極限の漂流118日間",
+      "summary": "ケンカしても後腐れない人と、ずっと引きずってしまう人。その差は一体どこにあるのか？ある日突然、会社を辞め、家を売り、無線機も持たずに航海に出た夫婦。自作した船で出港したが、ガラパゴス沖で突如クジラに襲撃され海に投げ出された。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/397677",
+      "originalUrl": "https://diamond.jp/articles/-/397677",
+      "finalUrl": "https://diamond.jp/articles/-/397677",
+      "publishedAt": "2026-09-20T06:40:00+09:00",
+      "collectedAt": "2026-09-20T06:49:14+09:00",
+      "scrapedAt": "2026-09-20T06:49:14+09:00",
+      "lastVerifiedAt": "2026-09-20T06:49:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "3adf303bd422f96c2dbf15492a66d3342f710cb9ac4a195fcb5618326b3abd25",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-20T06:49:14+09:00",
+      "updatedAt": "2026-09-20T06:49:14+09:00"
     }
   ],
   "sources": [
@@ -34135,8 +34654,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-19T06:58:10+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:11+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:34+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34148,8 +34667,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-19T06:58:23+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:24+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:47+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34161,8 +34680,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-19T06:58:25+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:25+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:48+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34187,8 +34706,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-19T06:58:25+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:27+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:49+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34200,8 +34719,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-19T06:58:27+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:27+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:50+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34213,8 +34732,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-19T06:58:27+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:27+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:50+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34226,8 +34745,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-19T06:58:27+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:28+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:50+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34239,8 +34758,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-19T06:58:30+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:31+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:52+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34343,8 +34862,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-19T06:58:31+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:31+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:55+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34382,8 +34901,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-19T06:58:32+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:33+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:56+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34395,8 +34914,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-19T06:58:33+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:33+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:57+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34408,8 +34927,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-19T06:58:33+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:34+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:57+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34421,8 +34940,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-19T06:58:34+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:35+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:59+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34434,8 +34953,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-19T06:58:35+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:35+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:59+09:00",
+      "lastSuccessAt": "2026-09-20T06:48:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34447,8 +34966,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-19T06:58:35+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:36+09:00",
+      "lastFetchedAt": "2026-09-20T06:48:59+09:00",
+      "lastSuccessAt": "2026-09-20T06:49:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34473,8 +34992,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-19T06:58:36+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:36+09:00",
+      "lastFetchedAt": "2026-09-20T06:49:00+09:00",
+      "lastSuccessAt": "2026-09-20T06:49:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34538,8 +35057,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-19T06:58:38+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:40+09:00",
+      "lastFetchedAt": "2026-09-20T06:49:02+09:00",
+      "lastSuccessAt": "2026-09-20T06:49:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34551,8 +35070,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-19T06:58:45+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:46+09:00",
+      "lastFetchedAt": "2026-09-20T06:49:07+09:00",
+      "lastSuccessAt": "2026-09-20T06:49:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34564,8 +35083,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-19T06:58:48+09:00",
-      "lastSuccessAt": "2026-09-19T06:58:49+09:00",
+      "lastFetchedAt": "2026-09-20T06:49:12+09:00",
+      "lastSuccessAt": "2026-09-20T06:49:13+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -34765,6 +35284,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260920-0648",
+      "scheduledAt": "2026-09-20T06:48:34+09:00",
+      "startedAt": "2026-09-20T06:48:34+09:00",
+      "finishedAt": "2026-09-20T06:49:14+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 19,
+      "sourcesFailed": 0,
+      "candidatesFound": 62,
+      "duplicatesRemoved": 7,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260919-0658",
       "scheduledAt": "2026-09-19T06:58:10+09:00",
@@ -36211,9 +36749,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-09-19T06:58:51+09:00",
-    "lastSuccessAt": "2026-09-19T06:58:51+09:00",
-    "nextScheduledAt": "2026-09-20T05:00:00+09:00",
+    "lastCollectionAt": "2026-09-20T06:49:14+09:00",
+    "lastSuccessAt": "2026-09-20T06:49:14+09:00",
+    "nextScheduledAt": "2026-09-21T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
