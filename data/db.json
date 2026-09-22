@@ -35608,6 +35608,420 @@
       "trendScore": 10.93,
       "createdAt": "2026-09-22T07:52:23+09:00",
       "updatedAt": "2026-09-22T07:52:23+09:00"
+    },
+    {
+      "id": "https://qiita.com/faliye/items/c3319405a796191063af",
+      "title": "Anthropicのリセットポリシーが変更、Claudeの週間利用枠が手動でリセット可能に。 - Qiita",
+      "originalTitle": "Anthropicのリセットポリシーが変更、Claudeの週間利用枠が手動でリセット可能に。",
+      "summary": "@ faliye Anthropicのリセットポリシーが変更、Claudeの週間利用枠が手動でリセット可能に。Anthropic Claude クレジット AI AI活用 0 Posted at 2026-09-22 今朝起きて管理画面を開くと、こんなメッセージが表示されていました。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/faliye/items/c3319405a796191063af",
+      "originalUrl": "https://qiita.com/faliye/items/c3319405a796191063af",
+      "finalUrl": "https://qiita.com/faliye/items/c3319405a796191063af",
+      "publishedAt": "2026-09-23T07:22:43+09:00",
+      "collectedAt": "2026-09-23T07:26:53+09:00",
+      "scrapedAt": "2026-09-23T07:26:53+09:00",
+      "lastVerifiedAt": "2026-09-23T07:26:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "c7fabc85c554bca5e76d7f2903a905969e0d915b148b56069649072edfc62ca5",
+      "trendScore": 11,
+      "createdAt": "2026-09-23T07:26:53+09:00",
+      "updatedAt": "2026-09-23T07:26:53+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/0cc9efaa2865646e8e20",
+      "title": "VBAマネージャーのAIエージェント化、「棚撃ち式 Excelマネージャー」として育成する話 - Qiita",
+      "originalTitle": "VBAマネージャーのAIエージェント化、「棚撃ち式 Excelマネージャー」として育成する話",
+      "summary": "@ shu15511551 ( shu ) VBAマネージャーのAIエージェント化、「棚撃ち式 Excelマネージャー」として育成する話 Python ExcelVBA AI ClaudeCode AIエージェント 0 Posted at 2026-09-22 はじめに これまで、Claude Code に作成してもらっているExcelマネージャー（VBAマネージャー）ですが、ずいぶん形になってきました。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/0cc9efaa2865646e8e20",
+      "originalUrl": "https://qiita.com/shu15511551/items/0cc9efaa2865646e8e20",
+      "finalUrl": "https://qiita.com/shu15511551/items/0cc9efaa2865646e8e20",
+      "publishedAt": "2026-09-23T07:10:04+09:00",
+      "collectedAt": "2026-09-23T07:26:59+09:00",
+      "scrapedAt": "2026-09-23T07:26:59+09:00",
+      "lastVerifiedAt": "2026-09-23T07:26:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "dcab19cde6d07bfccf49d0877e8cd5b50c06982c4eeb9648fe03ee3752c7d6c5",
+      "trendScore": 10.98,
+      "createdAt": "2026-09-23T07:26:59+09:00",
+      "updatedAt": "2026-09-23T07:26:59+09:00"
+    },
+    {
+      "id": "https://qiita.com/lhjjjk4/items/010a1d426488e1cbe2b4",
+      "title": "AI Daily Digest 9.23：AnthropicとOpenAIが同日に値下げ、Xiaomiが1TパラメータのMoEをMITで公開 - Qiita",
+      "originalTitle": "AI Daily Digest 9.23：AnthropicとOpenAIが同日に値下げ、Xiaomiが1TパラメータのMoEをMITで公開",
+      "summary": "@ lhjjjk4 ( KD Agentic ) AI Daily Digest 9.23：AnthropicとOpenAIが同日に値下げ、Xiaomiが1TパラメータのMoEをMITで公開 AI オープンソース ハードウェア ビジネス 0 Posted at 2026-09-22 火曜日は値付けの日だった。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lhjjjk4/items/010a1d426488e1cbe2b4",
+      "originalUrl": "https://qiita.com/lhjjjk4/items/010a1d426488e1cbe2b4",
+      "finalUrl": "https://qiita.com/lhjjjk4/items/010a1d426488e1cbe2b4",
+      "publishedAt": "2026-09-23T07:06:50+09:00",
+      "collectedAt": "2026-09-23T07:27:05+09:00",
+      "scrapedAt": "2026-09-23T07:27:05+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "ChatGPT",
+        "ロボット",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a7e49601aac04ef76f63d960e9d5515f96f5c38e233a1f7e480ead3a5549983f",
+      "trendScore": 10.98,
+      "createdAt": "2026-09-23T07:27:05+09:00",
+      "updatedAt": "2026-09-23T07:27:05+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/7a7e24e9a6482069c030",
+      "title": "OpenAI新モデル「GPT-6 Astra」始動、数学AI諮問委員会も発足【2026年9月】 - Qiita",
+      "originalTitle": "OpenAI新モデル「GPT-6 Astra」始動、数学AI諮問委員会も発足【2026年9月】",
+      "summary": "@ picnic OpenAI新モデル「GPT-6 Astra」始動、数学AI諮問委員会も発足【2026年9月】 OpenAI AI LLM ChatGPT 機械学習 0 Posted at 2026-09-22 はじめに 2026年9月21日、OpenAIから4件の新着情報が公開されました。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/picnic/items/7a7e24e9a6482069c030",
+      "originalUrl": "https://qiita.com/picnic/items/7a7e24e9a6482069c030",
+      "finalUrl": "https://qiita.com/picnic/items/7a7e24e9a6482069c030",
+      "publishedAt": "2026-09-23T00:41:21+09:00",
+      "collectedAt": "2026-09-23T07:27:06+09:00",
+      "scrapedAt": "2026-09-23T07:27:06+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "f0562559df2e2fd8b327fc5ad336382b70f70dc080b4101cbb78a83226f660ce",
+      "trendScore": 10.6,
+      "createdAt": "2026-09-23T07:27:06+09:00",
+      "updatedAt": "2026-09-23T07:27:06+09:00"
+    },
+    {
+      "id": "https://qiita.com/Tadataka_Takahashi/items/1d8c3750ab3b57995957",
+      "title": "Jevで「どこで人の判断が必要か」を追う ― 確率付きDecision Treeをカレー問い合わせで試す - Qiita",
+      "originalTitle": "Jevで「どこで人の判断が必要か」を追う ― 確率付きDecision Treeをカレー問い合わせで試す",
+      "summary": "flag あなたはもう試した？判断特化AI「Jev」で遊ぼう！@ Tadataka_Takahashi Jevで「どこで人の判断が必要か」を追う ― 確率付きDecision Treeをカレー問い合わせで試す Jev TypeSafeAI 機械学習 Python 生成AI 0 Last updated at 2026-09-22 Posted at 2026-09-22 はじめに AIを業務フロー…",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/Tadataka_Takahashi/items/1d8c3750ab3b57995957",
+      "originalUrl": "https://qiita.com/Tadataka_Takahashi/items/1d8c3750ab3b57995957",
+      "finalUrl": "https://qiita.com/Tadataka_Takahashi/items/1d8c3750ab3b57995957",
+      "publishedAt": "2026-09-22T23:38:33+09:00",
+      "collectedAt": "2026-09-23T07:27:06+09:00",
+      "scrapedAt": "2026-09-23T07:27:06+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "454f2b885af53e3e445eb306139c2b631a021d70822660484ce05ca0485ff534",
+      "trendScore": 10.54,
+      "createdAt": "2026-09-23T07:27:06+09:00",
+      "updatedAt": "2026-09-23T07:27:06+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000020.000084451.html",
+      "title": "2026年度 外国人共生講座 「やさしい日本語講座② 応用編」、10月15日（木）14時～【BREXA CrossBorder / 建設技能人材機構】",
+      "originalTitle": "2026年度 外国人共生講座 「やさしい日本語講座２. 応用編」、10月15日（木）14時～【BREXA CrossBorder / 建設技能人材機構】",
+      "summary": "2026年度 外国人共生講座 「やさしい日本語講座② 応用編」、10月15日（木）14時～【BREXA CrossBorder / 建設技能人材機構】 日本人と外国人、両方の声から学ぶ新感覚のやさしい日本語セミナー！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000084451.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000020.000084451.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000020.000084451.html",
+      "publishedAt": "2026-09-23T07:10:02+09:00",
+      "collectedAt": "2026-09-23T07:27:11+09:00",
+      "scrapedAt": "2026-09-23T07:27:11+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "78f9f89697364ab8697111c1290afb4cd71e509d32fb4c05460b70f265e54973",
+      "trendScore": 10.98,
+      "createdAt": "2026-09-23T07:27:11+09:00",
+      "updatedAt": "2026-09-23T07:27:11+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000028.000159082.html",
+      "title": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート〜つながりAI、ジェイリース、ファインの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始〜",
+      "originalTitle": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート～つながりAI、ジェイリース、ファインの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始～",
+      "summary": "【敬老の日】身寄りのない高齢者をAIと地域全体で支える民間事業スタート〜つながりAI、ジェイリース、ファインの3社を中心に「身寄りのない高齢者ケアAIプラットフォーム事業」を開始〜 医療・介護・福祉・居住・NPOなどが連携。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000159082.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000028.000159082.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000028.000159082.html",
+      "publishedAt": "2026-09-23T05:10:02+09:00",
+      "collectedAt": "2026-09-23T07:27:11+09:00",
+      "scrapedAt": "2026-09-23T07:27:11+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1edbd84a2f622b3aa4690e07a07f25930e1d41b5d0a185feb7034edebcc19ada",
+      "trendScore": 10.86,
+      "createdAt": "2026-09-23T07:27:11+09:00",
+      "updatedAt": "2026-09-23T07:27:11+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000313.000054393.html",
+      "title": "【10月19日(月)】アイデミー（元・東証GRT5577）石川社長を囲む経営者交流会を開催",
+      "originalTitle": "【10月19日(月)】アイデミー（元・東証GRT5577）石川社長を囲む経営者交流会を開催",
+      "summary": "【10月19日(月)】アイデミー（元・東証GRT5577）石川社長を囲む経営者交流会を開催 アイデミー石川社長が「IPOとM&Aどっちにする?IPOから2年でTOB、アクセンチュアへグループインの裏側や意思決定についての動画公開。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000313.000054393.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000313.000054393.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000313.000054393.html",
+      "publishedAt": "2026-09-23T05:10:02+09:00",
+      "collectedAt": "2026-09-23T07:27:11+09:00",
+      "scrapedAt": "2026-09-23T07:27:11+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "生成AI",
+        "DX",
+        "IPO"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "33b0f974a379dc5770e0d158bd84b6397a5c3f3f43570110b5ffb08b74dc5d49",
+      "trendScore": 10.86,
+      "createdAt": "2026-09-23T07:27:11+09:00",
+      "updatedAt": "2026-09-23T07:27:11+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001897",
+      "title": "便中ビタミンを総量ではなく細胞内／細胞外で分けて解析 腸内細菌の分業関係を解明",
+      "originalTitle": "便中ビタミンを総量ではなく細胞内／細胞外で分けて解析　腸内細菌の分業関係を解明",
+      "summary": "TOP > 研究成果 > 便中ビタミンを総量ではなく細胞内／細胞外で分けて解析 腸内細菌の分業関係を解明 2026年9月22日 便中ビタミンを総量ではなく細胞内／細胞外で分けて解析 腸内細菌の分業関係を解明 大学ジャーナルオンライン編集部 腸内環境 腸内細菌叢 岩手医科大学 名古屋大学 中部大学 中部大学、名古屋大学、岩手医科大学の研究グループは、便中のビタミンを「細胞内保持型（Type 1）」と…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001897",
+      "originalUrl": "https://univ-journal.jp/1001897/",
+      "finalUrl": "https://univ-journal.jp/1001897",
+      "publishedAt": "2026-09-22T17:00:10+09:00",
+      "collectedAt": "2026-09-23T07:27:23+09:00",
+      "scrapedAt": "2026-09-23T07:27:23+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:23+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "e0530c6d08fe0904ea7df6f0edac70594bcb06b66a1ba62ef1183625a8f3edce",
+      "trendScore": 10.14,
+      "createdAt": "2026-09-23T07:27:23+09:00",
+      "updatedAt": "2026-09-23T07:27:23+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001902",
+      "title": "東京農業大学 日本の大学として初めてフランス国立農業・食料・環境研究所と学術連携協定",
+      "originalTitle": "東京農業大学　日本の大学として初めてフランス国立農業・食料・環境研究所と学術連携協定",
+      "summary": "TOP > トピックス > 東京農業大学 日本の大学として初めてフランス国立農業・食料・環境研究所と学術連携協定 2026年9月22日 東京農業大学 日本の大学として初めてフランス国立農業・食料・環境研究所と学術連携協定 大学ジャーナルオンライン編集部 学術連携協定 海外の大学 東京農業大学 東京農業大学はフランスの国立農業・食料・環境研究所（INRAE）と学術連携協力協定を締結した。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001902",
+      "originalUrl": "https://univ-journal.jp/1001902/",
+      "finalUrl": "https://univ-journal.jp/1001902",
+      "publishedAt": "2026-09-22T11:00:58+09:00",
+      "collectedAt": "2026-09-23T07:27:24+09:00",
+      "scrapedAt": "2026-09-23T07:27:24+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:24+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "12245e94f86bba751dde89ac078298871ce2358486b8fbe4a69fa9d0919a8538",
+      "trendScore": 9.78,
+      "createdAt": "2026-09-23T07:27:24+09:00",
+      "updatedAt": "2026-09-23T07:27:24+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/958564",
+      "title": "セダン継続と｢LS｣との役割分担…ハイブリッドとバッテリーEVを揃える新型｢ES｣に問う､新世代レクサスの将来",
+      "originalTitle": "セダン継続と｢LS｣との役割分担…ハイブリッドとバッテリーEVを揃える新型｢ES｣に問う､新世代レクサスの将来 | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #自動車最前線 セダン継続と｢LS｣との役割分担…ハイブリッドとバッテリーEVを揃える新型｢ES｣に問う､新世代レクサスの将来 10分で読める 公開日時：2026/09/23 07:00 2026年6月11日に発売したレクサスの新型「ES」（写真：三木 宏章） 小川 フミオ モータージャーナリスト フォロー 革新と伝統が交錯するレクサス新型｢ES｣が2026年､日本に上陸。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/958564",
+      "originalUrl": "https://toyokeizai.net/articles/-/958564?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/958564",
+      "publishedAt": "2026-09-23T07:00:00+09:00",
+      "collectedAt": "2026-09-23T07:27:26+09:00",
+      "scrapedAt": "2026-09-23T07:27:26+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "bad5ed6ad5f9d19fc7932ac647c41c2d7f26faabc86e0feee37d037d270d7bd2",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-23T07:27:26+09:00",
+      "updatedAt": "2026-09-23T07:27:26+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/958647",
+      "title": "ガンダムのソリウムは空想ではなかった？レアアースに同伴するトリウムでカザフスタンが次世代エネルギーの開発拠点へ",
+      "originalTitle": "ガンダムのソリウムは空想ではなかった？レアアースに同伴するトリウムでカザフスタンが次世代エネルギーの開発拠点へ | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "政治・経済・投資 #ホットイシュー ガンダムのソリウムは空想ではなかった？レアアースに同伴するトリウムでカザフスタンが次世代エネルギーの開発拠点へ 13分で読める 公開日時：2026/09/23 06:00 会員登録で読める 原子力分野で存在感を示すカザフスタン。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/958647",
+      "originalUrl": "https://toyokeizai.net/articles/-/958647?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/958647",
+      "publishedAt": "2026-09-23T06:00:00+09:00",
+      "collectedAt": "2026-09-23T07:27:27+09:00",
+      "scrapedAt": "2026-09-23T07:27:27+09:00",
+      "lastVerifiedAt": "2026-09-23T07:27:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "c5210489abc21b882c8d8e139aa5f80a0613778db4486869e807260b765a601d",
+      "trendScore": 10.91,
+      "createdAt": "2026-09-23T07:27:27+09:00",
+      "updatedAt": "2026-09-23T07:27:27+09:00"
     }
   ],
   "sources": [
@@ -35620,8 +36034,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-22T07:51:54+09:00",
-      "lastSuccessAt": "2026-09-22T07:51:55+09:00",
+      "lastFetchedAt": "2026-09-23T07:26:52+09:00",
+      "lastSuccessAt": "2026-09-23T07:26:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35633,8 +36047,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-22T07:52:08+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:08+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:05+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35646,8 +36060,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-22T07:52:08+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:09+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:06+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35672,8 +36086,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-22T07:52:09+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:09+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:07+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35685,8 +36099,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-22T07:52:09+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:09+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:07+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35698,8 +36112,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-22T07:52:09+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:10+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:07+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35711,8 +36125,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-22T07:52:10+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:11+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:08+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35724,8 +36138,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-22T07:52:12+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:12+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:10+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35828,8 +36242,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-22T07:52:12+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:13+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:11+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35867,8 +36281,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-22T07:52:13+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:14+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:11+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35880,8 +36294,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-22T07:52:14+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:14+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:12+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35893,8 +36307,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-22T07:52:14+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:15+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:12+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35906,8 +36320,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-22T07:52:15+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:15+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:16+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35919,8 +36333,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-22T07:52:15+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:15+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:16+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35932,8 +36346,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-22T07:52:15+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:16+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:17+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -35958,8 +36372,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-22T07:52:16+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:16+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:18+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36023,8 +36437,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-22T07:52:18+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:19+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:20+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36036,8 +36450,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-22T07:52:21+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:22+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:24+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36049,8 +36463,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-22T07:52:23+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:24+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:27+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36062,8 +36476,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-22T07:52:24+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:24+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:28+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36088,8 +36502,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-22T07:52:24+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:25+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:28+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36101,8 +36515,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-22T07:52:25+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:25+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:29+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36114,8 +36528,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-09-22T07:52:25+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:25+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:29+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36127,8 +36541,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-22T07:52:25+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:25+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:31+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36140,8 +36554,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-22T07:52:25+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:26+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:31+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36153,8 +36567,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-22T07:52:26+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:26+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:32+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36205,8 +36619,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-22T07:52:26+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:27+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:32+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36218,8 +36632,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-22T07:52:27+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:27+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:33+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36231,8 +36645,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.65,
-      "lastFetchedAt": "2026-09-22T07:52:27+09:00",
-      "lastSuccessAt": "2026-09-22T07:52:27+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:33+09:00",
+      "lastSuccessAt": "2026-09-23T07:27:34+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -36244,12 +36658,35 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.9,
-      "lastFetchedAt": "2026-09-22T07:52:27+09:00",
+      "lastFetchedAt": "2026-09-23T07:27:34+09:00",
       "lastSuccessAt": null,
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260923-0726",
+      "scheduledAt": "2026-09-23T07:26:52+09:00",
+      "startedAt": "2026-09-23T07:26:52+09:00",
+      "finishedAt": "2026-09-23T07:27:36+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 29,
+      "sourcesFailed": 1,
+      "candidatesFound": 145,
+      "duplicatesRemoved": 0,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 12,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        },
+        {
+          "sourceId": "bk-osaka-u",
+          "message": "フィード取得失敗: Invalid character in entity name\nLine: 1\nColumn: 20016\nChar:  "
+        }
+      ]
+    },
     {
       "jobId": "collection-20260922-0751",
       "scheduledAt": "2026-09-22T07:51:54+09:00",
@@ -37757,9 +38194,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-09-22T07:52:28+09:00",
-    "lastSuccessAt": "2026-09-22T07:52:28+09:00",
-    "nextScheduledAt": "2026-09-23T05:00:00+09:00",
+    "lastCollectionAt": "2026-09-23T07:27:36+09:00",
+    "lastSuccessAt": "2026-09-23T07:27:36+09:00",
+    "nextScheduledAt": "2026-09-24T05:00:00+09:00",
     "lastJobStatus": "partial_success"
   },
   "preferences": {
