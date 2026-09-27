@@ -37745,12 +37745,12 @@
         "プライバシー"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.85,
       "contentHash": "4d7cd101dcc497c43b05d661e0efe4c84258d584e300d0e5eb40a3227cd3e159",
       "trendScore": 7.76,
       "createdAt": "2026-09-27T07:13:38+09:00",
-      "updatedAt": "2026-09-27T07:13:38+09:00"
+      "updatedAt": "2026-09-27T22:37:04.677Z"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00380.html",
@@ -37779,12 +37779,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "59ffa56d06975f67febf6124b99a713fc9cde50f09ce8f84aa891292020d5e80",
       "trendScore": 8.01,
       "createdAt": "2026-09-27T07:13:43+09:00",
-      "updatedAt": "2026-09-27T07:13:43+09:00"
+      "updatedAt": "2026-09-27T22:37:04.677Z"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00379.html",
@@ -37813,12 +37813,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "8542a3a2ed8c18068a7789e485db2985fe07536f731311837b85999bc824208e",
       "trendScore": 8.01,
       "createdAt": "2026-09-27T07:13:43+09:00",
-      "updatedAt": "2026-09-27T07:13:43+09:00"
+      "updatedAt": "2026-09-27T22:37:04.677Z"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/toshi08_hh_000083.html",
@@ -37847,12 +37847,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "e400da7cf22c1e2d4b1ebfbed6d0162f7681693e0c0c45b466e69034e91cbf99",
       "trendScore": 8.01,
       "createdAt": "2026-09-27T07:13:44+09:00",
-      "updatedAt": "2026-09-27T07:13:44+09:00"
+      "updatedAt": "2026-09-27T22:37:04.677Z"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000095.000146648.html",
@@ -38026,6 +38026,523 @@
       "trendScore": 9.8,
       "createdAt": "2026-09-27T07:13:53+09:00",
       "updatedAt": "2026-09-27T07:13:53+09:00"
+    },
+    {
+      "id": "https://qiita.com/lhjjjk4/items/9ecbfff99a3cfedf7bb6",
+      "title": "ClaudeがCRISPR様酵素を発見、Devinは10億ドル到達 - Qiita",
+      "originalTitle": "ClaudeがCRISPR様酵素を発見、Devinは10億ドル到達",
+      "summary": "@ lhjjjk4 ( KD Agentic ) ClaudeがCRISPR様酵素を発見、Devinは10億ドル到達 AI エージェント ハードウェア ビジネス 0 Posted at 2026-09-27 Anthropic は 950 個の Claude エージェントを DNA データベースに向け、誰も名前を付けていなかった酵素システムを持ち帰った。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lhjjjk4/items/9ecbfff99a3cfedf7bb6",
+      "originalUrl": "https://qiita.com/lhjjjk4/items/9ecbfff99a3cfedf7bb6",
+      "finalUrl": "https://qiita.com/lhjjjk4/items/9ecbfff99a3cfedf7bb6",
+      "publishedAt": "2026-09-28T07:11:55+09:00",
+      "collectedAt": "2026-09-28T07:36:33+09:00",
+      "scrapedAt": "2026-09-28T07:36:33+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "半導体",
+        "プライバシー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "abce0559911b1f84e3ed9d3316f1099ef164e639e5a8135d1525322f7b7abcff",
+      "trendScore": 10.98,
+      "createdAt": "2026-09-28T07:36:33+09:00",
+      "updatedAt": "2026-09-28T07:36:33+09:00"
+    },
+    {
+      "id": "https://qiita.com/tatsuya-tech77/items/9acbd2de9b85ea1f7bf2",
+      "title": "文章を書かないAI「Jev」にウミガメのスープの出題者をやらせたら、確率の扱いが一番むずかしかった - Qiita",
+      "originalTitle": "文章を書かないAI「Jev」にウミガメのスープの出題者をやらせたら、確率の扱いが一番むずかしかった",
+      "summary": "flag あなたはもう試した？判断特化AI「Jev」で遊ぼう！@ tatsuya-tech77 ( tatsuya-tech77 ) 文章を書かないAI「Jev」にウミガメのスープの出題者をやらせたら、確率の扱いが一番むずかしかった Jev Python AI 生成AI LLM 1 Posted at 2026-09-27 はじめに TypeSafe AI の「Jev」を触っていて、真っ先に思いついたのがウミガメのスープでした。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/tatsuya-tech77/items/9acbd2de9b85ea1f7bf2",
+      "originalUrl": "https://qiita.com/tatsuya-tech77/items/9acbd2de9b85ea1f7bf2",
+      "finalUrl": "https://qiita.com/tatsuya-tech77/items/9acbd2de9b85ea1f7bf2",
+      "publishedAt": "2026-09-28T06:56:13+09:00",
+      "collectedAt": "2026-09-28T07:36:39+09:00",
+      "scrapedAt": "2026-09-28T07:36:39+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "fad0004eaed915cb105a9ec870cf8c50e05a921f92db9c6c4c2eeee627ee62b6",
+      "trendScore": 10.96,
+      "createdAt": "2026-09-28T07:36:39+09:00",
+      "updatedAt": "2026-09-28T07:36:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/e99h2121/items/53f4b510ae8ece598299",
+      "title": "AI より詳しくなくても、AI の回答を疑うことはできる？ - Qiita",
+      "originalTitle": "AI より詳しくなくても、AI の回答を疑うことはできる？",
+      "summary": "@ e99h2121 ( Nobuko YAMADA ) AI より詳しくなくても、AI の回答を疑うことはできる？批判的思考 ポエム AI 0 Posted at 2026-09-27 AI より詳しくなくても、AI の回答を疑うことはできるか。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/e99h2121/items/53f4b510ae8ece598299",
+      "originalUrl": "https://qiita.com/e99h2121/items/53f4b510ae8ece598299",
+      "finalUrl": "https://qiita.com/e99h2121/items/53f4b510ae8ece598299",
+      "publishedAt": "2026-09-28T06:06:38+09:00",
+      "collectedAt": "2026-09-28T07:36:45+09:00",
+      "scrapedAt": "2026-09-28T07:36:45+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:45+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "ガイドライン"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "00020f3b63cbfbc039eb2cc8058e06fcfbd9c15e50d9ba7581d2045216a77b48",
+      "trendScore": 10.91,
+      "createdAt": "2026-09-28T07:36:45+09:00",
+      "updatedAt": "2026-09-28T07:36:45+09:00"
+    },
+    {
+      "id": "https://qiita.com/innovation1005/items/f2f5e467d4e47cc239d9",
+      "title": "Python3ではじめるシステムトレード：十分統計量 - Qiita",
+      "originalTitle": "Python3ではじめるシステムトレード：十分統計量",
+      "summary": "@ innovation1005 Python3ではじめるシステムトレード：十分統計量 Python データサイエンス 数学 統計学 機械学習 0 Last updated at 2026-09-27 Posted at 2026-09-27 統計学を少し本格的に学ぼうとすると出てくるのが十分統計量です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/innovation1005/items/f2f5e467d4e47cc239d9",
+      "originalUrl": "https://qiita.com/innovation1005/items/f2f5e467d4e47cc239d9",
+      "finalUrl": "https://qiita.com/innovation1005/items/f2f5e467d4e47cc239d9",
+      "publishedAt": "2026-09-28T07:08:56+09:00",
+      "collectedAt": "2026-09-28T07:36:46+09:00",
+      "scrapedAt": "2026-09-28T07:36:46+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "データサイエンス",
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "b915ce9174cd8b003fa0c2cd5320861ad1d796b5d4b26d264bedf790b435c974",
+      "trendScore": 10.97,
+      "createdAt": "2026-09-28T07:36:46+09:00",
+      "updatedAt": "2026-09-28T07:36:46+09:00"
+    },
+    {
+      "id": "https://qiita.com/shin5nack/items/046be48aa5264db98366",
+      "title": "結果を見てから線を動かさない — 事前宣言を sha256 で「鍵」にする約60行（Python） - Qiita",
+      "originalTitle": "結果を見てから線を動かさない — 事前宣言を sha256 で「鍵」にする約60行（Python）",
+      "summary": "@ shin5nack 結果を見てから線を動かさない — 事前宣言を sha256 で「鍵」にする約60行（Python） Python 統計 機械学習 データ分析 実験計画 0 Posted at 2026-09-27 TL;DR 試す前に「何を試すか・何なら合格か」をファイルに書き、そのファイルの sha256 を記録してから結果を見る。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/shin5nack/items/046be48aa5264db98366",
+      "originalUrl": "https://qiita.com/shin5nack/items/046be48aa5264db98366",
+      "finalUrl": "https://qiita.com/shin5nack/items/046be48aa5264db98366",
+      "publishedAt": "2026-09-27T16:49:15+09:00",
+      "collectedAt": "2026-09-28T07:36:46+09:00",
+      "scrapedAt": "2026-09-28T07:36:46+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "0d3cca1df9c235355681b020d46625678eeb0d5a505c9c789710be25aa44dc58",
+      "trendScore": 10.12,
+      "createdAt": "2026-09-28T07:36:46+09:00",
+      "updatedAt": "2026-09-28T07:36:46+09:00"
+    },
+    {
+      "id": "https://qiita.com/KiruhaHototogisu/items/379fb14a5d0a052dc6b9",
+      "title": "対義語は、機械にとって本当に『反対』なのか？ - Qiita",
+      "originalTitle": "対義語は、機械にとって本当に『反対』なのか？",
+      "summary": "@ KiruhaHototogisu 対義語は、機械にとって本当に『反対』なのか？自然言語処理 word2vec 初心者 機械学習 embedding 0 Posted at 2026-09-27 はじめに 皆様、この記事を読んでいただきありがとうございます。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/KiruhaHototogisu/items/379fb14a5d0a052dc6b9",
+      "originalUrl": "https://qiita.com/KiruhaHototogisu/items/379fb14a5d0a052dc6b9",
+      "finalUrl": "https://qiita.com/KiruhaHototogisu/items/379fb14a5d0a052dc6b9",
+      "publishedAt": "2026-09-27T15:01:53+09:00",
+      "collectedAt": "2026-09-28T07:36:47+09:00",
+      "scrapedAt": "2026-09-28T07:36:47+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "597f6a0654b788ff1439cb483470910ac81d76d69fa03fc1c04111e959a6c904",
+      "trendScore": 10.01,
+      "createdAt": "2026-09-28T07:36:47+09:00",
+      "updatedAt": "2026-09-28T07:36:47+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000156.000122970.html",
+      "title": "Earth hacks、公式YouTubeチャンネル「どっちっち？channel」を開設！ ～第1弾企画「offメシ、どっちっち？」では、DECA!BEAT リーダー・米村姫良々さんがMCに～",
+      "originalTitle": "Earth hacks、公式YouTubeチャンネル「どっちっち？channel」を開設！ ～第1弾企画「offメシ、どっちっち？」では、DECA!BEAT リーダー・米村姫良々さんがMCに～",
+      "summary": "Earth hacks、公式YouTubeチャンネル「どっちっち？channel」を開設！～第1弾企画「offメシ、どっちっち？BEAT リーダー・米村姫良々さんがMCに～ Earth hacks株式会社 2026年9月24日 13時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000156.000122970.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000156.000122970.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000156.000122970.html",
+      "publishedAt": "2026-09-28T06:40:02+09:00",
+      "collectedAt": "2026-09-28T07:36:50+09:00",
+      "scrapedAt": "2026-09-28T07:36:50+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "脱炭素",
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "18fc844de09aca3b722d61b0ab71dcfe2c8fcd9b834ece21f0aa3d183ef0c478",
+      "trendScore": 10.94,
+      "createdAt": "2026-09-28T07:36:50+09:00",
+      "updatedAt": "2026-09-28T07:36:50+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002031",
+      "title": "姫路獨協大学 2028年4月に設置者変更で徳洲会グループへ",
+      "originalTitle": "姫路獨協大学　2028年4月に設置者変更で徳洲会グループへ",
+      "summary": "TOP > トピックス > 姫路獨協大学 2028年4月に設置者変更で徳洲会グループへ 2026年9月28日 姫路獨協大学 2028年4月に設置者変更で徳洲会グループへ 大学ジャーナルオンライン編集部 設置者変更 姫路獨協大学 学校法人獨協学園は、姫路獨協大学（兵庫県姫路市）の設置者を2028年4月に学校法人徳洲会へ変更することを目指し、設置者変更契約を締結した。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002031",
+      "originalUrl": "https://univ-journal.jp/1002031/",
+      "finalUrl": "https://univ-journal.jp/1002031",
+      "publishedAt": "2026-09-28T07:00:01+09:00",
+      "collectedAt": "2026-09-28T07:36:58+09:00",
+      "scrapedAt": "2026-09-28T07:36:58+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "6ffaf278afd52413fae746146adf1edfa4c5fbd2cb1582c0dc5b69db0f3cbad6",
+      "trendScore": 10.96,
+      "createdAt": "2026-09-28T07:36:58+09:00",
+      "updatedAt": "2026-09-28T07:36:58+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002025",
+      "title": "「うさぎの島」でイノシシが生きたウサギを捕食 観光客のエサやりが生態系に与える影響を示唆",
+      "originalTitle": "「うさぎの島」でイノシシが生きたウサギを捕食　観光客のエサやりが生態系に与える影響を示唆",
+      "summary": "TOP > 研究成果 > 「うさぎの島」でイノシシが生きたウサギを捕食 観光客のエサやりが生態系に与える影響を示唆 2026年9月27日 「うさぎの島」でイノシシが生きたウサギを捕食 観光客のエサやりが生態系に与える影響を示唆 大学ジャーナルオンライン編集部 福島大学 広島県の大久野島は、数百匹のアナウサギが生息する「うさぎの島」として知られ、多くの観光客が訪れる観光地となっている。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002025",
+      "originalUrl": "https://univ-journal.jp/1002025/",
+      "finalUrl": "https://univ-journal.jp/1002025",
+      "publishedAt": "2026-09-27T17:00:06+09:00",
+      "collectedAt": "2026-09-28T07:36:59+09:00",
+      "scrapedAt": "2026-09-28T07:36:59+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "c3771a5c8b6bfd32c67cd35cb37d14560fe5fe97ec82fdaeb1bc9c11fe695353",
+      "trendScore": 10.13,
+      "createdAt": "2026-09-28T07:36:59+09:00",
+      "updatedAt": "2026-09-28T07:36:59+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1001944",
+      "title": "東京大学運動会 設立140周年を記念して駒場東大前駅の駅メロが運動会歌と応援歌に 10/22（木）始発から",
+      "originalTitle": "東京大学運動会　設立140周年を記念して駒場東大前駅の駅メロが運動会歌と応援歌に　10/22（木）始発から",
+      "summary": "TOP > トピックス > 東京大学運動会 設立140周年を記念して駒場東大前駅の駅メロが運動会歌と応援歌に 10/22（木）始発から 2026年9月27日 東京大学運動会 設立140周年を記念して駒場東大前駅の駅メロが運動会歌と応援歌に 10/22（木）始発から 大学ジャーナルオンライン編集部 京王電鉄 列車接近メロディー 東京大学運動会 東京大学 2026年に一般財団法人東京大学運動会の設立1…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1001944",
+      "originalUrl": "https://univ-journal.jp/1001944/",
+      "finalUrl": "https://univ-journal.jp/1001944",
+      "publishedAt": "2026-09-27T11:00:44+09:00",
+      "collectedAt": "2026-09-28T07:36:59+09:00",
+      "scrapedAt": "2026-09-28T07:36:59+09:00",
+      "lastVerifiedAt": "2026-09-28T07:36:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d67c1e93564845133528eeec0addaf1f2dd3941580c59ae1291a5459eec4ea13",
+      "trendScore": 9.77,
+      "createdAt": "2026-09-28T07:36:59+09:00",
+      "updatedAt": "2026-09-28T07:36:59+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/958291",
+      "title": "｢終の住処がない｣高齢迎える独身女性が集う《大人の女子寮》｢駅近の新築｣｢自活が条件｣…全国から賛同者が殺到する背景",
+      "originalTitle": "｢終の住処がない｣高齢迎える独身女性が集う《大人の女子寮》｢駅近の新築｣｢自活が条件｣…全国から賛同者が殺到する背景 | ライフ | 東洋経済オンライン",
+      "summary": "ライフ ｢終の住処がない｣高齢迎える独身女性が集う《大人の女子寮》｢駅近の新築｣｢自活が条件｣…全国から賛同者が殺到する背景 12分で読める 公開日時：2026/09/28 07:00 快適な老後の住まいづくりを目指す中で、各地のモデルルームを訪れることも（写真：槙本さんThreadsより） 天白 あきえ フリーライター フォロー 大阪発｢大人の女子寮｣プロジェクトは､孤独死リスクや将来の住まいに…",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/958291",
+      "originalUrl": "https://toyokeizai.net/articles/-/958291?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/958291",
+      "publishedAt": "2026-09-28T07:00:00+09:00",
+      "collectedAt": "2026-09-28T07:37:01+09:00",
+      "scrapedAt": "2026-09-28T07:37:01+09:00",
+      "lastVerifiedAt": "2026-09-28T07:37:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "3bb63f740e932d189c7f8c953bd1878c34ffbb97ec587b9343d920c0429fe22e",
+      "trendScore": 10.96,
+      "createdAt": "2026-09-28T07:37:01+09:00",
+      "updatedAt": "2026-09-28T07:37:01+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/958022",
+      "title": "｢平日の家事は基本は妻｣なのに不満ナシ？ ｢仕事が好き｣な30代･社内婚夫婦が2歳児を育てながら笑顔でいられる理由",
+      "originalTitle": "｢平日の家事は基本は妻｣なのに不満ナシ？ ｢仕事が好き｣な30代･社内婚夫婦が2歳児を育てながら笑顔でいられる理由 | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #令和の社内婚 ｢平日の家事は基本は妻｣なのに不満ナシ？｢仕事が好き｣な30代･社内婚夫婦が2歳児を育てながら笑顔でいられる理由 12分で読める 公開日時：2026/09/28 06:30 夫婦とも管理職で子育てにも奮闘。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/958022",
+      "originalUrl": "https://toyokeizai.net/articles/-/958022?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/958022",
+      "publishedAt": "2026-09-28T06:30:00+09:00",
+      "collectedAt": "2026-09-28T07:37:02+09:00",
+      "scrapedAt": "2026-09-28T07:37:02+09:00",
+      "lastVerifiedAt": "2026-09-28T07:37:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "993dbda9137279dfe9592f8701827537f615245ecb94e709972a209df48d4220",
+      "trendScore": 10.93,
+      "createdAt": "2026-09-28T07:37:02+09:00",
+      "updatedAt": "2026-09-28T07:37:02+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/958015",
+      "title": "｢20代で絶対結婚したかった｣妻と｢人生で結婚するつもりがなかった｣夫…一度別れた\"社内恋愛\"の2人を結婚に導いたもの",
+      "originalTitle": "｢20代で絶対結婚したかった｣妻と｢人生で結婚するつもりがなかった｣夫…一度別れた\"社内恋愛\"の2人を結婚に導いたもの | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #令和の社内婚 ｢20代で絶対結婚したかった｣妻と｢人生で結婚するつもりがなかった｣夫…一度別れた\"社内恋愛\"の2人を結婚に導いたもの 9分で読める 公開日時：2026/09/28 06:30 フロンティアで社内結婚をした夫婦に出会いから結婚までを聞きました（写真：山田理恵さん提供） かたおか 由衣 ライター フォロー ｢職場結婚はもう珍しい時代？",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/958015",
+      "originalUrl": "https://toyokeizai.net/articles/-/958015?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/958015",
+      "publishedAt": "2026-09-28T06:30:00+09:00",
+      "collectedAt": "2026-09-28T07:37:02+09:00",
+      "scrapedAt": "2026-09-28T07:37:02+09:00",
+      "lastVerifiedAt": "2026-09-28T07:37:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "e9d626c2a6bdac86f70c15e7072828fbef74467bee1adbc67c8dbd761f7cbd29",
+      "trendScore": 10.93,
+      "createdAt": "2026-09-28T07:37:02+09:00",
+      "updatedAt": "2026-09-28T07:37:02+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/395265",
+      "title": "【精神科医が教える】“自分の見た目”に自信がない人へのアドバイス・ベスト1",
+      "originalTitle": "【精神科医が教える】“自分の見た目”に自信がない人へのアドバイス・ベスト1 - 精神科医Tomyが教える　１秒で不安が吹き飛ぶ言葉",
+      "summary": "「人は見た目が9割」ともいわれますが、自分の見た目に自信をなくしていませんか？人間関係において見た目が重要なのは事実ですが、実は相手が一番見ているのは「顔立ちの良し悪し」ではありません。精神科医の視点から、生まれつきの容姿に悩む必要がなくなる「見た目の本当の意味」と、今日からできる小さな工夫をお伝えします。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/395265",
+      "originalUrl": "https://diamond.jp/articles/-/395265",
+      "finalUrl": "https://diamond.jp/articles/-/395265",
+      "publishedAt": "2026-09-28T07:25:00+09:00",
+      "collectedAt": "2026-09-28T07:37:04+09:00",
+      "scrapedAt": "2026-09-28T07:37:04+09:00",
+      "lastVerifiedAt": "2026-09-28T07:37:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "49181f62b8beb3976c5484f84acf203848405b9aca3515545a5c8458196a5a67",
+      "trendScore": 10.99,
+      "createdAt": "2026-09-28T07:37:04+09:00",
+      "updatedAt": "2026-09-28T07:37:04+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/395145",
+      "title": "【92歳 現役投資家が教える】株式投資を続けるための「絶対的タブー」ワースト1",
+      "originalTitle": "【92歳 現役投資家が教える】株式投資を続けるための「絶対的タブー」ワースト1 - 「株ノート」で60歳から1億円",
+      "summary": "高度な分析や一攫千金を狙う投資手法に惑わされていませんか？定年退職後から本格的に株を始め、89歳で株式資産1億円を築いた現役投資家・リョウジさんが長年守り続けてきたのは、複雑な分析を捨てるスタイルでした。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/395145",
+      "originalUrl": "https://diamond.jp/articles/-/395145",
+      "finalUrl": "https://diamond.jp/articles/-/395145",
+      "publishedAt": "2026-09-28T07:20:00+09:00",
+      "collectedAt": "2026-09-28T07:37:04+09:00",
+      "scrapedAt": "2026-09-28T07:37:04+09:00",
+      "lastVerifiedAt": "2026-09-28T07:37:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "e5c39bc5d46dda5b8e7b45e2593968d4cbff3a165b45917652ccf01b1ed04297",
+      "trendScore": 10.98,
+      "createdAt": "2026-09-28T07:37:04+09:00",
+      "updatedAt": "2026-09-28T07:37:04+09:00"
     }
   ],
   "sources": [
@@ -38038,8 +38555,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-27T07:13:22+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:23+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:32+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38051,8 +38568,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-27T07:13:35+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:36+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:45+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38064,8 +38581,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-27T07:13:37+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:37+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:47+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38090,8 +38607,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-27T07:13:38+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:38+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:47+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38103,8 +38620,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-27T07:13:38+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:39+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:48+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38116,8 +38633,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-27T07:13:39+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:39+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:48+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38129,8 +38646,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-27T07:13:39+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:40+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:48+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38142,8 +38659,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-09-27T07:13:41+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:42+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:49+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38246,8 +38763,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-09-27T07:13:44+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:44+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:50+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38285,8 +38802,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-09-27T07:13:44+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:45+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:50+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38298,8 +38815,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-27T07:13:45+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:45+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:51+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38311,8 +38828,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-27T07:13:45+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:47+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:51+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38324,8 +38841,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-09-27T07:13:47+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:47+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:53+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38337,8 +38854,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-27T07:13:47+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:47+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:53+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38350,8 +38867,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-27T07:13:47+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:48+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:53+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38376,8 +38893,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-27T07:13:48+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:48+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:54+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38441,8 +38958,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-09-27T07:13:50+09:00",
-      "lastSuccessAt": "2026-09-27T07:13:51+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:56+09:00",
+      "lastSuccessAt": "2026-09-28T07:36:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38454,8 +38971,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-26T07:51:37+09:00",
-      "lastSuccessAt": "2026-09-26T07:51:38+09:00",
+      "lastFetchedAt": "2026-09-28T07:36:59+09:00",
+      "lastSuccessAt": "2026-09-28T07:37:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38467,8 +38984,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-09-24T07:30:24+09:00",
-      "lastSuccessAt": "2026-09-24T07:30:25+09:00",
+      "lastFetchedAt": "2026-09-28T07:37:02+09:00",
+      "lastSuccessAt": "2026-09-28T07:37:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -38668,6 +39185,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20260928-0736",
+      "scheduledAt": "2026-09-28T07:36:32+09:00",
+      "startedAt": "2026-09-28T07:36:32+09:00",
+      "finishedAt": "2026-09-28T07:37:04+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 19,
+      "sourcesFailed": 0,
+      "candidatesFound": 94,
+      "duplicatesRemoved": 7,
+      "invalidUrlsRemoved": 2,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20260927-0713",
       "scheduledAt": "2026-09-27T07:13:22+09:00",
@@ -40278,9 +40814,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-09-27T07:13:53+09:00",
-    "lastSuccessAt": "2026-09-27T07:13:53+09:00",
-    "nextScheduledAt": "2026-09-28T05:00:00+09:00",
+    "lastCollectionAt": "2026-09-28T07:37:04+09:00",
+    "lastSuccessAt": "2026-09-28T07:37:04+09:00",
+    "nextScheduledAt": "2026-09-29T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
