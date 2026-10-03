@@ -41130,6 +41130,523 @@
       "trendScore": 10.98,
       "createdAt": "2026-10-03T08:19:55+09:00",
       "updatedAt": "2026-10-03T08:19:55+09:00"
+    },
+    {
+      "id": "https://qiita.com/YushiYamamoto/items/bab59f19371e7d71c166",
+      "title": "DifyのChatflowとWorkflowを分ける基準：会話の記憶を業務の確定状態にしない - Qiita",
+      "originalTitle": "DifyのChatflowとWorkflowを分ける基準：会話の記憶を業務の確定状態にしない",
+      "summary": "@ YushiYamamoto ( 山本 勇志 ) in 株式会社プロドウガ DifyのChatflowとWorkflowを分ける基準：会話の記憶を業務の確定状態にしない Dify LLM AI システム設計 0 Posted at 2026-10-03 発注申請を対話で受け付けると、「前の発言を覚えること」と「どの内容を承認し、処理したかを残すこと」が同じ状態管理に見えます。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/YushiYamamoto/items/bab59f19371e7d71c166",
+      "originalUrl": "https://qiita.com/YushiYamamoto/items/bab59f19371e7d71c166",
+      "finalUrl": "https://qiita.com/YushiYamamoto/items/bab59f19371e7d71c166",
+      "publishedAt": "2026-10-04T07:18:03+09:00",
+      "collectedAt": "2026-10-04T07:28:26+09:00",
+      "scrapedAt": "2026-10-04T07:28:26+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "DX"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5c7d3132d9bf9cf730a3bd8869ef4507f6941e5c3c151cc58ec32585e354d290",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-04T07:28:26+09:00",
+      "updatedAt": "2026-10-04T07:28:26+09:00"
+    },
+    {
+      "id": "https://qiita.com/lhjjjk4/items/f73ae33ab15d5d307ee1",
+      "title": "TPUが軌道へ、SamsungがMistralに出資、Clef決定モデル、Airbnbのコード6割がAI - Qiita",
+      "originalTitle": "TPUが軌道へ、SamsungがMistralに出資、Clef決定モデル、Airbnbのコード6割がAI",
+      "summary": "@ lhjjjk4 ( KD Agentic ) TPUが軌道へ、SamsungがMistralに出資、Clef決定モデル、Airbnbのコード6割がAI AI ハードウェア ビジネス オープンソース 0 Posted at 2026-10-03 GoogleのTPUが宇宙で動き始め、SamsungはMistralのモデルを半導体工場に取り込もうとしている。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lhjjjk4/items/f73ae33ab15d5d307ee1",
+      "originalUrl": "https://qiita.com/lhjjjk4/items/f73ae33ab15d5d307ee1",
+      "finalUrl": "https://qiita.com/lhjjjk4/items/f73ae33ab15d5d307ee1",
+      "publishedAt": "2026-10-04T07:15:49+09:00",
+      "collectedAt": "2026-10-04T07:28:32+09:00",
+      "scrapedAt": "2026-10-04T07:28:32+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ロボット"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "8026278fb28e3bfd63585c3ab1a9951742fd70de8e299211f685843019c9ab0b",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-04T07:28:32+09:00",
+      "updatedAt": "2026-10-04T07:28:32+09:00"
+    },
+    {
+      "id": "https://qiita.com/quotidia/items/71240f654144219349bd",
+      "title": "OpenAI「dots」の仕組みと対象プラン (GPT-6 Astra・専用クラウドPC・操作ルール) - Qiita",
+      "originalTitle": "OpenAI「dots」の仕組みと対象プラン (GPT-6 Astra・専用クラウドPC・操作ルール)",
+      "summary": "@ quotidia OpenAI「dots」の仕組みと対象プラン (GPT-6 Astra・専用クラウドPC・操作ルール) AI ChatGPT 生成AI LLM OpenAI 0 Posted at 2026-10-03 本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/quotidia/items/71240f654144219349bd",
+      "originalUrl": "https://qiita.com/quotidia/items/71240f654144219349bd",
+      "finalUrl": "https://qiita.com/quotidia/items/71240f654144219349bd",
+      "publishedAt": "2026-10-04T06:01:14+09:00",
+      "collectedAt": "2026-10-04T07:28:38+09:00",
+      "scrapedAt": "2026-10-04T07:28:38+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "9ac20143d6473b863e0359b26dffcd65511022b5d2fe3737c53fa76b0b033717",
+      "trendScore": 10.91,
+      "createdAt": "2026-10-04T07:28:38+09:00",
+      "updatedAt": "2026-10-04T07:28:38+09:00"
+    },
+    {
+      "id": "https://qiita.com/keizaburo_takashiba33/items/8bcf9f2199c42fe30a43",
+      "title": "機械学習に詳しくないエンジニアが、調べながら RTX 3060 1 枚で将棋 AI を作った（dlshogi 方式・手法とコードを全部公開） - Qiita",
+      "originalTitle": "機械学習に詳しくないエンジニアが、調べながら RTX 3060 1 枚で将棋 AI を作った（dlshogi 方式・手法とコードを全部公開）",
+      "summary": "@ keizaburo_takashiba33 ( 高柴 啓三朗 ) 機械学習に詳しくないエンジニアが、調べながら RTX 3060 1 枚で将棋 AI を作った（dlshogi 方式・手法とコードを全部公開） 将棋 PyTorch 機械学習 モンテカルロ木探索 Python 0 Posted at 2026-10-03 こんにちは、高柴です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/keizaburo_takashiba33/items/8bcf9f2199c42fe30a43",
+      "originalUrl": "https://qiita.com/keizaburo_takashiba33/items/8bcf9f2199c42fe30a43",
+      "finalUrl": "https://qiita.com/keizaburo_takashiba33/items/8bcf9f2199c42fe30a43",
+      "publishedAt": "2026-10-04T06:01:52+09:00",
+      "collectedAt": "2026-10-04T07:28:39+09:00",
+      "scrapedAt": "2026-10-04T07:28:39+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "3023531f29a7d85ecf198e9195266c80837586a1c308ece8378002655170ab59",
+      "trendScore": 10.91,
+      "createdAt": "2026-10-04T07:28:39+09:00",
+      "updatedAt": "2026-10-04T07:28:39+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000764.html",
+      "title": "国土交通省｜報道資料｜カンボジア王国と上下水道分野の政策・技術セミナーを開催します！<br>～新技術の導入に関する取組紹介や日本の技術のPRを行います！～",
+      "originalTitle": "�J���{�W�A�����Ə㉺��������̐���E�Z�p�Z�~�i�[���J�Â��܂��I�`�V�Z�p�̓����Ɋւ����g�Љ����{�̋Z�p��PR���s���܂��I�`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > カンボジア王国と上下水道分野の政策・技術セミナーを開催します！～新技術の導入に関する取組紹介や日本の技術のPRを行います！～ カンボジア王国と上下水道分野の政策・技術セミナーを開催します！",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000764.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000764.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000764.html",
+      "publishedAt": "2026-10-02T05:00:00+09:00",
+      "collectedAt": "2026-10-04T07:28:43+09:00",
+      "scrapedAt": "2026-10-04T07:28:43+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "6059c136737555a88015941cb8a7305d9066fc92300c1dd02514366ce2285b27",
+      "trendScore": 8,
+      "createdAt": "2026-10-04T07:28:43+09:00",
+      "updatedAt": "2026-10-04T07:28:43+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/road01_hh_002152.html",
+      "title": "国土交通省｜報道資料｜次世代ＩＴＳサービスの実現に向けた技術開発に関する研究の共同研究者を募集します<br>～ＩＴＳサービスの高度化に向けたシステムの開発～",
+      "originalTitle": "������h�s�r�T�[�r�X�̎����Ɍ������Z�p�J���Ɋւ��錤���̋��������҂��W���܂��`�h�s�r�T�[�r�X�̍��x���Ɍ������V�X�e���̊J���`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 次世代ＩＴＳサービスの実現に向けた技術開発に関する研究の共同研究者を募集します ～ＩＴＳサービスの高度化に向けたシステムの開発～ 次世代ＩＴＳサービスの実現に向けた技術開発に関する研究の共同研究者を募集します ～ＩＴＳサービスの高度化に向けたシステムの開発～ 令和8年10月2日 国土技術政策総合研究所は、我が国における持続可能な人流・物流の確保、安全・…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/road01_hh_002152.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/road01_hh_002152.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/road01_hh_002152.html",
+      "publishedAt": "2026-10-02T05:00:00+09:00",
+      "collectedAt": "2026-10-04T07:28:43+09:00",
+      "scrapedAt": "2026-10-04T07:28:43+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "6115b1f7f39fa4f0b142c27bcf68f1f054d7d106d77f7d9108c2e21406c242a8",
+      "trendScore": 8,
+      "createdAt": "2026-10-04T07:28:43+09:00",
+      "updatedAt": "2026-10-04T07:28:43+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/house03_hh_000282.html",
+      "title": "国土交通省｜報道資料｜誰もが安心して暮らせる住まいの確保に向けて、居住支援法人等の関係団体が連携した取組を支援します！<br>～令和８年度「みんなが安心して住まいを提供できる環境整備モデル事業」提案の採択～",
+      "originalTitle": "�N�������S���ĕ�点��Z�܂��̊m�ۂɌ����āA���Z�x���@�l���̊֌W�c�̂��A�g������g���x�����܂��I�`�ߘa�W�N�x�u�݂�Ȃ����S���ďZ�܂���񋟂ł�����������f�����Ɓv��Ă̍̑��`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 誰もが安心して暮らせる住まいの確保に向けて、居住支援法人等の関係団体が連携した取組を支援します！～令和８年度「みんなが安心して住まいを提供できる環境整備モデル事業」提案の採択～ 誰もが安心して暮らせる住まいの確保に向けて、居住支援法人等の関係団体が連携した取組を支援します！",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/house03_hh_000282.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/house03_hh_000282.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/house03_hh_000282.html",
+      "publishedAt": "2026-10-02T05:00:00+09:00",
+      "collectedAt": "2026-10-04T07:28:43+09:00",
+      "scrapedAt": "2026-10-04T07:28:43+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "e34e188659b3ffacfafc576c6bd132d9126fdeeee61113bcb756b80e416e2478",
+      "trendScore": 8,
+      "createdAt": "2026-10-04T07:28:43+09:00",
+      "updatedAt": "2026-10-04T07:28:43+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000525.000025614.html",
+      "title": "加齢により肥大化する角層は、肌細胞の増殖を妨げる",
+      "originalTitle": "加齢により肥大化する角層は、肌細胞の増殖を妨げる",
+      "summary": "加齢により肥大化する角層は、肌細胞の増殖を妨げる 化粧品技術の最も権威ある国際学会IFSCC Congress 2026 PERTHで発表し、TOP5に選出。角層細胞のサイズが肌の再生力をコントロールしている可能性を発見。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000525.000025614.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000525.000025614.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000525.000025614.html",
+      "publishedAt": "2026-10-04T07:10:02+09:00",
+      "collectedAt": "2026-10-04T07:28:44+09:00",
+      "scrapedAt": "2026-10-04T07:28:44+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "研究開発",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "55554300a531f250530f4b7229d8406e6f3b6c01677135b629f62d93b5f12040",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-04T07:28:44+09:00",
+      "updatedAt": "2026-10-04T07:28:44+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000015.000151825.html",
+      "title": "カンタス航空、日本・韓国地区支社長にクロヴィス・ペリエが就任",
+      "originalTitle": "カンタス航空、日本・韓国地区支社長にクロヴィス・ペリエが就任",
+      "summary": "カンタス航空、日本・韓国地区支社長にクロヴィス・ペリエが就任 カンタスエアーウェイズリミテッド 2026年10月2日 13時00分 いいね！数を読み込み中です 【2026年10月2日】カンタス航空は、クロヴィス・ペリエ（Clovis Peryer）が2026年9月28日付で日本・韓国地区支社長に就任したことを発表しました。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000151825.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000015.000151825.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000015.000151825.html",
+      "publishedAt": "2026-10-04T07:10:02+09:00",
+      "collectedAt": "2026-10-04T07:28:44+09:00",
+      "scrapedAt": "2026-10-04T07:28:44+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "資金調達",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "5efb93398c6725ae7a4d95b3f7d5e6ddd4b881df24b6f7906be97e5cda499241",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-04T07:28:44+09:00",
+      "updatedAt": "2026-10-04T07:28:44+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000163.000022761.html",
+      "title": "米国株式を中心に、米国債券と米国不動産を加えた3資産で約9割の配分に",
+      "originalTitle": "米国株式を中心に、米国債券と米国不動産を加えた3資産で約9割の配分に",
+      "summary": "米国株式を中心に、米国債券と米国不動産を加えた3資産で約9割の配分に ROBOPRO 2026年10月の投資配分（2026年9月30日変更実施） 株式会社FOLIO 2026年10月1日 19時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000163.000022761.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000163.000022761.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000163.000022761.html",
+      "publishedAt": "2026-10-04T07:10:02+09:00",
+      "collectedAt": "2026-10-04T07:28:44+09:00",
+      "scrapedAt": "2026-10-04T07:28:44+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1e50af44868fed2a3b047fb0b5c5aab13e70374f487f807232477f8ea3974a9d",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-04T07:28:44+09:00",
+      "updatedAt": "2026-10-04T07:28:44+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002176",
+      "title": "高カロリー食がもたらす認知機能低下のメカニズムを解明 東京科学大学と帝京大学",
+      "originalTitle": "高カロリー食がもたらす認知機能低下のメカニズムを解明　東京科学大学と帝京大学",
+      "summary": "TOP > 研究成果 > 高カロリー食がもたらす認知機能低下のメカニズムを解明 東京科学大学と帝京大学 2026年10月3日 高カロリー食がもたらす認知機能低下のメカニズムを解明 東京科学大学と帝京大学 大学ジャーナルオンライン編集部 認知機能 食事 東京科学大学 帝京大学 東京科学大学と帝京大学などの研究チームは、高カロリー食の継続的な摂取によって認知機能が低下する分子メカニズムを明らかにした。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002176",
+      "originalUrl": "https://univ-journal.jp/1002176/",
+      "finalUrl": "https://univ-journal.jp/1002176",
+      "publishedAt": "2026-10-03T17:00:26+09:00",
+      "collectedAt": "2026-10-04T07:28:50+09:00",
+      "scrapedAt": "2026-10-04T07:28:50+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "ca36996b16d434d75086e9be48460b45b40fa7c61f2293c352d18c7ee574eb93",
+      "trendScore": 10.14,
+      "createdAt": "2026-10-04T07:28:50+09:00",
+      "updatedAt": "2026-10-04T07:28:50+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002070",
+      "title": "「学生口コミグランプリ2026」 「企業の安定性」の基準に新たな視点 就活会議が調査",
+      "originalTitle": "「学生口コミグランプリ2026」　「企業の安定性」の基準に新たな視点　就活会議が調査",
+      "summary": "TOP > キャリア > 就職活動 > 「学生口コミグランプリ2026」 「企業の安定性」の基準に新たな視点 就活会議が調査 2026年10月3日 「学生口コミグランプリ2026」 「企業の安定性」の基準に新たな視点 就活会議が調査 大学ジャーナルオンライン編集部 企業ランキング 口コミ 就活会議株式会社が運営する国内最大級の就活生向け企業口コミ情報プロダクト「就活会議」は、「学生口コミグランプリ2026」の受賞企業を発表した。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002070",
+      "originalUrl": "https://univ-journal.jp/1002070/",
+      "finalUrl": "https://univ-journal.jp/1002070",
+      "publishedAt": "2026-10-03T11:00:38+09:00",
+      "collectedAt": "2026-10-04T07:28:51+09:00",
+      "scrapedAt": "2026-10-04T07:28:51+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "176cf8c224bf0f222908a78e39cca84aa6167d5707df35d5811abc96c36d079b",
+      "trendScore": 9.78,
+      "createdAt": "2026-10-04T07:28:51+09:00",
+      "updatedAt": "2026-10-04T07:28:51+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261002057",
+      "title": "働きながら「大学卒業」を目指せるのが通信制大学の魅力 - 大学ジャーナルオンライン",
+      "originalTitle": "働きながら「大学卒業」を目指せるのが通信制大学の魅力",
+      "summary": "TOP > 通信教育 > 通信制大学 > 働きながら「大学卒業」を目指せるのが通信制大学の魅力 2026年10月3日 【通信制大学の基礎知識②】学位取得編 働きながら「大学卒業」を目指せるのが通信制大学の魅力 大学ジャーナルオンライン編集部 通信制大学は、大学卒業資格を目指せる正規の大学教育 通信制大学は、「通信」という言葉から、資格講座や通信教育サービスのようにイメージされることがあります。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261002057",
+      "originalUrl": "https://univ-journal.jp/column/20261002057/",
+      "finalUrl": "https://univ-journal.jp/column/20261002057",
+      "publishedAt": "2026-10-03T07:00:24+09:00",
+      "collectedAt": "2026-10-04T07:28:51+09:00",
+      "scrapedAt": "2026-10-04T07:28:51+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "365f283b9f91b002d449f061d3cd8b98d2115844dbfb9de0ecf887b378e4ddd2",
+      "trendScore": 9.54,
+      "createdAt": "2026-10-04T07:28:51+09:00",
+      "updatedAt": "2026-10-04T07:28:51+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/959387",
+      "title": "｢司法試験10浪→32歳で断念｣昭和では\"当たり前\"だった浪人経て人生を再考…58歳の男性が行きついた意外な\"天職\"",
+      "originalTitle": "｢司法試験10浪→32歳で断念｣昭和では\"当たり前\"だった浪人経て人生を再考…58歳の男性が行きついた意外な\"天職\" | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #浪人したら人生「劇的に」変わった ｢司法試験10浪→32歳で断念｣昭和では\"当たり前\"だった浪人経て人生を再考…58歳の男性が行きついた意外な\"天職\" 11分で読める 公開日時：2026/10/04 07:00 10年間司法試験に挑戦。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/959387",
+      "originalUrl": "https://toyokeizai.net/articles/-/959387?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/959387",
+      "publishedAt": "2026-10-04T07:00:00+09:00",
+      "collectedAt": "2026-10-04T07:28:52+09:00",
+      "scrapedAt": "2026-10-04T07:28:52+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "20c9840f59810817ef6e6b2da3c1c4d1d080d6ab4d908a19d9e0d0983cf24e2d",
+      "trendScore": 10.97,
+      "createdAt": "2026-10-04T07:28:52+09:00",
+      "updatedAt": "2026-10-04T07:28:52+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/959385",
+      "title": "｢出前一丁｣にグリーンカレー味？ 香港に《世界最多》20種以上の現地フレーバー…なぜ日本の麺が\"国民食\"になったのか",
+      "originalTitle": "｢出前一丁｣にグリーンカレー味？ 香港に《世界最多》20種以上の現地フレーバー…なぜ日本の麺が\"国民食\"になったのか | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス ｢出前一丁｣にグリーンカレー味？香港に《世界最多》20種以上の現地フレーバー…なぜ日本の麺が\"国民食\"になったのか 9分で読める 公開日時：2026/10/04 06:45 香港でトップ3の人気を誇る「黒マー油とんこつ」味（写真：筆者撮影） ベック 知子 香港在住ライター フォロー 香港の街角で目にした｢出前一丁｣の圧倒的な存在感――。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/959385",
+      "originalUrl": "https://toyokeizai.net/articles/-/959385?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/959385",
+      "publishedAt": "2026-10-04T06:45:00+09:00",
+      "collectedAt": "2026-10-04T07:28:53+09:00",
+      "scrapedAt": "2026-10-04T07:28:53+09:00",
+      "lastVerifiedAt": "2026-10-04T07:28:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "85de3ef1d7391039b31d84df70f2d49a427c87b7679d3b1b313a906a8e0f71fd",
+      "trendScore": 10.96,
+      "createdAt": "2026-10-04T07:28:53+09:00",
+      "updatedAt": "2026-10-04T07:28:53+09:00"
     }
   ],
   "sources": [
@@ -41142,8 +41659,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-03T08:19:25+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:25+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:25+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41155,8 +41672,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-03T08:19:38+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:39+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:38+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41168,8 +41685,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-03T08:19:39+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:39+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:39+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41194,8 +41711,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-03T08:19:39+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:40+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:39+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41207,8 +41724,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-03T08:19:40+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:40+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:39+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41220,8 +41737,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-03T08:19:41+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:41+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:39+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41233,8 +41750,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-03T08:19:41+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:42+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:40+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41246,8 +41763,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-03T08:19:43+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:44+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:41+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41350,8 +41867,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-03T08:19:44+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:45+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:43+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41389,8 +41906,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-03T08:19:45+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:46+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:44+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41402,8 +41919,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-03T08:19:46+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:46+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:45+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41415,8 +41932,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-03T08:19:46+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:47+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:45+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41428,8 +41945,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-03T08:19:47+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:47+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:46+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41441,8 +41958,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-03T08:19:47+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:48+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:46+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41454,8 +41971,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-03T08:19:48+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:48+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:46+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41480,8 +41997,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-03T08:19:48+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:48+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:47+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41545,8 +42062,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-03T08:19:49+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:51+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:48+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41558,8 +42075,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-03T08:19:53+09:00",
-      "lastSuccessAt": "2026-10-03T08:19:53+09:00",
+      "lastFetchedAt": "2026-10-04T07:28:51+09:00",
+      "lastSuccessAt": "2026-10-04T07:28:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -41772,6 +42289,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261004-0728",
+      "scheduledAt": "2026-10-04T07:28:25+09:00",
+      "startedAt": "2026-10-04T07:28:25+09:00",
+      "finishedAt": "2026-10-04T07:28:54+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 60,
+      "duplicatesRemoved": 7,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261003-0819",
       "scheduledAt": "2026-10-03T08:19:25+09:00",
@@ -43496,9 +44032,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-10-03T08:19:55+09:00",
-    "lastSuccessAt": "2026-10-03T08:19:55+09:00",
-    "nextScheduledAt": "2026-10-04T05:00:00+09:00",
+    "lastCollectionAt": "2026-10-04T07:28:54+09:00",
+    "lastSuccessAt": "2026-10-04T07:28:54+09:00",
+    "nextScheduledAt": "2026-10-05T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
