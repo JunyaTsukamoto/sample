@@ -42026,6 +42026,522 @@
       "trendScore": 10.98,
       "createdAt": "2026-10-05T07:34:23+09:00",
       "updatedAt": "2026-10-05T07:34:23+09:00"
+    },
+    {
+      "id": "https://qiita.com/ennagara128/items/251a158065c7ac35534c",
+      "title": "2026年10月6日 今日のQiitaトレンド記事をポッドキャストで聴こう！ - Qiita",
+      "originalTitle": "2026年10月6日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "summary": "@ ennagara128 2026年10月6日 今日のQiitaトレンド記事をポッドキャストで聴こう！AI LLM Python Security ChatGPT 2 Posted at 2026-10-06 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/ennagara128/items/251a158065c7ac35534c",
+      "originalUrl": "https://qiita.com/ennagara128/items/251a158065c7ac35534c",
+      "finalUrl": "https://qiita.com/ennagara128/items/251a158065c7ac35534c",
+      "publishedAt": "2026-10-06T09:52:19+09:00",
+      "collectedAt": "2026-10-06T09:59:50+09:00",
+      "scrapedAt": "2026-10-06T09:59:50+09:00",
+      "lastVerifiedAt": "2026-10-06T09:59:50+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "ChatGPT",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "badd8d180cc48bf087b844db14cea4eb5f76d25e2ca7a10231e0d2f62a53902d",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-06T09:59:50+09:00",
+      "updatedAt": "2026-10-06T09:59:50+09:00"
+    },
+    {
+      "id": "https://qiita.com/lhjjjk4/items/9e50122b2ac3c9256e86",
+      "title": "WebMCP入門：サイトがメニューになり、AIがボタンを推測しなくなる話 - Qiita",
+      "originalTitle": "WebMCP入門：サイトがメニューになり、AIがボタンを推測しなくなる話",
+      "summary": "@ lhjjjk4 ( KD Agentic ) WebMCP入門：サイトがメニューになり、AIがボタンを推測しなくなる話 AI Agent WebMCP 0 Posted at 2026-10-06 AI にショッピングサイトの返品を頼んだら、スクリーンショットを見ながら「返品を申込む」を「受け取り完了」に押し間違えた——こういう経験はないだろうか。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lhjjjk4/items/9e50122b2ac3c9256e86",
+      "originalUrl": "https://qiita.com/lhjjjk4/items/9e50122b2ac3c9256e86",
+      "finalUrl": "https://qiita.com/lhjjjk4/items/9e50122b2ac3c9256e86",
+      "publishedAt": "2026-10-06T09:50:51+09:00",
+      "collectedAt": "2026-10-06T09:59:56+09:00",
+      "scrapedAt": "2026-10-06T09:59:56+09:00",
+      "lastVerifiedAt": "2026-10-06T09:59:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "47471c7c160e02dbdd9fe8978422a9b68136cc495b230dfd8b0edeb76216de3b",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-06T09:59:56+09:00",
+      "updatedAt": "2026-10-06T09:59:56+09:00"
+    },
+    {
+      "id": "https://qiita.com/Hideki_Tamae/items/a2058faab47b709c2835",
+      "title": "0。前回の記事が「試していない」と書いた復旧コマンドを今回実行したら、通った回数だった - Qiita",
+      "originalTitle": "0。前回の記事が「試していない」と書いた復旧コマンドを今回実行したら、通った回数だった",
+      "summary": "@ Hideki_Tamae ( 田前 秀樹 ) 0。前回の記事が「試していない」と書いた復旧コマンドを今回実行したら、通った回数だった AI AIエージェント ClaudeCode Git automation 0 Posted at 2026-10-06 はじめに 0。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Hideki_Tamae/items/a2058faab47b709c2835",
+      "originalUrl": "https://qiita.com/Hideki_Tamae/items/a2058faab47b709c2835",
+      "finalUrl": "https://qiita.com/Hideki_Tamae/items/a2058faab47b709c2835",
+      "publishedAt": "2026-10-06T09:49:33+09:00",
+      "collectedAt": "2026-10-06T10:00:02+09:00",
+      "scrapedAt": "2026-10-06T10:00:02+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "062c0c95c29affa48191b57ffecff28547299f25e313e3301f0bd622c3d9e2d7",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-06T10:00:02+09:00",
+      "updatedAt": "2026-10-06T10:00:02+09:00"
+    },
+    {
+      "id": "https://qiita.com/Raptor-S/items/b117f1f20899fe35112f",
+      "title": "自作シミュレータで良かったモデルがAWSIMで走れない：転移前に確認する5項目 - Qiita",
+      "originalTitle": "自作シミュレータで良かったモデルがAWSIMで走れない：転移前に確認する5項目",
+      "summary": "Day 9 【2026年度も継続中！誰でも自由に追記OK】自動運転AI+その他関連してそうならなんでもOK Advent Calendar 2025 @ Raptor-S ( ラプター ) 自作シミュレータで良かったモデルがAWSIMで走れない：転移前に確認する5項目 自動運転AIチャレンジ 機械学習 自動運転 PyTorch Python 0 Last updated at 2026-10-05…",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/Raptor-S/items/b117f1f20899fe35112f",
+      "originalUrl": "https://qiita.com/Raptor-S/items/b117f1f20899fe35112f",
+      "finalUrl": "https://qiita.com/Raptor-S/items/b117f1f20899fe35112f",
+      "publishedAt": "2026-10-05T23:01:13+09:00",
+      "collectedAt": "2026-10-06T10:00:04+09:00",
+      "scrapedAt": "2026-10-06T10:00:04+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "自動運転",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "8eab59da3b3ce3a5336daf737df1b353fc7af2f0aad90762a638b74012b563b8",
+      "trendScore": 10.35,
+      "createdAt": "2026-10-06T10:00:04+09:00",
+      "updatedAt": "2026-10-06T10:00:04+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/speech/minister-261002-01",
+      "title": "古川大臣記者会見（令和8年10月2日）｜デジタル庁",
+      "originalTitle": "古川大臣記者会見（令和8年10月2日）要旨を掲載しました",
+      "summary": "古川大臣記者会見（令和8年10月2日） 最終更新日: 2026年10月5日 古川デジタル大臣記者会見要旨 （令和8年10月2日（金） 11時26分から11時43分まで 於：デジタル庁20階会見室及びオンライン） 1.",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/speech/minister-261002-01",
+      "originalUrl": "https://www.digital.go.jp/speech/minister-261002-01",
+      "finalUrl": "https://www.digital.go.jp/speech/minister-261002-01",
+      "publishedAt": "2026-10-05T16:56:35+09:00",
+      "collectedAt": "2026-10-06T10:00:04+09:00",
+      "scrapedAt": "2026-10-06T10:00:04+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "セキュリティ",
+        "規制",
+        "研究開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "076192024ed997167490224f8eb7ee03338bb42c93c65bfcf21df1f621824a1b",
+      "trendScore": 9.98,
+      "createdAt": "2026-10-06T10:00:04+09:00",
+      "updatedAt": "2026-10-06T10:00:04+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+      "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）｜デジタル庁",
+      "originalTitle": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+      "summary": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等） デジタル庁における国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）を下記のとおり実施します。日時 2026年10月29日（木）・30日（金） ※10月29日（木）・30日（金）の面接結果等を踏まえ、1次面接通過者については、11月4日（水）に追加面接を実施する場合があります。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+      "originalUrl": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+      "finalUrl": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+      "publishedAt": "2026-10-05T15:00:00+09:00",
+      "collectedAt": "2026-10-06T10:00:04+09:00",
+      "scrapedAt": "2026-10-06T10:00:04+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "c9eb0d4669402fc2652f0585c6fac2d809ada9bc73ad08fb798bf26c3d087ea9",
+      "trendScore": 9.87,
+      "createdAt": "2026-10-06T10:00:04+09:00",
+      "updatedAt": "2026-10-06T10:00:04+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo02_hh_000001_00124.html",
+      "title": "国土交通省｜報道資料｜今後の土地政策のあり方に関する調査審議を実施<br>～第60回国土審議会土地政策分科会企画部会の開催～",
+      "originalTitle": "����̓y�n����̂�����Ɋւ��钲���R�c�����{�`��60�񍑓y�R�c��y�n�������ȉ��敔��̊J�Á`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 今後の土地政策のあり方に関する調査審議を実施 ～第60回国土審議会土地政策分科会企画部会の開催～ 今後の土地政策のあり方に関する調査審議を実施 ～第60回国土審議会土地政策分科会企画部会の開催～ 令和8年10月5日 第60回国土審議会土地政策分科会企画部会を開催し、適切な土地利用の在り方や所有者不明土地対策について審議を行います。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo02_hh_000001_00124.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo02_hh_000001_00124.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo02_hh_000001_00124.html",
+      "publishedAt": "2026-10-05T05:00:00+09:00",
+      "collectedAt": "2026-10-06T10:00:07+09:00",
+      "scrapedAt": "2026-10-06T10:00:07+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "f7f7580f0717a339e51435b1434c706f1479bf8a513bab1943e20e48074d3e22",
+      "trendScore": 9.27,
+      "createdAt": "2026-10-06T10:00:07+09:00",
+      "updatedAt": "2026-10-06T10:00:07+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/toshi10_hh_000613.html",
+      "title": "国土交通省｜報道資料｜令和８年度「都市景観大賞」各賞の選定<br>～良好な都市景観を生み出す優れた地区や活動について表彰～",
+      "originalTitle": "�ߘa�W�N�x�u�s�s�i�ϑ�܁v�e�܂̑I��`�ǍD�ȓs�s�i�ς𐶂ݏo���D�ꂽ�n��⊈���ɂ��ĕ\\���`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 令和８年度「都市景観大賞」各賞の選定 ～良好な都市景観を生み出す優れた地区や活動について表彰～ 令和８年度「都市景観大賞」各賞の選定 ～良好な都市景観を生み出す優れた地区や活動について表彰～ 令和8年10月5日 ｢都市景観の日｣実行委員会は、より良い地域の景観形成を目指すための普及啓発の一環として、地域の活性化につながる取組の契機となるよう、平成３年度…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/toshi10_hh_000613.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/toshi10_hh_000613.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/toshi10_hh_000613.html",
+      "publishedAt": "2026-10-05T05:00:00+09:00",
+      "collectedAt": "2026-10-06T10:00:07+09:00",
+      "scrapedAt": "2026-10-06T10:00:07+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "5f454c629f5cdfe809747b02f4b842bae42a5289490be9667f8a1c8c9ae41e63",
+      "trendScore": 9.27,
+      "createdAt": "2026-10-06T10:00:07+09:00",
+      "updatedAt": "2026-10-06T10:00:07+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000044.000074383.html",
+      "title": "宇垣美里さんが、不動産投資をもっと身近に！Propally 新 Web CM「不動産投資って複雑そう？」篇を公開",
+      "originalTitle": "宇垣美里さんが、不動産投資をもっと身近に！Propally 新 Web CM「不動産投資って複雑そう？」篇を公開",
+      "summary": "宇垣美里さんが、不動産投資をもっと身近に！Propally 新 Web CM「不動産投資って複雑そう？」篇を公開 2026年10月6日（火）より Propally 公式 HP および公式 YouTube にて公開 宇垣さんの「シンプルでわかりやすい！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000044.000074383.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000044.000074383.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000044.000074383.html",
+      "publishedAt": "2026-10-06T09:40:56+09:00",
+      "collectedAt": "2026-10-06T10:00:08+09:00",
+      "scrapedAt": "2026-10-06T10:00:08+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "5cf2d7859ffd7881731f04e2bb6820eebd41e1dbad2861d73cf981427d4f9f38",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-06T10:00:08+09:00",
+      "updatedAt": "2026-10-06T10:00:08+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000251.000145928.html",
+      "title": "ORICO、Intel Thunderbolt 5対応・最大80GbpsのM.2 SSD外付けケースを発表。読込6000MB/s・JHL9480チップ・静音冷却・TB5/4/3＆USB4互換。",
+      "originalTitle": "ORICO、Intel Thunderbolt 5対応・最大80GbpsのM.2 SSD外付けケースを発表。読込6000MB/s・JHL9480チップ・静音冷却・TB5/4/3＆USB4互換。",
+      "summary": "ORICO、Intel Thunderbolt 5対応・最大80GbpsのM.2 SSD外付けケースを発表。読込6000MB/s・JHL9480チップ・静音冷却・TB5/4/3＆USB4互換。JHL9480・80Gbps・6000MB/s・45℃以下静音冷却・TB5/4/3・USB4対応。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000251.000145928.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000251.000145928.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000251.000145928.html",
+      "publishedAt": "2026-10-06T09:40:56+09:00",
+      "collectedAt": "2026-10-06T10:00:08+09:00",
+      "scrapedAt": "2026-10-06T10:00:08+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "9569fd6c3ce01e41d889adb52bf520267ad7dd64619d9dc75d6a269384c8ab0c",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-06T10:00:08+09:00",
+      "updatedAt": "2026-10-06T10:00:08+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000203.000021425.html",
+      "title": "【TikTok270万回再生突破】SNS総フォロワー50万人超えの令和の虎社長が企画・運用するグリーン警備保障のショート動画がメガヒットを記録！採用難の警備業界で月100名の応募獲得にも貢献",
+      "originalTitle": "【TikTok270万回再生突破】SNS総フォロワー50万人超えの令和の虎社長が企画・運用するグリーン警備保障のショート動画がメガヒットを記録！採用難の警備業界で月100名の応募獲得にも貢献",
+      "summary": "【TikTok270万回再生突破】SNS総フォロワー50万人超えの令和の虎社長が企画・運用するグリーン\u0000警備保障のショート動画がメガヒットを記録！採用難の警備業界で月100名の応募獲得にも貢献 「100kg超え警備員の小休憩」がSNSで大反響。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000203.000021425.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000203.000021425.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000203.000021425.html",
+      "publishedAt": "2026-10-06T09:40:56+09:00",
+      "collectedAt": "2026-10-06T10:00:08+09:00",
+      "scrapedAt": "2026-10-06T10:00:08+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:08+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "cddd91519bf50ea7d36092f22df6d19243ae6d486bf694bb9c262f46798b8a86",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-06T10:00:08+09:00",
+      "updatedAt": "2026-10-06T10:00:08+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002207",
+      "title": "平安女学院大学が2028年4月に共学化 「京都地域共創大学」に名称変更し国際観光学部のみの単科大学へ",
+      "originalTitle": "平安女学院大学が2028年4月に共学化　「京都地域共創大学」に名称変更し国際観光学部のみの単科大学へ",
+      "summary": "TOP > トピックス > 平安女学院大学が2028年4月に共学化 「京都地域共創大学」に名称変更し国際観光学部のみの単科大学へ 2026年10月5日 平安女学院大学が2028年4月に共学化 「京都地域共創大学」に名称変更し国際観光学部のみの単科大学へ 大学ジャーナルオンライン編集部 共学化 校名変更 設置者変更 平安女学院大学 平安女学院大学（京都市上京区）は、2028年4月から共学化し、大学名…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002207",
+      "originalUrl": "https://univ-journal.jp/1002207/",
+      "finalUrl": "https://univ-journal.jp/1002207",
+      "publishedAt": "2026-10-05T17:00:52+09:00",
+      "collectedAt": "2026-10-06T10:00:15+09:00",
+      "scrapedAt": "2026-10-06T10:00:15+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "63feb66cd19a2eb471f8f57a321421cfcd222b810e5c677a527e14340cba07e8",
+      "trendScore": 9.99,
+      "createdAt": "2026-10-06T10:00:15+09:00",
+      "updatedAt": "2026-10-06T10:00:15+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002153",
+      "title": "芝浦工業大学 2028年4月に大学院理工学研究科を「学位プログラム制」へ改組 定員を1800名に拡大",
+      "originalTitle": "芝浦工業大学　2028年4月に大学院理工学研究科を「学位プログラム制」へ改組　定員を1800名に拡大",
+      "summary": "TOP > 大学院 > 芝浦工業大学 2028年4月に大学院理工学研究科を「学位プログラム制」へ改組 定員を1800名に拡大 2026年10月5日 芝浦工業大学 2028年4月に大学院理工学研究科を「学位プログラム制」へ改組 定員を1800名に拡大 大学ジャーナルオンライン編集部 学位プログラム制 芝浦工業大学 芝浦工業大学は、2028年4月に大学院理工学研究科を再編し、理工学研究科 理工学専攻（…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002153",
+      "originalUrl": "https://univ-journal.jp/1002153/",
+      "finalUrl": "https://univ-journal.jp/1002153",
+      "publishedAt": "2026-10-05T11:00:22+09:00",
+      "collectedAt": "2026-10-06T10:00:15+09:00",
+      "scrapedAt": "2026-10-06T10:00:15+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "78690ec3389e078a8bbf17b5722017270ae1f6bda42f9e167dd7bdf4b11b30cf",
+      "trendScore": 9.63,
+      "createdAt": "2026-10-06T10:00:15+09:00",
+      "updatedAt": "2026-10-06T10:00:15+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261002004",
+      "title": "これからは「専門」と「教養」という正反対の二つを同時に求められる時代？ 大学などの進路を考えるとき、ふと思う - 大学ジャーナルオンライン",
+      "originalTitle": "これからは「専門」と「教養」という正反対の二つを同時に求められる時代？ 大学などの進路を考えるとき、ふと思う",
+      "summary": "TOP > コラム > これからは「専門」と「教養」という正反対の二つを同時に求められる時代？大学などの進路を考えるとき、ふと思う 2026年10月5日 これからは「専門」と「教養」という正反対の二つを同時に求められる時代？",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261002004",
+      "originalUrl": "https://univ-journal.jp/column/20261002004/",
+      "finalUrl": "https://univ-journal.jp/column/20261002004",
+      "publishedAt": "2026-10-05T07:00:11+09:00",
+      "collectedAt": "2026-10-06T10:00:15+09:00",
+      "scrapedAt": "2026-10-06T10:00:15+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "fb35d29e2f04c90a48b0b67ac7ab199a2959e1eeeaf7342a4b75015f1639186c",
+      "trendScore": 9.39,
+      "createdAt": "2026-10-06T10:00:15+09:00",
+      "updatedAt": "2026-10-06T10:00:15+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/959454",
+      "title": "相続税を減らせる特別控除も—親が亡くなり実家を相続､まず何をする？ 期限ある手続きときょうだいでの分け方を考える",
+      "originalTitle": "相続税を減らせる特別控除も—親が亡くなり実家を相続､まず何をする？ 期限ある手続きときょうだいでの分け方を考える | ライフ | 東洋経済オンライン",
+      "summary": "ライフ 相続税を減らせる特別控除も—親が亡くなり実家を相続､まず何をする？期限ある手続きときょうだいでの分け方を考える 8分で読める 公開日時：2026/10/06 09:00 実家の相続、どうしますか？",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/959454",
+      "originalUrl": "https://toyokeizai.net/articles/-/959454?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/959454",
+      "publishedAt": "2026-10-06T09:00:00+09:00",
+      "collectedAt": "2026-10-06T10:00:17+09:00",
+      "scrapedAt": "2026-10-06T10:00:17+09:00",
+      "lastVerifiedAt": "2026-10-06T10:00:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "915b4bde5bc9f14fcc110703aacfc910153a56273a193c0abf142eeffe4cc5c1",
+      "trendScore": 10.94,
+      "createdAt": "2026-10-06T10:00:17+09:00",
+      "updatedAt": "2026-10-06T10:00:17+09:00"
     }
   ],
   "sources": [
@@ -42038,8 +42554,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-05T07:33:54+09:00",
-      "lastSuccessAt": "2026-10-05T07:33:55+09:00",
+      "lastFetchedAt": "2026-10-06T09:59:49+09:00",
+      "lastSuccessAt": "2026-10-06T09:59:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42051,8 +42567,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-05T07:34:07+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:08+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:02+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42064,8 +42580,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-05T07:34:08+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:08+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:04+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42090,8 +42606,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-05T07:34:08+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:08+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:04+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42103,8 +42619,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-05T07:34:08+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:08+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:04+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42116,8 +42632,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-05T07:34:09+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:09+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:04+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42129,8 +42645,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-05T07:34:09+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:10+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:05+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42142,8 +42658,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-05T07:34:10+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:10+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:06+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42246,8 +42762,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-05T07:34:10+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:11+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:07+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42285,8 +42801,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-05T07:34:11+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:12+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:08+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42298,8 +42814,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-05T07:34:12+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:12+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:08+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:08+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42311,8 +42827,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-05T07:34:12+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:14+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:08+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42324,8 +42840,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-05T07:34:14+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:14+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:09+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42337,8 +42853,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-05T07:34:14+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:14+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:09+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42350,8 +42866,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-05T07:34:14+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:15+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:10+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42376,8 +42892,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-05T07:34:15+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:15+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:10+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42441,8 +42957,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-05T07:34:16+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:18+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:12+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42454,8 +42970,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-05T07:34:20+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:21+09:00",
+      "lastFetchedAt": "2026-10-06T10:00:15+09:00",
+      "lastSuccessAt": "2026-10-06T10:00:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -42668,6 +43184,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261006-0959",
+      "scheduledAt": "2026-10-06T09:59:49+09:00",
+      "startedAt": "2026-10-06T09:59:49+09:00",
+      "finishedAt": "2026-10-06T10:00:17+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 58,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 2,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261005-0733",
       "scheduledAt": "2026-10-05T07:33:54+09:00",
@@ -44434,10 +44969,10 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-10-05T07:34:31+09:00",
-    "lastSuccessAt": "2026-10-05T07:34:31+09:00",
-    "nextScheduledAt": "2026-10-06T05:00:00+09:00",
-    "lastJobStatus": "partial_success"
+    "lastCollectionAt": "2026-10-06T10:00:17+09:00",
+    "lastSuccessAt": "2026-10-06T10:00:17+09:00",
+    "nextScheduledAt": "2026-10-07T05:00:00+09:00",
+    "lastJobStatus": "success"
   },
   "preferences": {
     "categories": {
