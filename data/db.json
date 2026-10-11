@@ -44788,12 +44788,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "730d746371cd4e15be254687453e839f720866a5d81fa9e97be3b5298c9b079f",
       "trendScore": 7.96,
       "createdAt": "2026-10-11T07:59:20+09:00",
-      "updatedAt": "2026-10-11T07:59:20+09:00"
+      "updatedAt": "2026-10-11T23:14:58.668Z"
     },
     {
       "id": "https://www.mlit.go.jp/report/press/toshi09_hh_000144.html",
@@ -44822,12 +44822,12 @@
         "制度"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 1,
       "contentHash": "3ea091a5c16baca8c8c269584153d9d231291482dabeab56835383e31321df8c",
       "trendScore": 7.96,
       "createdAt": "2026-10-11T07:59:20+09:00",
-      "updatedAt": "2026-10-11T07:59:20+09:00"
+      "updatedAt": "2026-10-11T23:14:58.668Z"
     },
     {
       "id": "https://prtimes.jp/main/html/rd/p/000000094.000038267.html",
@@ -45136,6 +45136,524 @@
       "trendScore": 10.93,
       "createdAt": "2026-10-11T07:59:32+09:00",
       "updatedAt": "2026-10-11T07:59:32+09:00"
+    },
+    {
+      "id": "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
+      "title": "Codex・Claude Code・Gemini、それぞれ何に強いのか ― 得意分野を分けて整理した - Qiita",
+      "originalTitle": "Codex・Claude Code・Gemini、それぞれ何に強いのか ― 得意分野を分けて整理した",
+      "summary": "@ Next-Survive ( Next Survive ) Codex・Claude Code・Gemini、それぞれ何に強いのか ― 得意分野を分けて整理した AI ChatGPT Claude Gemini 生成AI 0 Posted at 2026-10-11 「結局どれが一番強いのか」。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
+      "originalUrl": "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
+      "finalUrl": "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
+      "publishedAt": "2026-10-12T08:09:16+09:00",
+      "collectedAt": "2026-10-12T08:14:26+09:00",
+      "scrapedAt": "2026-10-12T08:14:26+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "ChatGPT"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "68a7b4b6438a332685e0838ea44038b857adb36cf550be7ef0fb8ac49381567c",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-12T08:14:26+09:00",
+      "updatedAt": "2026-10-12T08:14:26+09:00"
+    },
+    {
+      "id": "https://qiita.com/sescore/items/b151bb6ecb8170cafffc",
+      "title": "フリーランスエンジニア年収データ比較2026｜地方リモート単価とSES契約の注意点 - Qiita",
+      "originalTitle": "フリーランスエンジニア年収データ比較2026｜地方リモート単価とSES契約の注意点",
+      "summary": "@ sescore ( SES Core ) フリーランスエンジニア年収データ比較2026｜地方リモート単価とSES契約の注意点 AI エンジニア フリーランス ses リモートワーク 0 Posted at 2026-10-11 はじめに：AIで生産性を上げても、年収の天井は「契約」で決まる 毎日Claude Codeを使って開発している身として、AIコーディングの話題はつい書きたくなる。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/sescore/items/b151bb6ecb8170cafffc",
+      "originalUrl": "https://qiita.com/sescore/items/b151bb6ecb8170cafffc",
+      "finalUrl": "https://qiita.com/sescore/items/b151bb6ecb8170cafffc",
+      "publishedAt": "2026-10-12T08:07:35+09:00",
+      "collectedAt": "2026-10-12T08:14:32+09:00",
+      "scrapedAt": "2026-10-12T08:14:32+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "セキュリティ",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "cfc62934285186d3bbe0add38e2f0696d1255092ff9df9f48f34bfef7fc6cbd5",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-12T08:14:32+09:00",
+      "updatedAt": "2026-10-12T08:14:32+09:00"
+    },
+    {
+      "id": "https://qiita.com/ishisaka/items/277ea3f027c45f06f503",
+      "title": "プログラミング雑記 2026年10月12日 - Qiita",
+      "originalTitle": "プログラミング雑記 2026年10月12日",
+      "summary": "@ ishisaka ( Tadahiro ishisaka ) プログラミング雑記 2026年10月12日 プログラミング Cloud AI エンジニア 0 Posted at 2026-10-11 今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/ishisaka/items/277ea3f027c45f06f503",
+      "originalUrl": "https://qiita.com/ishisaka/items/277ea3f027c45f06f503",
+      "finalUrl": "https://qiita.com/ishisaka/items/277ea3f027c45f06f503",
+      "publishedAt": "2026-10-12T08:00:51+09:00",
+      "collectedAt": "2026-10-12T08:14:38+09:00",
+      "scrapedAt": "2026-10-12T08:14:38+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "生成AI",
+        "ChatGPT",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "0992566e1534dc38a545a34e2e8089e7ddffdf35ab900655d4e27dcfe0b29086",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-12T08:14:38+09:00",
+      "updatedAt": "2026-10-12T08:14:38+09:00"
+    },
+    {
+      "id": "https://qiita.com/atsushi11o7/items/25d521a800c5364876a7",
+      "title": "可変個のEntityをどうネットワークへ入力するか - 固定構造・集約・Entity token・queryの使い分け - Qiita",
+      "originalTitle": "可変個のEntityをどうネットワークへ入力するか - 固定構造・集約・Entity token・queryの使い分け",
+      "summary": "@ atsushi11o7 可変個のEntityをどうネットワークへ入力するか - 固定構造・集約・Entity token・queryの使い分け 強化学習 機械学習 Kaggle Transformer ニューラルネットワーク 0 Posted at 2026-10-11 はじめに 前回の記事では、方策が1回の意思決定で複数のサブアクションを出力する「行動の分解」について書きました。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/atsushi11o7/items/25d521a800c5364876a7",
+      "originalUrl": "https://qiita.com/atsushi11o7/items/25d521a800c5364876a7",
+      "finalUrl": "https://qiita.com/atsushi11o7/items/25d521a800c5364876a7",
+      "publishedAt": "2026-10-11T23:56:13+09:00",
+      "collectedAt": "2026-10-12T08:14:39+09:00",
+      "scrapedAt": "2026-10-12T08:14:39+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "自動運転",
+        "ロボット"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5de9e7008104e29b52e4809819c44a43ed75b2568f86b3bb8abd96936f3b0e6e",
+      "trendScore": 10.51,
+      "createdAt": "2026-10-12T08:14:39+09:00",
+      "updatedAt": "2026-10-12T08:14:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/h-nabata/items/b15d12b34b5880588842",
+      "title": "機械学習原子間ポテンシャル導入の先を考える - Qiita",
+      "originalTitle": "機械学習原子間ポテンシャル導入の先を考える",
+      "summary": "@ h-nabata 機械学習原子間ポテンシャル導入の先を考える 機械学習 計算化学 マテリアルズインフォマティクス 機械学習ポテンシャル 科学技術計算 0 Last updated at 2026-10-11 Posted at 2026-10-11 はじめに 機械学習原子間ポテンシャル（MLIP）は、量子化学計算などで得たエネルギーや力を学習し、原子シミュレーションを高速化する手法です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/h-nabata/items/b15d12b34b5880588842",
+      "originalUrl": "https://qiita.com/h-nabata/items/b15d12b34b5880588842",
+      "finalUrl": "https://qiita.com/h-nabata/items/b15d12b34b5880588842",
+      "publishedAt": "2026-10-11T22:49:30+09:00",
+      "collectedAt": "2026-10-12T08:14:39+09:00",
+      "scrapedAt": "2026-10-12T08:14:39+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "LLM",
+        "量子",
+        "研究開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "29d5338097217be907aa5345eccf6dc8fe1a1dd38e30da857ac7a1925bc6031a",
+      "trendScore": 10.44,
+      "createdAt": "2026-10-12T08:14:39+09:00",
+      "updatedAt": "2026-10-12T08:14:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/sugarfree/items/61df527205b57ed42fea",
+      "title": "【技術解説】ビットコイン分析 Pythonライブラリで急変動を見逃すな！ボリンジャーバンドのスクイズ検知法 - Qiita",
+      "originalTitle": "【技術解説】ビットコイン分析 Pythonライブラリで急変動を見逃すな！ボリンジャーバンドのスクイズ検知法",
+      "summary": "@ sugarfree 【技術解説】ビットコイン分析 Pythonライブラリで急変動を見逃すな！ボリンジャーバンドのスクイズ検知法 Python 自動売買 機械学習 0 Posted at 2026-10-11 ビットコイン分析: Pythonライブラリによるボリンジャーバンドのスクイズ検知法 本記事では、ビットコインのような高ボラティリティな資産の急激な価格変動を監視するために、ボリンジャーバン…",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/sugarfree/items/61df527205b57ed42fea",
+      "originalUrl": "https://qiita.com/sugarfree/items/61df527205b57ed42fea",
+      "finalUrl": "https://qiita.com/sugarfree/items/61df527205b57ed42fea",
+      "publishedAt": "2026-10-11T11:00:24+09:00",
+      "collectedAt": "2026-10-12T08:14:40+09:00",
+      "scrapedAt": "2026-10-12T08:14:40+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:40+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "cceae65b075242a021f66bd04e5f93740dbd2602f7adc18e201175552dfb1c1e",
+      "trendScore": 9.74,
+      "createdAt": "2026-10-12T08:14:40+09:00",
+      "updatedAt": "2026-10-12T08:14:40+09:00"
+    },
+    {
+      "id": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
+      "title": "Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run",
+      "originalTitle": "Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run",
+      "summary": "3D CAD が苦手だ。始めて触ったのは小学4年生のときだったと思う。六角大王と Metasequoia のどちらを先に触ったかは記憶が曖昧である。3D プリンタを買った。2年以上前のことである。Bambu A1 mini は白物家電の領域に到達しつつある、セールをしているから今すぐ買え、というようなことを言われたような気がする。",
+      "summarySource": "extractive",
+      "source": "はてなブックマーク (テクノロジー)",
+      "sourceId": "src-hatena-it",
+      "url": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
+      "originalUrl": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
+      "finalUrl": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
+      "publishedAt": "2026-10-12T00:00:42+09:00",
+      "collectedAt": "2026-10-12T08:14:42+09:00",
+      "scrapedAt": "2026-10-12T08:14:42+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:42+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "4d6e47134d31fde7395a32b726c6e290fd798e9999d79dc8071249f310f0599d",
+      "trendScore": 18.01,
+      "createdAt": "2026-10-12T08:14:42+09:00",
+      "updatedAt": "2026-10-12T08:14:42+09:00"
+    },
+    {
+      "id": "https://togetter.com/li/2756939",
+      "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
+      "originalTitle": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
+      "summary": "トップ 2026年 10月 11日 「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる 公開 2026年10月11日20:33 （11時間前） ゲーム制作 Claude ポートピア連続殺人事件 AI 堀井雄二 41 172 0 38676 34 101 ポスト 41 いいね！",
+      "summarySource": "extractive",
+      "source": "はてなブックマーク (テクノロジー)",
+      "sourceId": "src-hatena-it",
+      "url": "https://togetter.com/li/2756939",
+      "originalUrl": "https://togetter.com/li/2756939",
+      "finalUrl": "https://togetter.com/li/2756939",
+      "publishedAt": "2026-10-11T21:39:51+09:00",
+      "collectedAt": "2026-10-12T08:14:43+09:00",
+      "scrapedAt": "2026-10-12T08:14:43+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "8627f2b961f89b87ceb02b3c1f4d5abafb53adb71e813a257897cf4f5611c1ab",
+      "trendScore": 97.87,
+      "createdAt": "2026-10-12T08:14:43+09:00",
+      "updatedAt": "2026-10-12T08:14:43+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000058.000159606.html",
+      "title": "LOCUS BRiDGE、企業公民連携LABにて「はじめての自治体財政入門②」を 10月20日に無料開催",
+      "originalTitle": "LOCUS BRiDGE、企業公民連携LABにて「はじめての自治体財政入門２.」を 10月20日に無料開催",
+      "summary": "LOCUS BRiDGE、企業公民連携LABにて「はじめての自治体財政入門②」を 10月20日に無料開催 企業向けオンラインサロン「企業公民連携 LAB」 の一環として、予算要求時に行うことを、元財政課職員がリアルにお伝えします。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000058.000159606.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000058.000159606.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000058.000159606.html",
+      "publishedAt": "2026-10-12T07:40:02+09:00",
+      "collectedAt": "2026-10-12T08:14:46+09:00",
+      "scrapedAt": "2026-10-12T08:14:46+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "7da54f59030dfdcc44dbd2faeb6dac4c99311bd37b0c39b1699b09b5e23a8f4d",
+      "trendScore": 10.97,
+      "createdAt": "2026-10-12T08:14:46+09:00",
+      "updatedAt": "2026-10-12T08:14:46+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000056.000106384.html",
+      "title": "28歳が開校した青楓館高等学院。3年半で累計生徒400名を突破",
+      "originalTitle": "28歳が開校した青楓館高等学院。3年半で累計生徒400名を突破",
+      "summary": "28歳が開校した青楓館高等学院。3年半で累計生徒400名を突破 入学者の多くは口コミから、選ばれ続けるわけ 株式会社青楓館 2026年10月8日 21時00分 いいね！数を読み込み中です 背景：通信制を選ぶ高校生は増加傾向。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000056.000106384.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000056.000106384.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000056.000106384.html",
+      "publishedAt": "2026-10-12T07:40:02+09:00",
+      "collectedAt": "2026-10-12T08:14:46+09:00",
+      "scrapedAt": "2026-10-12T08:14:46+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:46+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "512a589891015978cdda7c0e4d53265ce7c14e8d38e0a0db0a285bba62ea3381",
+      "trendScore": 10.97,
+      "createdAt": "2026-10-12T08:14:46+09:00",
+      "updatedAt": "2026-10-12T08:14:46+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002315",
+      "title": "東京は人口が集まるが１人当たりの生産は伸び悩む 横浜市立大学が都道府県データから確認",
+      "originalTitle": "東京は人口が集まるが１人当たりの生産は伸び悩む　横浜市立大学が都道府県データから確認",
+      "summary": "TOP > 研究成果 > 東京は人口が集まるが１人当たりの生産は伸び悩む 横浜市立大学が都道府県データから確認 2026年10月11日 東京は人口が集まるが１人当たりの生産は伸び悩む 横浜市立大学が都道府県データから確認 大学ジャーナルオンライン編集部 横浜市立大学 横浜市立大学大学院の大塚章弘教授は、1980～2019年の都道府県データを用い、人口集中と生産パフォーマンスの関係を検討した。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002315",
+      "originalUrl": "https://univ-journal.jp/1002315/",
+      "finalUrl": "https://univ-journal.jp/1002315",
+      "publishedAt": "2026-10-11T17:00:31+09:00",
+      "collectedAt": "2026-10-12T08:14:54+09:00",
+      "scrapedAt": "2026-10-12T08:14:54+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:54+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "2199848f575b1701f9fadb09cc5234d176aebaa72beb6c54ee422468be4447c2",
+      "trendScore": 10.09,
+      "createdAt": "2026-10-12T08:14:54+09:00",
+      "updatedAt": "2026-10-12T08:14:54+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002198",
+      "title": "千葉大学 飛び入学制度を知るトークイベントを10/31（土）開催",
+      "originalTitle": "千葉大学　飛び入学制度を知るトークイベントを10/31（土）開催",
+      "summary": "TOP > 大学入試 > 千葉大学 飛び入学制度を知るトークイベントを10/31（土）開催 2026年10月11日 千葉大学 飛び入学制度を知るトークイベントを10/31（土）開催 大学ジャーナルオンライン編集部 飛び入学 千葉大学 2026年10月31日（土）、千葉大学先進科学センターは千葉大学西千葉キャンパス工学・情報学系講義棟（千葉市稲毛区）でトークイベント「17歳で大学生になったら：卒業生…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002198",
+      "originalUrl": "https://univ-journal.jp/1002198/",
+      "finalUrl": "https://univ-journal.jp/1002198",
+      "publishedAt": "2026-10-11T11:00:05+09:00",
+      "collectedAt": "2026-10-12T08:14:55+09:00",
+      "scrapedAt": "2026-10-12T08:14:55+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "7a4d969927ac0ddf5c8be1fe5a45a87a5f8d167b706f44591088f06d2124aa1b",
+      "trendScore": 9.74,
+      "createdAt": "2026-10-12T08:14:55+09:00",
+      "updatedAt": "2026-10-12T08:14:55+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/960884",
+      "title": "サウジ首都空港に再び攻撃､国際投資会議｢フューチャー･インベストメント･イニシアチブ｣を控えて緊張高まる",
+      "originalTitle": "サウジ首都空港に再び攻撃､国際投資会議｢フューチャー･インベストメント･イニシアチブ｣を控えて緊張高まる | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "政治・経済・投資 サウジ首都空港に再び攻撃､国際投資会議｢フューチャー･インベストメント･イニシアチブ｣を控えて緊張高まる 3分で読める 公開日時：2026/10/12 08:00 会員登録で読める （写真：ブルームバーグ） ブルームバーグ フォロー 2日連続でフーシ派による攻撃を受け､多数の死傷者が発生。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/960884",
+      "originalUrl": "https://toyokeizai.net/articles/-/960884?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/960884",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "collectedAt": "2026-10-12T08:14:56+09:00",
+      "scrapedAt": "2026-10-12T08:14:56+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "14507b7d7cd7b566088e1151e9796ffed3edc0f346722172ca47af46fc26dd3e",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-12T08:14:56+09:00",
+      "updatedAt": "2026-10-12T08:14:56+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/960068",
+      "title": "ネットで賛否両論のBYD｢ラッコ｣に試乗！ 実車に触れてわかったデザインと走りの本当のデキ",
+      "originalTitle": "ネットで賛否両論のBYD｢ラッコ｣に試乗！ 実車に触れてわかったデザインと走りの本当のデキ | ライフ | 東洋経済オンライン",
+      "summary": "ライフ #自動車最前線 ネットで賛否両論のBYD｢ラッコ｣に試乗！実車に触れてわかったデザインと走りの本当のデキ 8分で読める 公開日時：2026/10/12 08:00 日本のスーパーハイトワゴン市場にやってきた輸入EVの評価は？",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/960068",
+      "originalUrl": "https://toyokeizai.net/articles/-/960068?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/960068",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "collectedAt": "2026-10-12T08:14:56+09:00",
+      "scrapedAt": "2026-10-12T08:14:56+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "d67504e6b5f1676aef70c15ffc9e83b2e65ea35d1edfe9078f0101c32f82f47c",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-12T08:14:56+09:00",
+      "updatedAt": "2026-10-12T08:14:56+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/400921",
+      "title": "「セブン＆アイvsイオン」売上は互角でも、BSにはどんな違いがある？",
+      "originalTitle": "「セブン＆アイvsイオン」売上は互角でも、BSにはどんな違いがある？ - サンキー図で「お金の流れ」が1秒でわかる　見るだけ決算書",
+      "summary": "セブン＆アイとイオンは、どちらも年間約10兆円を売り上げる、日本を代表する流通大手です。しかし、売上規模がほぼ同じだからといって、経営の中身まで似ているとは限りません。実は、両社の決算書を比較すると、保有する資産の大きさには大きな違いがあります。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/400921",
+      "originalUrl": "https://diamond.jp/articles/-/400921",
+      "finalUrl": "https://diamond.jp/articles/-/400921",
+      "publishedAt": "2026-10-12T07:35:00+09:00",
+      "collectedAt": "2026-10-12T08:14:58+09:00",
+      "scrapedAt": "2026-10-12T08:14:58+09:00",
+      "lastVerifiedAt": "2026-10-12T08:14:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "f61f9097a45f52b62027b1c1650cf8d34b7a20137612dcce23332bcb03adc4a4",
+      "trendScore": 10.96,
+      "createdAt": "2026-10-12T08:14:58+09:00",
+      "updatedAt": "2026-10-12T08:14:58+09:00"
     }
   ],
   "sources": [
@@ -45148,8 +45666,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-11T07:59:00+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:01+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:24+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45161,8 +45679,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-11T07:59:13+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:14+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:38+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45174,8 +45692,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-11T07:59:14+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:14+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:40+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45200,8 +45718,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-11T07:59:14+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:15+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:40+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45213,8 +45731,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-11T07:59:15+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:15+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:43+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45226,8 +45744,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-11T07:59:15+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:15+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:43+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45239,8 +45757,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-11T07:59:15+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:16+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:43+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45252,8 +45770,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-11T07:59:17+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:18+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:44+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45356,8 +45874,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-11T07:59:20+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:20+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:45+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45395,8 +45913,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-11T07:59:21+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:21+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:47+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45408,8 +45926,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-11T07:59:21+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:22+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:47+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45421,8 +45939,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-11T07:59:22+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:23+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:47+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45434,8 +45952,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-11T07:59:23+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:23+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:48+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45447,8 +45965,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-11T07:59:23+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:23+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:49+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45460,8 +45978,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-11T07:59:23+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:24+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:49+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45486,8 +46004,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-11T07:59:24+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:24+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:50+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:50+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45551,8 +46069,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-11T07:59:26+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:27+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:52+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45564,8 +46082,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-11T07:59:28+09:00",
-      "lastSuccessAt": "2026-10-11T07:59:29+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:55+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45577,8 +46095,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-05T07:34:23+09:00",
-      "lastSuccessAt": "2026-10-05T07:34:24+09:00",
+      "lastFetchedAt": "2026-10-12T08:14:57+09:00",
+      "lastSuccessAt": "2026-10-12T08:14:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -45778,6 +46296,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261012-0814",
+      "scheduledAt": "2026-10-12T08:14:24+09:00",
+      "startedAt": "2026-10-12T08:14:24+09:00",
+      "finishedAt": "2026-10-12T08:14:58+09:00",
+      "status": "success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 19,
+      "sourcesFailed": 0,
+      "candidatesFound": 136,
+      "duplicatesRemoved": 9,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261011-0759",
       "scheduledAt": "2026-10-11T07:59:00+09:00",
@@ -47658,9 +48195,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-10-11T07:59:32+09:00",
-    "lastSuccessAt": "2026-10-11T07:59:32+09:00",
-    "nextScheduledAt": "2026-10-12T05:00:00+09:00",
+    "lastCollectionAt": "2026-10-12T08:14:58+09:00",
+    "lastSuccessAt": "2026-10-12T08:14:58+09:00",
+    "nextScheduledAt": "2026-10-13T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
