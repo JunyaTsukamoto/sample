@@ -50702,6 +50702,525 @@
       "trendScore": 10.97,
       "createdAt": "2026-10-22T07:49:48+09:00",
       "updatedAt": "2026-10-22T07:49:48+09:00"
+    },
+    {
+      "id": "https://qiita.com/shu15511551/items/5400ed88b5203607fad1",
+      "title": "マクロのコードを読まなくなったら、一覧が要るようになった話 ── 統合マクロフォームで、何がひとつになったのか - Qiita",
+      "originalTitle": "マクロのコードを読まなくなったら、一覧が要るようになった話 ── 統合マクロフォームで、何がひとつになったのか",
+      "summary": "@ shu15511551 ( shu ) マクロのコードを読まなくなったら、一覧が要るようになった話 ── 統合マクロフォームで、何がひとつになったのか Python ExcelVBA AI ClaudeCode AIエージェント 0 Last updated at 2026-10-22 Posted at 2026-10-22 はじめに 先日、中島聡さんの動画を見ました。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/shu15511551/items/5400ed88b5203607fad1",
+      "originalUrl": "https://qiita.com/shu15511551/items/5400ed88b5203607fad1",
+      "finalUrl": "https://qiita.com/shu15511551/items/5400ed88b5203607fad1",
+      "publishedAt": "2026-10-23T07:45:24+09:00",
+      "collectedAt": "2026-10-23T07:48:43+09:00",
+      "scrapedAt": "2026-10-23T07:48:43+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "0133d23138d34bb0a3463098cf96af409d691ce99f5ea70d1e7ef9d32395ae5f",
+      "trendScore": 11,
+      "createdAt": "2026-10-23T07:48:43+09:00",
+      "updatedAt": "2026-10-23T07:48:43+09:00"
+    },
+    {
+      "id": "https://qiita.com/lhjjjk4/items/fbcebf113b36cc04f7f1",
+      "title": "AI Daily Digest 2026年10月23日：OpenAI DevDayが常時稼働エージェント「Dots」を発表、Metaは無議決権C株でAI資金調達へ - Qiita",
+      "originalTitle": "AI Daily Digest 2026年10月23日：OpenAI DevDayが常時稼働エージェント「Dots」を発表、Metaは無議決権C株でAI資金調達へ",
+      "summary": "@ lhjjjk4 ( KD Agentic ) AI Daily Digest 2026年10月23日：OpenAI DevDayが常時稼働エージェント「Dots」を発表、Metaは無議決権C株でAI資金調達へ AI Agentic 0 Posted at 2026-10-22 KD Agentic · AI Daily Digest 昨日はプラットフォーム層が一気に動いた日だった。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lhjjjk4/items/fbcebf113b36cc04f7f1",
+      "originalUrl": "https://qiita.com/lhjjjk4/items/fbcebf113b36cc04f7f1",
+      "finalUrl": "https://qiita.com/lhjjjk4/items/fbcebf113b36cc04f7f1",
+      "publishedAt": "2026-10-23T07:11:43+09:00",
+      "collectedAt": "2026-10-23T07:48:49+09:00",
+      "scrapedAt": "2026-10-23T07:48:49+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:49+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "ChatGPT",
+        "量子"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "11c8eb3384f5b8c9f4a1403f62e1024d871955379286d6d50b40be983ad79150",
+      "trendScore": 10.96,
+      "createdAt": "2026-10-23T07:48:49+09:00",
+      "updatedAt": "2026-10-23T07:48:49+09:00"
+    },
+    {
+      "id": "https://qiita.com/tomokusaba/items/b1ae6e90ca7975df28db",
+      "title": "AI時代の技術選定で選ぶべきは「脆弱性の少ない言語」ではない - Qiita",
+      "originalTitle": "AI時代の技術選定で選ぶべきは「脆弱性の少ない言語」ではない",
+      "summary": "@ tomokusaba ( Tomomitsu Kusaba ) in FutureOne株式会社 AI時代の技術選定で選ぶべきは「脆弱性の少ない言語」ではない Security AI SBOM devops SoftwareEngineering 0 Posted at 2026-10-22 はじめに 最近、著名な言語やランタイム、パッケージで重大な脆弱性が報告されるたびに、「結局、どの言語が安全なのだろう」と考えたくなります。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/tomokusaba/items/b1ae6e90ca7975df28db",
+      "originalUrl": "https://qiita.com/tomokusaba/items/b1ae6e90ca7975df28db",
+      "finalUrl": "https://qiita.com/tomokusaba/items/b1ae6e90ca7975df28db",
+      "publishedAt": "2026-10-23T06:29:19+09:00",
+      "collectedAt": "2026-10-23T07:48:55+09:00",
+      "scrapedAt": "2026-10-23T07:48:55+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "セキュリティ",
+        "DX"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "81aa9da00ef265b9d671975ca466a603a2ceb07076d8428d51778f1b3d2c6d7f",
+      "trendScore": 10.92,
+      "createdAt": "2026-10-23T07:48:55+09:00",
+      "updatedAt": "2026-10-23T07:48:55+09:00"
+    },
+    {
+      "id": "https://qiita.com/etale_cohomology/items/7f787b492b5c7d92116c",
+      "title": "【Python実装】VAEのデコーダから潜在空間の幾何を読み解く ── ヤコビアンとリーマン計量（Pullback Metric）による距離の歪みの定量化 - Qiita",
+      "originalTitle": "【Python実装】VAEのデコーダから潜在空間の幾何を読み解く ── ヤコビアンとリーマン計量（Pullback Metric）による距離の歪みの定量化",
+      "summary": "@ etale_cohomology ( Etale Cohomology ) 【Python実装】VAEのデコーダから潜在空間の幾何を読み解く ── ヤコビアンとリーマン計量（Pullback Metric）による距離の歪みの定量化 Python 機械学習 数学 DeepLearning データ可視化 0 Last updated at 2026-10-22 Posted at 2026-10-…",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/etale_cohomology/items/7f787b492b5c7d92116c",
+      "originalUrl": "https://qiita.com/etale_cohomology/items/7f787b492b5c7d92116c",
+      "finalUrl": "https://qiita.com/etale_cohomology/items/7f787b492b5c7d92116c",
+      "publishedAt": "2026-10-23T00:51:11+09:00",
+      "collectedAt": "2026-10-23T07:48:56+09:00",
+      "scrapedAt": "2026-10-23T07:48:56+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "データサイエンス",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "72f29e682de5e9647d22b8e2ba945ca03f254aedc721edade9882139810ccd2b",
+      "trendScore": 10.59,
+      "createdAt": "2026-10-23T07:48:56+09:00",
+      "updatedAt": "2026-10-23T07:48:56+09:00"
+    },
+    {
+      "id": "https://qiita.com/etale_cohomology/items/940ecb65278977f3d7fd",
+      "title": "【連載：ジオメトリック・インテリジェンス 第2回】「戦略の地形」を可視化せよ：曲率マップとブルーオーシャンの発見 - Qiita",
+      "originalTitle": "【連載：ジオメトリック・インテリジェンス 第2回】「戦略の地形」を可視化せよ：曲率マップとブルーオーシャンの発見",
+      "summary": "@ etale_cohomology ( Etale Cohomology ) 【連載：ジオメトリック・インテリジェンス 第2回】「戦略の地形」を可視化せよ：曲率マップとブルーオーシャンの発見 データ可視化 機械学習 数学 データ分析 BI 0 Posted at 2026-10-22 記事の要約 連載初回の記事第1回 では、VAEの潜在空間を正しく測るための「定規（リーマン計量 $g$）」を手に入れました。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/etale_cohomology/items/940ecb65278977f3d7fd",
+      "originalUrl": "https://qiita.com/etale_cohomology/items/940ecb65278977f3d7fd",
+      "finalUrl": "https://qiita.com/etale_cohomology/items/940ecb65278977f3d7fd",
+      "publishedAt": "2026-10-23T00:27:02+09:00",
+      "collectedAt": "2026-10-23T07:48:56+09:00",
+      "scrapedAt": "2026-10-23T07:48:56+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "106d26f47bd8fb08975839dd4b9d5c2a70c9673905b214a8af68bb462f5bd200",
+      "trendScore": 10.56,
+      "createdAt": "2026-10-23T07:48:56+09:00",
+      "updatedAt": "2026-10-23T07:48:56+09:00"
+    },
+    {
+      "id": "https://qiita.com/io0323/items/124240c0a6996e8d908e",
+      "title": "【書評】 実践 自然言語処理 ―実世界NLPアプリケーション開発のベストプラクティス - Qiita",
+      "originalTitle": "【書評】 実践 自然言語処理 ―実世界NLPアプリケーション開発のベストプラクティス",
+      "summary": "@ io0323 【書評】 実践 自然言語処理 ―実世界NLPアプリケーション開発のベストプラクティス 自然言語処理 NLP 機械学習 MLOps 書評 0 Posted at 2026-10-22 はじめに 自然言語処理（NLP）の本は、アルゴリズムの理論を深く掘り下げる教科書か、ライブラリの使い方を追うレシピ集のどちらかに偏りがちです。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/io0323/items/124240c0a6996e8d908e",
+      "originalUrl": "https://qiita.com/io0323/items/124240c0a6996e8d908e",
+      "finalUrl": "https://qiita.com/io0323/items/124240c0a6996e8d908e",
+      "publishedAt": "2026-10-23T00:00:41+09:00",
+      "collectedAt": "2026-10-23T07:48:57+09:00",
+      "scrapedAt": "2026-10-23T07:48:57+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "データサイエンス",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "bbdb8f6b6b66d39bb6ead2f2e8e2bce07f961a74f38aa66d7f84e563efb3dca1",
+      "trendScore": 10.54,
+      "createdAt": "2026-10-23T07:48:57+09:00",
+      "updatedAt": "2026-10-23T07:48:57+09:00"
+    },
+    {
+      "id": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+      "originalTitle": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+      "summary": "&times; Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定 2026年10月22日 --> Cloudflareは、TypeScriptをRustに移植した「 tsrs 」を 発表しました 。",
+      "summarySource": "extractive",
+      "source": "Publickey",
+      "sourceId": "src-publickey",
+      "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "originalUrl": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "finalUrl": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+      "publishedAt": "2026-10-22T00:42:36+09:00",
+      "collectedAt": "2026-10-23T07:48:57+09:00",
+      "scrapedAt": "2026-10-23T07:48:57+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "セキュリティ",
+        "プライバシー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.85,
+      "contentHash": "f5f46d9c62ae1bd7d94222bb77bf6787d141e8f54050ef83ee9089847e7efb3b",
+      "trendScore": 9.15,
+      "createdAt": "2026-10-23T07:48:57+09:00",
+      "updatedAt": "2026-10-23T07:48:57+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
+      "originalTitle": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について",
+      "summary": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について 公開日：2026年10月22日 今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサービスを利用していたStudio株式会社が、第三者からの不正アクセスを受け、個人情報が外部に漏えいした可能性があることが判明しました。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "originalUrl": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "finalUrl": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "publishedAt": "2026-10-22T21:36:07+09:00",
+      "collectedAt": "2026-10-23T07:48:58+09:00",
+      "scrapedAt": "2026-10-23T07:48:58+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "7e56762c67b82ceaa0ceaf49e143f472be981b19e93a2443c81e3f0ea9269cdc",
+      "trendScore": 10.39,
+      "createdAt": "2026-10-23T07:48:58+09:00",
+      "updatedAt": "2026-10-23T07:48:58+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c",
+      "title": "AI・デジタル改革推進会議（第1回）｜デジタル庁",
+      "originalTitle": "AI・デジタル改革推進会議（第1回）の議事次第および資料を掲載しました",
+      "summary": "AI・デジタル改革推進会議（第1回） 概要 日時：令和8年（2026年）10月22日（木）16時20分から16時50分まで 場所：官邸2階大ホール 議事次第： 1.AI・デジタル改革推進会議の運営について 2.",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c",
+      "originalUrl": "https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c",
+      "finalUrl": "https://www.digital.go.jp/councils/ai_digital/1f3aa34a-786d-4b56-99a4-469f8f933f1c",
+      "publishedAt": "2026-10-22T16:59:37+09:00",
+      "collectedAt": "2026-10-23T07:48:58+09:00",
+      "scrapedAt": "2026-10-23T07:48:58+09:00",
+      "lastVerifiedAt": "2026-10-23T07:48:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "規制",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "a6177b5a7c81320ae9bac579865ea835a00e05d262387396868625f2573c1ff0",
+      "trendScore": 10.12,
+      "createdAt": "2026-10-23T07:48:58+09:00",
+      "updatedAt": "2026-10-23T07:48:58+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000767.html",
+      "title": "国土交通省｜報道資料｜「下水汚泥資源の肥料利用・検討状況見える化ダッシュボード」 を公開！<br>～各地方公共団体の進捗状況を一目で比較・把握することが可能に～",
+      "originalTitle": "�u�������D�����̔엿���p�E�����󋵌����鉻�_�b�V���{�[�h�v �����J�I�`�e�n�������c�̂̐i���󋵂���ڂŔ�r�E�c�����邱�Ƃ��\\�Ɂ`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 「下水汚泥資源の肥料利用・検討状況見える化ダッシュボード」 を公開！～各地方公共団体の進捗状況を一目で比較・把握することが可能に～ 「下水汚泥資源の肥料利用・検討状況見える化ダッシュボード」 を公開！",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000767.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000767.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000767.html",
+      "publishedAt": "2026-10-22T05:00:00+09:00",
+      "collectedAt": "2026-10-23T07:49:01+09:00",
+      "scrapedAt": "2026-10-23T07:49:01+09:00",
+      "lastVerifiedAt": "2026-10-23T07:49:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "脱炭素",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "e02fdec9d62c15dfbfcb0292489e9ea4997b027b7168e5f4833f9d003b7d95ce",
+      "trendScore": 9.4,
+      "createdAt": "2026-10-23T07:49:01+09:00",
+      "updatedAt": "2026-10-23T07:49:01+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/house05_hh_001161.html",
+      "title": "国土交通省｜報道資料｜今後の建築分野の中長期的なあり方について議論します<br>～第51回社会資本整備審議会建築分科会等合同会議の開催～",
+      "originalTitle": "����̌��z����̒������I�Ȃ�����ɂ��ċc�_���܂��`��51��Љ�{�����R�c��z���ȉ������c�̊J�Á`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 今後の建築分野の中長期的なあり方について議論します ～第51回社会資本整備審議会建築分科会等合同会議の開催～ 今後の建築分野の中長期的なあり方について議論します ～第51回社会資本整備審議会建築分科会等合同会議の開催～ 令和8年10月22日 「建築分野の中長期的なあり方に関する検討会」でとりまとめた「建築分野の中長期的なビジョン（素案）」について、社会…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/house05_hh_001161.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/house05_hh_001161.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/house05_hh_001161.html",
+      "publishedAt": "2026-10-22T05:00:00+09:00",
+      "collectedAt": "2026-10-23T07:49:01+09:00",
+      "scrapedAt": "2026-10-23T07:49:01+09:00",
+      "lastVerifiedAt": "2026-10-23T07:49:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "548c40751f9e9122df02a3fbdbafbf97aa723c95208d99546f817773f8078a9b",
+      "trendScore": 9.4,
+      "createdAt": "2026-10-23T07:49:01+09:00",
+      "updatedAt": "2026-10-23T07:49:01+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000012.000166525.html",
+      "title": "Weegent、関西の企業向けに「新規開拓・商談創出 3大パッケージ」の提供を開始",
+      "originalTitle": "Weegent、関西の企業向けに「新規開拓・商談創出 3大パッケージ」の提供を開始",
+      "summary": "Weegent、関西の企業向けに「新規開拓・商談創出 3大パッケージ」の提供を開始 大阪拠点のメンバー採用が進み受け入れ体制が整ったことを受け、アウトバウンド・インテントデータ・ABMの3プランを30社限定の特別価格で提供 株式会社Weegent 2026年10月22日 13時27分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000166525.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000012.000166525.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000012.000166525.html",
+      "publishedAt": "2026-10-23T07:40:02+09:00",
+      "collectedAt": "2026-10-23T07:49:01+09:00",
+      "scrapedAt": "2026-10-23T07:49:01+09:00",
+      "lastVerifiedAt": "2026-10-23T07:49:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "6def26a37c52a3490f5964d7cca6ec78499e82943b58bead25f853a0767a7de9",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-23T07:49:01+09:00",
+      "updatedAt": "2026-10-23T07:49:01+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000126.000141127.html",
+      "title": "「第26回 KPMGグローバル自動車業界調査」を発表",
+      "originalTitle": "「第26回 KPMGグローバル自動車業界調査」を発表",
+      "summary": "「第26回 KPMGグローバル自動車業界調査」を発表 自動車業界の経営者は、2035年までに新たな競争構造が確立すると予測 KPMGジャパン 2026年10月22日 13時25分 いいね！数を読み込み中です ソフトウェアとデジタル技術が競争優位の中核となる一方、競争は車両の優位性を競う段階から、テクノロジーを顧客価値へ転換する総合的な事業能力を競う段階へと広がっている 主な調査結果 テクノロジーが…",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000141127.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000126.000141127.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000126.000141127.html",
+      "publishedAt": "2026-10-23T07:40:02+09:00",
+      "collectedAt": "2026-10-23T07:49:01+09:00",
+      "scrapedAt": "2026-10-23T07:49:01+09:00",
+      "lastVerifiedAt": "2026-10-23T07:49:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "自動運転",
+        "ヘルスケア"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "07ddcea3474e71b0ec3e3471120a5ab0ccf9f06efd414318f73f817defaf1bf1",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-23T07:49:01+09:00",
+      "updatedAt": "2026-10-23T07:49:01+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002509",
+      "title": "畿央大学 管理栄養士を目指す学生たちが考案「彩り野菜弁当」 10/27（火）まで近畿地区のイオン83店舗で販売",
+      "originalTitle": "畿央大学　管理栄養士を目指す学生たちが考案「彩り野菜弁当」　10/27（火）まで近畿地区のイオン83店舗で販売",
+      "summary": "TOP > トピックス > 畿央大学 管理栄養士を目指す学生たちが考案「彩り野菜弁当」 10/27（火）まで近畿地区のイオン83店舗で販売 2026年10月22日 畿央大学 管理栄養士を目指す学生たちが考案「彩り野菜弁当」 10/27（火）まで近畿地区のイオン83店舗で販売 大学ジャーナルオンライン編集部 メニュー開発 学生プロジェクト 畿央大学 食育ボランティアサークル「ヘルスチーム菜良（なら）…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002509",
+      "originalUrl": "https://univ-journal.jp/1002509/",
+      "finalUrl": "https://univ-journal.jp/1002509",
+      "publishedAt": "2026-10-22T17:00:12+09:00",
+      "collectedAt": "2026-10-23T07:49:11+09:00",
+      "scrapedAt": "2026-10-23T07:49:11+09:00",
+      "lastVerifiedAt": "2026-10-23T07:49:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "3f9a930d65fadb2371b86e6710c4d8e21b1accfda86d9957b328363b59afd5f8",
+      "trendScore": 10.12,
+      "createdAt": "2026-10-23T07:49:11+09:00",
+      "updatedAt": "2026-10-23T07:49:11+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002612",
+      "title": "津田塾大学 数学科・情報科学科 2027年度一般選抜A・B方式「数学」の試験時間120分から90分に",
+      "originalTitle": "津田塾大学 数学科・情報科学科　2027年度一般選抜A・B方式「数学」の試験時間120分から90分に",
+      "summary": "TOP > 大学入試 > 津田塾大学 数学科・情報科学科 2027年度一般選抜A・B方式「数学」の試験時間120分から90分に 2026年10月22日 津田塾大学 数学科・情報科学科 2027年度一般選抜A・B方式「数学」の試験時間120分から90分に 大学ジャーナルオンライン編集部 2027年度入試 津田塾大学 津田塾大学 学芸学部の数学科・情報科学科では、2027年度入試から一般選抜A方式・B方式の「数学」の試験内容を変更する。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002612",
+      "originalUrl": "https://univ-journal.jp/1002612/",
+      "finalUrl": "https://univ-journal.jp/1002612",
+      "publishedAt": "2026-10-22T11:00:22+09:00",
+      "collectedAt": "2026-10-23T07:49:12+09:00",
+      "scrapedAt": "2026-10-23T07:49:12+09:00",
+      "lastVerifiedAt": "2026-10-23T07:49:12+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "6dc7b04b8ad1017198d218b5351c342f0edf2457deed8c0f26e40a4dbc12a0de",
+      "trendScore": 9.76,
+      "createdAt": "2026-10-23T07:49:12+09:00",
+      "updatedAt": "2026-10-23T07:49:12+09:00"
     }
   ],
   "sources": [
@@ -50714,8 +51233,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-22T07:49:15+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:16+09:00",
+      "lastFetchedAt": "2026-10-23T07:48:42+09:00",
+      "lastSuccessAt": "2026-10-23T07:48:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50727,8 +51246,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-22T07:49:29+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:29+09:00",
+      "lastFetchedAt": "2026-10-23T07:48:55+09:00",
+      "lastSuccessAt": "2026-10-23T07:48:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50740,8 +51259,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-22T07:49:30+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:30+09:00",
+      "lastFetchedAt": "2026-10-23T07:48:57+09:00",
+      "lastSuccessAt": "2026-10-23T07:48:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50766,8 +51285,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-22T07:49:30+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:31+09:00",
+      "lastFetchedAt": "2026-10-23T07:48:57+09:00",
+      "lastSuccessAt": "2026-10-23T07:48:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50779,8 +51298,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-22T07:49:31+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:31+09:00",
+      "lastFetchedAt": "2026-10-23T07:48:58+09:00",
+      "lastSuccessAt": "2026-10-23T07:48:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50792,8 +51311,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-22T07:49:31+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:32+09:00",
+      "lastFetchedAt": "2026-10-23T07:48:58+09:00",
+      "lastSuccessAt": "2026-10-23T07:48:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50805,8 +51324,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-22T07:49:32+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:33+09:00",
+      "lastFetchedAt": "2026-10-23T07:48:58+09:00",
+      "lastSuccessAt": "2026-10-23T07:48:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50818,8 +51337,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-22T07:49:34+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:35+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:00+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50922,8 +51441,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-22T07:49:36+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:36+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:01+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50961,8 +51480,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-22T07:49:37+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:37+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:02+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50974,8 +51493,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-22T07:49:37+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:38+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:03+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -50987,9 +51506,9 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-22T07:49:38+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:03+09:00",
       "lastSuccessAt": "2026-10-21T07:44:42+09:00",
-      "consecutiveFailures": 1
+      "consecutiveFailures": 2
     },
     {
       "id": "src-gigazine",
@@ -51000,8 +51519,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-22T07:49:39+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:40+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:04+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -51013,9 +51532,9 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-22T07:49:40+09:00",
-      "lastSuccessAt": "2026-10-21T07:44:42+09:00",
-      "consecutiveFailures": 1
+      "lastFetchedAt": "2026-10-23T07:49:04+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:05+09:00",
+      "consecutiveFailures": 0
     },
     {
       "id": "src-impress-iw",
@@ -51026,8 +51545,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-22T07:49:40+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:41+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:05+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -51052,8 +51571,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-22T07:49:41+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:41+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:05+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -51117,8 +51636,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-22T07:49:43+09:00",
-      "lastSuccessAt": "2026-10-22T07:49:44+09:00",
+      "lastFetchedAt": "2026-10-23T07:49:08+09:00",
+      "lastSuccessAt": "2026-10-23T07:49:09+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -51344,6 +51863,29 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261023-0748",
+      "scheduledAt": "2026-10-23T07:48:42+09:00",
+      "startedAt": "2026-10-23T07:48:42+09:00",
+      "finishedAt": "2026-10-23T07:49:12+09:00",
+      "status": "partial_success",
+      "sourcesAttempted": 30,
+      "sourcesSucceeded": 16,
+      "sourcesFailed": 1,
+      "candidatesFound": 57,
+      "duplicatesRemoved": 3,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        },
+        {
+          "sourceId": "src-cnet-japan",
+          "message": "フィード取得失敗: Unexpected close tag\nLine: 46\nColumn: 7\nChar: >"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261022-0749",
       "scheduledAt": "2026-10-22T07:49:15+09:00",
@@ -53445,9 +53987,9 @@
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-10-22T07:49:48+09:00",
-    "lastSuccessAt": "2026-10-22T07:49:48+09:00",
-    "nextScheduledAt": "2026-10-23T05:00:00+09:00",
+    "lastCollectionAt": "2026-10-23T07:49:12+09:00",
+    "lastSuccessAt": "2026-10-23T07:49:12+09:00",
+    "nextScheduledAt": "2026-10-24T05:00:00+09:00",
     "lastJobStatus": "partial_success"
   },
   "preferences": {
