@@ -52739,12 +52739,528 @@
         "学術"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.9,
       "contentHash": "0bd14ff2c1d73a5164edf982676949a35a3fdc7d81e38a51e96985138aeb7c73",
       "trendScore": 7.54,
       "createdAt": "2026-10-26T07:07:34+09:00",
-      "updatedAt": "2026-10-26T07:07:34+09:00"
+      "updatedAt": "2026-10-26T23:24:42.037Z"
+    },
+    {
+      "id": "https://qiita.com/harupython/items/83aa56b6c06f3f1a0f76",
+      "title": "GPT-6.1 Terra登場！Solの半額で何ができる？料金・性能・開発での使い分けを徹底整理 - Qiita",
+      "originalTitle": "GPT-6.1 Terra登場！Solの半額で何ができる？料金・性能・開発での使い分けを徹底整理",
+      "summary": "@ harupython GPT-6.Solの半額で何ができる？料金・性能・開発での使い分けを徹底整理 OpenAI gpt ChatGPT codex AI 0 Posted at 2026-10-26 OpenAIの新モデル GPT-6.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/harupython/items/83aa56b6c06f3f1a0f76",
+      "originalUrl": "https://qiita.com/harupython/items/83aa56b6c06f3f1a0f76",
+      "finalUrl": "https://qiita.com/harupython/items/83aa56b6c06f3f1a0f76",
+      "publishedAt": "2026-10-27T08:23:45+09:00",
+      "collectedAt": "2026-10-27T08:24:13+09:00",
+      "scrapedAt": "2026-10-27T08:24:13+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a5bcd8811255ed8aa22539d2853e7516432ab9d04ff3ad9b66ab6c7f482bcf17",
+      "trendScore": 11,
+      "createdAt": "2026-10-27T08:24:13+09:00",
+      "updatedAt": "2026-10-27T08:24:13+09:00"
+    },
+    {
+      "id": "https://qiita.com/hathibei7/items/73b4b18270301f482e99",
+      "title": "AI・クラウド アップデートまとめ（2026/10/27）：GPT-6.1 Terra、Anthropic S-1、Workers AI の KV キャッシュ問題 - Qiita",
+      "originalTitle": "AI・クラウド アップデートまとめ（2026/10/27）：GPT-6.1 Terra、Anthropic S-1、Workers AI の KV キャッシュ問題",
+      "summary": "@ hathibei7 ( hatyibei ) AI・クラウド アップデートまとめ（2026/10/27）：GPT-6.1 Terra、Anthropic S-1、Workers AI の KV キャッシュ問題 AI OpenAI Anthropic AWS Cloud 0 Posted at 2026-10-26 ハイライト OpenAI が「GPT-6.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/hathibei7/items/73b4b18270301f482e99",
+      "originalUrl": "https://qiita.com/hathibei7/items/73b4b18270301f482e99",
+      "finalUrl": "https://qiita.com/hathibei7/items/73b4b18270301f482e99",
+      "publishedAt": "2026-10-27T08:23:41+09:00",
+      "collectedAt": "2026-10-27T08:24:19+09:00",
+      "scrapedAt": "2026-10-27T08:24:19+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:19+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "量子",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "486ff00c5ecbb555714de19a4c8095bc49e38c603427ef414d58f1de8b4a9049",
+      "trendScore": 11,
+      "createdAt": "2026-10-27T08:24:19+09:00",
+      "updatedAt": "2026-10-27T08:24:19+09:00"
+    },
+    {
+      "id": "https://qiita.com/boraemon2000/items/359bbfc2afb1c8dd409f",
+      "title": "AIで記事の訂正記録を月次で見直し、チェックリストと指示を改善する方法 - Qiita",
+      "originalTitle": "AIで記事の訂正記録を月次で見直し、チェックリストと指示を改善する方法",
+      "summary": "@ boraemon2000 AIで記事の訂正記録を月次で見直し、チェックリストと指示を改善する方法 AI 初心者 文章校正 情報整理 プロジェクト管理 0 Posted at 2026-10-26 AIで記事の訂正記録を月次で見直し、チェックリストと指示を改善する方法 記事の誤りを訂正し、公開ページまで確認できたら、その対応はひとまず完了です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/boraemon2000/items/359bbfc2afb1c8dd409f",
+      "originalUrl": "https://qiita.com/boraemon2000/items/359bbfc2afb1c8dd409f",
+      "finalUrl": "https://qiita.com/boraemon2000/items/359bbfc2afb1c8dd409f",
+      "publishedAt": "2026-10-27T08:21:43+09:00",
+      "collectedAt": "2026-10-27T08:24:25+09:00",
+      "scrapedAt": "2026-10-27T08:24:25+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "15c8a921eb7db2e99cf52c3fa07cc19b85aa416d20d6b7ddf3791cf68a93d8b2",
+      "trendScore": 11,
+      "createdAt": "2026-10-27T08:24:25+09:00",
+      "updatedAt": "2026-10-27T08:24:25+09:00"
+    },
+    {
+      "id": "https://qiita.com/nico0748/items/0e858bcbcd80ef0cd8a5",
+      "title": "リザバーコンピューティングを簡単にまとめる - Qiita",
+      "originalTitle": "リザバーコンピューティングを簡単にまとめる",
+      "summary": "@ nico0748 リザバーコンピューティングを簡単にまとめる 機械学習 リザバーコンピューティング ニューラルネットワーク 0 Posted at 2026-10-26 リザバーコンピューティングとは 中の再帰結合はランダムに作ったまま固定して、出力の重み（読み出し）だけを学習する RNNの作り方です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/nico0748/items/0e858bcbcd80ef0cd8a5",
+      "originalUrl": "https://qiita.com/nico0748/items/0e858bcbcd80ef0cd8a5",
+      "finalUrl": "https://qiita.com/nico0748/items/0e858bcbcd80ef0cd8a5",
+      "publishedAt": "2026-10-27T03:46:44+09:00",
+      "collectedAt": "2026-10-27T08:24:26+09:00",
+      "scrapedAt": "2026-10-27T08:24:26+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "6f2096a313a0f6c32e3bedd4e3d03cd6785a2364a0d4c92276d8ac1a044bd89a",
+      "trendScore": 10.72,
+      "createdAt": "2026-10-27T08:24:26+09:00",
+      "updatedAt": "2026-10-27T08:24:26+09:00"
+    },
+    {
+      "id": "https://qiita.com/nico0748/items/97c5400f2fc565c27a1d",
+      "title": "転置と内積・外積を簡単にまとめる - Qiita",
+      "originalTitle": "転置と内積・外積を簡単にまとめる",
+      "summary": "@ nico0748 転置と内積・外積を簡単にまとめる 線形代数 数学 機械学習 0 Posted at 2026-10-26 はじめに 機械学習の式を読んでいると $a^\\top b$ や $a b^\\top$ がしれっと出てきて、毎回「これ結果はスカラーだっけ行列だっけ…」となるので、途中式を省かずに一度まとめておきます。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/nico0748/items/97c5400f2fc565c27a1d",
+      "originalUrl": "https://qiita.com/nico0748/items/97c5400f2fc565c27a1d",
+      "finalUrl": "https://qiita.com/nico0748/items/97c5400f2fc565c27a1d",
+      "publishedAt": "2026-10-27T03:33:14+09:00",
+      "collectedAt": "2026-10-27T08:24:26+09:00",
+      "scrapedAt": "2026-10-27T08:24:26+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:26+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "2734068d0551727024b344f4191450278df0a5c303261e65ff0ef0c85bd355e8",
+      "trendScore": 10.71,
+      "createdAt": "2026-10-27T08:24:26+09:00",
+      "updatedAt": "2026-10-27T08:24:26+09:00"
+    },
+    {
+      "id": "https://qiita.com/Archie_notes/items/80de1faf761ccdfaaf98",
+      "title": "Fourier Neural Operator（FNO）を動かして、FFT・einsum・GELUの意味を理解する - Qiita",
+      "originalTitle": "Fourier Neural Operator（FNO）を動かして、FFT・einsum・GELUの意味を理解する",
+      "summary": "@ Archie_notes ( アーチー ) Fourier Neural Operator（FNO）を動かして、FFT・einsum・GELUの意味を理解する 機械学習 PyTorch FFT NeuralOperator FNO 0 Last updated at 2026-10-26 Posted at 2026-10-26 はじめに Neural Operator（ニューラルオペレータ）という手法があります。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/Archie_notes/items/80de1faf761ccdfaaf98",
+      "originalUrl": "https://qiita.com/Archie_notes/items/80de1faf761ccdfaaf98",
+      "finalUrl": "https://qiita.com/Archie_notes/items/80de1faf761ccdfaaf98",
+      "publishedAt": "2026-10-27T03:12:34+09:00",
+      "collectedAt": "2026-10-27T08:24:27+09:00",
+      "scrapedAt": "2026-10-27T08:24:27+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "データサイエンス"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "3c2b414cd52148c3f23dd1726310b5118f71fc5e14105b12aa0bf2d495039ae6",
+      "trendScore": 10.69,
+      "createdAt": "2026-10-27T08:24:27+09:00",
+      "updatedAt": "2026-10-27T08:24:27+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
+      "title": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当）｜デジタル庁",
+      "originalTitle": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当）のスケジュールを掲載しました",
+      "summary": "2026年度 経験者採用試験 官庁訪問（係長級（事務）府省合同A区分／総合職相当） 最終更新日: 2026年10月26日 2026年度国家公務員経験者採用試験（係長級（事務））府省合同A区分（総合職相当）の最終合格者等を対象に官庁訪問（採用面接）を実施します。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
+      "originalUrl": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
+      "finalUrl": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-career-section-chief",
+      "publishedAt": "2026-10-26T15:07:07+09:00",
+      "collectedAt": "2026-10-27T08:24:27+09:00",
+      "scrapedAt": "2026-10-27T08:24:27+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "d0db9724b1f17ca83e6f2de79277f308a88f5bcdb8c508f752b4c1dee7b99232",
+      "trendScore": 9.97,
+      "createdAt": "2026-10-27T08:24:27+09:00",
+      "updatedAt": "2026-10-27T08:24:27+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/government-certification",
+      "title": "国家資格等のオンライン・デジタル化｜デジタル庁",
+      "originalTitle": "国家資格等のオンライン・デジタル化に係る現在手続が可能な資格の情報を更新しました",
+      "summary": "国家資格等のオンライン・デジタル化 最終更新日: 2026年10月26日 国家資格等に係る各種申請手続のオンライン化や、資格情報の連携等のデジタル化を推進します。新着情報 2026年10月26日 現在手続が可能な資格 について、「医師」「歯科医師」「薬剤師」「保健師」「助産師」「看護師」「医師臨床研修修了者」「歯科医師臨床研修修了者」「医師少数区域経験認定医師」の情報を更新しました 2026年7月…",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/government-certification",
+      "originalUrl": "https://www.digital.go.jp/policies/government-certification",
+      "finalUrl": "https://www.digital.go.jp/policies/government-certification",
+      "publishedAt": "2026-10-26T15:00:00+09:00",
+      "collectedAt": "2026-10-27T08:24:27+09:00",
+      "scrapedAt": "2026-10-27T08:24:27+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "8cd5be3d9362ce31475b1b6b65c18e8355fb6a47e580e0d677acda2233adf5aa",
+      "trendScore": 9.96,
+      "createdAt": "2026-10-27T08:24:27+09:00",
+      "updatedAt": "2026-10-27T08:24:27+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000002317.000009214.html",
+      "title": "朝日新聞のデジタル版に2027年4月、「法人グループコース」を新設",
+      "originalTitle": "朝日新聞のデジタル版に2027年4月、「法人グループコース」を新設",
+      "summary": "朝日新聞のデジタル版に2027年4月、「法人グループコース」を新設 2月末までの先行予約で、4月の利用開始から2カ月間無料に 株式会社朝日新聞社 2026年10月26日 14時00分 いいね！数を読み込み中です 株式会社朝日新聞社（代表取締役社長：角田克）は2027年4月、朝日新聞のデジタル版法人契約を1名1IDずつ手頃な価格でご利用いただける「法人グループコース」を新設します。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000002317.000009214.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000002317.000009214.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000002317.000009214.html",
+      "publishedAt": "2026-10-27T08:10:02+09:00",
+      "collectedAt": "2026-10-27T08:24:30+09:00",
+      "scrapedAt": "2026-10-27T08:24:30+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:30+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "2bb557d071f67074f7321491ec98976c782afae5b72e0853ecb6550aac7b27b8",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-27T08:24:30+09:00",
+      "updatedAt": "2026-10-27T08:24:30+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000102.000013234.html",
+      "title": "お客さまをお迎えする拠点にふさわしいデザインへ、接客制服をリニューアルします",
+      "originalTitle": "お客さまをお迎えする拠点にふさわしいデザインへ、接客制服をリニューアルします",
+      "summary": "お客さまをお迎えする拠点にふさわしいデザインへ、接客制服をリニューアルします 東京モノレール株式会社 2026年10月26日 14時00分 いいね！数を読み込み中です 東京モノレール株式会社(本社：東京都港区、代表取締役社長：宮田 久嗣、以下「東京モノレール」)は、１６年ぶりとなる接客制服のリニューアルを行い、11月１日より着用を開始します。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000013234.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000102.000013234.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000102.000013234.html",
+      "publishedAt": "2026-10-27T08:10:02+09:00",
+      "collectedAt": "2026-10-27T08:24:30+09:00",
+      "scrapedAt": "2026-10-27T08:24:30+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:30+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "f17d0c1f6930bfeff0fcfd1ef745b821ae7efcfc9e230bc687ad6fdf96651d2e",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-27T08:24:30+09:00",
+      "updatedAt": "2026-10-27T08:24:30+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000009.000132808.html",
+      "title": "VIOLET、WordPressのサイトを「PHPの更新がいらないサイト」へ移行する「WordPress卒業パック」を提供開始",
+      "originalTitle": "VIOLET、WordPressのサイトを「PHPの更新がいらないサイト」へ移行する「WordPress卒業パック」を提供開始",
+      "summary": "VIOLET、WordPressのサイトを「PHPの更新がいらないサイト」へ移行する「WordPress卒業パック」を\u0000\u0000提供開始 IPAのPHP脆弱性に関する注意喚起を受け、URLを入れるだけの「30秒かんたんサイトチェック」と無料サイト健康診断を開始 株式会社VIOLET 2026年10月26日 12時24分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000132808.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000009.000132808.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000009.000132808.html",
+      "publishedAt": "2026-10-27T08:10:02+09:00",
+      "collectedAt": "2026-10-27T08:24:30+09:00",
+      "scrapedAt": "2026-10-27T08:24:30+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:30+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "セキュリティ",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "d00c415d09b24699bd1440aa3fd00453c7110d351ebf048fc43ac3b4a7373f8d",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-27T08:24:30+09:00",
+      "updatedAt": "2026-10-27T08:24:30+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002726",
+      "title": "江戸川大学 現代社会学科が学園祭で「旅をめぐるクロストーク」 六角精児さんらをゲストに11/3（火・祝）開催（先着200名・参加無料）",
+      "originalTitle": "江戸川大学　現代社会学科が学園祭で「旅をめぐるクロストーク」　六角精児さんらをゲストに11/3（火・祝）開催（先着200名・参加無料）",
+      "summary": "TOP > トピックス > 江戸川大学 現代社会学科が学園祭で「旅をめぐるクロストーク」 六角精児さんらをゲストに11/3（火・祝）開催（先着200名・参加無料） 2026年10月26日 江戸川大学 現代社会学科が学園祭で「旅をめぐるクロストーク」 六角精児さんらをゲストに11/3（火・祝）開催（先着200名・参加無料） 大学ジャーナルオンライン編集部 学園祭 江戸川大学 江戸川大学社会学部現代社…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002726",
+      "originalUrl": "https://univ-journal.jp/1002726/",
+      "finalUrl": "https://univ-journal.jp/1002726",
+      "publishedAt": "2026-10-26T17:00:16+09:00",
+      "collectedAt": "2026-10-27T08:24:38+09:00",
+      "scrapedAt": "2026-10-27T08:24:38+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "884b21493b5d69acc645c0142a163901b26c8bddd7163c47c874f0860eb77bd8",
+      "trendScore": 10.08,
+      "createdAt": "2026-10-27T08:24:38+09:00",
+      "updatedAt": "2026-10-27T08:24:38+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002687",
+      "title": "国の特別天然記念物を首都圏で深く知る2日間 「第21回日本オオサンショウウオの会 相模原大会」 麻布大学で11/7（土）・8（日）開催",
+      "originalTitle": "国の特別天然記念物を首都圏で深く知る2日間　「第21回日本オオサンショウウオの会 相模原大会」　麻布大学で11/7（土）・8（日）開催",
+      "summary": "TOP > トピックス > 国の特別天然記念物を首都圏で深く知る2日間 「第21回日本オオサンショウウオの会 相模原大会」 麻布大学で11/7（土）・8（日）開催 2026年10月26日 国の特別天然記念物を首都圏で深く知る2日間 「第21回日本オオサンショウウオの会 相模原大会」 麻布大学で11/7（土）・8（日）開催 大学ジャーナルオンライン編集部 シンポジウム ワークショップ 特別天然記念物…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002687",
+      "originalUrl": "https://univ-journal.jp/1002687/",
+      "finalUrl": "https://univ-journal.jp/1002687",
+      "publishedAt": "2026-10-26T11:00:03+09:00",
+      "collectedAt": "2026-10-27T08:24:39+09:00",
+      "scrapedAt": "2026-10-27T08:24:39+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "ac4c692c2422fd488ad1fca1fc0b987583a1f68f61647bf38bcdf2c0300eb068",
+      "trendScore": 9.73,
+      "createdAt": "2026-10-27T08:24:39+09:00",
+      "updatedAt": "2026-10-27T08:24:39+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261002565",
+      "title": "金沢大学「融合学域」 文理融合教育の先駆け 学生の高校時代の文理選択はどうだったか - 大学ジャーナルオンライン",
+      "originalTitle": "金沢大学「融合学域」　文理融合教育の先駆け　学生の高校時代の文理選択はどうだったか",
+      "summary": "TOP > コラム > 金沢大学「融合学域」 文理融合教育の先駆け 学生の高校時代の文理選択はどうだったか 2026年10月26日 金沢大学「融合学域」 文理融合教育の先駆け 学生の高校時代の文理選択はどうだったか 大学ジャーナルオンライン編集部 金沢大学 近年注目が高まっているのが、理系分野だけでなく文系分野も取り入れた、文理融合の理工系学部だ。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261002565",
+      "originalUrl": "https://univ-journal.jp/column/20261002565/",
+      "finalUrl": "https://univ-journal.jp/column/20261002565",
+      "publishedAt": "2026-10-26T07:00:05+09:00",
+      "collectedAt": "2026-10-27T08:24:39+09:00",
+      "scrapedAt": "2026-10-27T08:24:39+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "データサイエンス",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "2ba799cf338960fe2848dc927754d2968eae2f37c2bbe4c4f0fbefeff56c588b",
+      "trendScore": 9.49,
+      "createdAt": "2026-10-27T08:24:39+09:00",
+      "updatedAt": "2026-10-27T08:24:39+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/962190",
+      "title": "｢辞令直後に退職｣｢新卒採用で大苦戦｣でも《転勤廃止》踏み切れない企業…調査で見えた裏事情と｢大卒は総合職｣の限界",
+      "originalTitle": "｢辞令直後に退職｣｢新卒採用で大苦戦｣でも《転勤廃止》踏み切れない企業…調査で見えた裏事情と｢大卒は総合職｣の限界 | キャリア・教育 | 東洋経済オンライン",
+      "summary": "｢辞令直後に退職｣｢新卒採用で大苦戦｣でも《転勤廃止》踏み切れない企業…調査で見えた裏事情と｢大卒は総合職｣の限界 7分で読める 公開日時：2026/10/27 08:00 若手が嫌う「転勤ガチャ」を見直す企業が増えている。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/962190",
+      "originalUrl": "https://toyokeizai.net/articles/-/962190?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/962190",
+      "publishedAt": "2026-10-27T08:00:00+09:00",
+      "collectedAt": "2026-10-27T08:24:41+09:00",
+      "scrapedAt": "2026-10-27T08:24:41+09:00",
+      "lastVerifiedAt": "2026-10-27T08:24:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "bf8a64eb280f5bd05e098f8cc8ee0aef7deceef9438f6584ed03bb9c0d264456",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-27T08:24:41+09:00",
+      "updatedAt": "2026-10-27T08:24:41+09:00"
     }
   ],
   "sources": [
@@ -52757,8 +53273,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-26T07:06:59+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:00+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:12+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52770,8 +53286,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-26T07:07:12+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:12+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:25+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52783,8 +53299,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-26T07:07:13+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:13+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:27+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52809,8 +53325,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-26T07:07:13+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:13+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:27+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52822,8 +53338,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-26T07:07:13+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:13+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:27+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52835,8 +53351,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-26T07:07:14+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:14+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:27+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52848,8 +53364,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-26T07:07:14+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:15+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:28+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52861,8 +53377,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-26T07:07:15+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:16+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:28+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -52965,8 +53481,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-26T07:07:16+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:16+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:29+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:30+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53004,8 +53520,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-26T07:07:17+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:17+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:30+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53017,8 +53533,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-26T07:07:17+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:17+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:31+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53030,8 +53546,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-26T07:07:17+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:19+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:31+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53043,8 +53559,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-26T07:07:19+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:19+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:32+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:32+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53056,8 +53572,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-26T07:07:19+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:20+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:32+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53069,8 +53585,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-26T07:07:20+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:20+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:33+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53095,8 +53611,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-26T07:07:20+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:21+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:33+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:34+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53160,8 +53676,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-26T07:07:22+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:24+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:36+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53173,8 +53689,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-26T07:07:25+09:00",
-      "lastSuccessAt": "2026-10-26T07:07:26+09:00",
+      "lastFetchedAt": "2026-10-27T08:24:39+09:00",
+      "lastSuccessAt": "2026-10-27T08:24:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -53387,6 +53903,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261027-0824",
+      "scheduledAt": "2026-10-27T08:24:12+09:00",
+      "startedAt": "2026-10-27T08:24:12+09:00",
+      "finishedAt": "2026-10-27T08:24:42+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 21,
+      "duplicatesRemoved": 0,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261026-0706",
       "scheduledAt": "2026-10-26T07:06:59+09:00",
@@ -55505,45 +56040,13 @@
           "message": "フィード取得失敗: Status code 403"
         }
       ]
-    },
-    {
-      "jobId": "manual-20260716T1154",
-      "scheduledAt": "2026-07-16T11:54:00+09:00",
-      "startedAt": "2026-07-16T11:54:00+09:00",
-      "finishedAt": "2026-07-16T11:54:07+09:00",
-      "status": "partial_success",
-      "sourcesAttempted": 17,
-      "sourcesSucceeded": 13,
-      "sourcesFailed": 4,
-      "candidatesFound": 199,
-      "duplicatesRemoved": 20,
-      "invalidUrlsRemoved": 0,
-      "articlesPublished": 25,
-      "errors": [
-        {
-          "sourceId": "src-stat-search",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "src-riken",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "src-nii",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "src-utokyo",
-          "message": "フィード取得失敗: Status code 404"
-        }
-      ]
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-10-26T07:07:38+09:00",
-    "lastSuccessAt": "2026-10-26T07:07:38+09:00",
-    "nextScheduledAt": "2026-10-27T05:00:00+09:00",
-    "lastJobStatus": "partial_success"
+    "lastCollectionAt": "2026-10-27T08:24:42+09:00",
+    "lastSuccessAt": "2026-10-27T08:24:42+09:00",
+    "nextScheduledAt": "2026-10-28T05:00:00+09:00",
+    "lastJobStatus": "success"
   },
   "preferences": {
     "categories": {
