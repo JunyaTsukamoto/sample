@@ -54813,6 +54813,520 @@
       "trendScore": 10.99,
       "createdAt": "2026-10-30T08:40:20+09:00",
       "updatedAt": "2026-10-30T08:40:20+09:00"
+    },
+    {
+      "id": "https://qiita.com/Git_Dayori/items/2ec6f021604046d5a619",
+      "title": "【GitHub日報】初登場ゼロ、impeccableが+2,299で2日連続スター増加数トップ — 2026-10-31 - Qiita",
+      "originalTitle": "【GitHub日報】初登場ゼロ、impeccableが+2,299で2日連続スター増加数トップ — 2026-10-31",
+      "summary": "@ Git_Dayori 【GitHub日報】初登場ゼロ、impeccableが+2,299で2日連続スター増加数トップ — 2026-10-31 GitHub トレンド OSS AI 開発ツール 0 Posted at 2026-10-30 GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Git_Dayori/items/2ec6f021604046d5a619",
+      "originalUrl": "https://qiita.com/Git_Dayori/items/2ec6f021604046d5a619",
+      "finalUrl": "https://qiita.com/Git_Dayori/items/2ec6f021604046d5a619",
+      "publishedAt": "2026-10-31T07:30:57+09:00",
+      "collectedAt": "2026-10-31T08:18:39+09:00",
+      "scrapedAt": "2026-10-31T08:18:39+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "4aee329795fa1139b1c5f60c391cccb53338023e54c8ab3610c9c50d6fb09666",
+      "trendScore": 10.95,
+      "createdAt": "2026-10-31T08:18:39+09:00",
+      "updatedAt": "2026-10-31T08:18:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/VulcanFeynmanX/items/13e430c1696b418760b2",
+      "title": "無料のAI画像・動画スタジオ Dola AI Studio でプロンプトを改善する方法 - Qiita",
+      "originalTitle": "無料のAI画像・動画スタジオ Dola AI Studio でプロンプトを改善する方法",
+      "summary": "@ VulcanFeynmanX 無料のAI画像・動画スタジオ Dola AI Studio でプロンプトを改善する方法 AI 画像生成 動画生成 0 Posted at 2026-10-30 はじめに 画像や動画の生成 AI を開発中のプロトタイプやドキュメントに取り入れたい場面は増えています。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/VulcanFeynmanX/items/13e430c1696b418760b2",
+      "originalUrl": "https://qiita.com/VulcanFeynmanX/items/13e430c1696b418760b2",
+      "finalUrl": "https://qiita.com/VulcanFeynmanX/items/13e430c1696b418760b2",
+      "publishedAt": "2026-10-31T07:30:49+09:00",
+      "collectedAt": "2026-10-31T08:18:45+09:00",
+      "scrapedAt": "2026-10-31T08:18:45+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:45+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ロボット",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5685bfeb6f69e6185bf2616b3ae0b5f1711c3d4d64121a283c1e0eea0c45aa7d",
+      "trendScore": 10.95,
+      "createdAt": "2026-10-31T08:18:45+09:00",
+      "updatedAt": "2026-10-31T08:18:45+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/da3ee47241f8d7d92e9c",
+      "title": "Claude Opus 4.8 fast modeが2026/11/30廃止｜Opus 5.5への移行手順 - Qiita",
+      "originalTitle": "Claude Opus 4.8 fast modeが2026/11/30廃止｜Opus 5.5への移行手順",
+      "summary": "@ picnic Claude Opus 4.8 fast modeが2026/11/30廃止｜Opus 5.5への移行手順 Claude Anthropic API LLM AI 0 Posted at 2026-10-30 はじめに 2026年10月30日付のリリースノートで、 Claude Opus 4.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/da3ee47241f8d7d92e9c",
+      "originalUrl": "https://qiita.com/picnic/items/da3ee47241f8d7d92e9c",
+      "finalUrl": "https://qiita.com/picnic/items/da3ee47241f8d7d92e9c",
+      "publishedAt": "2026-10-31T07:11:02+09:00",
+      "collectedAt": "2026-10-31T08:18:51+09:00",
+      "scrapedAt": "2026-10-31T08:18:51+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "febd9a6b241ae3f9d3f0771adb7b32a0708a96509079752a015762ead9624749",
+      "trendScore": 10.93,
+      "createdAt": "2026-10-31T08:18:51+09:00",
+      "updatedAt": "2026-10-31T08:18:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/wow88my_official/items/4cf0b1748a9d65d63c08",
+      "title": "Pythonで学ぶレコメンドシステム入門：scikit-learnを使ったコンテンツ推薦の実装 - Qiita",
+      "originalTitle": "Pythonで学ぶレコメンドシステム入門：scikit-learnを使ったコンテンツ推薦の実装",
+      "summary": "@ wow88my_official ( wow88my official ) Pythonで学ぶレコメンドシステム入門：scikit-learnを使ったコンテンツ推薦の実装 Python scikit-learn 機械学習 0 Posted at 2026-10-30 動画配信サービス、ニュースサイト、オンライン学習プラットフォームなど、多くのWebサービスではレコメンドシステムが利用されています。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/wow88my_official/items/4cf0b1748a9d65d63c08",
+      "originalUrl": "https://qiita.com/wow88my_official/items/4cf0b1748a9d65d63c08",
+      "finalUrl": "https://qiita.com/wow88my_official/items/4cf0b1748a9d65d63c08",
+      "publishedAt": "2026-10-30T15:26:29+09:00",
+      "collectedAt": "2026-10-31T08:18:52+09:00",
+      "scrapedAt": "2026-10-31T08:18:52+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "プライバシー",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "ecd948176a6e7373c6214c15fbcfd121a52871b95e59706f9de38e2735900612",
+      "trendScore": 10,
+      "createdAt": "2026-10-31T08:18:52+09:00",
+      "updatedAt": "2026-10-31T08:18:52+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
+      "title": "共通機能の標準仕様｜デジタル庁",
+      "originalTitle": "「地方公共団体情報システム共通機能標準仕様書」に関するFAQの資料を更新しました",
+      "summary": "共通機能の標準仕様 最終更新日: 2026年10月30日 制度所管省庁等と協力して、基幹業務システムの共通機能の標準仕様について作成しています。新着情報 2026年10月30日 仕様書に関するFAQ・リファレンス（推奨指針）資料 の「地方公共団体情報システム共通機能標準仕様書」に関するFAQを更新しました 2026年9月30日 仕様書最新版のリンク集 を更新しました 各資料へのリンク 仕様書最新版…",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
+      "originalUrl": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
+      "finalUrl": "https://www.digital.go.jp/policies/local_governments/common-feature-specification",
+      "publishedAt": "2026-10-30T15:00:00+09:00",
+      "collectedAt": "2026-10-31T08:18:52+09:00",
+      "scrapedAt": "2026-10-31T08:18:52+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "901a370c761022f0ec1dbfdc46daaf04313ee88285b840269dc1dfc9699436aa",
+      "trendScore": 9.97,
+      "createdAt": "2026-10-31T08:18:52+09:00",
+      "updatedAt": "2026-10-31T08:18:52+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo10_hh_000390.html",
+      "title": "国土交通省｜報道資料｜11月はエコドライブ推進月間です！！<br>～地球と財布にやさしいエコドライブを始めよう～",
+      "originalTitle": "11���̓G�R�h���C�u���i���Ԃł��I�I�`�n���ƍ��z�ɂ₳�����G�R�h���C�u���n�߂悤�`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 11月はエコドライブ推進月間です！～地球と財布にやさしいエコドライブを始めよう～ 11月はエコドライブ推進月間です！～地球と財布にやさしいエコドライブを始めよう～ 令和8年10月30日 同時発表：警察庁、経済産業省 警察庁、経済産業省、国土交通省及び環境省で構成するエコドライブ普及連絡会では、11 月を「エコドライブ推進月間」として、エコドライブの普及・推進を図っています。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo10_hh_000390.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo10_hh_000390.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo10_hh_000390.html",
+      "publishedAt": "2026-10-30T05:00:00+09:00",
+      "collectedAt": "2026-10-31T08:18:56+09:00",
+      "scrapedAt": "2026-10-31T08:18:56+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "36971fe15abd52c6fdf58ae7a984c63a26d9f467d1e3bb4943b92d0fc0f060c5",
+      "trendScore": 9.37,
+      "createdAt": "2026-10-31T08:18:56+09:00",
+      "updatedAt": "2026-10-31T08:18:56+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/joho04_hh_001400.html",
+      "title": "国土交通省｜報道資料｜建築着工統計調査報告（令和８年９月分）",
+      "originalTitle": "���z���H���v�����񍐁i�ߘa�W�N�X�����j",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 建築着工統計調査報告（令和８年９月分） 建築着工統計調査報告（令和８年９月分） 令和8年10月30日 ◇住宅着工統計 ９月の新設住宅着工は，持家，貸家，分譲住宅が減少したため， 全体で前年同月比2.",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/joho04_hh_001400.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/joho04_hh_001400.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/joho04_hh_001400.html",
+      "publishedAt": "2026-10-30T05:00:00+09:00",
+      "collectedAt": "2026-10-31T08:18:56+09:00",
+      "scrapedAt": "2026-10-31T08:18:56+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "c7630e612a841ce890f32f9f998a4acff97157f407bd2323d247a61243017e18",
+      "trendScore": 9.37,
+      "createdAt": "2026-10-31T08:18:56+09:00",
+      "updatedAt": "2026-10-31T08:18:56+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo09_hh_000444.html",
+      "title": "国土交通省｜報道資料｜第２期 第１回「国土交通ジェンダーネットワーク会議｣を開催しました！<br>～民間・業界の枠を超え、課題や具体的アクションについて議論しました～",
+      "originalTitle": "��Q�� ��P��u���y��ʃW�F���_�[�l�b�g���[�N��c����J�Â��܂����I�`���ԁE�ƊE�̘g�𒴂��A�ۑ���̓I�A�N�V�����ɂ��ċc�_���܂����`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 第２期 第１回「国土交通ジェンダーネットワーク会議｣を開催しました！～民間・業界の枠を超え、課題や具体的アクションについて議論しました～ 第２期 第１回「国土交通ジェンダーネットワーク会議｣を開催しました！",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo09_hh_000444.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo09_hh_000444.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo09_hh_000444.html",
+      "publishedAt": "2026-10-30T05:00:00+09:00",
+      "collectedAt": "2026-10-31T08:18:56+09:00",
+      "scrapedAt": "2026-10-31T08:18:56+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "874ecdac7e05ce6db3debba148a5df9d554ba9005c9a693f5a6336f938366f36",
+      "trendScore": 9.37,
+      "createdAt": "2026-10-31T08:18:56+09:00",
+      "updatedAt": "2026-10-31T08:18:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000009.000181724.html",
+      "title": "HiSR株式会社、複数の地球観測データを統合するAI地震予測技術について特許を出願",
+      "originalTitle": "HiSR株式会社、複数の地球観測データを統合するAI地震予測技術について特許を出願",
+      "summary": "HiSR株式会社、複数の地球観測データを統合するAI地震予測技術について特許を出願 電離圏・大気・地震活動などの異種観測データを共同学習し、地震発生リスクの評価技術の実用化を目指す HiSR株式会社 2026年10月30日 18時59分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000181724.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000009.000181724.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000009.000181724.html",
+      "publishedAt": "2026-10-31T08:10:02+09:00",
+      "collectedAt": "2026-10-31T08:18:57+09:00",
+      "scrapedAt": "2026-10-31T08:18:57+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "研究開発",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "675425206a9027a9a0d52e94fb82521dc601ec52de45df9daca67e5e98d02fb5",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-31T08:18:57+09:00",
+      "updatedAt": "2026-10-31T08:18:57+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000299.000073594.html",
+      "title": "【入場無料】ZBrushスカルプトタイムアタック「The マウント 2026」を11月19日（木）に開催 お題は「羊」、制限時間90分のライブ造形ショーケース",
+      "originalTitle": "【入場無料】ZBrushスカルプトタイムアタック「The マウント 2026」を11月19日（木）に開催　お題は「羊」、制限時間90分のライブ造形ショーケース",
+      "summary": "【入場無料】ZBrushスカルプトタイムアタック「The マウント 2026」を11月19日（木）\u0000\u0000に開催 お題は「羊」、制限時間90分のライブ造形ショーケース 株式会社ボーンデジタル 2026年10月30日 18時36分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000299.000073594.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000299.000073594.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000299.000073594.html",
+      "publishedAt": "2026-10-31T08:10:02+09:00",
+      "collectedAt": "2026-10-31T08:18:57+09:00",
+      "scrapedAt": "2026-10-31T08:18:57+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "e957ee7c972844f64c0bcc1e624cb92add0fc8fa136e0dd63de84bc3229e42d7",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-31T08:18:57+09:00",
+      "updatedAt": "2026-10-31T08:18:57+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000005.000185545.html",
+      "title": "足立区の職人が古民家で行う1DAYワークショップ「千住ざわざわ市」開催",
+      "originalTitle": "足立区の職人が古民家で行う1DAYワークショップ「千住ざわざわ市」開催",
+      "summary": "足立区の職人が古民家で行う1DAYワークショップ「千住ざわざわ市」開催 〜2026年11月8日（日）、北千住の戦前日本家屋「仲町の家」に伝統技と手仕事が集結〜 しもさん株式会社 2026年10月30日 14時06分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000185545.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000005.000185545.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000005.000185545.html",
+      "publishedAt": "2026-10-31T08:10:02+09:00",
+      "collectedAt": "2026-10-31T08:18:58+09:00",
+      "scrapedAt": "2026-10-31T08:18:58+09:00",
+      "lastVerifiedAt": "2026-10-31T08:18:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "8569a39b8b20e4857a1d938b2b4f3ba9669faa419f4452dc5d406bcd394d0a2c",
+      "trendScore": 10.99,
+      "createdAt": "2026-10-31T08:18:58+09:00",
+      "updatedAt": "2026-10-31T08:18:58+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002704",
+      "title": "約10万点の「醍醐寺文書聖教」が国宝指定 日本女子大学主導の全点調査が貢献",
+      "originalTitle": "約10万点の「醍醐寺文書聖教」が国宝指定　日本女子大学主導の全点調査が貢献",
+      "summary": "TOP > 研究成果 > 約10万点の「醍醐寺文書聖教」が国宝指定 日本女子大学主導の全点調査が貢献 2026年10月30日 約10万点の「醍醐寺文書聖教」が国宝指定 日本女子大学主導の全点調査が貢献 大学ジャーナルオンライン編集部 学術調査 文化庁 日本女子大学 日本女子大学が文化庁より委託を受けて継続的に学術調査を実施してきた約10万点の「醍醐寺文書聖教（だいごじもんじょしょうぎょう）」が、こ…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002704",
+      "originalUrl": "https://univ-journal.jp/1002704/",
+      "finalUrl": "https://univ-journal.jp/1002704",
+      "publishedAt": "2026-10-30T17:00:20+09:00",
+      "collectedAt": "2026-10-31T08:19:04+09:00",
+      "scrapedAt": "2026-10-31T08:19:04+09:00",
+      "lastVerifiedAt": "2026-10-31T08:19:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "69e594baabe7a638271643a1beeac876c456c91c8d5f912ed9a47bacf85cb6ce",
+      "trendScore": 10.09,
+      "createdAt": "2026-10-31T08:19:04+09:00",
+      "updatedAt": "2026-10-31T08:19:04+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002503",
+      "title": "麻布大学 職員の「Well-being」を実現する新たな働き方改革を開始",
+      "originalTitle": "麻布大学　職員の「Well-being」を実現する新たな働き方改革を開始",
+      "summary": "TOP > トピックス > 麻布大学 職員の「Well-being」を実現する新たな働き方改革を開始 2026年10月30日 麻布大学 職員の「Well-being」を実現する新たな働き方改革を開始 大学ジャーナルオンライン編集部 ウェルビーイング 働き方改革 大学職員 麻布大学 麻布大学は、2026年度より、事務職員のWell-being（心身の健康と満たされた状態）の高まりが組織全体の活性化と…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002503",
+      "originalUrl": "https://univ-journal.jp/1002503/",
+      "finalUrl": "https://univ-journal.jp/1002503",
+      "publishedAt": "2026-10-30T11:00:08+09:00",
+      "collectedAt": "2026-10-31T08:19:05+09:00",
+      "scrapedAt": "2026-10-31T08:19:05+09:00",
+      "lastVerifiedAt": "2026-10-31T08:19:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "14ad0530b1c12bd4fce7f3b5fa9d05fc8123d1758f0f6ad071d2235656476c53",
+      "trendScore": 9.73,
+      "createdAt": "2026-10-31T08:19:05+09:00",
+      "updatedAt": "2026-10-31T08:19:05+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/962067",
+      "title": "16年勤めた《グーグル》を解雇された日…朝届いたイタズラと思える1通のメールで突然職を失ったベテラン社員の告白",
+      "originalTitle": "16年勤めた《グーグル》を解雇された日…朝届いたイタズラと思える1通のメールで突然職を失ったベテラン社員の告白 | ライフ | 東洋経済オンライン",
+      "summary": "16年勤めた《グーグル》を解雇された日…朝届いたイタズラと思える1通のメールで突然職を失ったベテラン社員の告白 8分で読める 公開日時：2026/10/31 08:00 グーグルをある日突然解雇された筆者の体験談（写真：ロイター／アフロ） ロイス・キム（チョン・キム・ギョンスク） 作家 フォロー 2022年､シリコンバレーではレイオフの嵐が吹き荒れました。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/962067",
+      "originalUrl": "https://toyokeizai.net/articles/-/962067?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/962067",
+      "publishedAt": "2026-10-31T08:00:00+09:00",
+      "collectedAt": "2026-10-31T08:19:06+09:00",
+      "scrapedAt": "2026-10-31T08:19:06+09:00",
+      "lastVerifiedAt": "2026-10-31T08:19:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "265e7db573fb34425a6067896aa7111c81c905c7e921a1e22b3c9321508eba15",
+      "trendScore": 10.98,
+      "createdAt": "2026-10-31T08:19:06+09:00",
+      "updatedAt": "2026-10-31T08:19:06+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/961901",
+      "title": "遊郭を支える下町として繁栄も…一度は衰退した商店街が｢ノスタルジックな街｣として再生､鍵を握った｢不思議な長屋｣の正体",
+      "originalTitle": "遊郭を支える下町として繁栄も…一度は衰退した商店街が｢ノスタルジックな街｣として再生､鍵を握った｢不思議な長屋｣の正体 | ライフ | 東洋経済オンライン",
+      "summary": "遊郭を支える下町として繁栄も…一度は衰退した商店街が｢ノスタルジックな街｣として再生､鍵を握った｢不思議な長屋｣の正体 10分で読める 公開日時：2026/10/31 07:30 西鶴賀エリアは近年、ノスタルジックな街として知られるようになった（写真：事務局提供） 熊井 博子 ライター フォロー かつて寂れた街だった長野･西鶴賀。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/961901",
+      "originalUrl": "https://toyokeizai.net/articles/-/961901?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/961901",
+      "publishedAt": "2026-10-31T07:30:00+09:00",
+      "collectedAt": "2026-10-31T08:19:06+09:00",
+      "scrapedAt": "2026-10-31T08:19:06+09:00",
+      "lastVerifiedAt": "2026-10-31T08:19:06+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "e8266bff62a9f3e79a81595a878e1c8859cab1437938aea28b4d62b735a4d147",
+      "trendScore": 10.95,
+      "createdAt": "2026-10-31T08:19:06+09:00",
+      "updatedAt": "2026-10-31T08:19:06+09:00"
     }
   ],
   "sources": [
@@ -54825,8 +55339,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-30T08:39:47+09:00",
-      "lastSuccessAt": "2026-10-30T08:39:47+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:38+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -54838,8 +55352,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-30T08:40:00+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:01+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:51+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -54851,8 +55365,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-30T08:40:02+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:02+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:52+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -54877,8 +55391,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-30T08:40:02+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:03+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:52+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -54890,8 +55404,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-30T08:40:03+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:03+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:52+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -54903,8 +55417,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-30T08:40:03+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:04+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:52+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -54916,8 +55430,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-30T08:40:04+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:05+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:53+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -54929,8 +55443,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-10-30T08:40:06+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:07+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:55+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:55+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55033,8 +55547,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-10-30T08:40:08+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:08+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:56+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55072,8 +55586,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-10-30T08:40:08+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:09+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:58+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55085,8 +55599,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-30T08:40:09+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:09+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:58+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55098,8 +55612,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-30T08:40:09+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:11+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:58+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55111,8 +55625,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-10-30T08:40:11+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:11+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:59+09:00",
+      "lastSuccessAt": "2026-10-31T08:18:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55124,8 +55638,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-30T08:40:11+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:11+09:00",
+      "lastFetchedAt": "2026-10-31T08:18:59+09:00",
+      "lastSuccessAt": "2026-10-31T08:19:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55137,8 +55651,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-30T08:40:11+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:12+09:00",
+      "lastFetchedAt": "2026-10-31T08:19:00+09:00",
+      "lastSuccessAt": "2026-10-31T08:19:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55163,8 +55677,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-30T08:40:12+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:12+09:00",
+      "lastFetchedAt": "2026-10-31T08:19:00+09:00",
+      "lastSuccessAt": "2026-10-31T08:19:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55228,8 +55742,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-10-30T08:40:15+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:16+09:00",
+      "lastFetchedAt": "2026-10-31T08:19:02+09:00",
+      "lastSuccessAt": "2026-10-31T08:19:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55241,8 +55755,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-10-30T08:40:18+09:00",
-      "lastSuccessAt": "2026-10-30T08:40:19+09:00",
+      "lastFetchedAt": "2026-10-31T08:19:05+09:00",
+      "lastSuccessAt": "2026-10-31T08:19:05+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -55455,6 +55969,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261031-0818",
+      "scheduledAt": "2026-10-31T08:18:38+09:00",
+      "startedAt": "2026-10-31T08:18:38+09:00",
+      "finishedAt": "2026-10-31T08:19:06+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 58,
+      "duplicatesRemoved": 4,
+      "invalidUrlsRemoved": 3,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261030-0839",
       "scheduledAt": "2026-10-30T08:39:47+09:00",
@@ -57441,52 +57974,12 @@
           "message": "フィード取得失敗: Status code 403"
         }
       ]
-    },
-    {
-      "jobId": "collection-20260723-0550",
-      "scheduledAt": "2026-07-23T05:50:42+09:00",
-      "startedAt": "2026-07-23T05:50:42+09:00",
-      "finishedAt": "2026-07-23T05:52:14+09:00",
-      "status": "partial_success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 18,
-      "sourcesFailed": 6,
-      "candidatesFound": 54,
-      "duplicatesRemoved": 1,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 15,
-      "errors": [
-        {
-          "sourceId": "src-thebridge",
-          "message": "フィード取得失敗: Status code 403"
-        },
-        {
-          "sourceId": "src-atpress",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "src-aist",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "src-nict",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "src-ppc",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "src-caa",
-          "message": "フィード取得失敗: Status code 403"
-        }
-      ]
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-10-30T08:40:21+09:00",
-    "lastSuccessAt": "2026-10-30T08:40:21+09:00",
-    "nextScheduledAt": "2026-10-31T05:00:00+09:00",
+    "lastCollectionAt": "2026-10-31T08:19:06+09:00",
+    "lastSuccessAt": "2026-10-31T08:19:06+09:00",
+    "nextScheduledAt": "2026-11-01T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
