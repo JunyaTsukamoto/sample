@@ -56838,6 +56838,524 @@
       "trendScore": 10.95,
       "createdAt": "2026-11-03T10:53:56+09:00",
       "updatedAt": "2026-11-03T10:53:56+09:00"
+    },
+    {
+      "id": "https://qiita.com/boraemon2000/items/8d4d3907239ca5a7fa71",
+      "title": "毎日デプロイを週次で見直す方法――公開回数ではなく「届いた価値」と「戻しやすさ」を測る - Qiita",
+      "originalTitle": "毎日デプロイを週次で見直す方法――公開回数ではなく「届いた価値」と「戻しやすさ」を測る",
+      "summary": "@ boraemon2000 毎日デプロイを週次で見直す方法――公開回数ではなく「届いた価値」と「戻しやすさ」を測る AI GitHub デプロイナウ 個人開発 プロジェクト管理 0 Posted at 2026-11-04 毎日デプロイを週次で見直す方法――公開回数ではなく「届いた価値」と「戻しやすさ」を測る 毎日デプロイする習慣ができると、1週間で多くの変更履歴が残ります。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/boraemon2000/items/8d4d3907239ca5a7fa71",
+      "originalUrl": "https://qiita.com/boraemon2000/items/8d4d3907239ca5a7fa71",
+      "finalUrl": "https://qiita.com/boraemon2000/items/8d4d3907239ca5a7fa71",
+      "publishedAt": "2026-11-04T09:08:58+09:00",
+      "collectedAt": "2026-11-04T09:14:01+09:00",
+      "scrapedAt": "2026-11-04T09:14:01+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "3eea2d0e0b07091ae11f94ba5f92c0dba1e23d2ba5b839431858d047f8180d18",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-04T09:14:01+09:00",
+      "updatedAt": "2026-11-04T09:14:01+09:00"
+    },
+    {
+      "id": "https://qiita.com/himajisan/items/20bebee7a4dbc8c970fd",
+      "title": "AIに3D部品を設計させる指示の書き方 ― 形の名前と数字だけで伝える - Qiita",
+      "originalTitle": "AIに3D部品を設計させる指示の書き方 ― 形の名前と数字だけで伝える",
+      "summary": "@ himajisan AIに3D部品を設計させる指示の書き方 ― 形の名前と数字だけで伝える 3Dプリンター, AI OpenSCAD, Fusion, ClaudeAI 0 Posted at 2026-11-04 はじめに AIに3Dプリント用の部品を設計させるとき、苦労するのは形そのものではなく「指示文を考えること」です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/himajisan/items/20bebee7a4dbc8c970fd",
+      "originalUrl": "https://qiita.com/himajisan/items/20bebee7a4dbc8c970fd",
+      "finalUrl": "https://qiita.com/himajisan/items/20bebee7a4dbc8c970fd",
+      "publishedAt": "2026-11-04T09:06:44+09:00",
+      "collectedAt": "2026-11-04T09:14:07+09:00",
+      "scrapedAt": "2026-11-04T09:14:07+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:07+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "05624aa5055af26a1bdab4babc76bd1ac7f6a0cfd4a35f8e09bd8a4a4987e1a3",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-04T09:14:07+09:00",
+      "updatedAt": "2026-11-04T09:14:07+09:00"
+    },
+    {
+      "id": "https://qiita.com/nobu34/items/a73129c6401ebae10960",
+      "title": "「AIのレビューだけでマージ、正直まだ怖い」と思ってたけど、条件次第ならアリかもしれない話 - Qiita",
+      "originalTitle": "「AIのレビューだけでマージ、正直まだ怖い」と思ってたけど、条件次第ならアリかもしれない話",
+      "summary": "@ nobu34 in Kaoエンジニアコミュニティβ 「AIのレビューだけでマージ、正直まだ怖い」と思ってたけど、条件次第ならアリかもしれない話 AI AI駆動開発 レビュー tips ポエム 2 Posted at 2026-11-03 プルリクエストが、終わらない 「AIのおかげでコードを書くのは速くなった。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/nobu34/items/a73129c6401ebae10960",
+      "originalUrl": "https://qiita.com/nobu34/items/a73129c6401ebae10960",
+      "finalUrl": "https://qiita.com/nobu34/items/a73129c6401ebae10960",
+      "publishedAt": "2026-11-04T08:39:33+09:00",
+      "collectedAt": "2026-11-04T09:14:13+09:00",
+      "scrapedAt": "2026-11-04T09:14:13+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "規制"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "0f1f03498914b6d59f5274d08fdd4db27529e159a308bd7deb95d11d6babe267",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-04T09:14:13+09:00",
+      "updatedAt": "2026-11-04T09:14:13+09:00"
+    },
+    {
+      "id": "https://qiita.com/takayuki_0127/items/ab240e328f058958229f",
+      "title": "因果フォレストで「誰に効いたか」を推定し、県を外した予測とプラセボで確かめる：econml の CausalForestDML の実装 - Qiita",
+      "originalTitle": "因果フォレストで「誰に効いたか」を推定し、県を外した予測とプラセボで確かめる：econml の CausalForestDML の実装",
+      "summary": "@ takayuki_0127 ( 松浦 孝征 ) 因果フォレストで「誰に効いたか」を推定し、県を外した予測とプラセボで確かめる：econml の CausalForestDML の実装 Python 機械学習 因果推論 EconML 統計 0 Posted at 2026-11-03 何を確かめたいか 最低賃金の上がり幅が大きかった県・年ほど就業率が下がったか、そしてその効き方が県の特徴（最低賃…",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/takayuki_0127/items/ab240e328f058958229f",
+      "originalUrl": "https://qiita.com/takayuki_0127/items/ab240e328f058958229f",
+      "finalUrl": "https://qiita.com/takayuki_0127/items/ab240e328f058958229f",
+      "publishedAt": "2026-11-04T07:26:23+09:00",
+      "collectedAt": "2026-11-04T09:14:13+09:00",
+      "scrapedAt": "2026-11-04T09:14:13+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "99a17b60ae592f62d202873be35a84eed6306c043ab36849bbf6e9a7d2145869",
+      "trendScore": 10.89,
+      "createdAt": "2026-11-04T09:14:13+09:00",
+      "updatedAt": "2026-11-04T09:14:13+09:00"
+    },
+    {
+      "id": "https://qiita.com/etale_cohomology/items/ee7efaf3d75d80c193ce",
+      "title": "「最適輸送」はなぜAI時代の必修数学になったのか ―― 砂山の引っ越しで理解するWasserstein距離・Sinkhornと拡散モデル・single-cell・ドメイン適応 - Qiita",
+      "originalTitle": "「最適輸送」はなぜAI時代の必修数学になったのか ―― 砂山の引っ越しで理解するWasserstein距離・Sinkhornと拡散モデル・single-cell・ドメイン適応",
+      "summary": "@ etale_cohomology ( Etale Cohomology ) 「最適輸送」はなぜAI時代の必修数学になったのか ―― 砂山の引っ越しで理解するWasserstein距離・Sinkhornと拡散モデル・single-cell・ドメイン適応 Python 機械学習 深層学習 GAN 自然言語処理 0 Posted at 2026-11-03 1.",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/etale_cohomology/items/ee7efaf3d75d80c193ce",
+      "originalUrl": "https://qiita.com/etale_cohomology/items/ee7efaf3d75d80c193ce",
+      "finalUrl": "https://qiita.com/etale_cohomology/items/ee7efaf3d75d80c193ce",
+      "publishedAt": "2026-11-04T01:32:10+09:00",
+      "collectedAt": "2026-11-04T09:14:14+09:00",
+      "scrapedAt": "2026-11-04T09:14:14+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:14+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM",
+        "データサイエンス"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "21b8fd99bb8883b18bf21ce90c94dc9656bab2dfd7a18eaa6c09c16e63fc9cd9",
+      "trendScore": 10.54,
+      "createdAt": "2026-11-04T09:14:14+09:00",
+      "updatedAt": "2026-11-04T09:14:14+09:00"
+    },
+    {
+      "id": "https://qiita.com/KimuraSoh/items/9dfe1ac19901eb50f10c",
+      "title": "カーネル法と再生核ヒルベルト空間 - Qiita",
+      "originalTitle": "カーネル法と再生核ヒルベルト空間",
+      "summary": "@ KimuraSoh ( Soh Kimura ) カーネル法と再生核ヒルベルト空間 カーネル 再生核ヒルベルト空間 リースの表現定理 機械学習 0 Last updated at 2026-11-03 Posted at 2026-11-03 はじめに 機械学習の様々なところに顔を出すカーネル法は、実装自体非常に簡単ですが、その背景の理論を勉強しようとすると、関数解析などの話が絡み、一気に話が難しくなってしまいます。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/KimuraSoh/items/9dfe1ac19901eb50f10c",
+      "originalUrl": "https://qiita.com/KimuraSoh/items/9dfe1ac19901eb50f10c",
+      "finalUrl": "https://qiita.com/KimuraSoh/items/9dfe1ac19901eb50f10c",
+      "publishedAt": "2026-11-03T23:35:06+09:00",
+      "collectedAt": "2026-11-04T09:14:15+09:00",
+      "scrapedAt": "2026-11-04T09:14:15+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "7160c17d93a1640f8ee338b676e34399c23e3c9ac72dea67bd122edbdd7eea0c",
+      "trendScore": 10.43,
+      "createdAt": "2026-11-04T09:14:15+09:00",
+      "updatedAt": "2026-11-04T09:14:15+09:00"
+    },
+    {
+      "id": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+      "originalTitle": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+      "summary": "&times; GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026 2026年11月4日 --> GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。",
+      "summarySource": "extractive",
+      "source": "Publickey",
+      "sourceId": "src-publickey",
+      "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "originalUrl": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "finalUrl": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "publishedAt": "2026-11-04T00:16:22+09:00",
+      "collectedAt": "2026-11-04T09:14:16+09:00",
+      "scrapedAt": "2026-11-04T09:14:16+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:16+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "セキュリティ",
+        "プライバシー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.85,
+      "contentHash": "7f560624ccc3da22e59bf3d835decd9a4d2dc04cca71ef67a815de38b23b1ed0",
+      "trendScore": 10.47,
+      "createdAt": "2026-11-04T09:14:16+09:00",
+      "updatedAt": "2026-11-04T09:14:16+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/tokatsu01_hh_001048.html",
+      "title": "国土交通省｜報道資料｜令和８年度「物流効率化推進事業」(補助事業)の二次公募の募集開始",
+      "originalTitle": "�ߘa�W�N�x�u�������������i���Ɓv(�⏕����)�̓񎟌���̕�W�J�n",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 令和８年度「物流効率化推進事業」(補助事業)の二次公募の募集開始 令和８年度「物流効率化推進事業」(補助事業)の二次公募の募集開始 令和8年11月2日 温室効果ガスの排出削減、流通業務の省力化による持続可能な物流体系の構築を図るため、 本日より「物流効率化推進事業」（補助事業）の二次募集を開始します。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/tokatsu01_hh_001048.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/tokatsu01_hh_001048.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/tokatsu01_hh_001048.html",
+      "publishedAt": "2026-11-02T05:00:00+09:00",
+      "collectedAt": "2026-11-04T09:14:20+09:00",
+      "scrapedAt": "2026-11-04T09:14:20+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:20+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "3baf6de2229a8eb09f10d6db4ccf78a340b9ad0a67912c10d9ce00f7a350ee36",
+      "trendScore": 7.89,
+      "createdAt": "2026-11-04T09:14:20+09:00",
+      "updatedAt": "2026-11-04T09:14:20+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000029.000185093.html",
+      "title": "ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始",
+      "originalTitle": "ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始",
+      "summary": "ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始 部門の大事な情報が、作った本人にしか構造の分からないExcel台帳に入ったまま、コピーが増えていく。その台帳を、何が正しい情報で誰が更新するかから作り直し、チームで回るデータベースに変えます。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000185093.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000029.000185093.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000029.000185093.html",
+      "publishedAt": "2026-11-04T08:10:02+09:00",
+      "collectedAt": "2026-11-04T09:14:21+09:00",
+      "scrapedAt": "2026-11-04T09:14:21+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "生成AI",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "86f759374ca10edbb779e0c3df5dad80a4693591c5230f187f187e9429ea6404",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-04T09:14:21+09:00",
+      "updatedAt": "2026-11-04T09:14:21+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000012.000045259.html",
+      "title": "Startup Lady協会、初の「Startup Lady Award 2026」授賞式を開催！3部門の受賞者を発表",
+      "originalTitle": "Startup Lady協会、初の「Startup Lady Award 2026」授賞式を開催！3部門の受賞者を発表",
+      "summary": "Startup Lady協会、初の「Startup Lady Award 2026」授賞式を開催！3部門の受賞者を発表 ～104件の応募から3名を選出。女性起業家、社会課題の解決に挑む起業家・団体、挑戦を支える投資家の功績を称える～ 一般社団法人Startup Lady協会 2026年11月2日 14時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000045259.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000012.000045259.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000012.000045259.html",
+      "publishedAt": "2026-11-04T08:10:02+09:00",
+      "collectedAt": "2026-11-04T09:14:21+09:00",
+      "scrapedAt": "2026-11-04T09:14:21+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "ロボット",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "072a0e5e4cef0e8f9b95dfbe5d13cc053b30e345c370cfe0d20c5ab1396d350b",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-04T09:14:21+09:00",
+      "updatedAt": "2026-11-04T09:14:21+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000102.000040560.html",
+      "title": "新規事業”立ち上げ後”の担当者が集う共創の場「NEXT Growth Summit」2027年1月28日（木）開催決定",
+      "originalTitle": "新規事業”立ち上げ後”の担当者が集う共創の場「NEXT Growth Summit」2027年1月28日（木）開催決定",
+      "summary": "新規事業”立ち上げ後”の担当者が集う共創の場「NEXT Growth Summit」2027年1月28日（木）開催決\u0000定 〜新規事業立ち上げ後を支援するスポンサー企業を募集開始〜 Spready株式会社 2026年11月2日 08時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000040560.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000102.000040560.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000102.000040560.html",
+      "publishedAt": "2026-11-04T08:10:02+09:00",
+      "collectedAt": "2026-11-04T09:14:21+09:00",
+      "scrapedAt": "2026-11-04T09:14:21+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "a61c4c07c6d70bda339b8e041396f578fb350157375c9a5d0d6d4abab70fde44",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-04T09:14:21+09:00",
+      "updatedAt": "2026-11-04T09:14:21+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002958",
+      "title": "2027年4月「農・環境」系の学部新設・改組ラッシュ 明治国際医療大学農学部が文科省から設置認可を受ける",
+      "originalTitle": "2027年4月「農・環境」系の学部新設・改組ラッシュ　明治国際医療大学農学部が文科省から設置認可を受ける",
+      "summary": "TOP > トピックス > 2027年4月「農・環境」系の学部新設・改組ラッシュ 明治国際医療大学農学部が文科省から設置認可を受ける 2026年11月3日 2027年4月「農・環境」系の学部新設・改組ラッシュ 明治国際医療大学農学部が文科省から設置認可を受ける 大学ジャーナルオンライン編集部 2027年4月新設 学科新設 明治国際医療大学 2026年10月27日、明治国際医療大学「農学部 食農エコ…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002958",
+      "originalUrl": "https://univ-journal.jp/1002958/",
+      "finalUrl": "https://univ-journal.jp/1002958",
+      "publishedAt": "2026-11-03T17:00:53+09:00",
+      "collectedAt": "2026-11-04T09:14:29+09:00",
+      "scrapedAt": "2026-11-04T09:14:29+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d87c22f9a3b9ca027da14cbad4779f8c9a475d7b8aec6d06cf0f2ed61e0e5047",
+      "trendScore": 10.03,
+      "createdAt": "2026-11-04T09:14:29+09:00",
+      "updatedAt": "2026-11-04T09:14:29+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002877",
+      "title": "佐賀県立大学 2029年4月開学に向けて「高校1年生向け」プレオープンキャンパスを開催",
+      "originalTitle": "佐賀県立大学　2029年4月開学に向けて「高校1年生向け」プレオープンキャンパスを開催",
+      "summary": "TOP > トピックス > 佐賀県立大学 2029年4月開学に向けて「高校1年生向け」プレオープンキャンパスを開催 2026年11月3日 佐賀県立大学 2029年4月開学に向けて「高校1年生向け」プレオープンキャンパスを開催 大学ジャーナルオンライン編集部 2029年4月新設 オープンキャンパス 佐賀県立大学（仮称、2029年度開学予定）は、2026年12月から2027年3月まで「高校1年生向け」プレオープンキャンパスを開催する。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002877",
+      "originalUrl": "https://univ-journal.jp/1002877/",
+      "finalUrl": "https://univ-journal.jp/1002877",
+      "publishedAt": "2026-11-03T11:00:08+09:00",
+      "collectedAt": "2026-11-04T09:14:29+09:00",
+      "scrapedAt": "2026-11-04T09:14:29+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "データサイエンス",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "fdb6685b105fcaae3b5e062392a3b6ba89fc1268b1c3989b274f46654904629e",
+      "trendScore": 9.68,
+      "createdAt": "2026-11-04T09:14:29+09:00",
+      "updatedAt": "2026-11-04T09:14:29+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002780",
+      "title": "津田塾大学 国際数理データサイエンス学部 2028年4月開設に向け準備を本格化",
+      "originalTitle": "津田塾大学 国際数理データサイエンス学部　2028年4月開設に向け準備を本格化",
+      "summary": "TOP > トピックス > 学部新設 > 津田塾大学 国際数理データサイエンス学部 2028年4月開設に向け準備を本格化 2026年11月3日 津田塾大学 国際数理データサイエンス学部 2028年4月開設に向け準備を本格化 大学ジャーナルオンライン編集部 2028年4月新設 津田塾大学 津田塾大学は学芸学部の数学科、情報科学科を改組し、2028年度に国際数理データサイエンス学部（仮称）を開設する構想を本格化させている。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002780",
+      "originalUrl": "https://univ-journal.jp/1002780/",
+      "finalUrl": "https://univ-journal.jp/1002780",
+      "publishedAt": "2026-11-03T07:00:33+09:00",
+      "collectedAt": "2026-11-04T09:14:30+09:00",
+      "scrapedAt": "2026-11-04T09:14:30+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:30+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "データサイエンス",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "e43157164069a15c5f239eb998678b01995f3b66a0ff919f3ab2a4244a6fef7c",
+      "trendScore": 9.44,
+      "createdAt": "2026-11-04T09:14:30+09:00",
+      "updatedAt": "2026-11-04T09:14:30+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/402410",
+      "title": "結果を出す謙虚な人がやっている「相手に勝ちを譲る」戦略",
+      "originalTitle": "結果を出す謙虚な人がやっている「相手に勝ちを譲る」戦略 - 「謙虚さ」という戦略",
+      "summary": "「謙虚さこそが、最強の戦略だ」と主張するのは、モルガンスタンレー、Googleなどで働き4大陸50カ国以上のリーダーを見て続けてきたピョートル氏。一流の謙虚な人は、ときに普通ではやらない戦略を取ると語ります。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/402410",
+      "originalUrl": "https://diamond.jp/articles/-/402410",
+      "finalUrl": "https://diamond.jp/articles/-/402410",
+      "publishedAt": "2026-11-04T07:10:00+09:00",
+      "collectedAt": "2026-11-04T09:14:34+09:00",
+      "scrapedAt": "2026-11-04T09:14:34+09:00",
+      "lastVerifiedAt": "2026-11-04T09:14:34+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "4ada2080b9217df3f3176c3e45f79dc5978b9218ae65d87ad6aa9959247d0dda",
+      "trendScore": 10.88,
+      "createdAt": "2026-11-04T09:14:34+09:00",
+      "updatedAt": "2026-11-04T09:14:34+09:00"
     }
   ],
   "sources": [
@@ -56850,8 +57368,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-03T10:53:24+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:25+09:00",
+      "lastFetchedAt": "2026-11-04T09:13:59+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -56863,8 +57381,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-03T10:53:38+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:38+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:13+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:13+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -56876,8 +57394,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-03T10:53:39+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:39+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:15+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:15+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -56902,8 +57420,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-03T10:53:40+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:40+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:16+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -56915,8 +57433,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-03T10:53:40+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:40+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:16+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -56928,8 +57446,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-03T10:53:41+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:41+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:16+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -56941,8 +57459,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-03T10:53:41+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:42+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:17+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:17+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -56954,8 +57472,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-03T10:53:43+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:44+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:18+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:19+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57058,8 +57576,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-03T10:53:45+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:46+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:20+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57097,8 +57615,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-03T10:53:46+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:47+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:21+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57110,8 +57628,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-03T10:53:47+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:47+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:22+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57123,8 +57641,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-03T10:53:47+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:48+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:22+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57136,8 +57654,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-03T10:53:48+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:48+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:23+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:23+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57149,8 +57667,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-03T10:53:48+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:49+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:23+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57162,8 +57680,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-03T10:53:49+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:49+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:24+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57188,8 +57706,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-03T10:53:49+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:50+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:25+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:25+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57253,8 +57771,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-03T10:53:51+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:53+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:26+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57266,8 +57784,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-03T10:53:54+09:00",
-      "lastSuccessAt": "2026-11-03T10:53:54+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:30+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:30+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57279,8 +57797,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-02T08:09:49+09:00",
-      "lastSuccessAt": "2026-11-02T08:09:50+09:00",
+      "lastFetchedAt": "2026-11-04T09:14:32+09:00",
+      "lastSuccessAt": "2026-11-04T09:14:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -57480,6 +57998,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261104-0913",
+      "scheduledAt": "2026-11-04T09:13:59+09:00",
+      "startedAt": "2026-11-04T09:13:59+09:00",
+      "finishedAt": "2026-11-04T09:14:34+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 19,
+      "sourcesFailed": 0,
+      "candidatesFound": 69,
+      "duplicatesRemoved": 8,
+      "invalidUrlsRemoved": 2,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261103-1053",
       "scheduledAt": "2026-11-03T10:53:24+09:00",
@@ -59415,44 +59952,12 @@
       "invalidUrlsRemoved": 1,
       "articlesPublished": 15,
       "errors": []
-    },
-    {
-      "jobId": "collection-20260727-0542",
-      "scheduledAt": "2026-07-27T05:42:39+09:00",
-      "startedAt": "2026-07-27T05:42:39+09:00",
-      "finishedAt": "2026-07-27T05:44:08+09:00",
-      "status": "partial_success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 26,
-      "sourcesFailed": 4,
-      "candidatesFound": 153,
-      "duplicatesRemoved": 5,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 14,
-      "errors": [
-        {
-          "sourceId": "bk-jst",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "bk-zdnet",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "bk-fsa",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "bk-jpo",
-          "message": "フィード取得失敗: Status code 403"
-        }
-      ]
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-11-03T10:53:56+09:00",
-    "lastSuccessAt": "2026-11-03T10:53:56+09:00",
-    "nextScheduledAt": "2026-11-04T05:00:00+09:00",
+    "lastCollectionAt": "2026-11-04T09:14:34+09:00",
+    "lastSuccessAt": "2026-11-04T09:14:34+09:00",
+    "nextScheduledAt": "2026-11-05T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
