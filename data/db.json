@@ -58909,6 +58909,525 @@
       "trendScore": 10.9,
       "createdAt": "2026-11-07T08:51:20+09:00",
       "updatedAt": "2026-11-07T08:51:20+09:00"
+    },
+    {
+      "id": "https://qiita.com/Git_Dayori/items/b77667568c2f6c62fc1d",
+      "title": "【GitHub日報】morluto/reaが+3,308で首位、Grok Botテンプレ集も初登場 — 2026-11-08 - Qiita",
+      "originalTitle": "【GitHub日報】morluto/reaが+3,308で首位、Grok Botテンプレ集も初登場 — 2026-11-08",
+      "summary": "@ Git_Dayori 【GitHub日報】morluto/reaが+3,308で首位、Grok Botテンプレ集も初登場 — 2026-11-08 GitHub トレンド OSS AI 開発ツール 0 Posted at 2026-11-07 GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Git_Dayori/items/b77667568c2f6c62fc1d",
+      "originalUrl": "https://qiita.com/Git_Dayori/items/b77667568c2f6c62fc1d",
+      "finalUrl": "https://qiita.com/Git_Dayori/items/b77667568c2f6c62fc1d",
+      "publishedAt": "2026-11-08T07:31:45+09:00",
+      "collectedAt": "2026-11-08T08:07:58+09:00",
+      "scrapedAt": "2026-11-08T08:07:58+09:00",
+      "lastVerifiedAt": "2026-11-08T08:07:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "セキュリティ",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "b3f377f6d55e66939e86e68aa3e782a718856326c066f1381ecb0a604639e6e3",
+      "trendScore": 10.96,
+      "createdAt": "2026-11-08T08:07:58+09:00",
+      "updatedAt": "2026-11-08T08:07:58+09:00"
+    },
+    {
+      "id": "https://qiita.com/lhjjjk4/items/bf8a1dafbe1ef167b64a",
+      "title": "AI日報 2026年11月8日：OpenAIがHacktronと脆弱性調査、Muse Wonder全ユーザー展開、Vera Rubinが推論経済学を塗り替える - Qiita",
+      "originalTitle": "AI日報 2026年11月8日：OpenAIがHacktronと脆弱性調査、Muse Wonder全ユーザー展開、Vera Rubinが推論経済学を塗り替える",
+      "summary": "@ lhjjjk4 ( KD Agentic ) AI日報 2026年11月8日：OpenAIがHacktronと脆弱性調査、Muse Wonder全ユーザー展開、Vera Rubinが推論経済学を塗り替える AI エージェント Security ハードウェア 0 Posted at 2026-11-07 11月7日のAI業界は、派手さより「既存能力の日常化」がテーマの一日になった。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/lhjjjk4/items/bf8a1dafbe1ef167b64a",
+      "originalUrl": "https://qiita.com/lhjjjk4/items/bf8a1dafbe1ef167b64a",
+      "finalUrl": "https://qiita.com/lhjjjk4/items/bf8a1dafbe1ef167b64a",
+      "publishedAt": "2026-11-08T07:08:55+09:00",
+      "collectedAt": "2026-11-08T08:08:04+09:00",
+      "scrapedAt": "2026-11-08T08:08:04+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "セキュリティ",
+        "規制"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "9b971304ec22bc4a2f361f2cf845002e090b5590df54842f566023efb870321f",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-08T08:08:04+09:00",
+      "updatedAt": "2026-11-08T08:08:04+09:00"
+    },
+    {
+      "id": "https://qiita.com/ai_secretary/items/a3c72fa33ac9e29b31be",
+      "title": "台帳を正本にした進捗ダッシュボードの作り方 - Qiita",
+      "originalTitle": "台帳を正本にした進捗ダッシュボードの作り方",
+      "summary": "@ ai_secretary 台帳を正本にした進捗ダッシュボードの作り方 AI 自動化 個人開発 副業 AIエージェント 0 Posted at 2026-11-07 数字がバラバラだと、進捗が分からなくなる AI収益の仕組みを回し始めて2日目、気づいたことがある。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/ai_secretary/items/a3c72fa33ac9e29b31be",
+      "originalUrl": "https://qiita.com/ai_secretary/items/a3c72fa33ac9e29b31be",
+      "finalUrl": "https://qiita.com/ai_secretary/items/a3c72fa33ac9e29b31be",
+      "publishedAt": "2026-11-08T07:08:52+09:00",
+      "collectedAt": "2026-11-08T08:08:10+09:00",
+      "scrapedAt": "2026-11-08T08:08:10+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:10+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "bc43ad41829618766139232a43bf69ec2f8d4d2a1d92b335d36a88500e8333b5",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-08T08:08:10+09:00",
+      "updatedAt": "2026-11-08T08:08:10+09:00"
+    },
+    {
+      "id": "https://qiita.com/outcast_zari/items/50152ed4d0ad8c28162b",
+      "title": "🤖LLMの「常識」には賞味期限がある ── 同じ週に出た2本の研究を、数字で読み直す🖥️ - Qiita",
+      "originalTitle": "🤖LLMの「常識」には賞味期限がある ── 同じ週に出た2本の研究を、数字で読み直す🖥️",
+      "summary": "@ outcast_zari ( ザリ ロブステル ) 🤖LLMの「常識」には賞味期限がある ── 同じ週に出た2本の研究を、数字で読み直す🖥️ LLM 論文紹介 AIエージェント 機械学習 まとめ 0 Posted at 2026-11-07 こんにちは、ザリ・ロブステルです。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/outcast_zari/items/50152ed4d0ad8c28162b",
+      "originalUrl": "https://qiita.com/outcast_zari/items/50152ed4d0ad8c28162b",
+      "finalUrl": "https://qiita.com/outcast_zari/items/50152ed4d0ad8c28162b",
+      "publishedAt": "2026-11-07T20:00:51+09:00",
+      "collectedAt": "2026-11-08T08:08:11+09:00",
+      "scrapedAt": "2026-11-08T08:08:11+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "00d8fb6f0b2cecd151a8747d8ca68c454a02e48ab7c216598c6721cfddd886b5",
+      "trendScore": 10.28,
+      "createdAt": "2026-11-08T08:08:11+09:00",
+      "updatedAt": "2026-11-08T08:08:11+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sabo01_hh_000221.html",
+      "title": "国土交通省｜報道資料｜令和8年11月8日01時04分頃の静岡県西部の地震に伴う土砂災害に関する警報等の暫定的な運用",
+      "originalTitle": "�ߘa8�N11��8��01��04�����̐É��������̒n�k�ɔ����y���ЊQ�Ɋւ���x�񓙂̎b��I�ȉ^�p",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 令和8年11月8日01時04分頃の静岡県西部の地震に伴う土砂災害に関する警報等の暫定的な運用 令和8年11月8日01時04分頃の静岡県西部の地震に伴う土砂災害に関する警報等の暫定的な運用 令和8年11月8日 令和8年11月8日01時04分頃の静岡県西部の地震による地盤の緩みを考慮し、揺れの大きかった愛知県の市町村について、土砂災害に関する警報等の発表基準を引き下げて運用します。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sabo01_hh_000221.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sabo01_hh_000221.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sabo01_hh_000221.html",
+      "publishedAt": "2026-11-08T05:00:00+09:00",
+      "collectedAt": "2026-11-08T08:08:15+09:00",
+      "scrapedAt": "2026-11-08T08:08:15+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "65efc06d71e4393d7a17df0b8985b4b80e890da83ced98e4b118807e1ff0807b",
+      "trendScore": 10.81,
+      "createdAt": "2026-11-08T08:08:15+09:00",
+      "updatedAt": "2026-11-08T08:08:15+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000768.html",
+      "title": "国土交通省｜報道資料｜令和８年度水道関係功労者国土交通大臣表彰の受賞者を決定しました<br>～受賞者に表彰状を授与する「表彰式」を行います～",
+      "originalTitle": "�ߘa�W�N�x�����֌W���J�ҍ��y��ʑ�b�\\���̎�܎҂����肵�܂����`��܎҂ɕ\\��������^����u�\\�����v���s���܂��`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 令和８年度水道関係功労者国土交通大臣表彰の受賞者を決定しました ～受賞者に表彰状を授与する「表彰式」を行います～ 令和８年度水道関係功労者国土交通大臣表彰の受賞者を決定しました ～受賞者に表彰状を授与する「表彰式」を行います～ 令和8年11月6日 水道の普及発展、水道に関する有益な調査研究、技術の改善、若しくは発明発見又は水道行政に対する協力等に特に顕…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000768.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000768.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000768.html",
+      "publishedAt": "2026-11-06T05:00:00+09:00",
+      "collectedAt": "2026-11-08T08:08:16+09:00",
+      "scrapedAt": "2026-11-08T08:08:16+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:16+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "2ed8d5200b122de0a4e2374650821a69ff24573b53a9b74bf69e074a38475975",
+      "trendScore": 7.96,
+      "createdAt": "2026-11-08T08:08:16+09:00",
+      "updatedAt": "2026-11-08T08:08:16+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000100.000031324.html",
+      "title": "クリプタクト、bitFlyerと暗号資産の確定申告解説ウェビナーを11月19日に共同開催【参加無料】",
+      "originalTitle": "クリプタクト、bitFlyerと暗号資産の確定申告解説ウェビナーを11月19日に共同開催【参加無料】",
+      "summary": "クリプタクト、bitFlyerと暗号資産の確定申告解説ウェビナーを11月19日に共同開催【参加無料】 確定申告、税制、税金計算について基礎から徹底解説 pafin 2026年11月6日 18時45分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000100.000031324.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000100.000031324.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000100.000031324.html",
+      "publishedAt": "2026-11-08T07:10:02+09:00",
+      "collectedAt": "2026-11-08T08:08:17+09:00",
+      "scrapedAt": "2026-11-08T08:08:17+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "セキュリティ",
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "78d1702824243c36a955b1421163b94ca0a2a7e38388975a686167c9a6ff0db0",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-08T08:08:17+09:00",
+      "updatedAt": "2026-11-08T08:08:17+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000103.000182526.html",
+      "title": "【札幌市豊平区】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価する「メタロ・バランス検査」、かしわば記念クリニックでの12月以降の予約受付を開始",
+      "originalTitle": "【札幌市豊平区】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価する「メタロ・バランス検査」、かしわば記念クリニックでの12月以降の予約受付を開始",
+      "summary": "【札幌市豊平区】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価す\u0000\u0000る「メタロ・バランス検査」、かしわば記念クリニックでの12月以降の予約受付を開始 累計10万人突破。男性6（大腸･胃･肺･膵･肝･前立腺）女性9（大腸･胃･肺･膵･肝･乳･子宮頸･子宮体･卵巣）部位のがん＆認知リスクを評価する検査。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000103.000182526.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000103.000182526.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000103.000182526.html",
+      "publishedAt": "2026-11-08T07:10:02+09:00",
+      "collectedAt": "2026-11-08T08:08:17+09:00",
+      "scrapedAt": "2026-11-08T08:08:17+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ヘルスケア",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "2e82f5f895088f60782974921e4ba45a23f80c2716b63637387d868a7460f0a1",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-08T08:08:17+09:00",
+      "updatedAt": "2026-11-08T08:08:17+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000111.000182526.html",
+      "title": "【栃木県宇都宮市】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価する「メタロ・バランス検査」、宇都宮消化器・内視鏡内科クリニックにて12月からの予約受付を開始",
+      "originalTitle": "【栃木県宇都宮市】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価する「メタロ・バランス検査」、宇都宮消化器・内視鏡内科クリニックにて12月からの予約受付を開始",
+      "summary": "【栃木県宇都宮市】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価\u0000\u0000する「メタロ・バランス検査」、宇都宮消化器・内視鏡内科クリニックにて12月からの予約受付を開始 累計10万人突破。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000111.000182526.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000111.000182526.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000111.000182526.html",
+      "publishedAt": "2026-11-08T07:10:02+09:00",
+      "collectedAt": "2026-11-08T08:08:17+09:00",
+      "scrapedAt": "2026-11-08T08:08:17+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:17+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "ヘルスケア",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "0a0c7be10df9c2ddf9c4bcd2f67b8131b7210e7ff3f4afb290ac15f88ac503e5",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-08T08:08:17+09:00",
+      "updatedAt": "2026-11-08T08:08:17+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002961",
+      "title": "深海でも分解速度を劇的に加速させる「酵素内包生分解性プラスチック」を開発",
+      "originalTitle": "深海でも分解速度を劇的に加速させる「酵素内包生分解性プラスチック」を開発",
+      "summary": "TOP > 研究成果 > 深海でも分解速度を劇的に加速させる「酵素内包生分解性プラスチック」を開発 2026年11月7日 深海でも分解速度を劇的に加速させる「酵素内包生分解性プラスチック」を開発 大学ジャーナルオンライン編集部 プラスチックごみ 海洋研究開発機構 生分解プラスチック 群馬大学 東京大学 東京大学、海洋研究開発機構、群馬大学の研究グループは、分解酵素を混ぜ込むことにより、深海でも速や…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002961",
+      "originalUrl": "https://univ-journal.jp/1002961/",
+      "finalUrl": "https://univ-journal.jp/1002961",
+      "publishedAt": "2026-11-07T17:00:15+09:00",
+      "collectedAt": "2026-11-08T08:08:25+09:00",
+      "scrapedAt": "2026-11-08T08:08:25+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "研究開発",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "0d36299e464a858a97c2cf8ae2f8c83748d79c15ecf27c4e362c824828672dfe",
+      "trendScore": 10.1,
+      "createdAt": "2026-11-08T08:08:25+09:00",
+      "updatedAt": "2026-11-08T08:08:25+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002870",
+      "title": "32万件超の会員データから就活生の人気業界・職種と希望勤務地・企業規模を分析 就活会議",
+      "originalTitle": "32万件超の会員データから就活生の人気業界・職種と希望勤務地・企業規模を分析　就活会議",
+      "summary": "TOP > キャリア > 就職活動 > 32万件超の会員データから就活生の人気業界・職種と希望勤務地・企業規模を分析 就活会議 2026年11月7日 32万件超の会員データから就活生の人気業界・職種と希望勤務地・企業規模を分析 就活会議 大学ジャーナルオンライン編集部 2027年卒 2028年卒 就活会議株式会社が運営する国内最大級の就活生向け企業口コミプロダクト「就活会議」は、2027年および2…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002870",
+      "originalUrl": "https://univ-journal.jp/1002870/",
+      "finalUrl": "https://univ-journal.jp/1002870",
+      "publishedAt": "2026-11-07T11:00:30+09:00",
+      "collectedAt": "2026-11-08T08:08:25+09:00",
+      "scrapedAt": "2026-11-08T08:08:25+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "e7055f43d4e9d7fe53ff2bccf69cc41db057379e845fd0f5ef20dd27659d94f9",
+      "trendScore": 9.74,
+      "createdAt": "2026-11-08T08:08:25+09:00",
+      "updatedAt": "2026-11-08T08:08:25+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261002836",
+      "title": "今治の獣医学部以外も、グローバルスタンダードを目指して不断の改革を進める岡山理科大学 - 大学ジャーナルオンライン",
+      "originalTitle": "今治の獣医学部以外も、グローバルスタンダードを目指して不断の改革を進める岡山理科大学",
+      "summary": "TOP > トピックス > 今治の獣医学部以外も、グローバルスタンダードを目指して不断の改革を進める岡山理科大学 2026年11月7日 今治の獣医学部以外も、グローバルスタンダードを目指して不断の改革を進める岡山理科大学 大学ジャーナルオンライン編集部 岡山理科大学 学際融合で研究を社会へ 好適環境水の研究を陸上養殖から宇宙へ 岡山理科大学の好適環境水センターが取り組む陸上養殖は、研究成果を社会に生かす具体例だ。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261002836",
+      "originalUrl": "https://univ-journal.jp/column/20261002836/",
+      "finalUrl": "https://univ-journal.jp/column/20261002836",
+      "publishedAt": "2026-11-07T07:00:24+09:00",
+      "collectedAt": "2026-11-08T08:08:25+09:00",
+      "scrapedAt": "2026-11-08T08:08:25+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:25+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "半導体",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "b285cc4e07f5fde81fbcbfe690912b5e22e6b8ca1c44b9cd535d47688fed0e2b",
+      "trendScore": 9.5,
+      "createdAt": "2026-11-08T08:08:25+09:00",
+      "updatedAt": "2026-11-08T08:08:25+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/963460?display=b",
+      "title": "｢文字の危機｣を乗り越えるためには｢手書き｣の復権が必要､手書きの身体性が思考を深める",
+      "originalTitle": "｢文字の危機｣を乗り越えるためには｢手書き｣の復権が必要､手書きの身体性が思考を深める | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "政治・経済・投資 #21世紀の証言 石川九楊 ｢文字の危機｣を乗り越えるためには｢手書き｣の復権が必要､手書きの身体性が思考を深める 3分で読める 公開日時：2026/11/08 08:00 有料会員限定 書家の石川九楊氏（撮影：梅谷秀司） 山田 俊浩 東洋経済 論説委員 フォロー 1 /1 PAGES 「書を言葉で解き明かす」という独自の評論活動を行う、書家の石川九楊氏の証言を全3回に分けてお届けする（第3回）。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/963460?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/963460?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/963460?display=b",
+      "publishedAt": "2026-11-08T08:00:00+09:00",
+      "collectedAt": "2026-11-08T08:08:28+09:00",
+      "scrapedAt": "2026-11-08T08:08:28+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:28+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "16e54008cb77b3c64aa68509a4b1096c83588aea08797fcbc62ac504ab6bd904",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-08T08:08:28+09:00",
+      "updatedAt": "2026-11-08T08:08:28+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/962636",
+      "title": "｢元気に生きてれば100点！｣子供への期待値を\"究極まで\"下げて､親がご機嫌でいる重要性…後悔しても日々は戻らない",
+      "originalTitle": "｢元気に生きてれば100点！｣子供への期待値を\"究極まで\"下げて､親がご機嫌でいる重要性…後悔しても日々は戻らない | ライフ | 東洋経済オンライン",
+      "summary": "｢元気に生きてれば100点！｣子供への期待値を\"究極まで\"下げて､親がご機嫌でいる重要性…後悔しても日々は戻らない 7分で読める 公開日時：2026/11/08 08:00 子どもへの期待値を下げると、「できていること」に気づけるようになる（写真：R&D VISUALS／PIXTA） 石田 勝紀 教育デザインラボ代表理事、教育専門家 フォロー 子どもの｢スマホばかり｣｢勉強しない｣に悩む親御さん必見。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/962636",
+      "originalUrl": "https://toyokeizai.net/articles/-/962636?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/962636",
+      "publishedAt": "2026-11-08T08:00:00+09:00",
+      "collectedAt": "2026-11-08T08:08:29+09:00",
+      "scrapedAt": "2026-11-08T08:08:29+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "c2dc004d3b567840d421c02d5a72cd948e1e5dbd218e4650fcd0cb45a194d822",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-08T08:08:29+09:00",
+      "updatedAt": "2026-11-08T08:08:29+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/963383",
+      "title": "中学受験の\"熱望校\"はどこまで深追いする？――複数回入試で後悔しない｢併願戦略｣《第1志望以外はすべて｢第2志望｣》",
+      "originalTitle": "中学受験の\"熱望校\"はどこまで深追いする？――複数回入試で後悔しない｢併願戦略｣《第1志望以外はすべて｢第2志望｣》 | キャリア・教育 | 東洋経済オンライン",
+      "summary": "中学受験の\"熱望校\"はどこまで深追いする？――複数回入試で後悔しない｢併願戦略｣《第1志望以外はすべて｢第2志望｣》 7分で読める 公開日時：2026/11/08 07:30 合格をつかみ、笑顔で受験を終えるため、志望校はどのように決めればいいのでしょうか（写真：viola / PIXTA） おおたとしまさ 教育ジャーナリスト フォロー 志望校選びにおいては偏差値を正しく活用することで､合格の可能性が広がります。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/963383",
+      "originalUrl": "https://toyokeizai.net/articles/-/963383?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/963383",
+      "publishedAt": "2026-11-08T07:30:00+09:00",
+      "collectedAt": "2026-11-08T08:08:29+09:00",
+      "scrapedAt": "2026-11-08T08:08:29+09:00",
+      "lastVerifiedAt": "2026-11-08T08:08:29+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "3a3f0ca83e77f069b2ef273ee031fecb3017bb03283d75931c148a95d4ce90ed",
+      "trendScore": 10.96,
+      "createdAt": "2026-11-08T08:08:29+09:00",
+      "updatedAt": "2026-11-08T08:08:29+09:00"
     }
   ],
   "sources": [
@@ -58921,8 +59440,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-07T08:50:46+09:00",
-      "lastSuccessAt": "2026-11-07T08:50:46+09:00",
+      "lastFetchedAt": "2026-11-08T08:07:57+09:00",
+      "lastSuccessAt": "2026-11-08T08:07:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -58934,8 +59453,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-07T08:50:59+09:00",
-      "lastSuccessAt": "2026-11-07T08:50:59+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:10+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:10+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -58947,8 +59466,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-07T08:51:00+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:00+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:11+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -58973,8 +59492,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-07T08:51:00+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:01+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:11+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -58986,8 +59505,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-07T08:51:01+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:01+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:11+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -58999,8 +59518,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-07T08:51:01+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:01+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:11+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59012,8 +59531,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-07T08:51:01+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:02+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:12+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:12+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59025,8 +59544,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-07T08:51:03+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:04+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:14+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59129,8 +59648,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-07T08:51:06+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:06+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:16+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:16+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59168,8 +59687,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-07T08:51:06+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:07+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:17+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59181,8 +59700,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-07T08:51:07+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:07+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:18+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:18+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59194,8 +59713,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-07T08:51:07+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:09+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:18+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59207,8 +59726,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-07T08:51:09+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:09+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:20+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:20+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59220,8 +59739,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-07T08:51:09+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:09+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:20+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59233,8 +59752,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-07T08:51:09+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:10+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:21+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:21+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59259,8 +59778,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-07T08:51:10+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:10+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:21+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:22+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59324,8 +59843,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-07T08:51:11+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:13+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:23+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:24+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59337,8 +59856,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-07T08:51:18+09:00",
-      "lastSuccessAt": "2026-11-07T08:51:19+09:00",
+      "lastFetchedAt": "2026-11-08T08:08:25+09:00",
+      "lastSuccessAt": "2026-11-08T08:08:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -59551,6 +60070,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261108-0807",
+      "scheduledAt": "2026-11-08T08:07:57+09:00",
+      "startedAt": "2026-11-08T08:07:57+09:00",
+      "finishedAt": "2026-11-08T08:08:29+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 59,
+      "duplicatesRemoved": 8,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261107-0850",
       "scheduledAt": "2026-11-07T08:50:45+09:00",
@@ -61502,27 +62040,12 @@
       "invalidUrlsRemoved": 1,
       "articlesPublished": 15,
       "errors": []
-    },
-    {
-      "jobId": "collection-20260731-0552",
-      "scheduledAt": "2026-07-31T05:52:23+09:00",
-      "startedAt": "2026-07-31T05:52:23+09:00",
-      "finishedAt": "2026-07-31T05:53:52+09:00",
-      "status": "success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 18,
-      "sourcesFailed": 0,
-      "candidatesFound": 56,
-      "duplicatesRemoved": 1,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 15,
-      "errors": []
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-11-07T08:51:20+09:00",
-    "lastSuccessAt": "2026-11-07T08:51:20+09:00",
-    "nextScheduledAt": "2026-11-08T05:00:00+09:00",
+    "lastCollectionAt": "2026-11-08T08:08:29+09:00",
+    "lastSuccessAt": "2026-11-08T08:08:29+09:00",
+    "nextScheduledAt": "2026-11-09T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
