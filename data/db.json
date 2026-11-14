@@ -61953,6 +61953,522 @@
       "trendScore": 10.9,
       "createdAt": "2026-11-13T09:45:13+09:00",
       "updatedAt": "2026-11-13T09:45:13+09:00"
+    },
+    {
+      "id": "https://qiita.com/StayHomeLabNet/items/47b6cf929b828cda5184",
+      "title": "WordPressからCloudflareへの移行を見送った理由と、Docker×AI×XServerで作った開発環境 - Qiita",
+      "originalTitle": "WordPressからCloudflareへの移行を見送った理由と、Docker×AI×XServerで作った開発環境",
+      "summary": "@ StayHomeLabNet WordPressからCloudflareへの移行を見送った理由と、Docker×AI×XServerで作った開発環境 cloudflare Docker xserver AI 個人開発 0 Posted at 2026-11-14 3行まとめ きっかけ ：WordPressの保守負担を減らすため、Cloudflare WorkersとEmDashを使ったCMS運用を検討した。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/StayHomeLabNet/items/47b6cf929b828cda5184",
+      "originalUrl": "https://qiita.com/StayHomeLabNet/items/47b6cf929b828cda5184",
+      "finalUrl": "https://qiita.com/StayHomeLabNet/items/47b6cf929b828cda5184",
+      "publishedAt": "2026-11-14T09:17:15+09:00",
+      "collectedAt": "2026-11-14T09:30:15+09:00",
+      "scrapedAt": "2026-11-14T09:30:15+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "セキュリティ",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "5cbb78c23f61723fc0d0795e0f2be0fa327cdbae52f2ba122b95ac8f0b18cef5",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-14T09:30:15+09:00",
+      "updatedAt": "2026-11-14T09:30:15+09:00"
+    },
+    {
+      "id": "https://qiita.com/goofmint/items/0f05fd37d82c89de7c49",
+      "title": "CodeRabbitのセキュリティスキャンを差分実行するDelta Scanの紹介 - Qiita",
+      "originalTitle": "CodeRabbitのセキュリティスキャンを差分実行するDelta Scanの紹介",
+      "summary": "@ goofmint ( 中津川 篤司 ) in CodeRabbit CodeRabbitのセキュリティスキャンを差分実行するDelta Scanの紹介 CodeRabbit Security AI 0 Last updated at 2026-11-13 Posted at 2026-11-13 CodeRabbitはAI SDLCを安全かつ適切に推進・管理する基盤を提供 します。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/goofmint/items/0f05fd37d82c89de7c49",
+      "originalUrl": "https://qiita.com/goofmint/items/0f05fd37d82c89de7c49",
+      "finalUrl": "https://qiita.com/goofmint/items/0f05fd37d82c89de7c49",
+      "publishedAt": "2026-11-14T08:55:25+09:00",
+      "collectedAt": "2026-11-14T09:30:21+09:00",
+      "scrapedAt": "2026-11-14T09:30:21+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:21+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "セキュリティ",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "d2c10283776e7f75c58fda901815501c1b8c96e72d567481f4c9d6daf31ab578",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-14T09:30:21+09:00",
+      "updatedAt": "2026-11-14T09:30:21+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/9c8095450eb2b79ac3d8",
+      "title": "Claude Code v2.1.325 セキュリティ修正まとめ｜サンドボックス許可と無人実行の変更点 - Qiita",
+      "originalTitle": "Claude Code v2.1.325 セキュリティ修正まとめ｜サンドボックス許可と無人実行の変更点",
+      "summary": "@ picnic Claude Code v2.325 セキュリティ修正まとめ｜サンドボックス許可と無人実行の変更点 Claude Anthropic AI LLM MCP 0 Posted at 2026-11-13 はじめに 2026年11月13日に公開された Claude Code v2.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/9c8095450eb2b79ac3d8",
+      "originalUrl": "https://qiita.com/picnic/items/9c8095450eb2b79ac3d8",
+      "finalUrl": "https://qiita.com/picnic/items/9c8095450eb2b79ac3d8",
+      "publishedAt": "2026-11-14T08:31:01+09:00",
+      "collectedAt": "2026-11-14T09:30:27+09:00",
+      "scrapedAt": "2026-11-14T09:30:27+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "864b2ed590dbf05c61abfd8fc8fea8f41319c7e365ad457a27b7956f8d7deb93",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-14T09:30:27+09:00",
+      "updatedAt": "2026-11-14T09:30:27+09:00"
+    },
+    {
+      "id": "https://qiita.com/kojin-y/items/aa3fe0f81cd1cea344fe",
+      "title": "Statcast 214万球で打者を32次元のベクトルにしてみた — 打者の「らしさ」は1球の結果から勝手に浮かび上がるか — - Qiita",
+      "originalTitle": "Statcast 214万球で打者を32次元のベクトルにしてみた — 打者の「らしさ」は1球の結果から勝手に浮かび上がるか —",
+      "summary": "@ kojin-y Statcast 214万球で打者を32次元のベクトルにしてみた — 打者の「らしさ」は1球の結果から勝手に浮かび上がるか — #野球 #MLB 機械学習 #ベクトル #セイバーメトリクス 0 Posted at 2026-11-14 はじめに 「この打者はどういうタイプか」を、人間は打率や本塁打数、三振率といった成績の組み合わせで語ります。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/kojin-y/items/aa3fe0f81cd1cea344fe",
+      "originalUrl": "https://qiita.com/kojin-y/items/aa3fe0f81cd1cea344fe",
+      "finalUrl": "https://qiita.com/kojin-y/items/aa3fe0f81cd1cea344fe",
+      "publishedAt": "2026-11-14T09:18:37+09:00",
+      "collectedAt": "2026-11-14T09:30:27+09:00",
+      "scrapedAt": "2026-11-14T09:30:27+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "bb00b327b099d800b886458c89960f1a6def8b3eb956dc784ddbe566abb836a1",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-14T09:30:27+09:00",
+      "updatedAt": "2026-11-14T09:30:27+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+      "title": "マイクロソフト社の障害によりメール不着等となる事象について｜デジタル庁",
+      "originalTitle": "マイクロソフト社の障害によりメール不着等となる事象について",
+      "summary": "マイクロソフト社の障害によりメール不着等となる事象について マイクロソフト社の障害のため、デジタル庁においてメールを受信できない等の不具合が生じております。これにより、ご連絡に遅延が発生した場合は、デジタル庁として柔軟に対応してまいります。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+      "originalUrl": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+      "finalUrl": "https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff",
+      "publishedAt": "2026-11-13T15:46:36+09:00",
+      "collectedAt": "2026-11-14T09:30:28+09:00",
+      "scrapedAt": "2026-11-14T09:30:28+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:28+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "43ef483e73e2b3c9b6c6c8655f316e5aba46bcdf20f632c9acd6aa2154d5e5ef",
+      "trendScore": 9.94,
+      "createdAt": "2026-11-14T09:30:28+09:00",
+      "updatedAt": "2026-11-14T09:30:28+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo21_hh_000314.html",
+      "title": "国土交通省｜報道資料｜サウンディング（官民対話）を希望する案件を募集します!<br>～地方公共団体等と民間事業者が官民連携推進に向けた対話を実施～",
+      "originalTitle": "�T�E���f�B���O�i�����Θb�j����]����Č����W���܂�!�`�n�������c�̓��Ɩ��Ԏ��Ǝ҂������A�g���i�Ɍ������Θb�����{�`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > サウンディング（官民対話）を希望する案件を募集します!～地方公共団体等と民間事業者が官民連携推進に向けた対話を実施～ サウンディング（官民対話）を希望する案件を募集します!",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo21_hh_000314.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo21_hh_000314.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo21_hh_000314.html",
+      "publishedAt": "2026-11-13T05:00:00+09:00",
+      "collectedAt": "2026-11-14T09:30:32+09:00",
+      "scrapedAt": "2026-11-14T09:30:32+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "17b50a721ae17509908e8905295bed3d53a0737b67b817742f0abea7510a2e1f",
+      "trendScore": 9.3,
+      "createdAt": "2026-11-14T09:30:32+09:00",
+      "updatedAt": "2026-11-14T09:30:32+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000769.html",
+      "title": "国土交通省｜報道資料｜老いゆくインフラを救う！上下水道を守るDX 技術を募集！<br>～上下水道DX 技術カタログに掲載する技術情報を募集します～",
+      "originalTitle": "�V���䂭�C���t�����~���I�㉺���������DX �Z�p���W�I�`�㉺����DX �Z�p�J�^���O�Ɍf�ڂ���Z�p�����W���܂��`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 老いゆくインフラを救う！上下水道を守るDX 技術を募集！～上下水道DX 技術カタログに掲載する技術情報を募集します～ 老いゆくインフラを救う！上下水道を守るDX 技術を募集！",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000769.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo13_hh_000769.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000769.html",
+      "publishedAt": "2026-11-13T05:00:00+09:00",
+      "collectedAt": "2026-11-14T09:30:32+09:00",
+      "scrapedAt": "2026-11-14T09:30:32+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "DX",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "2669947bd72de05abd03aae04c4280633521e82cb348835ae4d5c0f5e654bd2a",
+      "trendScore": 9.3,
+      "createdAt": "2026-11-14T09:30:32+09:00",
+      "updatedAt": "2026-11-14T09:30:32+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/jidosha04_hh_000371.html",
+      "title": "国土交通省｜報道資料｜令和７年度 宅配便・メール便取扱実績について",
+      "originalTitle": "�ߘa�V�N�x ��z�ցE���[���֎戵���тɂ���",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 令和７年度 宅配便・メール便取扱実績について 令和７年度 宅配便・メール便取扱実績について 令和8年11月13日 〇令和７年度の宅配便取扱個数は、51 億6178 万個で、前年度と比較して１億3031 万個・約2.",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/jidosha04_hh_000371.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/jidosha04_hh_000371.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/jidosha04_hh_000371.html",
+      "publishedAt": "2026-11-13T05:00:00+09:00",
+      "collectedAt": "2026-11-14T09:30:33+09:00",
+      "scrapedAt": "2026-11-14T09:30:33+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "9cbdea32ab750742cae0bced46514b20f6f53cefd3924675bfb35737680a6907",
+      "trendScore": 9.3,
+      "createdAt": "2026-11-14T09:30:33+09:00",
+      "updatedAt": "2026-11-14T09:30:33+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000001525.000036112.html",
+      "title": "りそなグループ B.LEAGUE 2026-27 B.PREMIER リーグ戦後半戦①(2027/1/22〜3/31)試合開始時間決定のお知らせ",
+      "originalTitle": "りそなグループ B.LEAGUE 2026-27 B.PREMIER リーグ戦後半戦１.(2027/1/22～3/31)試合開始時間決定のお知らせ",
+      "summary": "LEAGUE 2026-27 B.PREMIER リーグ戦後半戦①(2027/1/22〜3/31)試合開\u0000\u0000始時間決定のお知らせ 琉球ゴールデンキングス 2026年11月13日 15時07分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000001525.000036112.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000001525.000036112.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000001525.000036112.html",
+      "publishedAt": "2026-11-14T09:10:02+09:00",
+      "collectedAt": "2026-11-14T09:30:33+09:00",
+      "scrapedAt": "2026-11-14T09:30:33+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:33+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "ed55f19aae65199b3622296e655feff8956f07b925f22ad3413e4b838f5ec170",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-14T09:30:33+09:00",
+      "updatedAt": "2026-11-14T09:30:33+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000127.000183816.html",
+      "title": "『Methods of Policy Accommodation at the Interest-Rate Lower Bound』マイケル・ウッドフォード著 論文読書会開催のお知らせ",
+      "originalTitle": "『Methods of Policy Accommodation at the Interest-Rate Lower Bound』マイケル・ウッドフォード著 論文読書会開催のお知らせ",
+      "summary": "『Methods of Policy Accommodation at the Interest-Rate Lower Bound』マイケル・ウッドフォード著 論\u0000文読書会開催のお知らせ 山中裕が予想を的中させた2026年ノーベル経済学賞受賞者の代表的講演論文を原典で読む――金利がゼロに張り付いたとき、中央銀行は「言葉」で何ができるのか AIマネー大学株式会社 2026年11月13日 14時59分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000127.000183816.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000127.000183816.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000127.000183816.html",
+      "publishedAt": "2026-11-14T09:10:02+09:00",
+      "collectedAt": "2026-11-14T09:30:34+09:00",
+      "scrapedAt": "2026-11-14T09:30:34+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:34+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "b045e46924c3d49bef7da40d7e49123af29c22faef3e31d283d4c7da5cca41b8",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-14T09:30:34+09:00",
+      "updatedAt": "2026-11-14T09:30:34+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000001.000194486.html",
+      "title": "日本の軌跡が世界の殿堂へ",
+      "originalTitle": "日本の軌跡が世界の殿堂へ",
+      "summary": "日本の軌跡が世界の殿堂へ 1989〜2001年に日本で起きたマルチメディアとインターネットの世界的イノベーションの軌跡がシリコンバレーのCHM（コンピュータ歴史博物館）に収蔵 一般社団法人ミラシア 2026年11月13日 08時59分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194486.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000194486.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000194486.html",
+      "publishedAt": "2026-11-14T09:10:02+09:00",
+      "collectedAt": "2026-11-14T09:30:34+09:00",
+      "scrapedAt": "2026-11-14T09:30:34+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:34+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "ff601ec43d9f126f47270c2b1ce6613e43c37c9b28e952d1c7e9d49dc146b764",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-14T09:30:34+09:00",
+      "updatedAt": "2026-11-14T09:30:34+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003077",
+      "title": "東京経済大学 起業家を目指す学生が日用品シェアサービス「ココカル」を考案 11/16から学内で実証実験を開始",
+      "originalTitle": "東京経済大学　起業家を目指す学生が日用品シェアサービス「ココカル」を考案　11/16から学内で実証実験を開始",
+      "summary": "TOP > トピックス > 東京経済大学 起業家を目指す学生が日用品シェアサービス「ココカル」を考案 11/16から学内で実証実験を開始 2026年11月13日 東京経済大学 起業家を目指す学生が日用品シェアサービス「ココカル」を考案 11/16から学内で実証実験を開始 大学ジャーナルオンライン編集部 アントレプレナーシップ教育 東京経済大学 東京経済大学経営学部に所属し、起業家の養成をめざす専門…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003077",
+      "originalUrl": "https://univ-journal.jp/1003077/",
+      "finalUrl": "https://univ-journal.jp/1003077",
+      "publishedAt": "2026-11-13T17:00:44+09:00",
+      "collectedAt": "2026-11-14T09:30:44+09:00",
+      "scrapedAt": "2026-11-14T09:30:44+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "資金調達",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "d240d1a76e5a2e5ba05475cfdb5284e7f1890ec055ee2663bd4a352668e078cd",
+      "trendScore": 10.02,
+      "createdAt": "2026-11-14T09:30:44+09:00",
+      "updatedAt": "2026-11-14T09:30:44+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/964759?display=b",
+      "title": "編集部厳選､注目の経済ニュース！【11月14日】 今週のトピックス＆来週のスケジュール",
+      "originalTitle": "編集部厳選､注目の経済ニュース！【11月14日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス #注目の経済ニュース 編集部厳選､注目の経済ニュース！【11月14日】 今週のトピックス＆来週のスケジュール 6分で読める 公開日時：2026/11/14 09:00 有料会員限定 東洋経済オンライン有料会員の皆様に、注目のスケジュールやトピックスをお届け 東洋経済 編集部 フォロー 1 /2 PAGES INDEX 編集部が選ぶ「読むべき5本」 来週の注目スケジュール 編集長の視点 特…",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/964759?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/964759?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/964759?display=b",
+      "publishedAt": "2026-11-14T09:00:00+09:00",
+      "collectedAt": "2026-11-14T09:30:47+09:00",
+      "scrapedAt": "2026-11-14T09:30:47+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:47+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "b68093fd5431a0a4839710c256f6bf75db8ba65830b19084f1eb453144888cb4",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-14T09:30:47+09:00",
+      "updatedAt": "2026-11-14T09:30:47+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/964526",
+      "title": "｢10万円かけて参加｣｢街がコスプレイヤーだらけ｣…新幹線のない地方都市に2日で8.6万人が集まるワケ",
+      "originalTitle": "｢10万円かけて参加｣｢街がコスプレイヤーだらけ｣…新幹線のない地方都市に2日で8.6万人が集まるワケ | ライフ | 東洋経済オンライン",
+      "summary": "｢10万円かけて参加｣｢街がコスプレイヤーだらけ｣…新幹線のない地方都市に2日で8.6万人が集まるワケ 7分で読める 公開日時：2026/11/14 07:30 鍛え抜かれた体が“リアル伊之助”なコスプレイヤー。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/964526",
+      "originalUrl": "https://toyokeizai.net/articles/-/964526?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/964526",
+      "publishedAt": "2026-11-14T07:30:00+09:00",
+      "collectedAt": "2026-11-14T09:30:48+09:00",
+      "scrapedAt": "2026-11-14T09:30:48+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:48+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "9337c4ca57873ffea0b1026776a4a24e701c1243902cdfe161f11fe1b7624038",
+      "trendScore": 10.88,
+      "createdAt": "2026-11-14T09:30:48+09:00",
+      "updatedAt": "2026-11-14T09:30:48+09:00"
+    },
+    {
+      "id": "https://business.nikkei.com/atcl/gen/19/00936/111200010",
+      "title": "ゼンショー、時価総額2兆円超え 半導体株安の陰で外食株の海外成長力に評価",
+      "originalTitle": "ゼンショー、時価総額2兆円超え　半導体株安の陰で外食株の海外成長力に評価 (資本市場サバイバル)",
+      "summary": "米中間選挙の共和党大敗や米エヌビディアのトップ辞任で売り傾向が増しているAI（人工知能）・半導体関連株に対し、外食株が存在感を高めている。「すき家」や「はま寿司」を展開するゼンショーホールディングス（HD）の時価総額は10月末、日本の外食企業で初めて2兆円を突破した。",
+      "summarySource": "extractive",
+      "source": "日経ビジネス電子版",
+      "sourceId": "src-nikkei-business",
+      "url": "https://business.nikkei.com/atcl/gen/19/00936/111200010",
+      "originalUrl": "https://business.nikkei.com/atcl/gen/19/00936/111200010/",
+      "finalUrl": "https://business.nikkei.com/atcl/gen/19/00936/111200010",
+      "publishedAt": "2026-11-13T17:00:00+09:00",
+      "collectedAt": "2026-11-14T09:30:53+09:00",
+      "scrapedAt": "2026-11-14T09:30:53+09:00",
+      "lastVerifiedAt": "2026-11-14T09:30:53+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "半導体",
+        "DX"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "08d2f0b0bb533ca3d28170222e37638626a81e7229001df39a44bdeb3e1694d3",
+      "trendScore": 10.02,
+      "createdAt": "2026-11-14T09:30:53+09:00",
+      "updatedAt": "2026-11-14T09:30:53+09:00"
     }
   ],
   "sources": [
@@ -61965,8 +62481,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-13T09:44:37+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:38+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:13+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -61978,8 +62494,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-13T09:44:50+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:51+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:27+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:27+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -61991,8 +62507,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-13T09:44:51+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:51+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:27+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62017,8 +62533,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-13T09:44:51+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:52+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:28+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62030,8 +62546,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-13T09:44:52+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:52+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:28+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62043,8 +62559,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-13T09:44:52+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:53+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:28+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:28+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62056,8 +62572,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-13T09:44:53+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:53+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:28+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62069,8 +62585,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-13T09:44:55+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:55+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:30+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:31+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62173,8 +62689,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-13T09:44:56+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:56+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:33+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:33+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62212,8 +62728,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-13T09:44:57+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:57+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:34+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62225,8 +62741,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-13T09:44:57+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:57+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:35+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:35+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62238,8 +62754,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-13T09:44:57+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:59+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:35+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:37+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62251,8 +62767,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-13T09:44:59+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:59+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:37+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62264,8 +62780,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-13T09:44:59+09:00",
-      "lastSuccessAt": "2026-11-13T09:44:59+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:38+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62277,8 +62793,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-13T09:44:59+09:00",
-      "lastSuccessAt": "2026-11-13T09:45:00+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:38+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62303,8 +62819,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-13T09:45:00+09:00",
-      "lastSuccessAt": "2026-11-13T09:45:00+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:39+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62368,8 +62884,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-13T09:45:01+09:00",
-      "lastSuccessAt": "2026-11-13T09:45:03+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:41+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62381,8 +62897,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-13T09:45:04+09:00",
-      "lastSuccessAt": "2026-11-13T09:45:05+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:44+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62394,8 +62910,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-13T09:45:08+09:00",
-      "lastSuccessAt": "2026-11-13T09:45:09+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:48+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62407,8 +62923,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-13T09:45:11+09:00",
-      "lastSuccessAt": "2026-11-13T09:45:12+09:00",
+      "lastFetchedAt": "2026-11-14T09:30:50+09:00",
+      "lastSuccessAt": "2026-11-14T09:30:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -62595,6 +63111,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261114-0930",
+      "scheduledAt": "2026-11-14T09:30:13+09:00",
+      "startedAt": "2026-11-14T09:30:13+09:00",
+      "finishedAt": "2026-11-14T09:30:53+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 20,
+      "sourcesFailed": 0,
+      "candidatesFound": 66,
+      "duplicatesRemoved": 4,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261113-0944",
       "scheduledAt": "2026-11-13T09:44:37+09:00",
@@ -64570,27 +65105,12 @@
       "invalidUrlsRemoved": 2,
       "articlesPublished": 15,
       "errors": []
-    },
-    {
-      "jobId": "collection-20260806-0551",
-      "scheduledAt": "2026-08-06T05:51:39+09:00",
-      "startedAt": "2026-08-06T05:51:39+09:00",
-      "finishedAt": "2026-08-06T05:53:11+09:00",
-      "status": "success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 18,
-      "sourcesFailed": 0,
-      "candidatesFound": 57,
-      "duplicatesRemoved": 3,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 15,
-      "errors": []
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-11-13T09:45:13+09:00",
-    "lastSuccessAt": "2026-11-13T09:45:13+09:00",
-    "nextScheduledAt": "2026-11-14T05:00:00+09:00",
+    "lastCollectionAt": "2026-11-14T09:30:53+09:00",
+    "lastSuccessAt": "2026-11-14T09:30:53+09:00",
+    "nextScheduledAt": "2026-11-15T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
