@@ -62394,12 +62394,12 @@
         "社会×データ"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "b68093fd5431a0a4839710c256f6bf75db8ba65830b19084f1eb453144888cb4",
       "trendScore": 10.97,
       "createdAt": "2026-11-14T09:30:47+09:00",
-      "updatedAt": "2026-11-15T11:58:45+09:00"
+      "updatedAt": "2026-11-17T02:40:05.805Z"
     },
     {
       "id": "https://toyokeizai.net/articles/-/964526",
@@ -63503,6 +63503,521 @@
       "trendScore": 10.9,
       "createdAt": "2026-11-16T08:36:39+09:00",
       "updatedAt": "2026-11-16T08:36:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/kirbykaito/items/38108d4853ee571762b9",
+      "title": "個人開発の相棒にAIエージェント「Muse」を使って、駐車場データベースを構築・運用している話 - Qiita",
+      "originalTitle": "個人開発の相棒にAIエージェント「Muse」を使って、駐車場データベースを構築・運用している話",
+      "summary": "@ kirbykaito 個人開発の相棒にAIエージェント「Muse」を使って、駐車場データベースを構築・運用している話 個人開発 AI Muse 0 Posted at 2026-11-17 はじめに 仙台中心部の駐車場データベースを個人で構築・運用しています。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/kirbykaito/items/38108d4853ee571762b9",
+      "originalUrl": "https://qiita.com/kirbykaito/items/38108d4853ee571762b9",
+      "finalUrl": "https://qiita.com/kirbykaito/items/38108d4853ee571762b9",
+      "publishedAt": "2026-11-17T11:22:50+09:00",
+      "collectedAt": "2026-11-17T11:39:35+09:00",
+      "scrapedAt": "2026-11-17T11:39:35+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:35+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "6c26e2ddfddaf828c46c14f281a72904d7e7207966ba0aa4bd4a572de42da369",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-17T11:39:35+09:00",
+      "updatedAt": "2026-11-17T11:39:35+09:00"
+    },
+    {
+      "id": "https://qiita.com/tauleap-tasz/items/f9a1869e20aec140e91e",
+      "title": "Google Chrome 拡張の更新を AI と並走している話 - Qiita",
+      "originalTitle": "Google Chrome 拡張の更新を AI と並走している話",
+      "summary": "@ tauleap-tasz Google Chrome 拡張の更新を AI と並走している話 Qiita15th GitHub Chrome拡張 AI 0 Posted at 2026-11-17 この記事は Qiita 15周年記念カレンダー Advent Calendar 2026 の 5 日目の記事です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/tauleap-tasz/items/f9a1869e20aec140e91e",
+      "originalUrl": "https://qiita.com/tauleap-tasz/items/f9a1869e20aec140e91e",
+      "finalUrl": "https://qiita.com/tauleap-tasz/items/f9a1869e20aec140e91e",
+      "publishedAt": "2026-11-17T11:09:43+09:00",
+      "collectedAt": "2026-11-17T11:39:41+09:00",
+      "scrapedAt": "2026-11-17T11:39:41+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "bc6ca397755245f85ffaf18d6ebed6b35fa2882dcbb41b506a1431d95eb47088",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-17T11:39:41+09:00",
+      "updatedAt": "2026-11-17T11:39:41+09:00"
+    },
+    {
+      "id": "https://qiita.com/picnic/items/4318a3607391b42b6a00",
+      "title": "Claude Code v2.1.326 破壊的変更まとめ：サンドボックス・権限・auto mode - Qiita",
+      "originalTitle": "Claude Code v2.1.326 破壊的変更まとめ：サンドボックス・権限・auto mode",
+      "summary": "@ picnic Claude Code v2.326 破壊的変更まとめ：サンドボックス・権限・auto mode Claude Anthropic ClaudeCode AI LLM 0 Posted at 2026-11-17 はじめに Claude Code v2.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/picnic/items/4318a3607391b42b6a00",
+      "originalUrl": "https://qiita.com/picnic/items/4318a3607391b42b6a00",
+      "finalUrl": "https://qiita.com/picnic/items/4318a3607391b42b6a00",
+      "publishedAt": "2026-11-17T11:00:48+09:00",
+      "collectedAt": "2026-11-17T11:39:41+09:00",
+      "scrapedAt": "2026-11-17T11:39:41+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:41+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "LLM",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "404c45ffa0cbd978550e156a4b17e781f47ac7ccd786ff835549d3032e6e49d5",
+      "trendScore": 10.96,
+      "createdAt": "2026-11-17T11:39:41+09:00",
+      "updatedAt": "2026-11-17T11:39:41+09:00"
+    },
+    {
+      "id": "https://qiita.com/savor-speedup-dotage/items/7645afaf86f75b8e726e",
+      "title": "次世代エージェント設計：Gemini Decisions API と Decision Models にみる「意思決定」の切り出しと較正 - Qiita",
+      "originalTitle": "次世代エージェント設計：Gemini Decisions API と Decision Models にみる「意思決定」の切り出しと較正",
+      "summary": "@ savor-speedup-dotage 次世代エージェント設計：Gemini Decisions API と Decision Models にみる「意思決定」の切り出しと較正 生成AI LLM エージェント Gemini 機械学習 0 Posted at 2026-11-17 2026年後半、生成AIの活用フェーズは「指示に対する回答」から「自律的な判断と実行（エージェント）」へと完全に移行しました。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/savor-speedup-dotage/items/7645afaf86f75b8e726e",
+      "originalUrl": "https://qiita.com/savor-speedup-dotage/items/7645afaf86f75b8e726e",
+      "finalUrl": "https://qiita.com/savor-speedup-dotage/items/7645afaf86f75b8e726e",
+      "publishedAt": "2026-11-17T10:52:20+09:00",
+      "collectedAt": "2026-11-17T11:39:42+09:00",
+      "scrapedAt": "2026-11-17T11:39:42+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:42+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "46c8514e8c9d59066b9f84b2bb21000cb43b6409e8e664ffe03032fe1396fa7a",
+      "trendScore": 10.95,
+      "createdAt": "2026-11-17T11:39:42+09:00",
+      "updatedAt": "2026-11-17T11:39:42+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/speech/minister-261117-01",
+      "title": "古川大臣記者会見（令和8年11月17日）｜デジタル庁",
+      "originalTitle": "古川大臣記者会見（令和8年11月17日）動画を掲載しました",
+      "summary": "古川大臣記者会見（令和8年11月17日） 令和8年11月17日、古川デジタル大臣が記者会見を行いました。会見要旨は後日、掲載いたします。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/speech/minister-261117-01",
+      "originalUrl": "https://www.digital.go.jp/speech/minister-261117-01",
+      "finalUrl": "https://www.digital.go.jp/speech/minister-261117-01",
+      "publishedAt": "2026-11-17T10:28:57+09:00",
+      "collectedAt": "2026-11-17T11:39:44+09:00",
+      "scrapedAt": "2026-11-17T11:39:44+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "228f461d4f02186a3e2f5d4abeb7e5fdbc522f37b6c4a48e810e41c999b5f236",
+      "trendScore": 10.93,
+      "createdAt": "2026-11-17T11:39:44+09:00",
+      "updatedAt": "2026-11-17T11:39:44+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
+      "title": "今後のデジタル人材育成政策に関する検討会（第3回）｜デジタル庁",
+      "originalTitle": "今後のデジタル人材育成政策に関する検討会（第3回）の議事次第および資料を掲載しました",
+      "summary": "今後のデジタル人材育成政策に関する検討会（第3回） 概要 本検討会の概要は、 今後のデジタル人材育成政策に関する検討会 をご覧ください。開催情報 日時：2026年11月17日（火） 10時00分から12時00分 場所：オンライン開催 議事次第 1.",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
+      "originalUrl": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
+      "finalUrl": "https://www.digital.go.jp/councils/digital-talent-development-policy/e22fb804-ff1f-4e5f-9aa0-ee356ebf3967",
+      "publishedAt": "2026-11-17T09:30:00+09:00",
+      "collectedAt": "2026-11-17T11:39:44+09:00",
+      "scrapedAt": "2026-11-17T11:39:44+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "セキュリティ",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "bf69ce19d18a883c880c136d72e39b431ad75a41ec5e34a78ede43db746505da",
+      "trendScore": 10.87,
+      "createdAt": "2026-11-17T11:39:44+09:00",
+      "updatedAt": "2026-11-17T11:39:44+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/personal-information-protection",
+      "title": "デジタル庁の個人情報保護｜デジタル庁",
+      "originalTitle": "デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続きの「請求様式」「保有個人情報の開示の実施方法申出書」を更新しました",
+      "summary": "デジタル庁の個人情報保護 最終更新日: 2026年11月16日 更新情報 2026年11月16日 デジタル庁の保有する個人情報に係る開示・訂正・利用停止請求手続き 内、「請求様式」「保有個人情報の開示の実施方法申出書」の資料を更新しました 2026年4月7日 参考情報 内、「情報提供等記録開示システムの運営に関する事務」の「特定個人情報保護評価書（基礎項目評価書）」を更新しました 1.",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/personal-information-protection",
+      "originalUrl": "https://www.digital.go.jp/personal-information-protection",
+      "finalUrl": "https://www.digital.go.jp/personal-information-protection",
+      "publishedAt": "2026-11-16T17:07:42+09:00",
+      "collectedAt": "2026-11-17T11:39:44+09:00",
+      "scrapedAt": "2026-11-17T11:39:44+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:44+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "483d95236147adea0b55a541e07c135ab58895456cf074abbee008f18accceb1",
+      "trendScore": 9.9,
+      "createdAt": "2026-11-17T11:39:44+09:00",
+      "updatedAt": "2026-11-17T11:39:44+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/toshi07_hh_000302.html",
+      "title": "国土交通省｜報道資料｜「都市再生特別措置法等の一部を改正する法律の施行期日を定める政令」及び 「都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令」を閣議決定",
+      "originalTitle": "�u�s�s�Đ����ʑ[�u�@���̈ꕔ����������@���̎{�s�������߂鐭�߁v�y�� �u�s�s�Đ����ʑ[�u�@���̈ꕔ����������@���̎{�s�ɔ����֌W���߂̐����Ɋւ��鐭�߁v���t�c����",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 「都市再生特別措置法等の一部を改正する法律の施行期日を定める政令」及び 「都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令」を閣議決定 「都市再生特別措置法等の一部を改正する法律の施行期日を定める政令」及び 「都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令」を閣議決定 令和８年11月17日 …",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/toshi07_hh_000302.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/toshi07_hh_000302.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/toshi07_hh_000302.html",
+      "publishedAt": "2026-11-17T05:00:00+09:00",
+      "collectedAt": "2026-11-17T11:39:48+09:00",
+      "scrapedAt": "2026-11-17T11:39:48+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:48+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "06d450951416c021203fa92c2dc777f4f64e751e39b36d887be3ead055b32da0",
+      "trendScore": 10.6,
+      "createdAt": "2026-11-17T11:39:48+09:00",
+      "updatedAt": "2026-11-17T11:39:48+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000001041.000080658.html",
+      "title": "【重版決定！】屋根リフォームで後悔しないために。専門家が教える『いちばんよくわかる 屋根の教科書』が好評につき重版！",
+      "originalTitle": "【重版決定！】屋根リフォームで後悔しないために。専門家が教える『いちばんよくわかる 屋根の教科書』が好評につき重版！",
+      "summary": "】屋根リフォームで後悔しないために。専門家が教える『いちばんよくわかる 屋根の教科書』が好評につき重版！屋根リフォームの費用、業者選び、雨漏り対策まで。20,000棟以上の施工経験を持つプロが教える、知っておきたい屋根の知識 クロスメディアグループ株式会社 2026年11月17日 10時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000001041.000080658.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000001041.000080658.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000001041.000080658.html",
+      "publishedAt": "2026-11-17T10:45:39+09:00",
+      "collectedAt": "2026-11-17T11:39:48+09:00",
+      "scrapedAt": "2026-11-17T11:39:48+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:48+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "1d2b66261c831ed386659e2d03aa2b1ec8daa7caf297f2c3429cef4ed23ef0b8",
+      "trendScore": 10.95,
+      "createdAt": "2026-11-17T11:39:48+09:00",
+      "updatedAt": "2026-11-17T11:39:48+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000003.000188652.html",
+      "title": "サイバー攻撃で仕事が止まったらどうするか。中小製造業向け「サイバーBCP策定支援」の相談受付開始",
+      "originalTitle": "サイバー攻撃で仕事が止まったらどうするか。中小製造業向け「サイバーBCP策定支援」の相談受付開始",
+      "summary": "サイバー攻撃で仕事が止まったらどうするか。中小製造業向け「サイ\u0000\u0000バーBCP策定支援」の相談受付開始 AI実装・業務改善とサイバー対策の知見を融合。予防だけでなく「被害発生後の業務継続」もサポート、受発注が止まったときに備え、初動対応・代替運用・復旧の優先順位を整理 株式会社野村総合コンサルティング 2026年11月17日 10時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000188652.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000003.000188652.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000003.000188652.html",
+      "publishedAt": "2026-11-17T10:45:39+09:00",
+      "collectedAt": "2026-11-17T11:39:48+09:00",
+      "scrapedAt": "2026-11-17T11:39:48+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:48+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "セキュリティ",
+        "DX"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "f014a38628b98d220eb492ffa076be950017c6988113648ebd36f20406972547",
+      "trendScore": 10.95,
+      "createdAt": "2026-11-17T11:39:48+09:00",
+      "updatedAt": "2026-11-17T11:39:48+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000015.000058512.html",
+      "title": "研修投資の限界を打破する―日常業務を成長機会に変える「WPLデザイン®基礎講座」、一般社団法人ラーニングプロセスデザイン協会（LPDA）の公式認定を取得",
+      "originalTitle": "研修投資の限界を打破する―日常業務を成長機会に変える「WPLデザイン(R)基礎講座」、一般社団法人ラーニングプロセスデザイン協会（LPDA）の公式認定を取得",
+      "summary": "研修投資の限界を打破する―日常業務を成長機会に変える「WPLデザイン®基礎講座」、一般社団法人ラーニングプロセスデザイン協会（LPDA）の公式認定を取得 〜現場主導の学びを設計する専門人材を育成。第4期（12月）・第5期（2月）の受講申込を受付中〜 サンライトヒューマンTDMC株式会社 2026年11月17日 10時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000058512.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000015.000058512.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000015.000058512.html",
+      "publishedAt": "2026-11-17T10:45:39+09:00",
+      "collectedAt": "2026-11-17T11:39:49+09:00",
+      "scrapedAt": "2026-11-17T11:39:49+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:49+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "4cea64dead7463b1a17d2a5d61eaa43af2eedbe57e435798010b2544c890f34d",
+      "trendScore": 10.95,
+      "createdAt": "2026-11-17T11:39:49+09:00",
+      "updatedAt": "2026-11-17T11:39:49+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/column/20261002747",
+      "title": "現職の議員や経営者が学んでいることも。「専門職大学院」の知られざる世界 - 大学ジャーナルオンライン",
+      "originalTitle": "現職の議員や経営者が学んでいることも。「専門職大学院」の知られざる世界",
+      "summary": "TOP > 大学院 > 現職の議員や経営者が学んでいることも。「専門職大学院」の知られざる世界 2026年11月17日 【社会人大学院の基礎知識④】専門職大学院編 現職の議員や経営者が学んでいることも。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/column/20261002747",
+      "originalUrl": "https://univ-journal.jp/column/20261002747/",
+      "finalUrl": "https://univ-journal.jp/column/20261002747",
+      "publishedAt": "2026-11-17T07:00:18+09:00",
+      "collectedAt": "2026-11-17T11:39:57+09:00",
+      "scrapedAt": "2026-11-17T11:39:57+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "セキュリティ",
+        "研究開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "bc5966e4660b36c776146eb2617ecdaffaa8b6e1fcff3e78d47f010bc2b77a9b",
+      "trendScore": 10.72,
+      "createdAt": "2026-11-17T11:39:57+09:00",
+      "updatedAt": "2026-11-17T11:39:57+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1002901",
+      "title": "脳卒中患者の実生活での上肢活動に多様なパターン 畿央大学が報告",
+      "originalTitle": "脳卒中患者の実生活での上肢活動に多様なパターン　畿央大学が報告",
+      "summary": "TOP > 研究成果 > 脳卒中患者の実生活での上肢活動に多様なパターン 畿央大学が報告 2026年11月16日 脳卒中患者の実生活での上肢活動に多様なパターン 畿央大学が報告 大学ジャーナルオンライン編集部 脳卒中 運動麻痺 畿央大学 畿央大学大学院博士後期課程の南川勇二氏、森岡周教授らの研究チームは、脳卒中患者において、運動麻痺の重症度と実生活での上肢活動量を組み合わせて分析した結果、6つの特徴的なサブグループを特定した。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1002901",
+      "originalUrl": "https://univ-journal.jp/1002901/",
+      "finalUrl": "https://univ-journal.jp/1002901",
+      "publishedAt": "2026-11-16T17:00:09+09:00",
+      "collectedAt": "2026-11-17T11:39:58+09:00",
+      "scrapedAt": "2026-11-17T11:39:58+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "b38f535d27b64e8bf595fdb2dea80d7b5bd737aeb6f269ed730086130cb198b3",
+      "trendScore": 9.89,
+      "createdAt": "2026-11-17T11:39:58+09:00",
+      "updatedAt": "2026-11-17T11:39:58+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003114",
+      "title": "甲南女子大学 12/13「入試問題対策講座」開催 高3来場者に赤本無料配布＆ライブ配信も実施",
+      "originalTitle": "甲南女子大学　12/13「入試問題対策講座」開催　高3来場者に赤本無料配布＆ライブ配信も実施",
+      "summary": "TOP > 大学入試 > 甲南女子大学 12/13「入試問題対策講座」開催 高3来場者に赤本無料配布＆ライブ配信も実施 2026年11月16日 甲南女子大学 12/13「入試問題対策講座」開催 高3来場者に赤本無料配布＆ライブ配信も実施 大学ジャーナルオンライン編集部 オープンキャンパス 入試問題対策講座 女子大学 甲南女子大学 2026年12月13日（日）、甲南女子大学は高校3年生を対象とした「…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003114",
+      "originalUrl": "https://univ-journal.jp/1003114/",
+      "finalUrl": "https://univ-journal.jp/1003114",
+      "publishedAt": "2026-11-16T11:00:35+09:00",
+      "collectedAt": "2026-11-17T11:39:58+09:00",
+      "scrapedAt": "2026-11-17T11:39:58+09:00",
+      "lastVerifiedAt": "2026-11-17T11:39:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "98b060dd198ec3fa5bb51a927b15b828783a34ed2f9263d1db409df75a190379",
+      "trendScore": 9.53,
+      "createdAt": "2026-11-17T11:39:58+09:00",
+      "updatedAt": "2026-11-17T11:39:58+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/402619",
+      "title": "社長に逆らい48歳で左遷…出口治明が「窓際の8年間」に毎週欠かさず続けた意外な習慣",
+      "originalTitle": "社長に逆らい48歳で左遷…出口治明が「窓際の8年間」に毎週欠かさず続けた意外な習慣 - ニュースな本",
+      "summary": "写真はイメージです Photo:PIXTA ライフネット生命の創業者として知られる出口治明氏は、日本生命に勤めていた頃、左遷を経験している。きっかけは、自ら提案して承認された海外進出計画が、社長交代によって白紙に戻されたこと。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/402619",
+      "originalUrl": "https://diamond.jp/articles/-/402619",
+      "finalUrl": "https://diamond.jp/articles/-/402619",
+      "publishedAt": "2026-11-17T08:00:00+09:00",
+      "collectedAt": "2026-11-17T11:40:05+09:00",
+      "scrapedAt": "2026-11-17T11:40:05+09:00",
+      "lastVerifiedAt": "2026-11-17T11:40:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "5566449e351266301c777096fd0b98f904505d09f61827bfcca1d9bec9f8d1e4",
+      "trendScore": 10.78,
+      "createdAt": "2026-11-17T11:40:05+09:00",
+      "updatedAt": "2026-11-17T11:40:05+09:00"
     }
   ],
   "sources": [
@@ -63515,8 +64030,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-16T08:36:04+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:05+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:28+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:29+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63528,8 +64043,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-16T08:36:18+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:18+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:41+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63541,8 +64056,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-16T08:36:19+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:20+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:42+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:42+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63567,8 +64082,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-16T08:36:20+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:20+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:42+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63580,8 +64095,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-16T08:36:20+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:20+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:44+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63593,8 +64108,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-16T08:36:20+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:21+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:44+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63606,8 +64121,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-16T08:36:21+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:22+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:45+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63619,8 +64134,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-16T08:36:22+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:23+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:47+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63723,8 +64238,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-16T08:36:23+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:23+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:48+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:48+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63762,8 +64277,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-16T08:36:24+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:25+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:49+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63775,8 +64290,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-16T08:36:25+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:25+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:49+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:49+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63788,8 +64303,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-16T08:36:25+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:26+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:49+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63801,8 +64316,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-16T08:36:26+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:27+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:51+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63814,8 +64329,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-16T08:36:27+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:27+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:52+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63827,8 +64342,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-16T08:36:27+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:28+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:53+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63853,8 +64368,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-16T08:36:28+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:28+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:53+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63918,8 +64433,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-16T08:36:30+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:32+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:55+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63931,8 +64446,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-16T08:36:33+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:34+09:00",
+      "lastFetchedAt": "2026-11-17T11:39:58+09:00",
+      "lastSuccessAt": "2026-11-17T11:39:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -63944,8 +64459,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-16T08:36:37+09:00",
-      "lastSuccessAt": "2026-11-16T08:36:37+09:00",
+      "lastFetchedAt": "2026-11-17T11:40:03+09:00",
+      "lastSuccessAt": "2026-11-17T11:40:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -64145,6 +64660,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261117-1139",
+      "scheduledAt": "2026-11-17T11:39:28+09:00",
+      "startedAt": "2026-11-17T11:39:28+09:00",
+      "finishedAt": "2026-11-17T11:40:05+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 19,
+      "sourcesFailed": 0,
+      "candidatesFound": 57,
+      "duplicatesRemoved": 0,
+      "invalidUrlsRemoved": 3,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261116-0836",
       "scheduledAt": "2026-11-16T08:36:04+09:00",
@@ -66132,27 +66666,12 @@
           "message": "フィード取得失敗: Status code 403"
         }
       ]
-    },
-    {
-      "jobId": "collection-20260809-0513",
-      "scheduledAt": "2026-08-09T05:13:49+09:00",
-      "startedAt": "2026-08-09T05:13:49+09:00",
-      "finishedAt": "2026-08-09T05:15:15+09:00",
-      "status": "success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 18,
-      "sourcesFailed": 0,
-      "candidatesFound": 57,
-      "duplicatesRemoved": 6,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 15,
-      "errors": []
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-11-16T08:36:39+09:00",
-    "lastSuccessAt": "2026-11-16T08:36:39+09:00",
-    "nextScheduledAt": "2026-11-17T05:00:00+09:00",
+    "lastCollectionAt": "2026-11-17T11:40:05+09:00",
+    "lastSuccessAt": "2026-11-17T11:40:05+09:00",
+    "nextScheduledAt": "2026-11-18T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
