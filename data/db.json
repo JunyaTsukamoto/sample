@@ -65016,6 +65016,516 @@
       "trendScore": 10.88,
       "createdAt": "2026-11-19T10:32:11+09:00",
       "updatedAt": "2026-11-19T10:32:11+09:00"
+    },
+    {
+      "id": "https://qiita.com/yo-shie/items/b30b6df400dfbeddac5c",
+      "title": "AI が書いた記事を人の OK で Zenn・Qiita に公開する仕組みと、公開ワークフローの注意点 - Qiita",
+      "originalTitle": "AI が書いた記事を人の OK で Zenn・Qiita に公開する仕組みと、公開ワークフローの注意点",
+      "summary": "@ yo-shie ( ヨシー ) in 株式会社ピーアールアイ AI が書いた記事を人の OK で Zenn・Qiita に公開する仕組みと、公開ワークフローの注意点 AI Zenn Qiita GitHubActions 0 Posted at 2026-11-20 はじめに 社内のサイト分析ツールに、AI のエージェントが技術記事を執筆し、人は確認・修正・公開の判断だけを行う仕組みを組み込みました。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/yo-shie/items/b30b6df400dfbeddac5c",
+      "originalUrl": "https://qiita.com/yo-shie/items/b30b6df400dfbeddac5c",
+      "finalUrl": "https://qiita.com/yo-shie/items/b30b6df400dfbeddac5c",
+      "publishedAt": "2026-11-20T10:17:05+09:00",
+      "collectedAt": "2026-11-20T10:27:45+09:00",
+      "scrapedAt": "2026-11-20T10:27:45+09:00",
+      "lastVerifiedAt": "2026-11-20T10:27:45+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "b7a3e7e34ab2e93be4eb1dde1bc57a08c92786e77d483f04f360bd7cc2115d45",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-20T10:27:45+09:00",
+      "updatedAt": "2026-11-20T10:27:45+09:00"
+    },
+    {
+      "id": "https://qiita.com/BoxBox_JP/items/9e42fb2aeb52f82316d6",
+      "title": "AIが書いたコード、レビューで一番困るのは「誰が自分を待っているか分からない」こと - Qiita",
+      "originalTitle": "AIが書いたコード、レビューで一番困るのは「誰が自分を待っているか分からない」こと",
+      "summary": "@ BoxBox_JP ( 保安仙人 ) AIが書いたコード、レビューで一番困るのは「誰が自分を待っているか分からない」こと ClaudeCode codex cursor Mac AI 0 Posted at 2026-11-20 はじめに Claude Code、Codex、Cursor、Gemini。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/BoxBox_JP/items/9e42fb2aeb52f82316d6",
+      "originalUrl": "https://qiita.com/BoxBox_JP/items/9e42fb2aeb52f82316d6",
+      "finalUrl": "https://qiita.com/BoxBox_JP/items/9e42fb2aeb52f82316d6",
+      "publishedAt": "2026-11-20T10:06:55+09:00",
+      "collectedAt": "2026-11-20T10:27:51+09:00",
+      "scrapedAt": "2026-11-20T10:27:51+09:00",
+      "lastVerifiedAt": "2026-11-20T10:27:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "e9f70b50709eee59504258a8b4e6322bee71eb5f67a40be6f21e0b9341a34b0f",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-20T10:27:51+09:00",
+      "updatedAt": "2026-11-20T10:27:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/Hideki_Tamae/items/b43893cf1be58ad90cbf",
+      "title": "0/2。Cloudflareが『Chromiumより7倍軽い』とAIエージェント向けブラウザKitesurfを公開した日、6日前に自分へ出した宿題「公開ページを実際に見る」を初めて試したら、成功した数はこの数字だった - Qiita",
+      "originalTitle": "0/2。Cloudflareが『Chromiumより7倍軽い』とAIエージェント向けブラウザKitesurfを公開した日、6日前に自分へ出した宿題「公開ページを実際に見る」を初めて試したら、成功した数はこの数字だった",
+      "summary": "@ Hideki_Tamae ( 田前 秀樹 ) 0/2。Cloudflareが『Chromiumより7倍軽い』とAIエージェント向けブラウザKitesurfを公開した日、6日前に自分へ出した宿題「公開ページを実際に見る」を初めて試したら、成功した数はこの数字だった AI ClaudeCode AIエージェント Network Security 0 Posted at 2026-11-20 はじめに 0/2。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Hideki_Tamae/items/b43893cf1be58ad90cbf",
+      "originalUrl": "https://qiita.com/Hideki_Tamae/items/b43893cf1be58ad90cbf",
+      "finalUrl": "https://qiita.com/Hideki_Tamae/items/b43893cf1be58ad90cbf",
+      "publishedAt": "2026-11-20T09:48:16+09:00",
+      "collectedAt": "2026-11-20T10:27:57+09:00",
+      "scrapedAt": "2026-11-20T10:27:57+09:00",
+      "lastVerifiedAt": "2026-11-20T10:27:57+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "325b0d0659b2e7c890db26211e8413b88afa4a152afb77e326de080e1e4e5486",
+      "trendScore": 10.96,
+      "createdAt": "2026-11-20T10:27:57+09:00",
+      "updatedAt": "2026-11-20T10:27:57+09:00"
+    },
+    {
+      "id": "https://qiita.com/mrmrmr/items/072a83c4c4de9fa44efb",
+      "title": "【小学5年生でもわかる】協調フィルタリングってなに？ - Qiita",
+      "originalTitle": "【小学5年生でもわかる】協調フィルタリングってなに？",
+      "summary": "@ mrmrmr ( もりもり ) 【小学5年生でもわかる】協調フィルタリングってなに？G検定 DeepLearning 機械学習 初心者向け 0 Posted at 2026-11-19 この記事は「小学生向け」バージョンです。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/mrmrmr/items/072a83c4c4de9fa44efb",
+      "originalUrl": "https://qiita.com/mrmrmr/items/072a83c4c4de9fa44efb",
+      "finalUrl": "https://qiita.com/mrmrmr/items/072a83c4c4de9fa44efb",
+      "publishedAt": "2026-11-20T05:51:25+09:00",
+      "collectedAt": "2026-11-20T10:27:58+09:00",
+      "scrapedAt": "2026-11-20T10:27:58+09:00",
+      "lastVerifiedAt": "2026-11-20T10:27:58+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "02214ff0bcceba5994a8c6a3de71069d12b100f045f967f0ff01ca08cb17ec83",
+      "trendScore": 10.73,
+      "createdAt": "2026-11-20T10:27:58+09:00",
+      "updatedAt": "2026-11-20T10:27:58+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/sogo11_hh_000098.html",
+      "title": "国土交通省｜報道資料｜北極海航路に係る産学官連携協議会（第12回）の開催<br>～北極海航路を巡る最新情報を共有します～",
+      "originalTitle": "�k�ɊC�q�H�ɌW��Y�w���A�g���c��i��12��j�̊J�Á`�k�ɊC�q�H������ŐV�������L���܂��`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 北極海航路に係る産学官連携協議会（第12回）の開催 ～北極海航路を巡る最新情報を共有します～ 北極海航路に係る産学官連携協議会（第12回）の開催 ～北極海航路を巡る最新情報を共有します～ 令和8年11月19日 国土交通省は、11月24日（火）に「北極海航路に係る産学官連携協議会（第12回）」を開催します。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/sogo11_hh_000098.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/sogo11_hh_000098.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/sogo11_hh_000098.html",
+      "publishedAt": "2026-11-19T05:00:00+09:00",
+      "collectedAt": "2026-11-20T10:28:02+09:00",
+      "scrapedAt": "2026-11-20T10:28:02+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "42c277e12b0c3a65c90a24ccf809681d8dfe5d0a6ea6b4356f3b7eb149d9ee85",
+      "trendScore": 9.25,
+      "createdAt": "2026-11-20T10:28:02+09:00",
+      "updatedAt": "2026-11-20T10:28:02+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00370.html",
+      "title": "国土交通省｜報道資料｜中央建設工事紛争審査会委員の任命について",
+      "originalTitle": "�������ݍH�������R����ψ��̔C���ɂ���",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 中央建設工事紛争審査会委員の任命について 中央建設工事紛争審査会委員の任命について 令和8年11月19日 この度、中央建設工事紛争審査会委員の任期満了に伴い、令和８年１１月１９日付で、以下のとおり委員１５名が任命されました。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00370.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00370.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo13_hh_000001_00370.html",
+      "publishedAt": "2026-11-19T05:00:00+09:00",
+      "collectedAt": "2026-11-20T10:28:02+09:00",
+      "scrapedAt": "2026-11-20T10:28:02+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:02+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "ca0bdb4f6a7d5492fb3bf02f9c8a01b7fa72ee1eba645876dd5188fc78272f98",
+      "trendScore": 9.25,
+      "createdAt": "2026-11-20T10:28:02+09:00",
+      "updatedAt": "2026-11-20T10:28:02+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/toshi03_hh_000228.html",
+      "title": "国土交通省｜報道資料｜第179回博覧会国際事務局（BIE）総会に出席しました<br>～草間国土交通大臣政務官がGREEN×EXPO 2027の開幕に向けた決意を世界に発信～",
+      "originalTitle": "��179�񔎗���ێ����ǁiBIE�j����ɏo�Ȃ��܂����`���ԍ��y��ʑ�b��������GREEN�~EXPO 2027�̊J���Ɍ��������ӂ𐢊E�ɔ��M�`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 第179回博覧会国際事務局（BIE）総会に出席しました ～草間国土交通大臣政務官がGREEN×EXPO 2027の開幕に向けた決意を世界に発信～ 第179回博覧会国際事務局（BIE）総会に出席しました ～草間国土交通大臣政務官がGREEN×EXPO 2027の開幕に向けた決意を世界に発信～ 令和8年11月19日 草間政務官は、令和８年11月17日にフラ…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/toshi03_hh_000228.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/toshi03_hh_000228.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/toshi03_hh_000228.html",
+      "publishedAt": "2026-11-19T05:00:00+09:00",
+      "collectedAt": "2026-11-20T10:28:03+09:00",
+      "scrapedAt": "2026-11-20T10:28:03+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "d1e98b5a3c796d95decfa55af640e6dca418473e33b48f94078d05f772ab24e5",
+      "trendScore": 9.25,
+      "createdAt": "2026-11-20T10:28:03+09:00",
+      "updatedAt": "2026-11-20T10:28:03+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000002803.000005176.html",
+      "title": "4分に1人、子どもが暴力で命を落とす 子どもに対する暴力根絶へ行動を 【プレスリリース】",
+      "originalTitle": "4分に1人、子どもが暴力で命を落とす　子どもに対する暴力根絶へ行動を 【プレスリリース】",
+      "summary": "4分に1人、子どもが暴力で命を落とす 子どもに対する暴力根絶へ行動を 【\u0000プレスリリース】 マニラの世界閣僚会議で、ユニセフ訴え 公益財団法人日本ユニセフ協会 2026年11月19日 15時57分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000002803.000005176.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000002803.000005176.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000002803.000005176.html",
+      "publishedAt": "2026-11-20T10:10:03+09:00",
+      "collectedAt": "2026-11-20T10:28:03+09:00",
+      "scrapedAt": "2026-11-20T10:28:03+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "b2941ac30a8ffd34f389b689752a27f15b89a4398ad38242a227f2099d6039f2",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-20T10:28:03+09:00",
+      "updatedAt": "2026-11-20T10:28:03+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000352.000029713.html",
+      "title": "ハウスコムが参画する「KAKEHASHI」、外国人留学生向け企業交流イベントを開催",
+      "originalTitle": "ハウスコムが参画する「KAKEHASHI」、外国人留学生向け企業交流イベントを開催",
+      "summary": "ハウスコムが参画する「KAKEHASHI」、外国人留学生向け企業交流イベントを開催 ～日本での就職を目指す留学生と企業9社が交流、暮らしとキャリア形成を支援～ ハウスコム株式会社 2026年11月19日 10時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000352.000029713.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000352.000029713.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000352.000029713.html",
+      "publishedAt": "2026-11-20T10:10:03+09:00",
+      "collectedAt": "2026-11-20T10:28:03+09:00",
+      "scrapedAt": "2026-11-20T10:28:03+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "7fada077cc08b5a14473a02a6b214604e31d82d1353974d2fc14ba1fb6a6e358",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-20T10:28:03+09:00",
+      "updatedAt": "2026-11-20T10:28:03+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000003113.000021078.html",
+      "title": "【TAC弁理士講座】11/24(火) 『R9弁理士試験の合格のために、12月と年末年始にやるべきこと』無料ウェビナー開催！",
+      "originalTitle": "【TAC弁理士講座】11/24(火) 『R9弁理士試験の合格のために、12月と年末年始にやるべきこと』無料ウェビナー開催！",
+      "summary": "【TAC弁理士講座】11/24(火) 『R9弁理士試験の合格のために、12月と年末年始にやるべきこと』無料ウェビナー開催！TAC株式会社 2026年11月19日 10時00分 いいね！数を読み込み中です 弁理士試験対策講座を展開しているTAC株式会社（東京都千代田区）は、弁理士試験合格を目指す方を対象とした無料オンラインウェビナーを、11/24(火) に開催いたします。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000003113.000021078.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000003113.000021078.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000003113.000021078.html",
+      "publishedAt": "2026-11-20T10:10:03+09:00",
+      "collectedAt": "2026-11-20T10:28:03+09:00",
+      "scrapedAt": "2026-11-20T10:28:03+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "33ae0148c0c461438045d31117323594e2aeee56c878fdf9fd76e7aaf6f066d1",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-20T10:28:03+09:00",
+      "updatedAt": "2026-11-20T10:28:03+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003229",
+      "title": "母体の歯周炎が仔マウスの脳機能や行動に影響 東京科学大学などが解明",
+      "originalTitle": "母体の歯周炎が仔マウスの脳機能や行動に影響　東京科学大学などが解明",
+      "summary": "TOP > 研究成果 > 母体の歯周炎が仔マウスの脳機能や行動に影響 東京科学大学などが解明 2026年11月19日 母体の歯周炎が仔マウスの脳機能や行動に影響 東京科学大学などが解明 大学ジャーナルオンライン編集部 歯周炎 腸内細菌叢 東京科学大学 東京慈恵会医科大学 東京科学大学と東京慈恵会医科大学の共同研究チームは、母体の歯周炎が、仔マウスの腸内細菌叢や脳機能、行動に影響を及ぼすことを明らかにした。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003229",
+      "originalUrl": "https://univ-journal.jp/1003229/",
+      "finalUrl": "https://univ-journal.jp/1003229",
+      "publishedAt": "2026-11-19T17:00:17+09:00",
+      "collectedAt": "2026-11-20T10:28:11+09:00",
+      "scrapedAt": "2026-11-20T10:28:11+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:11+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "3de7449c9b53497fcb6cf3345946bab2f4a7dee359ec58cc148606a9d09dc0e4",
+      "trendScore": 9.96,
+      "createdAt": "2026-11-20T10:28:11+09:00",
+      "updatedAt": "2026-11-20T10:28:11+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003246",
+      "title": "ねこ検定×東京農業大学 動物行動学研究室が 猫の「伸び」行動について合同調査",
+      "originalTitle": "ねこ検定×東京農業大学 動物行動学研究室が　猫の「伸び」行動について合同調査",
+      "summary": "TOP > 研究成果 > 産学連携 > ねこ検定×東京農業大学 動物行動学研究室が 猫の「伸び」行動について合同調査 2026年11月19日 ねこ検定×東京農業大学 動物行動学研究室が 猫の「伸び」行動について合同調査 大学ジャーナルオンライン編集部 ネコ 東京農業大学 猫が時折見せる伸びのポーズにどんな意味があるのか。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003246",
+      "originalUrl": "https://univ-journal.jp/1003246/",
+      "finalUrl": "https://univ-journal.jp/1003246",
+      "publishedAt": "2026-11-19T11:00:23+09:00",
+      "collectedAt": "2026-11-20T10:28:13+09:00",
+      "scrapedAt": "2026-11-20T10:28:13+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "89d27ec5b18d010ec786bd62607d584bba9548d706aed5dc98f628f90b987e70",
+      "trendScore": 9.6,
+      "createdAt": "2026-11-20T10:28:13+09:00",
+      "updatedAt": "2026-11-20T10:28:13+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003092",
+      "title": "東邦大学 薬学部 「次世代の薬剤師」育成に向けた国際交流プログラム実施",
+      "originalTitle": "東邦大学 薬学部　「次世代の薬剤師」育成に向けた国際交流プログラム実施",
+      "summary": "TOP > トピックス > 東邦大学 薬学部 「次世代の薬剤師」育成に向けた国際交流プログラム実施 2026年11月19日 東邦大学 薬学部 「次世代の薬剤師」育成に向けた国際交流プログラム実施 大学ジャーナルオンライン編集部 国際交流 薬剤師 東邦大学 東邦大学薬学部（千葉県船橋市）は、科学技術振興機構（JST）が実施する「さくらサイエンスプログラム」に採択された。",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003092",
+      "originalUrl": "https://univ-journal.jp/1003092/",
+      "finalUrl": "https://univ-journal.jp/1003092",
+      "publishedAt": "2026-11-19T07:00:53+09:00",
+      "collectedAt": "2026-11-20T10:28:13+09:00",
+      "scrapedAt": "2026-11-20T10:28:13+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:13+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "4b4f3479181c336b2fc71b522b23c6b21e4c8a85e0bdb12c0eaf35e75b66c493",
+      "trendScore": 9.37,
+      "createdAt": "2026-11-20T10:28:13+09:00",
+      "updatedAt": "2026-11-20T10:28:13+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/963735",
+      "title": "｢将来､何をしたいかわからない…｣ 精神科医が《自分探しで迷子になった人》に薦める\"本当の自分\"のあぶり出し方",
+      "originalTitle": "｢将来､何をしたいかわからない…｣ 精神科医が《自分探しで迷子になった人》に薦める\"本当の自分\"のあぶり出し方 | ライフ | 東洋経済オンライン",
+      "summary": "｢将来､何をしたいかわからない…｣ 精神科医が《自分探しで迷子になった人》に薦める\"本当の自分\"のあぶり出し方 6分で読める 公開日時：2026/11/20 10:00 志村 祥瑚 精神科医・マジシャン フォロー ｢今後どうしたい？",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/963735",
+      "originalUrl": "https://toyokeizai.net/articles/-/963735?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/963735",
+      "publishedAt": "2026-11-20T10:00:00+09:00",
+      "collectedAt": "2026-11-20T10:28:15+09:00",
+      "scrapedAt": "2026-11-20T10:28:15+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "bf21ae4e94bcfacf87f5dae9e4d265c41325a87beacbf27490c9ae323a4ecb34",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-20T10:28:15+09:00",
+      "updatedAt": "2026-11-20T10:28:15+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/965434?display=b",
+      "title": "｢核戦争は起こしてはならない｣｢核リスクの低減と核兵器の拡散防止に関する対話を行う｣…米中ロ首脳が平和宣言で合意",
+      "originalTitle": "｢核戦争は起こしてはならない｣｢核リスクの低減と核兵器の拡散防止に関する対話を行う｣…米中ロ首脳が平和宣言で合意 | 政治・経済・投資 | 東洋経済オンライン",
+      "summary": "政治・経済・投資 ｢核戦争は起こしてはならない｣｢核リスクの低減と核兵器の拡散防止に関する対話を行う｣…米中ロ首脳が平和宣言で合意 4分で読める 公開日時：2026/11/20 09:00 会員登録で読める （写真：ロイター） ロイター 1 /1 PAGES 中国の習近平国家主席、トランプ米大統領、ロシアのプーチン大統領は19日、初の3者会談で象徴的な「平和宣言」に合意し、核戦争は決して起こしてはならないと再確認した。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/965434?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/965434?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/965434?display=b",
+      "publishedAt": "2026-11-20T09:00:00+09:00",
+      "collectedAt": "2026-11-20T10:28:15+09:00",
+      "scrapedAt": "2026-11-20T10:28:15+09:00",
+      "lastVerifiedAt": "2026-11-20T10:28:15+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "cc84e91ade322cb0bc00326fd888adbb493eaa51a31986bd6e33184a69c8ab05",
+      "trendScore": 10.91,
+      "createdAt": "2026-11-20T10:28:15+09:00",
+      "updatedAt": "2026-11-20T10:28:15+09:00"
     }
   ],
   "sources": [
@@ -65028,8 +65538,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-19T10:31:38+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:39+09:00",
+      "lastFetchedAt": "2026-11-20T10:27:44+09:00",
+      "lastSuccessAt": "2026-11-20T10:27:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65041,8 +65551,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-19T10:31:52+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:52+09:00",
+      "lastFetchedAt": "2026-11-20T10:27:57+09:00",
+      "lastSuccessAt": "2026-11-20T10:27:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65054,8 +65564,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-19T10:31:53+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:53+09:00",
+      "lastFetchedAt": "2026-11-20T10:27:58+09:00",
+      "lastSuccessAt": "2026-11-20T10:27:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65080,8 +65590,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-19T10:31:53+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:53+09:00",
+      "lastFetchedAt": "2026-11-20T10:27:58+09:00",
+      "lastSuccessAt": "2026-11-20T10:27:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65093,8 +65603,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-19T10:31:53+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:53+09:00",
+      "lastFetchedAt": "2026-11-20T10:27:59+09:00",
+      "lastSuccessAt": "2026-11-20T10:27:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65106,8 +65616,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-19T10:31:53+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:54+09:00",
+      "lastFetchedAt": "2026-11-20T10:27:59+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65119,8 +65629,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-19T10:31:54+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:54+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:00+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65132,8 +65642,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-19T10:31:56+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:57+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:01+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65236,8 +65746,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-19T10:31:58+09:00",
-      "lastSuccessAt": "2026-11-19T10:31:59+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:03+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:03+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65275,8 +65785,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-19T10:31:59+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:00+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:03+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65288,8 +65798,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-19T10:32:00+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:00+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:04+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65301,8 +65811,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-19T10:32:00+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:02+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:04+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65314,8 +65824,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-19T10:32:02+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:02+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:06+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65327,8 +65837,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-19T10:32:02+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:03+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:06+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:06+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65340,8 +65850,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-19T10:32:03+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:03+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:06+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65366,8 +65876,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-19T10:32:03+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:04+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:07+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:07+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65431,8 +65941,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-19T10:32:05+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:07+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:09+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:11+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65444,8 +65954,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-19T10:32:08+09:00",
-      "lastSuccessAt": "2026-11-19T10:32:09+09:00",
+      "lastFetchedAt": "2026-11-20T10:28:13+09:00",
+      "lastSuccessAt": "2026-11-20T10:28:14+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -65658,6 +66168,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261120-1027",
+      "scheduledAt": "2026-11-20T10:27:44+09:00",
+      "startedAt": "2026-11-20T10:27:44+09:00",
+      "finishedAt": "2026-11-20T10:28:16+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 56,
+      "duplicatesRemoved": 5,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261119-1031",
       "scheduledAt": "2026-11-19T10:31:38+09:00",
@@ -67623,44 +68152,12 @@
       "invalidUrlsRemoved": 1,
       "articlesPublished": 15,
       "errors": []
-    },
-    {
-      "jobId": "collection-20260812-0529",
-      "scheduledAt": "2026-08-12T05:29:49+09:00",
-      "startedAt": "2026-08-12T05:29:49+09:00",
-      "finishedAt": "2026-08-12T05:31:28+09:00",
-      "status": "partial_success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 26,
-      "sourcesFailed": 4,
-      "candidatesFound": 160,
-      "duplicatesRemoved": 10,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 14,
-      "errors": [
-        {
-          "sourceId": "bk-jst",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "bk-zdnet",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "bk-fsa",
-          "message": "フィード取得失敗: Status code 404"
-        },
-        {
-          "sourceId": "bk-jpo",
-          "message": "フィード取得失敗: Status code 403"
-        }
-      ]
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-11-19T10:32:17+09:00",
-    "lastSuccessAt": "2026-11-19T10:32:17+09:00",
-    "nextScheduledAt": "2026-11-20T05:00:00+09:00",
+    "lastCollectionAt": "2026-11-20T10:28:16+09:00",
+    "lastSuccessAt": "2026-11-20T10:28:16+09:00",
+    "nextScheduledAt": "2026-11-21T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
