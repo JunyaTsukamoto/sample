@@ -64496,12 +64496,12 @@
         "規制"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "d207f95a695c14dc87e0e923435f1ae312f3b7973b5dcced8ff9188c8abc3f5a",
       "trendScore": 10.95,
       "createdAt": "2026-11-18T10:54:48+09:00",
-      "updatedAt": "2026-11-21T13:12:22+09:00"
+      "updatedAt": "2026-11-21T23:59:05.570Z"
     },
     {
       "id": "https://toyokeizai.net/articles/-/963342",
@@ -66043,6 +66043,524 @@
       "trendScore": 10.94,
       "createdAt": "2026-11-21T09:58:52+09:00",
       "updatedAt": "2026-11-21T09:58:52+09:00"
+    },
+    {
+      "id": "https://qiita.com/joinclass/items/080927f3b092b9de46e6",
+      "title": "Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装 - Qiita",
+      "originalTitle": "Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装",
+      "summary": "@ joinclass ( Agun Kyo ) Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装 ClaudeCode AI 自動化 Bash launchd 0 Posted at 2026-11-21 はじめに：朝起きたらジョブが全部落ちていた 当社（合同会社ジョインクラス）は、記事作成・朝のレポート・各部署の作…",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/joinclass/items/080927f3b092b9de46e6",
+      "originalUrl": "https://qiita.com/joinclass/items/080927f3b092b9de46e6",
+      "finalUrl": "https://qiita.com/joinclass/items/080927f3b092b9de46e6",
+      "publishedAt": "2026-11-22T08:30:07+09:00",
+      "collectedAt": "2026-11-22T08:58:39+09:00",
+      "scrapedAt": "2026-11-22T08:58:39+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "DX",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "95b903e6ec4549b2b1e888e2b68805ce0054b236d3e125c8ee2bc6c0863d1d9d",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-22T08:58:39+09:00",
+      "updatedAt": "2026-11-22T08:58:39+09:00"
+    },
+    {
+      "id": "https://qiita.com/ohisama@github/items/637d9abfad1ca7193232",
+      "title": "自作MCPサーバー その27 - Qiita",
+      "originalTitle": "自作MCPサーバー その27",
+      "summary": "@ ohisama@github Joining Advent Calendar 自作MCPサーバー その27 自作MCP AI DesktopCommander ACDL 0 Last updated at 2026-11-21 Posted at 2026-11-21 概要 MCPサーバーが気になったので、調べてみた。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/ohisama@github/items/637d9abfad1ca7193232",
+      "originalUrl": "https://qiita.com/ohisama@github/items/637d9abfad1ca7193232",
+      "finalUrl": "https://qiita.com/ohisama@github/items/637d9abfad1ca7193232",
+      "publishedAt": "2026-11-22T08:27:59+09:00",
+      "collectedAt": "2026-11-22T08:58:45+09:00",
+      "scrapedAt": "2026-11-22T08:58:45+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:45+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "ChatGPT",
+        "セキュリティ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "d4e2fb779a7687c87605547d5aa676bc2c87bd9bf0496d312d679e38e6e47043",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-22T08:58:45+09:00",
+      "updatedAt": "2026-11-22T08:58:45+09:00"
+    },
+    {
+      "id": "https://qiita.com/IT-love-pug/items/3e369b5d119138325603",
+      "title": "AWS AIプラクティショナー試験対策⑥：エージェンティックAIとMCPの基礎 - Qiita",
+      "originalTitle": "AWS AIプラクティショナー試験対策⑥：エージェンティックAIとMCPの基礎",
+      "summary": "@ IT-love-pug ( K ) AWS AIプラクティショナー試験対策⑥：エージェンティックAIとMCPの基礎 AWS AI 生成AI MCP 資格 0 Posted at 2026-11-21 AWS AIプラクティショナー試験対策⑥：エージェンティックAIとMCPの基礎 この記事は、AWS認定AIプラクティショナー（AIF-C01）試験対策の連載第6回です。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/IT-love-pug/items/3e369b5d119138325603",
+      "originalUrl": "https://qiita.com/IT-love-pug/items/3e369b5d119138325603",
+      "finalUrl": "https://qiita.com/IT-love-pug/items/3e369b5d119138325603",
+      "publishedAt": "2026-11-22T08:15:21+09:00",
+      "collectedAt": "2026-11-22T08:58:51+09:00",
+      "scrapedAt": "2026-11-22T08:58:51+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "LLM"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "32bb696eb3f821ef78b3ca85aaf8e5d19f48ec1ef5bf7439131e8e8e853d4389",
+      "trendScore": 10.96,
+      "createdAt": "2026-11-22T08:58:51+09:00",
+      "updatedAt": "2026-11-22T08:58:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/mrmrmr/items/9bc1120e540ed9cede65",
+      "title": "【小学5年生でもわかる】著作権とAIってなに？ - Qiita",
+      "originalTitle": "【小学5年生でもわかる】著作権とAIってなに？",
+      "summary": "@ mrmrmr ( もりもり ) 【小学5年生でもわかる】著作権とAIってなに？G検定 AI 機械学習 0 Posted at 2026-11-21 著作権とAI とは AIの学習に著作物を使うことの法的・倫理的問題について学びます。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/mrmrmr/items/9bc1120e540ed9cede65",
+      "originalUrl": "https://qiita.com/mrmrmr/items/9bc1120e540ed9cede65",
+      "finalUrl": "https://qiita.com/mrmrmr/items/9bc1120e540ed9cede65",
+      "publishedAt": "2026-11-22T04:35:19+09:00",
+      "collectedAt": "2026-11-22T08:58:51+09:00",
+      "scrapedAt": "2026-11-22T08:58:51+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "de7346d555e251d842408f17e2de2fc1c707190ec21cf999c04fe665cdbc731c",
+      "trendScore": 10.74,
+      "createdAt": "2026-11-22T08:58:51+09:00",
+      "updatedAt": "2026-11-22T08:58:51+09:00"
+    },
+    {
+      "id": "https://qiita.com/mrmrmr/items/260dbfdf680d36230b03",
+      "title": "コンテンツベースフィルタリング：詳細な技術解説 - Qiita",
+      "originalTitle": "コンテンツベースフィルタリング：詳細な技術解説",
+      "summary": "@ mrmrmr ( もりもり ) コンテンツベースフィルタリング：詳細な技術解説 G検定 DeepLearning 機械学習 統計学 0 Posted at 2026-11-21 この記事は「技術版」です。",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/mrmrmr/items/260dbfdf680d36230b03",
+      "originalUrl": "https://qiita.com/mrmrmr/items/260dbfdf680d36230b03",
+      "finalUrl": "https://qiita.com/mrmrmr/items/260dbfdf680d36230b03",
+      "publishedAt": "2026-11-21T12:22:05+09:00",
+      "collectedAt": "2026-11-22T08:58:51+09:00",
+      "scrapedAt": "2026-11-22T08:58:51+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "acff5d4947c29404e6a65c1f5b15504395a6332756c1833d1613460f6529f495",
+      "trendScore": 9.77,
+      "createdAt": "2026-11-22T08:58:51+09:00",
+      "updatedAt": "2026-11-22T08:58:51+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/water01_hh_000193.html",
+      "title": "国土交通省｜報道資料｜国土審議会水資源開発分科会「地下水部会」を設置<br>～地下水採取の実態把握と適正な保全と利用の仕組みのあり方について検討を開始～",
+      "originalTitle": "���y�R�c������J�����ȉ�u�n��������v��ݒu�`�n�����̎�̎��Ԕc���ƓK���ȕۑS�Ɨ��p�̎d�g�݂̂�����ɂ��Č������J�n�`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 国土審議会水資源開発分科会「地下水部会」を設置 ～地下水採取の実態把握と適正な保全と利用の仕組みのあり方について検討を開始～ 国土審議会水資源開発分科会「地下水部会」を設置 ～地下水採取の実態把握と適正な保全と利用の仕組みのあり方について検討を開始～ 令和8年11月20日 貴重な水資源である地下水については、社会変化による水需要変化、気候変動による地下…",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/water01_hh_000193.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/water01_hh_000193.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/water01_hh_000193.html",
+      "publishedAt": "2026-11-20T05:00:00+09:00",
+      "collectedAt": "2026-11-22T08:58:55+09:00",
+      "scrapedAt": "2026-11-22T08:58:55+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "気候変動",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "9ace81584476be4632c2bc1ea98a87e2bc18263b46569e42e2cb5a07aacc27b1",
+      "trendScore": 7.91,
+      "createdAt": "2026-11-22T08:58:55+09:00",
+      "updatedAt": "2026-11-22T08:58:55+09:00"
+    },
+    {
+      "id": "https://www.mlit.go.jp/report/press/mizukokudo03_hh_001373.html",
+      "title": "国土交通省｜報道資料｜気候変動を考慮した長期計画の変更について議論します（後志利別川、山国川）<br>～流域治水の観点も踏まえた河川整備基本方針の見直し～",
+      "originalTitle": "�C��ϓ����l�����������v��̕ύX�ɂ��ċc�_���܂��i��u���ʐ�A�R����j�`���採���̊ϓ_�����܂����͐쐮����{���j�̌������`",
+      "summary": "ホーム > 報道・広報 > 報道発表資料 > 気候変動を考慮した長期計画の変更について議論します（後志利別川、山国川） ～流域治水の観点も踏まえた河川整備基本方針の見直し～ 気候変動を考慮した長期計画の変更について議論します（後志利別川、山国川） ～流域治水の観点も踏まえた河川整備基本方針の見直し～ 令和8年11月20日 11月25日に、社会資本整備審議会河川分科会河川整備基本方針検討小委員会（第170 回）を開催します。",
+      "summarySource": "extractive",
+      "source": "国土交通省 報道発表",
+      "sourceId": "src-mlit",
+      "url": "https://www.mlit.go.jp/report/press/mizukokudo03_hh_001373.html",
+      "originalUrl": "http://www.mlit.go.jp/report/press/mizukokudo03_hh_001373.html",
+      "finalUrl": "https://www.mlit.go.jp/report/press/mizukokudo03_hh_001373.html",
+      "publishedAt": "2026-11-20T05:00:00+09:00",
+      "collectedAt": "2026-11-22T08:58:55+09:00",
+      "scrapedAt": "2026-11-22T08:58:55+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "気候変動",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "dcdce00f6167788e7d9a5b38d33d99fc3909858aa45e35e9b02c452e391b50bf",
+      "trendScore": 7.91,
+      "createdAt": "2026-11-22T08:58:55+09:00",
+      "updatedAt": "2026-11-22T08:58:55+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000094.000053960.html",
+      "title": "Librus株式会社、インサイトレポート「SCS評価制度で必要となるインシデント対応体制とは？CSIRT構築のポイント」を公開",
+      "originalTitle": "Librus株式会社、インサイトレポート「SCS評価制度で必要となるインシデント対応体制とは？CSIRT構築のポイント」を公開",
+      "summary": "Librus株式会社、インサイトレポート「SCS評価制度で必要となるインシデント対応体制とは？CSIRT構築のポイント」を公開 Librus株式会社 2026年11月20日 14時22分 いいね！数を読み込み中です Librus株式会社（本社：東京都港区、代表取締役：鎌田光一郎、以下「当社」）は、企業経営者や経営戦略/管理に携わるご担当者様に向けて、インサイトレポート『SCS評価制度で必要となるインシデント対応体制とは？",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000094.000053960.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000094.000053960.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000094.000053960.html",
+      "publishedAt": "2026-11-22T08:40:03+09:00",
+      "collectedAt": "2026-11-22T08:58:56+09:00",
+      "scrapedAt": "2026-11-22T08:58:56+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "セキュリティ",
+        "フィンテック"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "6df06dc9c147c52f21fa725ee85a73a699b991001a23ab1c1a4efb799d32b88b",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-22T08:58:56+09:00",
+      "updatedAt": "2026-11-22T08:58:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000062.000149507.html",
+      "title": "日本プロジェクトソリューションズ株式会社 代表取締役社長 伊藤大輔著『プロジェクトマネジメントの基本が面白いほど身につく本』、13回目の重版で累計発行部数24,000部に",
+      "originalTitle": "日本プロジェクトソリューションズ株式会社　代表取締役社長　伊藤大輔著『プロジェクトマネジメントの基本が面白いほど身につく本』、13回目の重版で累計発行部数24,000部に",
+      "summary": "日本プロジェクトソリューションズ株式会社 代表取締役社\u0000\u0000長 伊藤大輔著『プロジェクトマネジメントの基本が面白いほど身につく本』、13回目の重版で累計発行部数24,000部に KADOKAWA刊。初めてプロジェクトを任された人に向け、目標設定から計画・実行までの基本を84のテーマで図解 日本プロジェクトソリューションズ株式会社 ／ JPS 2026年11月20日 07時30分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000062.000149507.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000062.000149507.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000062.000149507.html",
+      "publishedAt": "2026-11-22T08:40:03+09:00",
+      "collectedAt": "2026-11-22T08:58:56+09:00",
+      "scrapedAt": "2026-11-22T08:58:56+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "DX",
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "4f400e357633e74036037b0f9ea1731c6300111b083d43f00c05ff9707cb02f6",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-22T08:58:56+09:00",
+      "updatedAt": "2026-11-22T08:58:56+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000002.000194162.html",
+      "title": "「その商品、WEBで売れるか」を1ヶ月で判定。個人事業主・新商品向けテストマーケティング「アタリドリ by かもめ広告社」提供開始",
+      "originalTitle": "「その商品、WEBで売れるか」を1ヶ月で判定。個人事業主・新商品向けテストマーケティング「アタリドリ by かもめ広告社」提供開始",
+      "summary": "「その商品、WEBで売れるか」を1ヶ月で判定。個人事業主・新商品向けテストマーケ\u0000ティング「アタリドリ by かもめ広告社」提供開始 当たりの切り口が見つかったら、以降の広告費はかもめ広告社が負担。成果報酬で継続できる2段階の新しい仕組み 株式会社かもめ広告社 2026年11月20日 07時30分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000194162.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000002.000194162.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000002.000194162.html",
+      "publishedAt": "2026-11-22T08:40:03+09:00",
+      "collectedAt": "2026-11-22T08:58:56+09:00",
+      "scrapedAt": "2026-11-22T08:58:56+09:00",
+      "lastVerifiedAt": "2026-11-22T08:58:56+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "512c8154d8a4e8a5cd9ff9e63ddb3d1a3a950340f900f38216c399274df023e9",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-22T08:58:56+09:00",
+      "updatedAt": "2026-11-22T08:58:56+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003238",
+      "title": "適切管理で太陽光発電所に「半自然生態系」成立の可能性 東京都立大学がパネル下の植生を調査",
+      "originalTitle": "適切管理で太陽光発電所に「半自然生態系」成立の可能性　東京都立大学がパネル下の植生を調査",
+      "summary": "TOP > 研究成果 > 適切管理で太陽光発電所に「半自然生態系」成立の可能性 東京都立大学がパネル下の植生を調査 2026年11月21日 適切管理で太陽光発電所に「半自然生態系」成立の可能性 東京都立大学がパネル下の植生を調査 大学ジャーナルオンライン編集部 太陽光発電 生物多様性 東京都立大学 東京都立大学大学院の中谷美晴博士後期課程学生らの研究グループは、パシフィコ・エナジー株式会社の協力を…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003238",
+      "originalUrl": "https://univ-journal.jp/1003238/",
+      "finalUrl": "https://univ-journal.jp/1003238",
+      "publishedAt": "2026-11-21T17:00:07+09:00",
+      "collectedAt": "2026-11-22T08:59:01+09:00",
+      "scrapedAt": "2026-11-22T08:59:01+09:00",
+      "lastVerifiedAt": "2026-11-22T08:59:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "57f8087f9556905061be9929fb43d4927cd157b27df687be2776bf5d20b5b9d4",
+      "trendScore": 10.05,
+      "createdAt": "2026-11-22T08:59:01+09:00",
+      "updatedAt": "2026-11-22T08:59:01+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003241",
+      "title": "徒歩圏内の水辺を訪れる高齢者は「うつ」傾向の割合が低い 千葉大学が全国69市町村で検証",
+      "originalTitle": "徒歩圏内の水辺を訪れる高齢者は「うつ」傾向の割合が低い　千葉大学が全国69市町村で検証",
+      "summary": "TOP > 研究成果 > 徒歩圏内の水辺を訪れる高齢者は「うつ」傾向の割合が低い 千葉大学が全国69市町村で検証 2026年11月21日 徒歩圏内の水辺を訪れる高齢者は「うつ」傾向の割合が低い 千葉大学が全国69市町村で検証 大学ジャーナルオンライン編集部 メンタルヘルス 高齢者 千葉大学 千葉大学の松本一希特任研究員と花里真道准教授らの研究チームは、高齢者が自宅から歩いて行ける水辺を実際に訪れる…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003241",
+      "originalUrl": "https://univ-journal.jp/1003241/",
+      "finalUrl": "https://univ-journal.jp/1003241",
+      "publishedAt": "2026-11-21T11:00:21+09:00",
+      "collectedAt": "2026-11-22T08:59:03+09:00",
+      "scrapedAt": "2026-11-22T08:59:03+09:00",
+      "lastVerifiedAt": "2026-11-22T08:59:03+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "84dd1141563d00072399ef682d77572ecb26b2bb22b2a02141c41049b1c05d8d",
+      "trendScore": 9.69,
+      "createdAt": "2026-11-22T08:59:03+09:00",
+      "updatedAt": "2026-11-22T08:59:03+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/965331",
+      "title": "婚活に100万円は｢コスパが悪すぎる｣と家を買った43歳女性､アプリの検索範囲を変えたら《1歳上の公務員》に出会った",
+      "originalTitle": "婚活に100万円は｢コスパが悪すぎる｣と家を買った43歳女性､アプリの検索範囲を変えたら《1歳上の公務員》に出会った | ライフ | 東洋経済オンライン",
+      "summary": "婚活に100万円は｢コスパが悪すぎる｣と家を買った43歳女性､アプリの検索範囲を変えたら《1歳上の公務員》に出会った 7分で読める 公開日時：2026/11/22 08:30 大宮 冬洋 ライター フォロー 結婚は幸せのための選択肢の一つですが､婚活や恋愛には､コストや現実的な悩みもつきものです。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/965331",
+      "originalUrl": "https://toyokeizai.net/articles/-/965331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/965331",
+      "publishedAt": "2026-11-22T08:30:00+09:00",
+      "collectedAt": "2026-11-22T08:59:04+09:00",
+      "scrapedAt": "2026-11-22T08:59:04+09:00",
+      "lastVerifiedAt": "2026-11-22T08:59:04+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "8bc9ff5e727f420a2c95852c55cc440728ac913d7dd820008b3325adac18b67e",
+      "trendScore": 10.97,
+      "createdAt": "2026-11-22T08:59:04+09:00",
+      "updatedAt": "2026-11-22T08:59:04+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/965379",
+      "title": "｢賃貸で10年住めばタダであげます｣――借り手つかない\"坂の上\"物件､格安家賃で子育て世代の生活支援や創業の拠点に",
+      "originalTitle": "｢賃貸で10年住めばタダであげます｣――借り手つかない\"坂の上\"物件､格安家賃で子育て世代の生活支援や創業の拠点に | ライフ | 東洋経済オンライン",
+      "summary": "｢賃貸で10年住めばタダであげます｣――借り手つかない\"坂の上\"物件､格安家賃で子育て世代の生活支援や創業の拠点に 11分で読める 公開日時：2026/11/22 08:00 『SUUMOジャーナル』編集部 ｢10年住んだら家をタダであげます｣長崎で空き家問題や人口減少に挑む新スキーム｢贈与型賃貸｣が話題です。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/965379",
+      "originalUrl": "https://toyokeizai.net/articles/-/965379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/965379",
+      "publishedAt": "2026-11-22T08:00:00+09:00",
+      "collectedAt": "2026-11-22T08:59:05+09:00",
+      "scrapedAt": "2026-11-22T08:59:05+09:00",
+      "lastVerifiedAt": "2026-11-22T08:59:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "51dff1db980c0db4c595324f3bf6fb3ab30492e582d8031d920091dfe1d369b0",
+      "trendScore": 10.94,
+      "createdAt": "2026-11-22T08:59:05+09:00",
+      "updatedAt": "2026-11-22T08:59:05+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/965109",
+      "title": "10年前の貯金はたった6万円…がん闘病中の夫と50代妻が､退職金をはたいて｢築50年超･25㎡｣を現金一括で買った理由",
+      "originalTitle": "10年前の貯金はたった6万円…がん闘病中の夫と50代妻が､退職金をはたいて｢築50年超･25㎡｣を現金一括で買った理由 | ライフ | 東洋経済オンライン",
+      "summary": "10年前の貯金はたった6万円…がん闘病中の夫と50代妻が､退職金をはたいて｢築50年超･25㎡｣を現金一括で買った理由 7分で読める 公開日時：2026/11/22 07:30 大木奈 ハル子 ブロガー・ライター フォロー 人生に想定外はつきもの。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/965109",
+      "originalUrl": "https://toyokeizai.net/articles/-/965109?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/965109",
+      "publishedAt": "2026-11-22T07:30:00+09:00",
+      "collectedAt": "2026-11-22T08:59:05+09:00",
+      "scrapedAt": "2026-11-22T08:59:05+09:00",
+      "lastVerifiedAt": "2026-11-22T08:59:05+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "63cc646d82397ea630077264eaa51663aba79a66ff3753b4631010ab73fa2ec7",
+      "trendScore": 10.91,
+      "createdAt": "2026-11-22T08:59:05+09:00",
+      "updatedAt": "2026-11-22T08:59:05+09:00"
     }
   ],
   "sources": [
@@ -66055,8 +66573,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-21T09:58:16+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:17+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:37+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:38+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66068,8 +66586,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-21T09:58:30+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:30+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:51+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66081,8 +66599,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-21T09:58:31+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:31+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:51+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66107,8 +66625,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-21T09:58:31+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:32+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:52+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66120,8 +66638,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-21T09:58:32+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:32+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:52+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66133,8 +66651,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-21T09:58:32+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:33+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:52+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:52+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66146,8 +66664,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-21T09:58:33+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:34+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:52+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66159,8 +66677,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-21T09:58:35+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:36+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:54+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:54+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66263,8 +66781,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-21T09:58:37+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:38+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:55+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66302,8 +66820,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-21T09:58:38+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:38+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:56+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:56+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66315,8 +66833,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-21T09:58:38+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:39+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:56+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:57+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66328,8 +66846,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-21T09:58:39+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:40+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:57+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66341,8 +66859,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-21T09:58:40+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:41+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:58+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66354,8 +66872,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-21T09:58:41+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:42+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:58+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66367,8 +66885,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-21T09:58:42+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:43+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:58+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66393,8 +66911,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-21T09:58:43+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:43+09:00",
+      "lastFetchedAt": "2026-11-22T08:58:59+09:00",
+      "lastSuccessAt": "2026-11-22T08:58:59+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66458,8 +66976,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-21T09:58:44+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:46+09:00",
+      "lastFetchedAt": "2026-11-22T08:59:00+09:00",
+      "lastSuccessAt": "2026-11-22T08:59:01+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66471,8 +66989,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-21T09:58:49+09:00",
-      "lastSuccessAt": "2026-11-21T09:58:50+09:00",
+      "lastFetchedAt": "2026-11-22T08:59:03+09:00",
+      "lastSuccessAt": "2026-11-22T08:59:04+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66685,6 +67203,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261122-0858",
+      "scheduledAt": "2026-11-22T08:58:37+09:00",
+      "startedAt": "2026-11-22T08:58:37+09:00",
+      "finishedAt": "2026-11-22T08:59:05+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 18,
+      "sourcesFailed": 0,
+      "candidatesFound": 59,
+      "duplicatesRemoved": 8,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261121-0958",
       "scheduledAt": "2026-11-21T09:58:16+09:00",
@@ -68658,27 +69195,12 @@
       "invalidUrlsRemoved": 1,
       "articlesPublished": 15,
       "errors": []
-    },
-    {
-      "jobId": "collection-20260814-0526",
-      "scheduledAt": "2026-08-14T05:26:21+09:00",
-      "startedAt": "2026-08-14T05:26:21+09:00",
-      "finishedAt": "2026-08-14T05:27:50+09:00",
-      "status": "success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 18,
-      "sourcesFailed": 0,
-      "candidatesFound": 59,
-      "duplicatesRemoved": 6,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 15,
-      "errors": []
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-11-21T09:58:52+09:00",
-    "lastSuccessAt": "2026-11-21T09:58:52+09:00",
-    "nextScheduledAt": "2026-11-22T05:00:00+09:00",
+    "lastCollectionAt": "2026-11-22T08:59:05+09:00",
+    "lastSuccessAt": "2026-11-22T08:59:05+09:00",
+    "nextScheduledAt": "2026-11-23T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
