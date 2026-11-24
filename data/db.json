@@ -66037,12 +66037,12 @@
         "IPO"
       ],
       "thumbnailUrl": null,
-      "published": true,
+      "published": false,
       "reliabilityScore": 0.8,
       "contentHash": "979d4ae442c2eaefb7812e32562a7f350b2e4a8fbacc48b62900665deaef3237",
       "trendScore": 10.94,
       "createdAt": "2026-11-21T09:58:52+09:00",
-      "updatedAt": "2026-11-23T12:55:54+09:00"
+      "updatedAt": "2026-11-24T04:28:01.169Z"
     },
     {
       "id": "https://qiita.com/joinclass/items/080927f3b092b9de46e6",
@@ -66939,6 +66939,523 @@
       "trendScore": 10.88,
       "createdAt": "2026-11-23T09:30:27+09:00",
       "updatedAt": "2026-11-23T09:30:27+09:00"
+    },
+    {
+      "id": "https://qiita.com/hiroomi0910/items/bf0c3f6f560fe1708991",
+      "title": "Instagramの保存投稿1,900件をAIエージェントに整理させた記録 ― 50件ずつのバッチ処理と、APIページングの取りこぼし回収 - Qiita",
+      "originalTitle": "Instagramの保存投稿1,900件をAIエージェントに整理させた記録 ― 50件ずつのバッチ処理と、APIページングの取りこぼし回収",
+      "summary": "@ hiroomi0910 Joining Advent Calendar Instagramの保存投稿1,900件をAIエージェントに整理させた記録 ― 50件ずつのバッチ処理と、APIページングの取りこぼし回収 Instagram AI Muse 自動化 Python 0 Posted at 2026-11-24 はじめに Instagramの「保存」が1,900件を超えてカオスになっていた。",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/hiroomi0910/items/bf0c3f6f560fe1708991",
+      "originalUrl": "https://qiita.com/hiroomi0910/items/bf0c3f6f560fe1708991",
+      "finalUrl": "https://qiita.com/hiroomi0910/items/bf0c3f6f560fe1708991",
+      "publishedAt": "2026-11-24T13:22:11+09:00",
+      "collectedAt": "2026-11-24T13:27:27+09:00",
+      "scrapedAt": "2026-11-24T13:27:27+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:27+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "a6c36cf940f6b5be561e5538794c6667de309b8d7e4cd59075bc0e1157708c3c",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-24T13:27:27+09:00",
+      "updatedAt": "2026-11-24T13:27:27+09:00"
+    },
+    {
+      "id": "https://qiita.com/Waipe/items/15401a177ea02ba3f0d2",
+      "title": "# 【第071回】2chなのにMarkdownテーブル！？スペック比較表やスコア表が綺麗に描画できる表組み記法 - Qiita",
+      "originalTitle": "# 【第071回】2chなのにMarkdownテーブル！？スペック比較表やスコア表が綺麗に描画できる表組み記法",
+      "summary": "@ Waipe ( わいぺ ) # 【第071回】2chなのにMarkdownテーブル！スペック比較表やスコア表が綺麗に描画できる表組み記法 掲示板 スレッドフロート AI バイブコーディング チャットボット 0 Posted at 2026-11-24 こんにちは！",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/Waipe/items/15401a177ea02ba3f0d2",
+      "originalUrl": "https://qiita.com/Waipe/items/15401a177ea02ba3f0d2",
+      "finalUrl": "https://qiita.com/Waipe/items/15401a177ea02ba3f0d2",
+      "publishedAt": "2026-11-24T13:16:03+09:00",
+      "collectedAt": "2026-11-24T13:27:32+09:00",
+      "scrapedAt": "2026-11-24T13:27:32+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:32+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "6f9fefe1c152b71445a1695c4bde26256af1616cb989959c11af49cafb0cadd0",
+      "trendScore": 10.99,
+      "createdAt": "2026-11-24T13:27:32+09:00",
+      "updatedAt": "2026-11-24T13:27:32+09:00"
+    },
+    {
+      "id": "https://qiita.com/RYOITABASHI/items/1211f0027d340ac6fa0b",
+      "title": "他アプリ操作をレシピ化したapp.actの実装と撤去 - Qiita",
+      "originalTitle": "他アプリ操作をレシピ化したapp.actの実装と撤去",
+      "summary": "@ RYOITABASHI 他アプリ操作をレシピ化したapp.actの実装と撤去 Android AI Shelly 開発記 0 Posted at 2026-11-24 この記事は Zenn で先に公開しています: https://zenn.",
+      "summarySource": "extractive",
+      "source": "Qiita (AI タグ)",
+      "sourceId": "src-qiita-ai",
+      "url": "https://qiita.com/RYOITABASHI/items/1211f0027d340ac6fa0b",
+      "originalUrl": "https://qiita.com/RYOITABASHI/items/1211f0027d340ac6fa0b",
+      "finalUrl": "https://qiita.com/RYOITABASHI/items/1211f0027d340ac6fa0b",
+      "publishedAt": "2026-11-24T13:10:12+09:00",
+      "collectedAt": "2026-11-24T13:27:38+09:00",
+      "scrapedAt": "2026-11-24T13:27:38+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:38+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "c0bf2bc5f306550f589d10bacc6429a27e49e68f543938f4196848a60ad70195",
+      "trendScore": 10.98,
+      "createdAt": "2026-11-24T13:27:38+09:00",
+      "updatedAt": "2026-11-24T13:27:38+09:00"
+    },
+    {
+      "id": "https://qiita.com/IT-love-pug/items/c06ed73d0c3919ed9bf7",
+      "title": "AWS AIプラクティショナー試験対策⑬：責任あるAI（公平性・バイアス・説明可能性） - Qiita",
+      "originalTitle": "AWS AIプラクティショナー試験対策⑬：責任あるAI（公平性・バイアス・説明可能性）",
+      "summary": "@ IT-love-pug ( K ) AWS AIプラクティショナー試験対策⑬：責任あるAI（公平性・バイアス・説明可能性） AWS AI 機械学習 生成AI 資格 0 Posted at 2026-11-24 AWS AIプラクティショナー試験対策⑬：責任あるAI（公平性・バイアス・説明可能性） AWS認定AIプラクティショナー（AIF-C01）の**分野4「責任あるAIに関するガイドライン」 は配点14%で、タスク4.",
+      "summarySource": "extractive",
+      "source": "Qiita (機械学習 タグ)",
+      "sourceId": "src-qiita-ml",
+      "url": "https://qiita.com/IT-love-pug/items/c06ed73d0c3919ed9bf7",
+      "originalUrl": "https://qiita.com/IT-love-pug/items/c06ed73d0c3919ed9bf7",
+      "finalUrl": "https://qiita.com/IT-love-pug/items/c06ed73d0c3919ed9bf7",
+      "publishedAt": "2026-11-24T12:19:24+09:00",
+      "collectedAt": "2026-11-24T13:27:39+09:00",
+      "scrapedAt": "2026-11-24T13:27:39+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:39+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "AI",
+      "categories": [
+        "AI"
+      ],
+      "tags": [
+        "生成AI",
+        "セキュリティ",
+        "プライバシー"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "d7e17cfc3c0543f89a1cfab545f44bad99fed982818f7b022db54a231284e0eb",
+      "trendScore": 10.93,
+      "createdAt": "2026-11-24T13:27:39+09:00",
+      "updatedAt": "2026-11-24T13:27:39+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/speech/minister-261124-01",
+      "title": "古川大臣記者会見（令和8年11月24日）｜デジタル庁",
+      "originalTitle": "古川大臣記者会見（令和8年11月24日）動画を掲載しました",
+      "summary": "古川大臣記者会見（令和8年11月24日） 令和8年11月24日、古川デジタル大臣が記者会見を行いました。会見要旨は後日、掲載いたします。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/speech/minister-261124-01",
+      "originalUrl": "https://www.digital.go.jp/speech/minister-261124-01",
+      "finalUrl": "https://www.digital.go.jp/speech/minister-261124-01",
+      "publishedAt": "2026-11-24T12:07:47+09:00",
+      "collectedAt": "2026-11-24T13:27:40+09:00",
+      "scrapedAt": "2026-11-24T13:27:40+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:40+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "8240a676111f33d20b402439e68fb09aa787b500456b20f8bc5c9fd0f428be5c",
+      "trendScore": 10.92,
+      "createdAt": "2026-11-24T13:27:40+09:00",
+      "updatedAt": "2026-11-24T13:27:40+09:00"
+    },
+    {
+      "id": "https://www.digital.go.jp/councils/ai-digital-expert",
+      "title": "AI・デジタル改革推進専門調査会｜デジタル庁",
+      "originalTitle": "AI・デジタル改革推進専門調査会の開催情報と資料を掲載しました",
+      "summary": "AI・デジタル改革推進専門調査会 AI技術の急速な進展を踏まえ、AI・デジタルの徹底活用による社会変革（AX／DX）を推進する観点から、AIを前提とする規制・制度の整備を始めとした政府横断的な諸課題に係る専門的な事項の調査のため、AI・デジタル改革推進会議の下に、AI・デジタル改革推進専門調査会（以下「専門調査会」という。",
+      "summarySource": "extractive",
+      "source": "デジタル庁 新着情報",
+      "sourceId": "src-digitalgov",
+      "url": "https://www.digital.go.jp/councils/ai-digital-expert",
+      "originalUrl": "https://www.digital.go.jp/councils/ai-digital-expert",
+      "finalUrl": "https://www.digital.go.jp/councils/ai-digital-expert",
+      "publishedAt": "2026-11-24T12:00:00+09:00",
+      "collectedAt": "2026-11-24T13:27:40+09:00",
+      "scrapedAt": "2026-11-24T13:27:40+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:40+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "DX",
+        "規制"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 1,
+      "contentHash": "d130a53613264e3234ec9a6639decd4708ff44fda454c43f99d9078b9ece1436",
+      "trendScore": 10.91,
+      "createdAt": "2026-11-24T13:27:40+09:00",
+      "updatedAt": "2026-11-24T13:27:40+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000163.000100192.html",
+      "title": "International Fellow Awardの受賞",
+      "originalTitle": "International Fellow Awardの受賞",
+      "summary": "International Fellow Awardの受賞 住友重機械工業株式会社 2026年11月24日 10時01分 いいね！数を読み込み中です 住友重機械工業株式会社（本社：東京都品川区、代表取締役社長：渡部敏朗、以下「当社」）エネルギー・環境SBUの田岡 智浩が、「The 18th International Conference on Electrostatic Precipitatio…",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000163.000100192.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000163.000100192.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000163.000100192.html",
+      "publishedAt": "2026-11-24T12:15:31+09:00",
+      "collectedAt": "2026-11-24T13:27:43+09:00",
+      "scrapedAt": "2026-11-24T13:27:43+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "半導体",
+        "研究開発"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "f3db6426689672594ec1285f69df86381dbe5ec1d0fb5b2c7e06b5b70aa90939",
+      "trendScore": 10.93,
+      "createdAt": "2026-11-24T13:27:43+09:00",
+      "updatedAt": "2026-11-24T13:27:43+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000109.000014426.html",
+      "title": "ヨコオ、AGTS農業展 in 群馬に初出展",
+      "originalTitle": "ヨコオ、AGTS農業展 in 群馬に初出展",
+      "summary": "ヨコオ、AGTS農業展 in 群馬に初出展 ヨコ\u0000オ、AGTS農業展 in 群馬に初出展～ 地元・群馬で、農業現場の声を生かしたソリューション開発へ ～ 株式会社ヨコオ 2026年11月24日 10時00分 いいね！",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000109.000014426.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000109.000014426.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000109.000014426.html",
+      "publishedAt": "2026-11-24T12:15:31+09:00",
+      "collectedAt": "2026-11-24T13:27:43+09:00",
+      "scrapedAt": "2026-11-24T13:27:43+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "DX",
+        "制度"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "7e19bace52fe64d682a5e3468d7eb10888314e44654ada90b311682ebc623474",
+      "trendScore": 10.93,
+      "createdAt": "2026-11-24T13:27:43+09:00",
+      "updatedAt": "2026-11-24T13:27:43+09:00"
+    },
+    {
+      "id": "https://prtimes.jp/main/html/rd/p/000000001.000195212.html",
+      "title": "台湾旅行博「出展すべきか」を判断できる無料説明会を12月11日・東京で開催 台北の旅行会社1,700社を束ねる組合 理事長が来日",
+      "originalTitle": "台湾旅行博「出展すべきか」を判断できる無料説明会を12月11日・東京で開催　台北の旅行会社1,700社を束ねる組合 理事長が来日",
+      "summary": "台湾旅行博「出展すべきか」を判断できる無料説明会を12月11日・東京で開催 台北\u0000の旅行会社1,700社を束ねる組合 理事長が来日 株式会社エイエイピーは、2026年12月11日（金）、東京・神田で「台北 春の旅博 出展説明会」を開催。",
+      "summarySource": "extractive",
+      "source": "PR TIMES",
+      "sourceId": "src-prtimes",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000195212.html",
+      "originalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000195212.html",
+      "finalUrl": "https://prtimes.jp/main/html/rd/p/000000001.000195212.html",
+      "publishedAt": "2026-11-24T12:15:31+09:00",
+      "collectedAt": "2026-11-24T13:27:43+09:00",
+      "scrapedAt": "2026-11-24T13:27:43+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:43+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.6,
+      "contentHash": "038bbf61d0d254d47a1741f69ef7b2daf1ab918930030cd73c49d87d342d5277",
+      "trendScore": 10.93,
+      "createdAt": "2026-11-24T13:27:43+09:00",
+      "updatedAt": "2026-11-24T13:27:43+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003303",
+      "title": "昭和女子大学 ミドル～シニア向けセミナー「人生100年時代 資産寿命を延ばす知恵」12/2開催 参加費無料 ハイフレックス形式",
+      "originalTitle": "昭和女子大学　ミドル～シニア向けセミナー「人生100年時代 資産寿命を延ばす知恵」12/2開催　参加費無料　ハイフレックス形式",
+      "summary": "TOP > 大学院 > 昭和女子大学 ミドル～シニア向けセミナー「人生100年時代 資産寿命を延ばす知恵」12/2開催 参加費無料 ハイフレックス形式 2026年11月24日 昭和女子大学 ミドル～シニア向けセミナー「人生100年時代 資産寿命を延ばす知恵」12/2開催 参加費無料 ハイフレックス形式 大学ジャーナルオンライン編集部 セミナー 昭和女子大学 2026年12月2日（水）、昭和女子大学…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003303",
+      "originalUrl": "https://univ-journal.jp/1003303/",
+      "finalUrl": "https://univ-journal.jp/1003303",
+      "publishedAt": "2026-11-24T07:00:41+09:00",
+      "collectedAt": "2026-11-24T13:27:51+09:00",
+      "scrapedAt": "2026-11-24T13:27:51+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:51+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "ffd061af820879a764a396a5e50e7d46f277c22077b4b72e62c5cdfae3536b26",
+      "trendScore": 10.62,
+      "createdAt": "2026-11-24T13:27:51+09:00",
+      "updatedAt": "2026-11-24T13:27:51+09:00"
+    },
+    {
+      "id": "https://univ-journal.jp/1003354",
+      "title": "障害を持つ生徒や市民が海の生き物調査の担い手に 神戸大学が環境教育プログラム設計",
+      "originalTitle": "障害を持つ生徒や市民が海の生き物調査の担い手に　神戸大学が環境教育プログラム設計",
+      "summary": "TOP > 研究成果 > 障害を持つ生徒や市民が海の生き物調査の担い手に 神戸大学が環境教育プログラム設計 2026年11月23日 障害を持つ生徒や市民が海の生き物調査の担い手に 神戸大学が環境教育プログラム設計 大学ジャーナルオンライン編集部 環境DNA分析 神戸大学 神戸大学大学院人間発達環境学研究科の佐賀達矢助教、木谷亮太大学院生らは、水中に漂う生物のDNA（環境DNA）を利用した生き物調査…",
+      "summarySource": "extractive",
+      "source": "大学ジャーナルオンライン",
+      "sourceId": "src-univ-journal",
+      "url": "https://univ-journal.jp/1003354",
+      "originalUrl": "https://univ-journal.jp/1003354/",
+      "finalUrl": "https://univ-journal.jp/1003354",
+      "publishedAt": "2026-11-23T17:00:08+09:00",
+      "collectedAt": "2026-11-24T13:27:52+09:00",
+      "scrapedAt": "2026-11-24T13:27:52+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:52+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "学術",
+      "categories": [
+        "学術"
+      ],
+      "tags": [
+        "学術"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.75,
+      "contentHash": "beba5171a7314c8493524ca07551339b7a8b6d35026120d56aad265518ad935b",
+      "trendScore": 9.78,
+      "createdAt": "2026-11-24T13:27:52+09:00",
+      "updatedAt": "2026-11-24T13:27:52+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/965661?display=b",
+      "title": "〈株価急騰〉フアン氏がCEOに電撃復帰､わずか11日間の不在で明らかになった｢エヌビディア経済圏｣の危うさ",
+      "originalTitle": "〈株価急騰〉フアン氏がCEOに電撃復帰､わずか11日間の不在で明らかになった｢エヌビディア経済圏｣の危うさ | ビジネス | 東洋経済オンライン",
+      "summary": "ビジネス #エヌビディア ショック 〈株価急騰〉フアン氏がCEOに電撃復帰､わずか11日間の不在で明らかになった｢エヌビディア経済圏｣の危うさ 5分で読める 公開日時：2026/11/24 11:15 有料会員限定 一連のスキャンダルで辞任してからわずか11日間での電撃復帰となった（写真：編集部撮影） 石阪 友貴 東洋経済 記者 フォロー 1 /2 PAGES INDEX 辞任から復帰までの経緯 …",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/965661?display=b",
+      "originalUrl": "https://toyokeizai.net/articles/-/965661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/965661?display=b",
+      "publishedAt": "2026-11-24T11:15:00+09:00",
+      "collectedAt": "2026-11-24T13:27:55+09:00",
+      "scrapedAt": "2026-11-24T13:27:55+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "redirected",
+      "validationError": null,
+      "category": "制度",
+      "categories": [
+        "制度"
+      ],
+      "tags": [
+        "半導体",
+        "ヘルスケア"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "50a8155ac2497c0ad7767175180517eedf4f47603bf708190e6ba177cc64f685",
+      "trendScore": 10.87,
+      "createdAt": "2026-11-24T13:27:55+09:00",
+      "updatedAt": "2026-11-24T13:27:55+09:00"
+    },
+    {
+      "id": "https://toyokeizai.net/articles/-/963771",
+      "title": "｢一人が気楽｣でも孤立は危険――医師･鎌田實が警鐘を鳴らす《健康長寿を遠ざける意外なリスク》",
+      "originalTitle": "｢一人が気楽｣でも孤立は危険――医師･鎌田實が警鐘を鳴らす《健康長寿を遠ざける意外なリスク》 | ライフ | 東洋経済オンライン",
+      "summary": "｢一人が気楽｣でも孤立は危険――医師･鎌田實が警鐘を鳴らす《健康長寿を遠ざける意外なリスク》 6分で読める 公開日時：2026/11/24 09:00 鎌田 實 医者・作家 フォロー ｢一人の時間｣は大切ですが､社会から孤立することは心身に悪影響を及ぼす危険があります。",
+      "summarySource": "extractive",
+      "source": "東洋経済オンライン",
+      "sourceId": "src-toyokeizai",
+      "url": "https://toyokeizai.net/articles/-/963771",
+      "originalUrl": "https://toyokeizai.net/articles/-/963771?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "finalUrl": "https://toyokeizai.net/articles/-/963771",
+      "publishedAt": "2026-11-24T09:00:00+09:00",
+      "collectedAt": "2026-11-24T13:27:55+09:00",
+      "scrapedAt": "2026-11-24T13:27:55+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:55+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "新事業"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "b2b861b1b1f42157d6bb149fbed50be54beca3f65c59e21aa029b2bbad313aaf",
+      "trendScore": 10.73,
+      "createdAt": "2026-11-24T13:27:55+09:00",
+      "updatedAt": "2026-11-24T13:27:55+09:00"
+    },
+    {
+      "id": "https://diamond.jp/articles/-/403800",
+      "title": "新型エルグランド、アルファードより高くても売れ行き好調な理由",
+      "originalTitle": "新型エルグランドはアルファードより高くても売れ行き好調、開発者が答えた“価格差”の理由 - フェルディナント・ヤマグチの走りながら考える",
+      "summary": "「残クレアルファード」なる言葉が生まれるほど売れている、そして“特定”のイメージまで背負うクルマになった、トヨタ・アルファード。日産の新型エルグランドは、これまでアルファードやヴェルファイアに乗ってきたユーザーだけでなく、こうしたイメージを好まない層も取り込もうとしている。",
+      "summarySource": "extractive",
+      "source": "ダイヤモンド・オンライン",
+      "sourceId": "src-diamond",
+      "url": "https://diamond.jp/articles/-/403800",
+      "originalUrl": "https://diamond.jp/articles/-/403800",
+      "finalUrl": "https://diamond.jp/articles/-/403800",
+      "publishedAt": "2026-11-24T08:05:00+09:00",
+      "collectedAt": "2026-11-24T13:27:59+09:00",
+      "scrapedAt": "2026-11-24T13:27:59+09:00",
+      "lastVerifiedAt": "2026-11-24T13:27:59+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "社会×データ",
+      "categories": [
+        "社会×データ"
+      ],
+      "tags": [
+        "社会×データ"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.8,
+      "contentHash": "dfdd0674193621e9ef6cfd064ee49df7869f8d17a6f81f15ed77a3f09b65cbb2",
+      "trendScore": 10.68,
+      "createdAt": "2026-11-24T13:27:59+09:00",
+      "updatedAt": "2026-11-24T13:27:59+09:00"
+    },
+    {
+      "id": "https://business.nikkei.com/atcl/gen/19/00685/112300089",
+      "title": "NVIDIA、ファンCEO電撃復帰も立場は不安定 「後継者選び」の猶予は",
+      "originalTitle": "NVIDIA、ファンCEO電撃復帰も立場は不安定 　「後継者選び」の猶予は (資本市場サバイバル)",
+      "summary": "米エヌビディアは米国時間11月23日朝、ジェンスン・ファン氏が最高経営責任者（CEO）に復帰すると発表した。同社取締役会は12日、全会一致で辞任を受け入れたが、一転して復帰を決めた。取締役会は米政府高官の意見を踏まえて「ファン氏の復帰は国家安全保障上のリスクをもたらさない」と判断した。",
+      "summarySource": "extractive",
+      "source": "日経ビジネス電子版",
+      "sourceId": "src-nikkei-business",
+      "url": "https://business.nikkei.com/atcl/gen/19/00685/112300089",
+      "originalUrl": "https://business.nikkei.com/atcl/gen/19/00685/112300089/",
+      "finalUrl": "https://business.nikkei.com/atcl/gen/19/00685/112300089",
+      "publishedAt": "2026-11-24T07:15:00+09:00",
+      "collectedAt": "2026-11-24T13:28:01+09:00",
+      "scrapedAt": "2026-11-24T13:28:01+09:00",
+      "lastVerifiedAt": "2026-11-24T13:28:01+09:00",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "linkStatus": "valid",
+      "validationError": null,
+      "category": "新事業",
+      "categories": [
+        "新事業"
+      ],
+      "tags": [
+        "半導体",
+        "脱炭素"
+      ],
+      "thumbnailUrl": null,
+      "published": true,
+      "reliabilityScore": 0.7,
+      "contentHash": "051627a3b411326fc65612708796d031c8db462ce931d17d4254b714bf3c0b49",
+      "trendScore": 10.63,
+      "createdAt": "2026-11-24T13:28:01+09:00",
+      "updatedAt": "2026-11-24T13:28:01+09:00"
     }
   ],
   "sources": [
@@ -66951,8 +67468,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-23T09:29:58+09:00",
-      "lastSuccessAt": "2026-11-23T09:29:58+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:25+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:26+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66964,8 +67481,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-23T09:30:11+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:11+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:38+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -66977,8 +67494,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-23T09:30:13+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:13+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:39+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67003,8 +67520,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-23T09:30:13+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:14+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:39+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:39+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67016,8 +67533,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-23T09:30:14+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:14+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:39+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67029,8 +67546,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-23T09:30:14+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:15+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:40+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:40+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67042,8 +67559,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-23T09:30:15+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:15+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:40+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:41+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67055,8 +67572,8 @@
       "category": "制度",
       "enabled": true,
       "reliabilityScore": 1,
-      "lastFetchedAt": "2026-11-23T09:30:15+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:16+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:42+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67159,8 +67676,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.6,
-      "lastFetchedAt": "2026-11-23T09:30:16+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:17+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:43+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:43+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67198,8 +67715,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.85,
-      "lastFetchedAt": "2026-11-23T09:30:17+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:18+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:43+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67211,8 +67728,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-23T09:30:18+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:18+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:44+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:44+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67224,8 +67741,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-23T09:30:18+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:20+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:44+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:45+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67237,8 +67754,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-23T09:30:20+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:20+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:45+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67250,8 +67767,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-23T09:30:20+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:20+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:46+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:46+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67263,8 +67780,8 @@
       "category": "AI",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-23T09:30:20+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:21+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:46+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67289,8 +67806,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-23T09:30:21+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:21+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:47+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:47+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67354,8 +67871,8 @@
       "category": "学術",
       "enabled": true,
       "reliabilityScore": 0.75,
-      "lastFetchedAt": "2026-11-23T09:30:23+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:24+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:49+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:51+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67367,8 +67884,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-23T09:30:25+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:25+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:52+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:53+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67380,8 +67897,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.8,
-      "lastFetchedAt": "2026-11-23T09:30:27+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:27+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:57+09:00",
+      "lastSuccessAt": "2026-11-24T13:27:58+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67393,8 +67910,8 @@
       "category": "新事業",
       "enabled": true,
       "reliabilityScore": 0.7,
-      "lastFetchedAt": "2026-11-23T09:30:27+09:00",
-      "lastSuccessAt": "2026-11-23T09:30:28+09:00",
+      "lastFetchedAt": "2026-11-24T13:27:59+09:00",
+      "lastSuccessAt": "2026-11-24T13:28:00+09:00",
       "consecutiveFailures": 0
     },
     {
@@ -67581,6 +68098,25 @@
     }
   ],
   "logs": [
+    {
+      "jobId": "collection-20261124-1327",
+      "scheduledAt": "2026-11-24T13:27:25+09:00",
+      "startedAt": "2026-11-24T13:27:25+09:00",
+      "finishedAt": "2026-11-24T13:28:01+09:00",
+      "status": "success",
+      "sourcesAttempted": 29,
+      "sourcesSucceeded": 20,
+      "sourcesFailed": 0,
+      "candidatesFound": 141,
+      "duplicatesRemoved": 0,
+      "invalidUrlsRemoved": 1,
+      "articlesPublished": 15,
+      "errors": [
+        {
+          "message": "Gemini応答不良のため以降は抽出要約に切替（レート制限の可能性）"
+        }
+      ]
+    },
     {
       "jobId": "collection-20261123-0929",
       "scheduledAt": "2026-11-23T09:29:58+09:00",
@@ -69562,27 +70098,12 @@
           "message": "フィード取得失敗: Status code 404"
         }
       ]
-    },
-    {
-      "jobId": "collection-20260816-0507",
-      "scheduledAt": "2026-08-16T05:07:51+09:00",
-      "startedAt": "2026-08-16T05:07:51+09:00",
-      "finishedAt": "2026-08-16T05:09:22+09:00",
-      "status": "success",
-      "sourcesAttempted": 30,
-      "sourcesSucceeded": 19,
-      "sourcesFailed": 0,
-      "candidatesFound": 77,
-      "duplicatesRemoved": 8,
-      "invalidUrlsRemoved": 1,
-      "articlesPublished": 15,
-      "errors": []
     }
   ],
   "meta": {
-    "lastCollectionAt": "2026-11-23T09:30:32+09:00",
-    "lastSuccessAt": "2026-11-23T09:30:32+09:00",
-    "nextScheduledAt": "2026-11-24T05:00:00+09:00",
+    "lastCollectionAt": "2026-11-24T13:28:01+09:00",
+    "lastSuccessAt": "2026-11-24T13:28:01+09:00",
+    "nextScheduledAt": "2026-11-25T05:00:00+09:00",
     "lastJobStatus": "success"
   },
   "preferences": {
